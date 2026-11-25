@@ -1,0 +1,5 @@
+﻿Metric,Mean ± sample SD across five folds
+Recall@10,0.7147 ± 0.0378
+Recall@20,0.8233 ± 0.0291
+MAP@10,0.4485 ± 0.0283
+MAP@20,0.4686 ± 0.0274

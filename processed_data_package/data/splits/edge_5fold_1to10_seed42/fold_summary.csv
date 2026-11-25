@@ -1,0 +1,6 @@
+﻿fold,seed,neg_pos_ratio,train_pos,train_neg,train_total,train_neg_unique_enforced,val_pos,val_neg,val_total,val_neg_unique_enforced,test_pos,test_neg,test_total,test_neg_unique_enforced
+0,42,10.0,1648,16480,18128,False,183,1830,2013,True,458,4580,5038,True
+1,42,10.0,1648,16480,18128,False,183,1830,2013,True,458,4580,5038,True
+2,42,10.0,1648,16480,18128,False,183,1830,2013,True,458,4580,5038,True
+3,42,10.0,1648,16480,18128,False,183,1830,2013,True,458,4580,5038,True
+4,42,10.0,1649,16490,18139,False,183,1830,2013,True,457,4570,5027,True

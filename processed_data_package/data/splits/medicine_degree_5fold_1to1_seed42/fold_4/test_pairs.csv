@@ -1,0 +1,917 @@
+﻿fold,split,sample_order,medicine_id,medicine_name_cn,medicine_degree,degree_bucket,reaction_id,meddra_pt_en,label,pos_edge_row_id
+4,test,0,0,舒肝解郁胶囊,14,head,0,Nausea,1,76
+4,test,1,0,舒肝解郁胶囊,14,head,3,Vomiting,1,77
+4,test,2,0,舒肝解郁胶囊,14,head,11,Dry mouth,1,78
+4,test,3,0,舒肝解郁胶囊,14,head,10,Headache,1,79
+4,test,4,0,舒肝解郁胶囊,14,head,7,Dizziness,1,80
+4,test,5,0,舒肝解郁胶囊,14,head,143,Syncope,1,81
+4,test,6,0,舒肝解郁胶囊,14,head,27,Insomnia,1,82
+4,test,7,0,舒肝解郁胶囊,14,head,16,Decreased appetite,1,83
+4,test,8,0,舒肝解郁胶囊,14,head,2,Diarrhoea,1,84
+4,test,9,0,舒肝解郁胶囊,14,head,19,Constipation,1,85
+4,test,10,0,舒肝解郁胶囊,14,head,75,Vision blurred,1,86
+4,test,11,0,舒肝解郁胶囊,14,head,1,Rash,1,87
+4,test,12,0,舒肝解郁胶囊,14,head,9,Palpitations,1,88
+4,test,13,0,舒肝解郁胶囊,14,head,60,Alanine aminotransferase increased,1,89
+4,test,14,91,冠心苏合丸,12,head,0,Nausea,1,98
+4,test,15,91,冠心苏合丸,12,head,3,Vomiting,1,99
+4,test,16,91,冠心苏合丸,12,head,12,Abdominal distension,1,100
+4,test,17,91,冠心苏合丸,12,head,5,Abdominal pain,1,101
+4,test,18,91,冠心苏合丸,12,head,2,Diarrhoea,1,102
+4,test,19,91,冠心苏合丸,12,head,6,Abdominal discomfort,1,103
+4,test,20,91,冠心苏合丸,12,head,11,Dry mouth,1,104
+4,test,21,91,冠心苏合丸,12,head,7,Dizziness,1,105
+4,test,22,91,冠心苏合丸,12,head,10,Headache,1,106
+4,test,23,91,冠心苏合丸,12,head,1,Rash,1,107
+4,test,24,91,冠心苏合丸,12,head,4,Pruritus,1,108
+4,test,25,91,冠心苏合丸,12,head,9,Palpitations,1,109
+4,test,26,57,痛泻宁颗粒,1,tail,0,Nausea,1,132
+4,test,27,165,双黄连胶囊,14,head,1,Rash,1,186
+4,test,28,165,双黄连胶囊,14,head,4,Pruritus,1,187
+4,test,29,165,双黄连胶囊,14,head,0,Nausea,1,188
+4,test,30,165,双黄连胶囊,14,head,3,Vomiting,1,189
+4,test,31,165,双黄连胶囊,14,head,5,Abdominal pain,1,190
+4,test,32,165,双黄连胶囊,14,head,2,Diarrhoea,1,191
+4,test,33,165,双黄连胶囊,14,head,14,Chest discomfort,1,192
+4,test,34,165,双黄连胶囊,14,head,15,Flushing,1,193
+4,test,35,165,双黄连胶囊,14,head,8,Hypersensitivity,1,194
+4,test,36,165,双黄连胶囊,14,head,7,Dizziness,1,195
+4,test,37,165,双黄连胶囊,14,head,20,Dyspnoea,1,196
+4,test,38,165,双黄连胶囊,14,head,9,Palpitations,1,197
+4,test,39,165,双黄连胶囊,14,head,17,Hepatic function abnormal,1,198
+4,test,40,165,双黄连胶囊,14,head,24,Anaphylactic shock,1,199
+4,test,41,133,小儿化食丸,4,medium,2,Diarrhoea,1,315
+4,test,42,133,小儿化食丸,4,medium,5,Abdominal pain,1,316
+4,test,43,133,小儿化食丸,4,medium,1,Rash,1,317
+4,test,44,133,小儿化食丸,4,medium,4,Pruritus,1,318
+4,test,45,46,黄藤素片,5,medium,6,Abdominal discomfort,1,401
+4,test,46,46,黄藤素片,5,medium,16,Decreased appetite,1,402
+4,test,47,46,黄藤素片,5,medium,19,Constipation,1,403
+4,test,48,46,黄藤素片,5,medium,64,Epidermal necrosis,1,404
+4,test,49,46,黄藤素片,5,medium,40,Drug eruption,1,405
+4,test,50,39,归脾丸,2,tail,25,Dyspepsia,1,406
+4,test,51,39,归脾丸,2,tail,1,Rash,1,407
+4,test,52,4,坤泰胶囊,2,tail,12,Abdominal distension,1,417
+4,test,53,4,坤泰胶囊,2,tail,38,Abdominal pain upper,1,418
+4,test,54,139,消渴丸,5,medium,110,Hypoglycaemia,1,460
+4,test,55,139,消渴丸,5,medium,40,Drug eruption,1,461
+4,test,56,139,消渴丸,5,medium,0,Nausea,1,462
+4,test,57,139,消渴丸,5,medium,3,Vomiting,1,463
+4,test,58,139,消渴丸,5,medium,150,Alopecia,1,464
+4,test,59,44,消痔软膏,1,tail,8,Hypersensitivity,1,465
+4,test,60,119,血府逐瘀口服液,9,medium,0,Nausea,1,483
+4,test,61,119,血府逐瘀口服液,9,medium,3,Vomiting,1,484
+4,test,62,119,血府逐瘀口服液,9,medium,12,Abdominal distension,1,485
+4,test,63,119,血府逐瘀口服液,9,medium,5,Abdominal pain,1,486
+4,test,64,119,血府逐瘀口服液,9,medium,2,Diarrhoea,1,487
+4,test,65,119,血府逐瘀口服液,9,medium,1,Rash,1,488
+4,test,66,119,血府逐瘀口服液,9,medium,4,Pruritus,1,489
+4,test,67,119,血府逐瘀口服液,9,medium,15,Flushing,1,490
+4,test,68,119,血府逐瘀口服液,9,medium,8,Hypersensitivity,1,491
+4,test,69,5,益心酮滴丸,1,tail,6,Abdominal discomfort,1,492
+4,test,70,6,银杏叶口服液,21,head,0,Nausea,1,494
+4,test,71,6,银杏叶口服液,21,head,3,Vomiting,1,495
+4,test,72,6,银杏叶口服液,21,head,11,Dry mouth,1,496
+4,test,73,6,银杏叶口服液,21,head,12,Abdominal distension,1,497
+4,test,74,6,银杏叶口服液,21,head,5,Abdominal pain,1,498
+4,test,75,6,银杏叶口服液,21,head,6,Abdominal discomfort,1,499
+4,test,76,6,银杏叶口服液,21,head,50,Hyperchlorhydria,1,500
+4,test,77,6,银杏叶口服液,21,head,30,Gastrointestinal haemorrhage,1,501
+4,test,78,6,银杏叶口服液,21,head,7,Dizziness,1,502
+4,test,79,6,银杏叶口服液,21,head,10,Headache,1,503
+4,test,80,6,银杏叶口服液,21,head,37,Hypoaesthesia,1,504
+4,test,81,6,银杏叶口服液,21,head,1,Rash,1,505
+4,test,82,6,银杏叶口服液,21,head,4,Pruritus,1,506
+4,test,83,6,银杏叶口服液,21,head,14,Chest discomfort,1,507
+4,test,84,6,银杏叶口服液,21,head,9,Palpitations,1,508
+4,test,85,6,银杏叶口服液,21,head,26,Blood pressure increased,1,509
+4,test,86,6,银杏叶口服液,21,head,33,Blood pressure decreased,1,510
+4,test,87,6,银杏叶口服液,21,head,13,Asthenia,1,511
+4,test,88,6,银杏叶口服液,21,head,8,Hypersensitivity,1,512
+4,test,89,6,银杏叶口服液,21,head,58,Gingival bleeding,1,513
+4,test,90,6,银杏叶口服液,21,head,42,Epistaxis,1,514
+4,test,91,45,通乐颗粒,2,tail,6,Abdominal discomfort,1,607
+4,test,92,45,通乐颗粒,2,tail,156,Anal incontinence,1,608
+4,test,93,187,复方青黛丸,13,head,2,Diarrhoea,1,648
+4,test,94,187,复方青黛丸,13,head,5,Abdominal pain,1,649
+4,test,95,187,复方青黛丸,13,head,0,Nausea,1,650
+4,test,96,187,复方青黛丸,13,head,3,Vomiting,1,651
+4,test,97,187,复方青黛丸,13,head,109,Increased appetite,1,652
+4,test,98,187,复方青黛丸,13,head,114,Drug-induced liver injury,1,653
+4,test,99,187,复方青黛丸,13,head,30,Gastrointestinal haemorrhage,1,654
+4,test,100,187,复方青黛丸,13,head,1,Rash,1,655
+4,test,101,187,复方青黛丸,13,head,4,Pruritus,1,656
+4,test,102,187,复方青黛丸,13,head,72,Dermatitis exfoliative,1,657
+4,test,103,187,复方青黛丸,13,head,71,White blood cell count decreased,1,658
+4,test,104,187,复方青黛丸,13,head,7,Dizziness,1,659
+4,test,105,187,复方青黛丸,13,head,10,Headache,1,660
+4,test,106,219,安神补脑片,15,head,0,Nausea,1,746
+4,test,107,219,安神补脑片,15,head,3,Vomiting,1,747
+4,test,108,219,安神补脑片,15,head,6,Abdominal discomfort,1,748
+4,test,109,219,安神补脑片,15,head,11,Dry mouth,1,749
+4,test,110,219,安神补脑片,15,head,5,Abdominal pain,1,750
+4,test,111,219,安神补脑片,15,head,12,Abdominal distension,1,751
+4,test,112,219,安神补脑片,15,head,2,Diarrhoea,1,752
+4,test,113,219,安神补脑片,15,head,19,Constipation,1,753
+4,test,114,219,安神补脑片,15,head,10,Headache,1,754
+4,test,115,219,安神补脑片,15,head,21,Somnolence,1,755
+4,test,116,219,安神补脑片,15,head,1,Rash,1,756
+4,test,117,219,安神补脑片,15,head,4,Pruritus,1,757
+4,test,118,219,安神补脑片,15,head,9,Palpitations,1,758
+4,test,119,219,安神补脑片,15,head,8,Hypersensitivity,1,759
+4,test,120,219,安神补脑片,15,head,17,Hepatic function abnormal,1,760
+4,test,121,140,培元通脑胶囊,3,tail,0,Nausea,1,761
+4,test,122,140,培元通脑胶囊,3,tail,21,Somnolence,1,762
+4,test,123,140,培元通脑胶囊,3,tail,13,Asthenia,1,763
+4,test,124,127,健脾生血颗粒,8,medium,108,Tooth discolouration,1,772
+4,test,125,127,健脾生血颗粒,8,medium,48,Melaena,1,773
+4,test,126,127,健脾生血颗粒,8,medium,29,Pain,1,774
+4,test,127,127,健脾生血颗粒,8,medium,19,Constipation,1,775
+4,test,128,127,健脾生血颗粒,8,medium,16,Decreased appetite,1,776
+4,test,129,127,健脾生血颗粒,8,medium,0,Nausea,1,777
+4,test,130,127,健脾生血颗粒,8,medium,3,Vomiting,1,778
+4,test,131,127,健脾生血颗粒,8,medium,2,Diarrhoea,1,779
+4,test,132,125,归脾颗粒,2,tail,25,Dyspepsia,1,870
+4,test,133,125,归脾颗粒,2,tail,1,Rash,1,871
+4,test,134,146,小儿热速清糖浆,6,medium,0,Nausea,1,930
+4,test,135,146,小儿热速清糖浆,6,medium,3,Vomiting,1,931
+4,test,136,146,小儿热速清糖浆,6,medium,5,Abdominal pain,1,932
+4,test,137,146,小儿热速清糖浆,6,medium,2,Diarrhoea,1,933
+4,test,138,146,小儿热速清糖浆,6,medium,4,Pruritus,1,934
+4,test,139,146,小儿热速清糖浆,6,medium,1,Rash,1,935
+4,test,140,102,肾康宁片,2,tail,11,Dry mouth,1,936
+4,test,141,102,肾康宁片,2,tail,69,Arrhythmia,1,937
+4,test,142,190,脑心通胶囊,16,head,0,Nausea,1,945
+4,test,143,190,脑心通胶囊,16,head,3,Vomiting,1,946
+4,test,144,190,脑心通胶囊,16,head,12,Abdominal distension,1,947
+4,test,145,190,脑心通胶囊,16,head,5,Abdominal pain,1,948
+4,test,146,190,脑心通胶囊,16,head,2,Diarrhoea,1,949
+4,test,147,190,脑心通胶囊,16,head,6,Abdominal discomfort,1,950
+4,test,148,190,脑心通胶囊,16,head,19,Constipation,1,951
+4,test,149,190,脑心通胶囊,16,head,11,Dry mouth,1,952
+4,test,150,190,脑心通胶囊,16,head,7,Dizziness,1,953
+4,test,151,190,脑心通胶囊,16,head,10,Headache,1,954
+4,test,152,190,脑心通胶囊,16,head,1,Rash,1,955
+4,test,153,190,脑心通胶囊,16,head,4,Pruritus,1,956
+4,test,154,190,脑心通胶囊,16,head,9,Palpitations,1,957
+4,test,155,190,脑心通胶囊,16,head,20,Dyspnoea,1,958
+4,test,156,190,脑心通胶囊,16,head,15,Flushing,1,959
+4,test,157,190,脑心通胶囊,16,head,8,Hypersensitivity,1,960
+4,test,158,16,风湿骨痛片,33,head,0,Nausea,1,1057
+4,test,159,16,风湿骨痛片,33,head,3,Vomiting,1,1058
+4,test,160,16,风湿骨痛片,33,head,11,Dry mouth,1,1059
+4,test,161,16,风湿骨痛片,33,head,31,Dysgeusia,1,1060
+4,test,162,16,风湿骨痛片,33,head,5,Abdominal pain,1,1061
+4,test,163,16,风湿骨痛片,33,head,2,Diarrhoea,1,1062
+4,test,164,16,风湿骨痛片,33,head,12,Abdominal distension,1,1063
+4,test,165,16,风湿骨痛片,33,head,6,Abdominal discomfort,1,1064
+4,test,166,16,风湿骨痛片,33,head,25,Dyspepsia,1,1065
+4,test,167,16,风湿骨痛片,33,head,32,Eructation,1,1066
+4,test,168,16,风湿骨痛片,33,head,16,Decreased appetite,1,1067
+4,test,169,16,风湿骨痛片,33,head,30,Gastrointestinal haemorrhage,1,1068
+4,test,170,16,风湿骨痛片,33,head,4,Pruritus,1,1069
+4,test,171,16,风湿骨痛片,33,head,1,Rash,1,1070
+4,test,172,16,风湿骨痛片,33,head,22,Erythema,1,1071
+4,test,173,16,风湿骨痛片,33,head,23,Urticaria,1,1072
+4,test,174,16,风湿骨痛片,33,head,28,Hyperhidrosis,1,1073
+4,test,175,16,风湿骨痛片,33,head,39,Rash maculo-papular,1,1074
+4,test,176,16,风湿骨痛片,33,head,83,Skin swelling,1,1075
+4,test,177,16,风湿骨痛片,33,head,7,Dizziness,1,1076
+4,test,178,16,风湿骨痛片,33,head,10,Headache,1,1077
+4,test,179,16,风湿骨痛片,33,head,36,Hypoaesthesia oral,1,1078
+4,test,180,16,风湿骨痛片,33,head,9,Palpitations,1,1079
+4,test,181,16,风湿骨痛片,33,head,14,Chest discomfort,1,1080
+4,test,182,16,风湿骨痛片,33,head,20,Dyspnoea,1,1081
+4,test,183,16,风湿骨痛片,33,head,106,Hypertension,1,1082
+4,test,184,16,风湿骨痛片,33,head,27,Insomnia,1,1083
+4,test,185,16,风湿骨痛片,33,head,47,Dysphoria,1,1084
+4,test,186,16,风湿骨痛片,33,head,13,Asthenia,1,1085
+4,test,187,16,风湿骨痛片,33,head,18,Pyrexia,1,1086
+4,test,188,16,风湿骨痛片,33,head,15,Flushing,1,1087
+4,test,189,16,风湿骨痛片,33,head,34,Oedema,1,1088
+4,test,190,16,风湿骨痛片,33,head,8,Hypersensitivity,1,1089
+4,test,191,99,天舒片,3,tail,6,Abdominal discomfort,1,1171
+4,test,192,99,天舒片,3,tail,46,Head discomfort,1,1172
+4,test,193,99,天舒片,3,tail,82,Heavy menstrual bleeding,1,1173
+4,test,194,55,补肺活血胶囊,1,tail,11,Dry mouth,1,1174
+4,test,195,209,藿香正气滴丸,5,medium,0,Nausea,1,1220
+4,test,196,209,藿香正气滴丸,5,medium,3,Vomiting,1,1221
+4,test,197,209,藿香正气滴丸,5,medium,1,Rash,1,1222
+4,test,198,209,藿香正气滴丸,5,medium,4,Pruritus,1,1223
+4,test,199,209,藿香正气滴丸,5,medium,7,Dizziness,1,1224
+4,test,200,22,益肾化湿颗粒,2,tail,11,Dry mouth,1,1226
+4,test,201,22,益肾化湿颗粒,2,tail,31,Dysgeusia,1,1227
+4,test,202,230,三金胶囊,12,head,0,Nausea,1,1256
+4,test,203,230,三金胶囊,12,head,3,Vomiting,1,1257
+4,test,204,230,三金胶囊,12,head,5,Abdominal pain,1,1258
+4,test,205,230,三金胶囊,12,head,2,Diarrhoea,1,1259
+4,test,206,230,三金胶囊,12,head,12,Abdominal distension,1,1260
+4,test,207,230,三金胶囊,12,head,11,Dry mouth,1,1261
+4,test,208,230,三金胶囊,12,head,1,Rash,1,1262
+4,test,209,230,三金胶囊,12,head,4,Pruritus,1,1263
+4,test,210,230,三金胶囊,12,head,7,Dizziness,1,1264
+4,test,211,230,三金胶囊,12,head,10,Headache,1,1265
+4,test,212,230,三金胶囊,12,head,8,Hypersensitivity,1,1266
+4,test,213,230,三金胶囊,12,head,9,Palpitations,1,1267
+4,test,214,231,清润丸,3,tail,2,Diarrhoea,1,1269
+4,test,215,231,清润丸,3,tail,6,Abdominal discomfort,1,1270
+4,test,216,231,清润丸,3,tail,3,Vomiting,1,1271
+4,test,217,216,胃欣舒胶囊,7,medium,11,Dry mouth,1,1276
+4,test,218,216,胃欣舒胶囊,7,medium,19,Constipation,1,1277
+4,test,219,216,胃欣舒胶囊,7,medium,113,Hypohidrosis,1,1278
+4,test,220,216,胃欣舒胶囊,7,medium,111,Nasal dryness,1,1279
+4,test,221,216,胃欣舒胶囊,7,medium,62,Dry skin,1,1280
+4,test,222,216,胃欣舒胶囊,7,medium,75,Vision blurred,1,1281
+4,test,223,216,胃欣舒胶囊,7,medium,81,Dysuria,1,1282
+4,test,224,117,黄连上清颗粒,9,medium,2,Diarrhoea,1,1292
+4,test,225,117,黄连上清颗粒,9,medium,5,Abdominal pain,1,1293
+4,test,226,117,黄连上清颗粒,9,medium,0,Nausea,1,1294
+4,test,227,117,黄连上清颗粒,9,medium,3,Vomiting,1,1295
+4,test,228,117,黄连上清颗粒,9,medium,1,Rash,1,1296
+4,test,229,117,黄连上清颗粒,9,medium,4,Pruritus,1,1297
+4,test,230,117,黄连上清颗粒,9,medium,6,Abdominal discomfort,1,1298
+4,test,231,117,黄连上清颗粒,9,medium,13,Asthenia,1,1299
+4,test,232,117,黄连上清颗粒,9,medium,8,Hypersensitivity,1,1300
+4,test,233,234,金防感冒颗粒,6,medium,1,Rash,1,1304
+4,test,234,234,金防感冒颗粒,6,medium,23,Urticaria,1,1305
+4,test,235,234,金防感冒颗粒,6,medium,18,Pyrexia,1,1306
+4,test,236,234,金防感冒颗粒,6,medium,87,Neutrophil count decreased,1,1307
+4,test,237,234,金防感冒颗粒,6,medium,17,Hepatic function abnormal,1,1308
+4,test,238,234,金防感冒颗粒,6,medium,78,Renal impairment,1,1309
+4,test,239,237,川贝枇杷颗粒,8,medium,0,Nausea,1,1326
+4,test,240,237,川贝枇杷颗粒,8,medium,3,Vomiting,1,1327
+4,test,241,237,川贝枇杷颗粒,8,medium,5,Abdominal pain,1,1328
+4,test,242,237,川贝枇杷颗粒,8,medium,2,Diarrhoea,1,1329
+4,test,243,237,川贝枇杷颗粒,8,medium,6,Abdominal discomfort,1,1330
+4,test,244,237,川贝枇杷颗粒,8,medium,7,Dizziness,1,1331
+4,test,245,237,川贝枇杷颗粒,8,medium,1,Rash,1,1332
+4,test,246,237,川贝枇杷颗粒,8,medium,4,Pruritus,1,1333
+4,test,247,238,消癌平注射液,28,head,8,Hypersensitivity,1,1334
+4,test,248,238,消癌平注射液,28,head,15,Flushing,1,1335
+4,test,249,238,消癌平注射液,28,head,1,Rash,1,1336
+4,test,250,238,消癌平注射液,28,head,4,Pruritus,1,1337
+4,test,251,238,消癌平注射液,28,head,20,Dyspnoea,1,1338
+4,test,252,238,消癌平注射液,28,head,9,Palpitations,1,1339
+4,test,253,238,消癌平注射液,28,head,52,Cyanosis,1,1340
+4,test,254,238,消癌平注射液,28,head,33,Blood pressure decreased,1,1341
+4,test,255,238,消癌平注射液,28,head,57,Laryngeal oedema,1,1342
+4,test,256,238,消癌平注射液,28,head,24,Anaphylactic shock,1,1343
+4,test,257,238,消癌平注射液,28,head,166,Myalgia,1,1344
+4,test,258,238,消癌平注射液,28,head,167,Arthralgia,1,1345
+4,test,259,238,消癌平注射液,28,head,18,Pyrexia,1,1346
+4,test,260,238,消癌平注射液,28,head,35,Chills,1,1347
+4,test,261,238,消癌平注射液,28,head,29,Pain,1,1348
+4,test,262,238,消癌平注射液,28,head,13,Asthenia,1,1349
+4,test,263,238,消癌平注射液,28,head,28,Hyperhidrosis,1,1350
+4,test,264,238,消癌平注射液,28,head,0,Nausea,1,1351
+4,test,265,238,消癌平注射液,28,head,3,Vomiting,1,1352
+4,test,266,238,消癌平注射液,28,head,5,Abdominal pain,1,1353
+4,test,267,238,消癌平注射液,28,head,2,Diarrhoea,1,1354
+4,test,268,238,消癌平注射液,28,head,44,Cough,1,1355
+4,test,269,238,消癌平注射液,28,head,14,Chest discomfort,1,1356
+4,test,270,238,消癌平注射液,28,head,26,Blood pressure increased,1,1357
+4,test,271,238,消癌平注射液,28,head,7,Dizziness,1,1358
+4,test,272,238,消癌平注射液,28,head,10,Headache,1,1359
+4,test,273,238,消癌平注射液,28,head,112,Injection,1,1360
+4,test,274,238,消癌平注射液,28,head,53,Phlebitis,1,1361
+4,test,275,240,颈康片,10,medium,0,Nausea,1,1370
+4,test,276,240,颈康片,10,medium,3,Vomiting,1,1371
+4,test,277,240,颈康片,10,medium,5,Abdominal pain,1,1372
+4,test,278,240,颈康片,10,medium,2,Diarrhoea,1,1373
+4,test,279,240,颈康片,10,medium,6,Abdominal discomfort,1,1374
+4,test,280,240,颈康片,10,medium,1,Rash,1,1375
+4,test,281,240,颈康片,10,medium,4,Pruritus,1,1376
+4,test,282,240,颈康片,10,medium,9,Palpitations,1,1377
+4,test,283,240,颈康片,10,medium,8,Hypersensitivity,1,1378
+4,test,284,240,颈康片,10,medium,17,Hepatic function abnormal,1,1379
+4,test,285,84,参芪五味子胶囊,7,medium,0,Nausea,1,1465
+4,test,286,84,参芪五味子胶囊,7,medium,3,Vomiting,1,1466
+4,test,287,84,参芪五味子胶囊,7,medium,12,Abdominal distension,1,1467
+4,test,288,84,参芪五味子胶囊,7,medium,2,Diarrhoea,1,1468
+4,test,289,84,参芪五味子胶囊,7,medium,1,Rash,1,1469
+4,test,290,84,参芪五味子胶囊,7,medium,4,Pruritus,1,1470
+4,test,291,84,参芪五味子胶囊,7,medium,7,Dizziness,1,1471
+4,test,292,129,元胡止痛口服液,26,head,0,Nausea,1,1474
+4,test,293,129,元胡止痛口服液,26,head,3,Vomiting,1,1475
+4,test,294,129,元胡止痛口服液,26,head,11,Dry mouth,1,1476
+4,test,295,129,元胡止痛口服液,26,head,5,Abdominal pain,1,1477
+4,test,296,129,元胡止痛口服液,26,head,2,Diarrhoea,1,1478
+4,test,297,129,元胡止痛口服液,26,head,12,Abdominal distension,1,1479
+4,test,298,129,元胡止痛口服液,26,head,6,Abdominal discomfort,1,1480
+4,test,299,129,元胡止痛口服液,26,head,32,Eructation,1,1481
+4,test,300,129,元胡止痛口服液,26,head,1,Rash,1,1482
+4,test,301,129,元胡止痛口服液,26,head,4,Pruritus,1,1483
+4,test,302,129,元胡止痛口服液,26,head,15,Flushing,1,1484
+4,test,303,129,元胡止痛口服液,26,head,22,Erythema,1,1485
+4,test,304,129,元胡止痛口服液,26,head,23,Urticaria,1,1486
+4,test,305,129,元胡止痛口服液,26,head,28,Hyperhidrosis,1,1487
+4,test,306,129,元胡止痛口服液,26,head,7,Dizziness,1,1488
+4,test,307,129,元胡止痛口服液,26,head,10,Headache,1,1489
+4,test,308,129,元胡止痛口服液,26,head,21,Somnolence,1,1490
+4,test,309,129,元胡止痛口服液,26,head,27,Insomnia,1,1491
+4,test,310,129,元胡止痛口服液,26,head,14,Chest discomfort,1,1492
+4,test,311,129,元胡止痛口服液,26,head,13,Asthenia,1,1493
+4,test,312,129,元胡止痛口服液,26,head,18,Pyrexia,1,1494
+4,test,313,129,元胡止痛口服液,26,head,9,Palpitations,1,1495
+4,test,314,129,元胡止痛口服液,26,head,20,Dyspnoea,1,1496
+4,test,315,129,元胡止痛口服液,26,head,8,Hypersensitivity,1,1497
+4,test,316,129,元胡止痛口服液,26,head,17,Hepatic function abnormal,1,1498
+4,test,317,129,元胡止痛口服液,26,head,24,Anaphylactic shock,1,1499
+4,test,318,179,茵栀黄胶囊,7,medium,2,Diarrhoea,1,1583
+4,test,319,179,茵栀黄胶囊,7,medium,3,Vomiting,1,1584
+4,test,320,179,茵栀黄胶囊,7,medium,1,Rash,1,1585
+4,test,321,179,茵栀黄胶囊,7,medium,4,Pruritus,1,1586
+4,test,322,179,茵栀黄胶囊,7,medium,18,Pyrexia,1,1587
+4,test,323,179,茵栀黄胶囊,7,medium,7,Dizziness,1,1588
+4,test,324,179,茵栀黄胶囊,7,medium,91,Haematochezia,1,1589
+4,test,325,24,灯盏细辛颗粒,4,medium,22,Erythema,1,1745
+4,test,326,24,灯盏细辛颗粒,4,medium,14,Chest discomfort,1,1746
+4,test,327,24,灯盏细辛颗粒,4,medium,7,Dizziness,1,1747
+4,test,328,24,灯盏细辛颗粒,4,medium,29,Pain,1,1748
+4,test,329,26,活血止痛软胶囊,1,tail,49,Transaminases increased,1,1757
+4,test,330,27,银杏叶软胶囊,21,head,0,Nausea,1,1783
+4,test,331,27,银杏叶软胶囊,21,head,3,Vomiting,1,1784
+4,test,332,27,银杏叶软胶囊,21,head,11,Dry mouth,1,1785
+4,test,333,27,银杏叶软胶囊,21,head,12,Abdominal distension,1,1786
+4,test,334,27,银杏叶软胶囊,21,head,5,Abdominal pain,1,1787
+4,test,335,27,银杏叶软胶囊,21,head,6,Abdominal discomfort,1,1788
+4,test,336,27,银杏叶软胶囊,21,head,50,Hyperchlorhydria,1,1789
+4,test,337,27,银杏叶软胶囊,21,head,30,Gastrointestinal haemorrhage,1,1790
+4,test,338,27,银杏叶软胶囊,21,head,7,Dizziness,1,1791
+4,test,339,27,银杏叶软胶囊,21,head,10,Headache,1,1792
+4,test,340,27,银杏叶软胶囊,21,head,37,Hypoaesthesia,1,1793
+4,test,341,27,银杏叶软胶囊,21,head,1,Rash,1,1794
+4,test,342,27,银杏叶软胶囊,21,head,4,Pruritus,1,1795
+4,test,343,27,银杏叶软胶囊,21,head,14,Chest discomfort,1,1796
+4,test,344,27,银杏叶软胶囊,21,head,9,Palpitations,1,1797
+4,test,345,27,银杏叶软胶囊,21,head,26,Blood pressure increased,1,1798
+4,test,346,27,银杏叶软胶囊,21,head,33,Blood pressure decreased,1,1799
+4,test,347,27,银杏叶软胶囊,21,head,13,Asthenia,1,1800
+4,test,348,27,银杏叶软胶囊,21,head,8,Hypersensitivity,1,1801
+4,test,349,27,银杏叶软胶囊,21,head,58,Gingival bleeding,1,1802
+4,test,350,27,银杏叶软胶囊,21,head,42,Epistaxis,1,1803
+4,test,351,68,加味藿香正气软胶囊,1,tail,0,Nausea,1,1861
+4,test,352,151,牛黄上清软胶囊,2,tail,2,Diarrhoea,1,1887
+4,test,353,151,牛黄上清软胶囊,2,tail,6,Abdominal discomfort,1,1888
+4,test,354,52,癃闭舒胶囊,14,head,0,Nausea,1,1920
+4,test,355,52,癃闭舒胶囊,14,head,3,Vomiting,1,1921
+4,test,356,52,癃闭舒胶囊,14,head,5,Abdominal pain,1,1922
+4,test,357,52,癃闭舒胶囊,14,head,12,Abdominal distension,1,1923
+4,test,358,52,癃闭舒胶囊,14,head,2,Diarrhoea,1,1924
+4,test,359,52,癃闭舒胶囊,14,head,6,Abdominal discomfort,1,1925
+4,test,360,52,癃闭舒胶囊,14,head,56,Thirst,1,1926
+4,test,361,52,癃闭舒胶囊,14,head,17,Hepatic function abnormal,1,1927
+4,test,362,52,癃闭舒胶囊,14,head,1,Rash,1,1928
+4,test,363,52,癃闭舒胶囊,14,head,4,Pruritus,1,1929
+4,test,364,52,癃闭舒胶囊,14,head,7,Dizziness,1,1930
+4,test,365,52,癃闭舒胶囊,14,head,10,Headache,1,1931
+4,test,366,52,癃闭舒胶囊,14,head,9,Palpitations,1,1932
+4,test,367,52,癃闭舒胶囊,14,head,13,Asthenia,1,1933
+4,test,368,71,癃清片,3,tail,6,Abdominal discomfort,1,1935
+4,test,369,71,癃清片,3,tail,0,Nausea,1,1936
+4,test,370,71,癃清片,3,tail,16,Decreased appetite,1,1937
+4,test,371,38,蛇胆川贝散,19,head,0,Nausea,1,1987
+4,test,372,38,蛇胆川贝散,19,head,3,Vomiting,1,1988
+4,test,373,38,蛇胆川贝散,19,head,11,Dry mouth,1,1989
+4,test,374,38,蛇胆川贝散,19,head,12,Abdominal distension,1,1990
+4,test,375,38,蛇胆川贝散,19,head,2,Diarrhoea,1,1991
+4,test,376,38,蛇胆川贝散,19,head,5,Abdominal pain,1,1992
+4,test,377,38,蛇胆川贝散,19,head,6,Abdominal discomfort,1,1993
+4,test,378,38,蛇胆川贝散,19,head,1,Rash,1,1994
+4,test,379,38,蛇胆川贝散,19,head,4,Pruritus,1,1995
+4,test,380,38,蛇胆川贝散,19,head,15,Flushing,1,1996
+4,test,381,38,蛇胆川贝散,19,head,7,Dizziness,1,1997
+4,test,382,38,蛇胆川贝散,19,head,10,Headache,1,1998
+4,test,383,38,蛇胆川贝散,19,head,13,Asthenia,1,1999
+4,test,384,38,蛇胆川贝散,19,head,21,Somnolence,1,2000
+4,test,385,38,蛇胆川贝散,19,head,18,Pyrexia,1,2001
+4,test,386,38,蛇胆川贝散,19,head,9,Palpitations,1,2002
+4,test,387,38,蛇胆川贝散,19,head,14,Chest discomfort,1,2003
+4,test,388,38,蛇胆川贝散,19,head,20,Dyspnoea,1,2004
+4,test,389,38,蛇胆川贝散,19,head,8,Hypersensitivity,1,2005
+4,test,390,28,注射用双黄连,45,head,8,Hypersensitivity,1,2125
+4,test,391,28,注射用双黄连,45,head,15,Flushing,1,2126
+4,test,392,28,注射用双黄连,45,head,35,Chills,1,2127
+4,test,393,28,注射用双黄连,45,head,18,Pyrexia,1,2128
+4,test,394,28,注射用双黄连,45,head,1,Rash,1,2129
+4,test,395,28,注射用双黄连,45,head,4,Pruritus,1,2130
+4,test,396,28,注射用双黄连,45,head,20,Dyspnoea,1,2131
+4,test,397,28,注射用双黄连,45,head,9,Palpitations,1,2132
+4,test,398,28,注射用双黄连,45,head,52,Cyanosis,1,2133
+4,test,399,28,注射用双黄连,45,head,33,Blood pressure decreased,1,2134
+4,test,400,28,注射用双黄连,45,head,57,Laryngeal oedema,1,2135
+4,test,401,28,注射用双黄连,45,head,24,Anaphylactic shock,1,2136
+4,test,402,28,注射用双黄连,45,head,107,Temperature intolerance,1,2137
+4,test,403,28,注射用双黄连,45,head,29,Pain,1,2138
+4,test,404,28,注射用双黄连,45,head,13,Asthenia,1,2139
+4,test,405,28,注射用双黄连,45,head,88,Pallor,1,2140
+4,test,406,28,注射用双黄连,45,head,28,Hyperhidrosis,1,2141
+4,test,407,28,注射用双黄连,45,head,34,Oedema,1,2142
+4,test,408,28,注射用双黄连,45,head,61,Tachypnoea,1,2143
+4,test,409,28,注射用双黄连,45,head,44,Cough,1,2144
+4,test,410,28,注射用双黄连,45,head,134,Laryngeal discomfort,1,2145
+4,test,411,28,注射用双黄连,45,head,14,Chest discomfort,1,2146
+4,test,412,28,注射用双黄连,45,head,69,Arrhythmia,1,2147
+4,test,413,28,注射用双黄连,45,head,26,Blood pressure increased,1,2148
+4,test,414,28,注射用双黄连,45,head,0,Nausea,1,2149
+4,test,415,28,注射用双黄连,45,head,3,Vomiting,1,2150
+4,test,416,28,注射用双黄连,45,head,5,Abdominal pain,1,2151
+4,test,417,28,注射用双黄连,45,head,2,Diarrhoea,1,2152
+4,test,418,28,注射用双黄连,45,head,36,Hypoaesthesia oral,1,2153
+4,test,419,28,注射用双黄连,45,head,7,Dizziness,1,2154
+4,test,420,28,注射用双黄连,45,head,10,Headache,1,2155
+4,test,421,28,注射用双黄连,45,head,37,Hypoaesthesia,1,2156
+4,test,422,28,注射用双黄连,45,head,77,Myoclonus,1,2157
+4,test,423,28,注射用双黄连,45,head,47,Dysphoria,1,2158
+4,test,424,28,注射用双黄连,45,head,133,Confusional state,1,2159
+4,test,425,28,注射用双黄连,45,head,23,Urticaria,1,2160
+4,test,426,28,注射用双黄连,45,head,39,Rash maculo-papular,1,2161
+4,test,427,28,注射用双黄连,45,head,22,Erythema,1,2162
+4,test,428,28,注射用双黄连,45,head,132,Swelling,1,2163
+4,test,429,28,注射用双黄连,45,head,131,Dermatitis,1,2164
+4,test,430,28,注射用双黄连,45,head,96,Injection site rash,1,2165
+4,test,431,28,注射用双黄连,45,head,130,Injection site pruritus,1,2166
+4,test,432,28,注射用双黄连,45,head,97,Injection site pain,1,2167
+4,test,433,28,注射用双黄连,45,head,129,Ocular hyperaemia,1,2168
+4,test,434,28,注射用双黄连,45,head,53,Phlebitis,1,2169
+4,test,435,128,益心通脉颗粒,1,tail,6,Abdominal discomfort,1,2170
+4,test,436,78,一清胶囊,4,medium,1,Rash,1,2172
+4,test,437,78,一清胶囊,4,medium,0,Nausea,1,2173
+4,test,438,78,一清胶囊,4,medium,2,Diarrhoea,1,2174
+4,test,439,78,一清胶囊,4,medium,5,Abdominal pain,1,2175
+4,test,440,31,生白合剂,1,tail,6,Abdominal discomfort,1,2194
+4,test,441,167,壮骨关节丸,17,head,17,Hepatic function abnormal,1,2272
+4,test,442,167,壮骨关节丸,17,head,1,Rash,1,2273
+4,test,443,167,壮骨关节丸,17,head,4,Pruritus,1,2274
+4,test,444,167,壮骨关节丸,17,head,0,Nausea,1,2275
+4,test,445,167,壮骨关节丸,17,head,3,Vomiting,1,2276
+4,test,446,167,壮骨关节丸,17,head,5,Abdominal pain,1,2277
+4,test,447,167,壮骨关节丸,17,head,2,Diarrhoea,1,2278
+4,test,448,167,壮骨关节丸,17,head,38,Abdominal pain upper,1,2279
+4,test,449,167,壮骨关节丸,17,head,26,Blood pressure increased,1,2280
+4,test,450,167,壮骨关节丸,17,head,89,Liver injury,1,2281
+4,test,451,167,壮骨关节丸,17,head,116,Hepatitis,1,2282
+4,test,452,167,壮骨关节丸,17,head,13,Asthenia,1,2283
+4,test,453,167,壮骨关节丸,17,head,16,Decreased appetite,1,2284
+4,test,454,167,壮骨关节丸,17,head,45,Chromaturia,1,2285
+4,test,455,167,壮骨关节丸,17,head,170,Faeces discoloured,1,2286
+4,test,456,167,壮骨关节丸,17,head,59,Yellow skin,1,2287
+4,test,457,167,壮骨关节丸,17,head,51,Ocular icterus,1,2288
+4,test,458,24,灯盏细辛颗粒,4,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+4,test,459,117,黄连上清颗粒,9,medium,102,Menstruation irregular,0,-1
+4,test,460,5,益心酮滴丸,1,tail,47,Dysphoria,0,-1
+4,test,461,187,复方青黛丸,13,head,12,Abdominal distension,0,-1
+4,test,462,117,黄连上清颗粒,9,medium,90,Henoch-Schonlein purpura,0,-1
+4,test,463,24,灯盏细辛颗粒,4,medium,151,Crying,0,-1
+4,test,464,68,加味藿香正气软胶囊,1,tail,141,Neurological symptom,0,-1
+4,test,465,71,癃清片,3,tail,25,Dyspepsia,0,-1
+4,test,466,71,癃清片,3,tail,94,General symptom,0,-1
+4,test,467,230,三金胶囊,12,head,144,Coagulopathy,0,-1
+4,test,468,91,冠心苏合丸,12,head,86,Stevens-Johnson syndrome,0,-1
+4,test,469,28,注射用双黄连,45,head,50,Hyperchlorhydria,0,-1
+4,test,470,44,消痔软膏,1,tail,117,Haemorrhage subcutaneous,0,-1
+4,test,471,129,元胡止痛口服液,26,head,123,Coma,0,-1
+4,test,472,151,牛黄上清软胶囊,2,tail,3,Vomiting,0,-1
+4,test,473,55,补肺活血胶囊,1,tail,87,Neutrophil count decreased,0,-1
+4,test,474,71,癃清片,3,tail,93,Purpura,0,-1
+4,test,475,140,培元通脑胶囊,3,tail,123,Coma,0,-1
+4,test,476,187,复方青黛丸,13,head,81,Dysuria,0,-1
+4,test,477,38,蛇胆川贝散,19,head,64,Epidermal necrosis,0,-1
+4,test,478,234,金防感冒颗粒,6,medium,27,Insomnia,0,-1
+4,test,479,27,银杏叶软胶囊,21,head,20,Dyspnoea,0,-1
+4,test,480,231,清润丸,3,tail,146,Tinnitus,0,-1
+4,test,481,4,坤泰胶囊,2,tail,18,Pyrexia,0,-1
+4,test,482,71,癃清片,3,tail,131,Dermatitis,0,-1
+4,test,483,52,癃闭舒胶囊,14,head,143,Syncope,0,-1
+4,test,484,31,生白合剂,1,tail,100,Tongue paralysis,0,-1
+4,test,485,26,活血止痛软胶囊,1,tail,168,Instillation site irritation,0,-1
+4,test,486,52,癃闭舒胶囊,14,head,128,Blood urea increased,0,-1
+4,test,487,0,舒肝解郁胶囊,14,head,15,Flushing,0,-1
+4,test,488,167,壮骨关节丸,17,head,48,Melaena,0,-1
+4,test,489,38,蛇胆川贝散,19,head,128,Blood urea increased,0,-1
+4,test,490,84,参芪五味子胶囊,7,medium,28,Hyperhidrosis,0,-1
+4,test,491,209,藿香正气滴丸,5,medium,99,Anaphylactoid reaction,0,-1
+4,test,492,99,天舒片,3,tail,12,Abdominal distension,0,-1
+4,test,493,133,小儿化食丸,4,medium,15,Flushing,0,-1
+4,test,494,44,消痔软膏,1,tail,112,Injection,0,-1
+4,test,495,234,金防感冒颗粒,6,medium,36,Hypoaesthesia oral,0,-1
+4,test,496,240,颈康片,10,medium,30,Gastrointestinal haemorrhage,0,-1
+4,test,497,140,培元通脑胶囊,3,tail,126,Application site pruritus,0,-1
+4,test,498,165,双黄连胶囊,14,head,144,Coagulopathy,0,-1
+4,test,499,39,归脾丸,2,tail,100,Tongue paralysis,0,-1
+4,test,500,68,加味藿香正气软胶囊,1,tail,61,Tachypnoea,0,-1
+4,test,501,84,参芪五味子胶囊,7,medium,18,Pyrexia,0,-1
+4,test,502,230,三金胶囊,12,head,39,Rash maculo-papular,0,-1
+4,test,503,26,活血止痛软胶囊,1,tail,98,Oedema peripheral,0,-1
+4,test,504,127,健脾生血颗粒,8,medium,152,Menstrual disorder,0,-1
+4,test,505,128,益心通脉颗粒,1,tail,152,Menstrual disorder,0,-1
+4,test,506,117,黄连上清颗粒,9,medium,120,Skin atrophy,0,-1
+4,test,507,22,益肾化湿颗粒,2,tail,22,Erythema,0,-1
+4,test,508,55,补肺活血胶囊,1,tail,45,Chromaturia,0,-1
+4,test,509,133,小儿化食丸,4,medium,101,Lethargy,0,-1
+4,test,510,16,风湿骨痛片,33,head,169,Protein urine,0,-1
+4,test,511,45,通乐颗粒,2,tail,81,Dysuria,0,-1
+4,test,512,179,茵栀黄胶囊,7,medium,147,Macule,0,-1
+4,test,513,127,健脾生血颗粒,8,medium,107,Temperature intolerance,0,-1
+4,test,514,16,风湿骨痛片,33,head,90,Henoch-Schonlein purpura,0,-1
+4,test,515,28,注射用双黄连,45,head,153,Vaginal haemorrhage,0,-1
+4,test,516,216,胃欣舒胶囊,7,medium,85,Pigmentation disorder,0,-1
+4,test,517,119,血府逐瘀口服液,9,medium,135,Platelet count decreased,0,-1
+4,test,518,125,归脾颗粒,2,tail,119,Injection site hypoaesthesia,0,-1
+4,test,519,22,益肾化湿颗粒,2,tail,84,Chronic arsenic toxicity,0,-1
+4,test,520,91,冠心苏合丸,12,head,158,Rash erythematous,0,-1
+4,test,521,230,三金胶囊,12,head,109,Increased appetite,0,-1
+4,test,522,71,癃清片,3,tail,130,Injection site pruritus,0,-1
+4,test,523,102,肾康宁片,2,tail,44,Cough,0,-1
+4,test,524,31,生白合剂,1,tail,99,Anaphylactoid reaction,0,-1
+4,test,525,187,复方青黛丸,13,head,29,Pain,0,-1
+4,test,526,234,金防感冒颗粒,6,medium,81,Dysuria,0,-1
+4,test,527,38,蛇胆川贝散,19,head,57,Laryngeal oedema,0,-1
+4,test,528,45,通乐颗粒,2,tail,96,Injection site rash,0,-1
+4,test,529,231,清润丸,3,tail,129,Ocular hyperaemia,0,-1
+4,test,530,240,颈康片,10,medium,94,General symptom,0,-1
+4,test,531,55,补肺活血胶囊,1,tail,72,Dermatitis exfoliative,0,-1
+4,test,532,57,痛泻宁颗粒,1,tail,170,Faeces discoloured,0,-1
+4,test,533,26,活血止痛软胶囊,1,tail,112,Injection,0,-1
+4,test,534,4,坤泰胶囊,2,tail,74,Hepatic failure,0,-1
+4,test,535,52,癃闭舒胶囊,14,head,97,Injection site pain,0,-1
+4,test,536,28,注射用双黄连,45,head,110,Hypoglycaemia,0,-1
+4,test,537,238,消癌平注射液,28,head,120,Skin atrophy,0,-1
+4,test,538,57,痛泻宁颗粒,1,tail,100,Tongue paralysis,0,-1
+4,test,539,31,生白合剂,1,tail,111,Nasal dryness,0,-1
+4,test,540,68,加味藿香正气软胶囊,1,tail,110,Hypoglycaemia,0,-1
+4,test,541,117,黄连上清颗粒,9,medium,62,Dry skin,0,-1
+4,test,542,209,藿香正气滴丸,5,medium,66,Aspartate aminotransferase increased,0,-1
+4,test,543,55,补肺活血胶囊,1,tail,93,Purpura,0,-1
+4,test,544,140,培元通脑胶囊,3,tail,47,Dysphoria,0,-1
+4,test,545,238,消癌平注射液,28,head,116,Hepatitis,0,-1
+4,test,546,219,安神补脑片,15,head,42,Epistaxis,0,-1
+4,test,547,91,冠心苏合丸,12,head,115,Ecchymosis,0,-1
+4,test,548,209,藿香正气滴丸,5,medium,166,Myalgia,0,-1
+4,test,549,91,冠心苏合丸,12,head,79,Blister,0,-1
+4,test,550,99,天舒片,3,tail,97,Injection site pain,0,-1
+4,test,551,38,蛇胆川贝散,19,head,166,Myalgia,0,-1
+4,test,552,57,痛泻宁颗粒,1,tail,15,Flushing,0,-1
+4,test,553,133,小儿化食丸,4,medium,26,Blood pressure increased,0,-1
+4,test,554,190,脑心通胶囊,16,head,44,Cough,0,-1
+4,test,555,5,益心酮滴丸,1,tail,152,Menstrual disorder,0,-1
+4,test,556,140,培元通脑胶囊,3,tail,19,Constipation,0,-1
+4,test,557,91,冠心苏合丸,12,head,34,Oedema,0,-1
+4,test,558,230,三金胶囊,12,head,74,Hepatic failure,0,-1
+4,test,559,5,益心酮滴丸,1,tail,50,Hyperchlorhydria,0,-1
+4,test,560,238,消癌平注射液,28,head,141,Neurological symptom,0,-1
+4,test,561,216,胃欣舒胶囊,7,medium,41,Papule,0,-1
+4,test,562,187,复方青黛丸,13,head,105,Muscle twitching,0,-1
+4,test,563,39,归脾丸,2,tail,63,Face oedema,0,-1
+4,test,564,230,三金胶囊,12,head,139,Lacrimation increased,0,-1
+4,test,565,237,川贝枇杷颗粒,8,medium,48,Melaena,0,-1
+4,test,566,24,灯盏细辛颗粒,4,medium,51,Ocular icterus,0,-1
+4,test,567,187,复方青黛丸,13,head,103,Hiccups,0,-1
+4,test,568,240,颈康片,10,medium,42,Epistaxis,0,-1
+4,test,569,91,冠心苏合丸,12,head,149,Eyelid oedema,0,-1
+4,test,570,187,复方青黛丸,13,head,144,Coagulopathy,0,-1
+4,test,571,46,黄藤素片,5,medium,4,Pruritus,0,-1
+4,test,572,4,坤泰胶囊,2,tail,98,Oedema peripheral,0,-1
+4,test,573,151,牛黄上清软胶囊,2,tail,122,Skin reaction,0,-1
+4,test,574,0,舒肝解郁胶囊,14,head,47,Dysphoria,0,-1
+4,test,575,165,双黄连胶囊,14,head,146,Tinnitus,0,-1
+4,test,576,45,通乐颗粒,2,tail,127,Infection,0,-1
+4,test,577,27,银杏叶软胶囊,21,head,113,Hypohidrosis,0,-1
+4,test,578,55,补肺活血胶囊,1,tail,82,Heavy menstrual bleeding,0,-1
+4,test,579,57,痛泻宁颗粒,1,tail,68,Flatulence,0,-1
+4,test,580,84,参芪五味子胶囊,7,medium,111,Nasal dryness,0,-1
+4,test,581,146,小儿热速清糖浆,6,medium,32,Eructation,0,-1
+4,test,582,139,消渴丸,5,medium,12,Abdominal distension,0,-1
+4,test,583,52,癃闭舒胶囊,14,head,60,Alanine aminotransferase increased,0,-1
+4,test,584,27,银杏叶软胶囊,21,head,143,Syncope,0,-1
+4,test,585,179,茵栀黄胶囊,7,medium,110,Hypoglycaemia,0,-1
+4,test,586,151,牛黄上清软胶囊,2,tail,138,Muscle tightness,0,-1
+4,test,587,4,坤泰胶囊,2,tail,88,Pallor,0,-1
+4,test,588,139,消渴丸,5,medium,131,Dermatitis,0,-1
+4,test,589,230,三金胶囊,12,head,36,Hypoaesthesia oral,0,-1
+4,test,590,31,生白合剂,1,tail,153,Vaginal haemorrhage,0,-1
+4,test,591,117,黄连上清颗粒,9,medium,125,Application site telangiectasia,0,-1
+4,test,592,187,复方青黛丸,13,head,142,Red blood cells urine,0,-1
+4,test,593,46,黄藤素片,5,medium,72,Dermatitis exfoliative,0,-1
+4,test,594,26,活血止痛软胶囊,1,tail,74,Hepatic failure,0,-1
+4,test,595,55,补肺活血胶囊,1,tail,136,Neck pain,0,-1
+4,test,596,26,活血止痛软胶囊,1,tail,72,Dermatitis exfoliative,0,-1
+4,test,597,45,通乐颗粒,2,tail,47,Dysphoria,0,-1
+4,test,598,139,消渴丸,5,medium,2,Diarrhoea,0,-1
+4,test,599,187,复方青黛丸,13,head,22,Erythema,0,-1
+4,test,600,231,清润丸,3,tail,22,Erythema,0,-1
+4,test,601,16,风湿骨痛片,33,head,17,Hepatic function abnormal,0,-1
+4,test,602,119,血府逐瘀口服液,9,medium,22,Erythema,0,-1
+4,test,603,91,冠心苏合丸,12,head,137,Application site pain,0,-1
+4,test,604,216,胃欣舒胶囊,7,medium,63,Face oedema,0,-1
+4,test,605,127,健脾生血颗粒,8,medium,18,Pyrexia,0,-1
+4,test,606,4,坤泰胶囊,2,tail,109,Increased appetite,0,-1
+4,test,607,52,癃闭舒胶囊,14,head,45,Chromaturia,0,-1
+4,test,608,44,消痔软膏,1,tail,22,Erythema,0,-1
+4,test,609,6,银杏叶口服液,21,head,144,Coagulopathy,0,-1
+4,test,610,139,消渴丸,5,medium,62,Dry skin,0,-1
+4,test,611,6,银杏叶口服液,21,head,80,Acute kidney injury,0,-1
+4,test,612,91,冠心苏合丸,12,head,49,Transaminases increased,0,-1
+4,test,613,216,胃欣舒胶囊,7,medium,119,Injection site hypoaesthesia,0,-1
+4,test,614,102,肾康宁片,2,tail,54,Poisoning,0,-1
+4,test,615,127,健脾生血颗粒,8,medium,71,White blood cell count decreased,0,-1
+4,test,616,44,消痔软膏,1,tail,73,Epigastric discomfort,0,-1
+4,test,617,128,益心通脉颗粒,1,tail,4,Pruritus,0,-1
+4,test,618,140,培元通脑胶囊,3,tail,6,Abdominal discomfort,0,-1
+4,test,619,24,灯盏细辛颗粒,4,medium,132,Swelling,0,-1
+4,test,620,27,银杏叶软胶囊,21,head,107,Temperature intolerance,0,-1
+4,test,621,125,归脾颗粒,2,tail,99,Anaphylactoid reaction,0,-1
+4,test,622,140,培元通脑胶囊,3,tail,156,Anal incontinence,0,-1
+4,test,623,230,三金胶囊,12,head,111,Nasal dryness,0,-1
+4,test,624,231,清润丸,3,tail,41,Papule,0,-1
+4,test,625,6,银杏叶口服液,21,head,111,Nasal dryness,0,-1
+4,test,626,219,安神补脑片,15,head,98,Oedema peripheral,0,-1
+4,test,627,28,注射用双黄连,45,head,99,Anaphylactoid reaction,0,-1
+4,test,628,146,小儿热速清糖浆,6,medium,158,Rash erythematous,0,-1
+4,test,629,57,痛泻宁颗粒,1,tail,45,Chromaturia,0,-1
+4,test,630,91,冠心苏合丸,12,head,138,Muscle tightness,0,-1
+4,test,631,187,复方青黛丸,13,head,86,Stevens-Johnson syndrome,0,-1
+4,test,632,230,三金胶囊,12,head,41,Papule,0,-1
+4,test,633,179,茵栀黄胶囊,7,medium,62,Dry skin,0,-1
+4,test,634,237,川贝枇杷颗粒,8,medium,37,Hypoaesthesia,0,-1
+4,test,635,68,加味藿香正气软胶囊,1,tail,153,Vaginal haemorrhage,0,-1
+4,test,636,68,加味藿香正气软胶囊,1,tail,1,Rash,0,-1
+4,test,637,5,益心酮滴丸,1,tail,104,Dyschezia,0,-1
+4,test,638,230,三金胶囊,12,head,113,Hypohidrosis,0,-1
+4,test,639,119,血府逐瘀口服液,9,medium,126,Application site pruritus,0,-1
+4,test,640,167,壮骨关节丸,17,head,60,Alanine aminotransferase increased,0,-1
+4,test,641,26,活血止痛软胶囊,1,tail,158,Rash erythematous,0,-1
+4,test,642,24,灯盏细辛颗粒,4,medium,91,Haematochezia,0,-1
+4,test,643,231,清润丸,3,tail,99,Anaphylactoid reaction,0,-1
+4,test,644,240,颈康片,10,medium,15,Flushing,0,-1
+4,test,645,238,消癌平注射液,28,head,135,Platelet count decreased,0,-1
+4,test,646,167,壮骨关节丸,17,head,128,Blood urea increased,0,-1
+4,test,647,46,黄藤素片,5,medium,65,Tremor,0,-1
+4,test,648,219,安神补脑片,15,head,15,Flushing,0,-1
+4,test,649,240,颈康片,10,medium,54,Poisoning,0,-1
+4,test,650,46,黄藤素片,5,medium,130,Injection site pruritus,0,-1
+4,test,651,44,消痔软膏,1,tail,65,Tremor,0,-1
+4,test,652,133,小儿化食丸,4,medium,53,Phlebitis,0,-1
+4,test,653,68,加味藿香正气软胶囊,1,tail,155,Malaise,0,-1
+4,test,654,238,消癌平注射液,28,head,159,Dermatitis allergic,0,-1
+4,test,655,6,银杏叶口服液,21,head,150,Alopecia,0,-1
+4,test,656,133,小儿化食丸,4,medium,23,Urticaria,0,-1
+4,test,657,0,舒肝解郁胶囊,14,head,20,Dyspnoea,0,-1
+4,test,658,187,复方青黛丸,13,head,34,Oedema,0,-1
+4,test,659,57,痛泻宁颗粒,1,tail,163,Skin test positive,0,-1
+4,test,660,99,天舒片,3,tail,3,Vomiting,0,-1
+4,test,661,165,双黄连胶囊,14,head,23,Urticaria,0,-1
+4,test,662,22,益肾化湿颗粒,2,tail,67,Gastrointestinal disorder,0,-1
+4,test,663,119,血府逐瘀口服液,9,medium,35,Chills,0,-1
+4,test,664,5,益心酮滴丸,1,tail,164,Drooling,0,-1
+4,test,665,151,牛黄上清软胶囊,2,tail,45,Chromaturia,0,-1
+4,test,666,179,茵栀黄胶囊,7,medium,57,Laryngeal oedema,0,-1
+4,test,667,167,壮骨关节丸,17,head,68,Flatulence,0,-1
+4,test,668,139,消渴丸,5,medium,78,Renal impairment,0,-1
+4,test,669,231,清润丸,3,tail,21,Somnolence,0,-1
+4,test,670,6,银杏叶口服液,21,head,152,Menstrual disorder,0,-1
+4,test,671,6,银杏叶口服液,21,head,19,Constipation,0,-1
+4,test,672,39,归脾丸,2,tail,159,Dermatitis allergic,0,-1
+4,test,673,55,补肺活血胶囊,1,tail,33,Blood pressure decreased,0,-1
+4,test,674,125,归脾颗粒,2,tail,34,Oedema,0,-1
+4,test,675,55,补肺活血胶囊,1,tail,164,Drooling,0,-1
+4,test,676,140,培元通脑胶囊,3,tail,88,Pallor,0,-1
+4,test,677,165,双黄连胶囊,14,head,120,Skin atrophy,0,-1
+4,test,678,119,血府逐瘀口服液,9,medium,19,Constipation,0,-1
+4,test,679,102,肾康宁片,2,tail,61,Tachypnoea,0,-1
+4,test,680,57,痛泻宁颗粒,1,tail,102,Menstruation irregular,0,-1
+4,test,681,179,茵栀黄胶囊,7,medium,107,Temperature intolerance,0,-1
+4,test,682,231,清润丸,3,tail,87,Neutrophil count decreased,0,-1
+4,test,683,179,茵栀黄胶囊,7,medium,122,Skin reaction,0,-1
+4,test,684,45,通乐颗粒,2,tail,73,Epigastric discomfort,0,-1
+4,test,685,146,小儿热速清糖浆,6,medium,93,Purpura,0,-1
+4,test,686,127,健脾生血颗粒,8,medium,110,Hypoglycaemia,0,-1
+4,test,687,57,痛泻宁颗粒,1,tail,154,Male sexual dysfunction,0,-1
+4,test,688,99,天舒片,3,tail,156,Anal incontinence,0,-1
+4,test,689,44,消痔软膏,1,tail,124,Angina pectoris,0,-1
+4,test,690,119,血府逐瘀口服液,9,medium,34,Oedema,0,-1
+4,test,691,179,茵栀黄胶囊,7,medium,77,Myoclonus,0,-1
+4,test,692,84,参芪五味子胶囊,7,medium,83,Skin swelling,0,-1
+4,test,693,68,加味藿香正气软胶囊,1,tail,129,Ocular hyperaemia,0,-1
+4,test,694,31,生白合剂,1,tail,124,Angina pectoris,0,-1
+4,test,695,140,培元通脑胶囊,3,tail,48,Melaena,0,-1
+4,test,696,187,复方青黛丸,13,head,141,Neurological symptom,0,-1
+4,test,697,52,癃闭舒胶囊,14,head,145,Gastrointestinal tract mucosal pigmentation,0,-1
+4,test,698,117,黄连上清颗粒,9,medium,56,Thirst,0,-1
+4,test,699,27,银杏叶软胶囊,21,head,29,Pain,0,-1
+4,test,700,139,消渴丸,5,medium,11,Dry mouth,0,-1
+4,test,701,57,痛泻宁颗粒,1,tail,169,Protein urine,0,-1
+4,test,702,140,培元通脑胶囊,3,tail,8,Hypersensitivity,0,-1
+4,test,703,237,川贝枇杷颗粒,8,medium,130,Injection site pruritus,0,-1
+4,test,704,57,痛泻宁颗粒,1,tail,26,Blood pressure increased,0,-1
+4,test,705,140,培元通脑胶囊,3,tail,100,Tongue paralysis,0,-1
+4,test,706,179,茵栀黄胶囊,7,medium,39,Rash maculo-papular,0,-1
+4,test,707,55,补肺活血胶囊,1,tail,29,Pain,0,-1
+4,test,708,55,补肺活血胶囊,1,tail,97,Injection site pain,0,-1
+4,test,709,187,复方青黛丸,13,head,121,Conjunctival haemorrhage,0,-1
+4,test,710,84,参芪五味子胶囊,7,medium,74,Hepatic failure,0,-1
+4,test,711,84,参芪五味子胶囊,7,medium,84,Chronic arsenic toxicity,0,-1
+4,test,712,165,双黄连胶囊,14,head,46,Head discomfort,0,-1
+4,test,713,31,生白合剂,1,tail,109,Increased appetite,0,-1
+4,test,714,84,参芪五味子胶囊,7,medium,105,Muscle twitching,0,-1
+4,test,715,38,蛇胆川贝散,19,head,23,Urticaria,0,-1
+4,test,716,179,茵栀黄胶囊,7,medium,74,Hepatic failure,0,-1
+4,test,717,165,双黄连胶囊,14,head,33,Blood pressure decreased,0,-1
+4,test,718,151,牛黄上清软胶囊,2,tail,134,Laryngeal discomfort,0,-1
+4,test,719,5,益心酮滴丸,1,tail,95,Blood bilirubin increased,0,-1
+4,test,720,238,消癌平注射液,28,head,88,Pallor,0,-1
+4,test,721,117,黄连上清颗粒,9,medium,91,Haematochezia,0,-1
+4,test,722,167,壮骨关节丸,17,head,157,Hypothermia,0,-1
+4,test,723,133,小儿化食丸,4,medium,123,Coma,0,-1
+4,test,724,4,坤泰胶囊,2,tail,101,Lethargy,0,-1
+4,test,725,133,小儿化食丸,4,medium,59,Yellow skin,0,-1
+4,test,726,238,消癌平注射液,28,head,56,Thirst,0,-1
+4,test,727,125,归脾颗粒,2,tail,161,Mucosal irritation,0,-1
+4,test,728,117,黄连上清颗粒,9,medium,72,Dermatitis exfoliative,0,-1
+4,test,729,84,参芪五味子胶囊,7,medium,116,Hepatitis,0,-1
+4,test,730,0,舒肝解郁胶囊,14,head,137,Application site pain,0,-1
+4,test,731,68,加味藿香正气软胶囊,1,tail,123,Coma,0,-1
+4,test,732,128,益心通脉颗粒,1,tail,144,Coagulopathy,0,-1
+4,test,733,39,归脾丸,2,tail,79,Blister,0,-1
+4,test,734,26,活血止痛软胶囊,1,tail,101,Lethargy,0,-1
+4,test,735,38,蛇胆川贝散,19,head,137,Application site pain,0,-1
+4,test,736,237,川贝枇杷颗粒,8,medium,96,Injection site rash,0,-1
+4,test,737,237,川贝枇杷颗粒,8,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+4,test,738,52,癃闭舒胶囊,14,head,152,Menstrual disorder,0,-1
+4,test,739,16,风湿骨痛片,33,head,155,Malaise,0,-1
+4,test,740,71,癃清片,3,tail,36,Hypoaesthesia oral,0,-1
+4,test,741,139,消渴丸,5,medium,106,Hypertension,0,-1
+4,test,742,91,冠心苏合丸,12,head,150,Alopecia,0,-1
+4,test,743,119,血府逐瘀口服液,9,medium,32,Eructation,0,-1
+4,test,744,6,银杏叶口服液,21,head,142,Red blood cells urine,0,-1
+4,test,745,27,银杏叶软胶囊,21,head,140,Neuropsychological symptoms,0,-1
+4,test,746,151,牛黄上清软胶囊,2,tail,108,Tooth discolouration,0,-1
+4,test,747,78,一清胶囊,4,medium,50,Hyperchlorhydria,0,-1
+4,test,748,179,茵栀黄胶囊,7,medium,129,Ocular hyperaemia,0,-1
+4,test,749,128,益心通脉颗粒,1,tail,160,Skin irritation,0,-1
+4,test,750,28,注射用双黄连,45,head,19,Constipation,0,-1
+4,test,751,133,小儿化食丸,4,medium,137,Application site pain,0,-1
+4,test,752,127,健脾生血颗粒,8,medium,101,Lethargy,0,-1
+4,test,753,230,三金胶囊,12,head,141,Neurological symptom,0,-1
+4,test,754,38,蛇胆川贝散,19,head,44,Cough,0,-1
+4,test,755,133,小儿化食丸,4,medium,162,Dry throat,0,-1
+4,test,756,139,消渴丸,5,medium,10,Headache,0,-1
+4,test,757,71,癃清片,3,tail,88,Pallor,0,-1
+4,test,758,38,蛇胆川贝散,19,head,39,Rash maculo-papular,0,-1
+4,test,759,78,一清胶囊,4,medium,155,Malaise,0,-1
+4,test,760,55,补肺活血胶囊,1,tail,124,Angina pectoris,0,-1
+4,test,761,151,牛黄上清软胶囊,2,tail,139,Lacrimation increased,0,-1
+4,test,762,78,一清胶囊,4,medium,120,Skin atrophy,0,-1
+4,test,763,209,藿香正气滴丸,5,medium,59,Yellow skin,0,-1
+4,test,764,237,川贝枇杷颗粒,8,medium,8,Hypersensitivity,0,-1
+4,test,765,31,生白合剂,1,tail,30,Gastrointestinal haemorrhage,0,-1
+4,test,766,99,天舒片,3,tail,15,Flushing,0,-1
+4,test,767,209,藿香正气滴丸,5,medium,170,Faeces discoloured,0,-1
+4,test,768,230,三金胶囊,12,head,37,Hypoaesthesia,0,-1
+4,test,769,133,小儿化食丸,4,medium,7,Dizziness,0,-1
+4,test,770,16,风湿骨痛片,33,head,137,Application site pain,0,-1
+4,test,771,4,坤泰胶囊,2,tail,108,Tooth discolouration,0,-1
+4,test,772,117,黄连上清颗粒,9,medium,139,Lacrimation increased,0,-1
+4,test,773,46,黄藤素片,5,medium,60,Alanine aminotransferase increased,0,-1
+4,test,774,38,蛇胆川贝散,19,head,70,Tachycardia,0,-1
+4,test,775,125,归脾颗粒,2,tail,98,Oedema peripheral,0,-1
+4,test,776,27,银杏叶软胶囊,21,head,158,Rash erythematous,0,-1
+4,test,777,6,银杏叶口服液,21,head,101,Lethargy,0,-1
+4,test,778,146,小儿热速清糖浆,6,medium,107,Temperature intolerance,0,-1
+4,test,779,57,痛泻宁颗粒,1,tail,17,Hepatic function abnormal,0,-1
+4,test,780,167,壮骨关节丸,17,head,101,Lethargy,0,-1
+4,test,781,39,归脾丸,2,tail,113,Hypohidrosis,0,-1
+4,test,782,234,金防感冒颗粒,6,medium,122,Skin reaction,0,-1
+4,test,783,24,灯盏细辛颗粒,4,medium,36,Hypoaesthesia oral,0,-1
+4,test,784,44,消痔软膏,1,tail,100,Tongue paralysis,0,-1
+4,test,785,237,川贝枇杷颗粒,8,medium,43,Haematuria,0,-1
+4,test,786,0,舒肝解郁胶囊,14,head,123,Coma,0,-1
+4,test,787,119,血府逐瘀口服液,9,medium,74,Hepatic failure,0,-1
+4,test,788,151,牛黄上清软胶囊,2,tail,55,Vertigo,0,-1
+4,test,789,44,消痔软膏,1,tail,70,Tachycardia,0,-1
+4,test,790,91,冠心苏合丸,12,head,134,Laryngeal discomfort,0,-1
+4,test,791,146,小儿热速清糖浆,6,medium,16,Decreased appetite,0,-1
+4,test,792,187,复方青黛丸,13,head,95,Blood bilirubin increased,0,-1
+4,test,793,52,癃闭舒胶囊,14,head,119,Injection site hypoaesthesia,0,-1
+4,test,794,45,通乐颗粒,2,tail,16,Decreased appetite,0,-1
+4,test,795,216,胃欣舒胶囊,7,medium,32,Eructation,0,-1
+4,test,796,190,脑心通胶囊,16,head,170,Faeces discoloured,0,-1
+4,test,797,24,灯盏细辛颗粒,4,medium,3,Vomiting,0,-1
+4,test,798,133,小儿化食丸,4,medium,124,Angina pectoris,0,-1
+4,test,799,190,脑心通胶囊,16,head,160,Skin irritation,0,-1
+4,test,800,230,三金胶囊,12,head,77,Myoclonus,0,-1
+4,test,801,219,安神补脑片,15,head,112,Injection,0,-1
+4,test,802,125,归脾颗粒,2,tail,33,Blood pressure decreased,0,-1
+4,test,803,128,益心通脉颗粒,1,tail,14,Chest discomfort,0,-1
+4,test,804,55,补肺活血胶囊,1,tail,27,Insomnia,0,-1
+4,test,805,45,通乐颗粒,2,tail,38,Abdominal pain upper,0,-1
+4,test,806,238,消癌平注射液,28,head,139,Lacrimation increased,0,-1
+4,test,807,139,消渴丸,5,medium,169,Protein urine,0,-1
+4,test,808,125,归脾颗粒,2,tail,35,Chills,0,-1
+4,test,809,140,培元通脑胶囊,3,tail,37,Hypoaesthesia,0,-1
+4,test,810,209,藿香正气滴丸,5,medium,100,Tongue paralysis,0,-1
+4,test,811,151,牛黄上清软胶囊,2,tail,100,Tongue paralysis,0,-1
+4,test,812,133,小儿化食丸,4,medium,8,Hypersensitivity,0,-1
+4,test,813,127,健脾生血颗粒,8,medium,5,Abdominal pain,0,-1
+4,test,814,57,痛泻宁颗粒,1,tail,24,Anaphylactic shock,0,-1
+4,test,815,240,颈康片,10,medium,133,Confusional state,0,-1
+4,test,816,44,消痔软膏,1,tail,55,Vertigo,0,-1
+4,test,817,128,益心通脉颗粒,1,tail,110,Hypoglycaemia,0,-1
+4,test,818,39,归脾丸,2,tail,58,Gingival bleeding,0,-1
+4,test,819,27,银杏叶软胶囊,21,head,90,Henoch-Schonlein purpura,0,-1
+4,test,820,139,消渴丸,5,medium,85,Pigmentation disorder,0,-1
+4,test,821,5,益心酮滴丸,1,tail,91,Haematochezia,0,-1
+4,test,822,45,通乐颗粒,2,tail,3,Vomiting,0,-1
+4,test,823,0,舒肝解郁胶囊,14,head,115,Ecchymosis,0,-1
+4,test,824,6,银杏叶口服液,21,head,170,Faeces discoloured,0,-1
+4,test,825,16,风湿骨痛片,33,head,88,Pallor,0,-1
+4,test,826,46,黄藤素片,5,medium,163,Skin test positive,0,-1
+4,test,827,128,益心通脉颗粒,1,tail,148,Oropharyngeal pain,0,-1
+4,test,828,165,双黄连胶囊,14,head,87,Neutrophil count decreased,0,-1
+4,test,829,91,冠心苏合丸,12,head,45,Chromaturia,0,-1
+4,test,830,91,冠心苏合丸,12,head,157,Hypothermia,0,-1
+4,test,831,44,消痔软膏,1,tail,92,Burning sensation,0,-1
+4,test,832,39,归脾丸,2,tail,9,Palpitations,0,-1
+4,test,833,133,小儿化食丸,4,medium,149,Eyelid oedema,0,-1
+4,test,834,26,活血止痛软胶囊,1,tail,14,Chest discomfort,0,-1
+4,test,835,78,一清胶囊,4,medium,20,Dyspnoea,0,-1
+4,test,836,0,舒肝解郁胶囊,14,head,104,Dyschezia,0,-1
+4,test,837,133,小儿化食丸,4,medium,117,Haemorrhage subcutaneous,0,-1
+4,test,838,140,培元通脑胶囊,3,tail,44,Cough,0,-1
+4,test,839,237,川贝枇杷颗粒,8,medium,84,Chronic arsenic toxicity,0,-1
+4,test,840,6,银杏叶口服液,21,head,78,Renal impairment,0,-1
+4,test,841,71,癃清片,3,tail,117,Haemorrhage subcutaneous,0,-1
+4,test,842,209,藿香正气滴丸,5,medium,161,Mucosal irritation,0,-1
+4,test,843,57,痛泻宁颗粒,1,tail,96,Injection site rash,0,-1
+4,test,844,31,生白合剂,1,tail,79,Blister,0,-1
+4,test,845,125,归脾颗粒,2,tail,105,Muscle twitching,0,-1
+4,test,846,128,益心通脉颗粒,1,tail,89,Liver injury,0,-1
+4,test,847,125,归脾颗粒,2,tail,113,Hypohidrosis,0,-1
+4,test,848,167,壮骨关节丸,17,head,104,Dyschezia,0,-1
+4,test,849,167,壮骨关节丸,17,head,150,Alopecia,0,-1
+4,test,850,238,消癌平注射液,28,head,104,Dyschezia,0,-1
+4,test,851,45,通乐颗粒,2,tail,134,Laryngeal discomfort,0,-1
+4,test,852,240,颈康片,10,medium,93,Purpura,0,-1
+4,test,853,84,参芪五味子胶囊,7,medium,81,Dysuria,0,-1
+4,test,854,209,藿香正气滴丸,5,medium,118,Application site discolouration,0,-1
+4,test,855,230,三金胶囊,12,head,64,Epidermal necrosis,0,-1
+4,test,856,219,安神补脑片,15,head,93,Purpura,0,-1
+4,test,857,127,健脾生血颗粒,8,medium,85,Pigmentation disorder,0,-1
+4,test,858,190,脑心通胶囊,16,head,124,Angina pectoris,0,-1
+4,test,859,0,舒肝解郁胶囊,14,head,117,Haemorrhage subcutaneous,0,-1
+4,test,860,44,消痔软膏,1,tail,69,Arrhythmia,0,-1
+4,test,861,151,牛黄上清软胶囊,2,tail,142,Red blood cells urine,0,-1
+4,test,862,165,双黄连胶囊,14,head,26,Blood pressure increased,0,-1
+4,test,863,127,健脾生血颗粒,8,medium,1,Rash,0,-1
+4,test,864,78,一清胶囊,4,medium,33,Blood pressure decreased,0,-1
+4,test,865,26,活血止痛软胶囊,1,tail,20,Dyspnoea,0,-1
+4,test,866,84,参芪五味子胶囊,7,medium,21,Somnolence,0,-1
+4,test,867,55,补肺活血胶囊,1,tail,114,Drug-induced liver injury,0,-1
+4,test,868,31,生白合剂,1,tail,169,Protein urine,0,-1
+4,test,869,44,消痔软膏,1,tail,134,Laryngeal discomfort,0,-1
+4,test,870,24,灯盏细辛颗粒,4,medium,81,Dysuria,0,-1
+4,test,871,44,消痔软膏,1,tail,13,Asthenia,0,-1
+4,test,872,71,癃清片,3,tail,53,Phlebitis,0,-1
+4,test,873,45,通乐颗粒,2,tail,120,Skin atrophy,0,-1
+4,test,874,0,舒肝解郁胶囊,14,head,129,Ocular hyperaemia,0,-1
+4,test,875,128,益心通脉颗粒,1,tail,115,Ecchymosis,0,-1
+4,test,876,28,注射用双黄连,45,head,116,Hepatitis,0,-1
+4,test,877,24,灯盏细辛颗粒,4,medium,15,Flushing,0,-1
+4,test,878,165,双黄连胶囊,14,head,163,Skin test positive,0,-1
+4,test,879,0,舒肝解郁胶囊,14,head,146,Tinnitus,0,-1
+4,test,880,28,注射用双黄连,45,head,65,Tremor,0,-1
+4,test,881,99,天舒片,3,tail,125,Application site telangiectasia,0,-1
+4,test,882,190,脑心通胶囊,16,head,158,Rash erythematous,0,-1
+4,test,883,117,黄连上清颗粒,9,medium,84,Chronic arsenic toxicity,0,-1
+4,test,884,238,消癌平注射液,28,head,86,Stevens-Johnson syndrome,0,-1
+4,test,885,52,癃闭舒胶囊,14,head,75,Vision blurred,0,-1
+4,test,886,71,癃清片,3,tail,115,Ecchymosis,0,-1
+4,test,887,231,清润丸,3,tail,128,Blood urea increased,0,-1
+4,test,888,140,培元通脑胶囊,3,tail,127,Infection,0,-1
+4,test,889,5,益心酮滴丸,1,tail,71,White blood cell count decreased,0,-1
+4,test,890,52,癃闭舒胶囊,14,head,156,Anal incontinence,0,-1
+4,test,891,234,金防感冒颗粒,6,medium,102,Menstruation irregular,0,-1
+4,test,892,187,复方青黛丸,13,head,127,Infection,0,-1
+4,test,893,27,银杏叶软胶囊,21,head,157,Hypothermia,0,-1
+4,test,894,231,清润丸,3,tail,11,Dry mouth,0,-1
+4,test,895,57,痛泻宁颗粒,1,tail,11,Dry mouth,0,-1
+4,test,896,57,痛泻宁颗粒,1,tail,72,Dermatitis exfoliative,0,-1
+4,test,897,146,小儿热速清糖浆,6,medium,45,Chromaturia,0,-1
+4,test,898,237,川贝枇杷颗粒,8,medium,77,Myoclonus,0,-1
+4,test,899,133,小儿化食丸,4,medium,65,Tremor,0,-1
+4,test,900,117,黄连上清颗粒,9,medium,50,Hyperchlorhydria,0,-1
+4,test,901,151,牛黄上清软胶囊,2,tail,91,Haematochezia,0,-1
+4,test,902,117,黄连上清颗粒,9,medium,137,Application site pain,0,-1
+4,test,903,237,川贝枇杷颗粒,8,medium,139,Lacrimation increased,0,-1
+4,test,904,44,消痔软膏,1,tail,166,Myalgia,0,-1
+4,test,905,167,壮骨关节丸,17,head,31,Dysgeusia,0,-1
+4,test,906,46,黄藤素片,5,medium,144,Coagulopathy,0,-1
+4,test,907,6,银杏叶口服液,21,head,60,Alanine aminotransferase increased,0,-1
+4,test,908,133,小儿化食丸,4,medium,140,Neuropsychological symptoms,0,-1
+4,test,909,45,通乐颗粒,2,tail,107,Temperature intolerance,0,-1
+4,test,910,28,注射用双黄连,45,head,72,Dermatitis exfoliative,0,-1
+4,test,911,167,壮骨关节丸,17,head,93,Purpura,0,-1
+4,test,912,99,天舒片,3,tail,65,Tremor,0,-1
+4,test,913,31,生白合剂,1,tail,110,Hypoglycaemia,0,-1
+4,test,914,179,茵栀黄胶囊,7,medium,96,Injection site rash,0,-1
+4,test,915,22,益肾化湿颗粒,2,tail,87,Neutrophil count decreased,0,-1

@@ -1,0 +1,83 @@
+{
+  "dataset_name": "CPMADR-Net Heterogeneous Pharmacological Graph",
+  "table1_counts": {
+    "nodes": {
+      "CPM": 255,
+      "Herb": 383,
+      "Chemical_ingredient": 15040,
+      "Target": 9492,
+      "ADR": 171,
+      "Total_nodes": 25341
+    },
+    "edges": {
+      "CPM_Herb": 1844,
+      "Herb_Chemical_ingredient": 36102,
+      "Chemical_ingredient_Target": 104633,
+      "Target_ADR": 4356,
+      "CPM_ADR": 2289,
+      "Total_edges": 149224
+    }
+  },
+  "files": [
+    {
+      "relative_path": "data/nodes/cpm_nodes_255.csv",
+      "rows": 255,
+      "sha256": "3fa5000d4e4d386e420a752233b0bc2eb05fff10bc692c35ad95672e9c481f62"
+    },
+    {
+      "relative_path": "data/nodes/herb_nodes_383.csv",
+      "rows": 383,
+      "sha256": "68ca9ebc38ca825a62ad457e8048ae9d6f59af52d057f6ba2fcf123420cf9938"
+    },
+    {
+      "relative_path": "data/nodes/ingredient_nodes_15040.csv",
+      "rows": 15040,
+      "sha256": "fb2a1fc47ec6f8d8e218d76365333db102746922accb30177dc5fe427636f6d8"
+    },
+    {
+      "relative_path": "data/nodes/target_nodes_9492.csv",
+      "rows": 9492,
+      "sha256": "02faeb1e4ced918b49aefcfa6bc70ac104401ac476bdd9bc7b723da390643888"
+    },
+    {
+      "relative_path": "data/nodes/adr_nodes_171.csv",
+      "rows": 171,
+      "sha256": "356ab4d83638fdd75d2e9259026cb3d29dc41d65bc56ab71f59efc315fd7ddc8"
+    },
+    {
+      "relative_path": "data/edges/edge_cpm_adr_2289.csv",
+      "rows": 2289,
+      "sha256": "7e58ccded3165143cf3a18e05b83a00268a897227603fb948fcad751ad61ec1a"
+    },
+    {
+      "relative_path": "data/edges/edge_cpm_herb_1844.csv",
+      "rows": 1844,
+      "sha256": "fe460f3b9aabf5f77a66e98b3c99d2b00f32bf41f8aab7ca24f8519f0f517178"
+    },
+    {
+      "relative_path": "data/edges/edge_herb_ingredient_36102.csv",
+      "rows": 36102,
+      "sha256": "b72b49e171f8f7129b0ffd2c229edb1a3ef88a9bafdeb6a798abc5e61c1df0c9"
+    },
+    {
+      "relative_path": "data/edges/edge_ingredient_target_104633.csv",
+      "rows": 104633,
+      "sha256": "049f3bee3a60d2dcb973de8df06d1c0c10ab55021cb4234c6a834e6b49b34ccc"
+    },
+    {
+      "relative_path": "data/edges/edge_target_adr_4356.csv",
+      "rows": 4356,
+      "sha256": "507515790713449283fef79ff2d60c57d3bba4a6314014f35361abb45862947a"
+    },
+    {
+      "relative_path": "data/mappings/meddra_pt_171_consolidated_mapping.csv",
+      "rows": 171,
+      "sha256": "9a25ac0aaa61b82d33ac1bbfab74adf0dea449e8dc1129c729bee43275881706"
+    },
+    {
+      "relative_path": "data/mappings/cn_raw_adr_to_meddra_pt_rules_and_lexicon.csv",
+      "rows": 217,
+      "sha256": "34668503eb3ce0e6f6bd56cacdef2860eab653e132616e12526c77770da8e5b7"
+    }
+  ]
+}

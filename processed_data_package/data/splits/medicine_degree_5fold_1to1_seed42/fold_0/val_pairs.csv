@@ -1,0 +1,609 @@
+﻿fold,split,sample_order,medicine_id,medicine_name_cn,medicine_degree,degree_bucket,reaction_id,meddra_pt_en,label,pos_edge_row_id
+0,val,0,159,六味地黄胶囊,12,head,2,Diarrhoea,1,19
+0,val,1,159,六味地黄胶囊,12,head,5,Abdominal pain,1,20
+0,val,2,159,六味地黄胶囊,12,head,12,Abdominal distension,1,21
+0,val,3,159,六味地黄胶囊,12,head,0,Nausea,1,22
+0,val,4,159,六味地黄胶囊,12,head,3,Vomiting,1,23
+0,val,5,159,六味地黄胶囊,12,head,6,Abdominal discomfort,1,24
+0,val,6,159,六味地黄胶囊,12,head,16,Decreased appetite,1,25
+0,val,7,159,六味地黄胶囊,12,head,19,Constipation,1,26
+0,val,8,159,六味地黄胶囊,12,head,4,Pruritus,1,27
+0,val,9,159,六味地黄胶囊,12,head,1,Rash,1,28
+0,val,10,159,六味地黄胶囊,12,head,10,Headache,1,29
+0,val,11,159,六味地黄胶囊,12,head,9,Palpitations,1,30
+0,val,12,208,稳心颗粒,11,medium,0,Nausea,1,49
+0,val,13,208,稳心颗粒,11,medium,3,Vomiting,1,50
+0,val,14,208,稳心颗粒,11,medium,6,Abdominal discomfort,1,51
+0,val,15,208,稳心颗粒,11,medium,12,Abdominal distension,1,52
+0,val,16,208,稳心颗粒,11,medium,5,Abdominal pain,1,53
+0,val,17,208,稳心颗粒,11,medium,2,Diarrhoea,1,54
+0,val,18,208,稳心颗粒,11,medium,7,Dizziness,1,55
+0,val,19,208,稳心颗粒,11,medium,10,Headache,1,56
+0,val,20,208,稳心颗粒,11,medium,1,Rash,1,57
+0,val,21,208,稳心颗粒,11,medium,4,Pruritus,1,58
+0,val,22,208,稳心颗粒,11,medium,14,Chest discomfort,1,59
+0,val,23,144,川贝枇杷糖浆,8,medium,0,Nausea,1,90
+0,val,24,144,川贝枇杷糖浆,8,medium,3,Vomiting,1,91
+0,val,25,144,川贝枇杷糖浆,8,medium,5,Abdominal pain,1,92
+0,val,26,144,川贝枇杷糖浆,8,medium,2,Diarrhoea,1,93
+0,val,27,144,川贝枇杷糖浆,8,medium,6,Abdominal discomfort,1,94
+0,val,28,144,川贝枇杷糖浆,8,medium,7,Dizziness,1,95
+0,val,29,144,川贝枇杷糖浆,8,medium,1,Rash,1,96
+0,val,30,144,川贝枇杷糖浆,8,medium,4,Pruritus,1,97
+0,val,31,91,冠心苏合丸,12,head,0,Nausea,1,98
+0,val,32,91,冠心苏合丸,12,head,3,Vomiting,1,99
+0,val,33,91,冠心苏合丸,12,head,12,Abdominal distension,1,100
+0,val,34,91,冠心苏合丸,12,head,5,Abdominal pain,1,101
+0,val,35,91,冠心苏合丸,12,head,2,Diarrhoea,1,102
+0,val,36,91,冠心苏合丸,12,head,6,Abdominal discomfort,1,103
+0,val,37,91,冠心苏合丸,12,head,11,Dry mouth,1,104
+0,val,38,91,冠心苏合丸,12,head,7,Dizziness,1,105
+0,val,39,91,冠心苏合丸,12,head,10,Headache,1,106
+0,val,40,91,冠心苏合丸,12,head,1,Rash,1,107
+0,val,41,91,冠心苏合丸,12,head,4,Pruritus,1,108
+0,val,42,91,冠心苏合丸,12,head,9,Palpitations,1,109
+0,val,43,178,茵栀黄颗粒,7,medium,2,Diarrhoea,1,274
+0,val,44,178,茵栀黄颗粒,7,medium,3,Vomiting,1,275
+0,val,45,178,茵栀黄颗粒,7,medium,1,Rash,1,276
+0,val,46,178,茵栀黄颗粒,7,medium,4,Pruritus,1,277
+0,val,47,178,茵栀黄颗粒,7,medium,18,Pyrexia,1,278
+0,val,48,178,茵栀黄颗粒,7,medium,7,Dizziness,1,279
+0,val,49,178,茵栀黄颗粒,7,medium,91,Haematochezia,1,280
+0,val,50,2,复方双花口服液,3,tail,0,Nausea,1,328
+0,val,51,2,复方双花口服液,3,tail,16,Decreased appetite,1,329
+0,val,52,2,复方双花口服液,3,tail,2,Diarrhoea,1,330
+0,val,53,46,黄藤素片,5,medium,6,Abdominal discomfort,1,401
+0,val,54,46,黄藤素片,5,medium,16,Decreased appetite,1,402
+0,val,55,46,黄藤素片,5,medium,19,Constipation,1,403
+0,val,56,46,黄藤素片,5,medium,64,Epidermal necrosis,1,404
+0,val,57,46,黄藤素片,5,medium,40,Drug eruption,1,405
+0,val,58,250,康艾注射液,9,medium,1,Rash,1,443
+0,val,59,250,康艾注射液,9,medium,4,Pruritus,1,444
+0,val,60,250,康艾注射液,9,medium,35,Chills,1,445
+0,val,61,250,康艾注射液,9,medium,18,Pyrexia,1,446
+0,val,62,250,康艾注射液,9,medium,0,Nausea,1,447
+0,val,63,250,康艾注射液,9,medium,3,Vomiting,1,448
+0,val,64,250,康艾注射液,9,medium,14,Chest discomfort,1,449
+0,val,65,250,康艾注射液,9,medium,9,Palpitations,1,450
+0,val,66,250,康艾注射液,9,medium,24,Anaphylactic shock,1,451
+0,val,67,61,首乌丸,8,medium,16,Decreased appetite,1,452
+0,val,68,61,首乌丸,8,medium,45,Chromaturia,1,453
+0,val,69,61,首乌丸,8,medium,51,Ocular icterus,1,454
+0,val,70,61,首乌丸,8,medium,59,Yellow skin,1,455
+0,val,71,61,首乌丸,8,medium,49,Transaminases increased,1,456
+0,val,72,61,首乌丸,8,medium,17,Hepatic function abnormal,1,457
+0,val,73,61,首乌丸,8,medium,1,Rash,1,458
+0,val,74,61,首乌丸,8,medium,13,Asthenia,1,459
+0,val,75,119,血府逐瘀口服液,9,medium,0,Nausea,1,483
+0,val,76,119,血府逐瘀口服液,9,medium,3,Vomiting,1,484
+0,val,77,119,血府逐瘀口服液,9,medium,12,Abdominal distension,1,485
+0,val,78,119,血府逐瘀口服液,9,medium,5,Abdominal pain,1,486
+0,val,79,119,血府逐瘀口服液,9,medium,2,Diarrhoea,1,487
+0,val,80,119,血府逐瘀口服液,9,medium,1,Rash,1,488
+0,val,81,119,血府逐瘀口服液,9,medium,4,Pruritus,1,489
+0,val,82,119,血府逐瘀口服液,9,medium,15,Flushing,1,490
+0,val,83,119,血府逐瘀口服液,9,medium,8,Hypersensitivity,1,491
+0,val,84,251,复方麝香注射液,11,medium,8,Hypersensitivity,1,527
+0,val,85,251,复方麝香注射液,11,medium,88,Pallor,1,528
+0,val,86,251,复方麝香注射液,11,medium,52,Cyanosis,1,529
+0,val,87,251,复方麝香注射液,11,medium,44,Cough,1,530
+0,val,88,251,复方麝香注射液,11,medium,20,Dyspnoea,1,531
+0,val,89,251,复方麝香注射液,11,medium,76,Hyperpyrexia,1,532
+0,val,90,251,复方麝香注射液,11,medium,35,Chills,1,533
+0,val,91,251,复方麝香注射液,11,medium,23,Urticaria,1,534
+0,val,92,251,复方麝香注射液,11,medium,47,Dysphoria,1,535
+0,val,93,251,复方麝香注射液,11,medium,151,Crying,1,536
+0,val,94,251,复方麝香注射液,11,medium,15,Flushing,1,537
+0,val,95,9,脉络舒通颗粒,4,medium,0,Nausea,1,611
+0,val,96,9,脉络舒通颗粒,4,medium,3,Vomiting,1,612
+0,val,97,9,脉络舒通颗粒,4,medium,16,Decreased appetite,1,613
+0,val,98,9,脉络舒通颗粒,4,medium,6,Abdominal discomfort,1,614
+0,val,99,254,舒肝宁注射液,6,medium,8,Hypersensitivity,1,616
+0,val,100,254,舒肝宁注射液,6,medium,1,Rash,1,617
+0,val,101,254,舒肝宁注射液,6,medium,4,Pruritus,1,618
+0,val,102,254,舒肝宁注射液,6,medium,18,Pyrexia,1,619
+0,val,103,254,舒肝宁注射液,6,medium,15,Flushing,1,620
+0,val,104,254,舒肝宁注射液,6,medium,24,Anaphylactic shock,1,621
+0,val,105,187,复方青黛丸,13,head,2,Diarrhoea,1,648
+0,val,106,187,复方青黛丸,13,head,5,Abdominal pain,1,649
+0,val,107,187,复方青黛丸,13,head,0,Nausea,1,650
+0,val,108,187,复方青黛丸,13,head,3,Vomiting,1,651
+0,val,109,187,复方青黛丸,13,head,109,Increased appetite,1,652
+0,val,110,187,复方青黛丸,13,head,114,Drug-induced liver injury,1,653
+0,val,111,187,复方青黛丸,13,head,30,Gastrointestinal haemorrhage,1,654
+0,val,112,187,复方青黛丸,13,head,1,Rash,1,655
+0,val,113,187,复方青黛丸,13,head,4,Pruritus,1,656
+0,val,114,187,复方青黛丸,13,head,72,Dermatitis exfoliative,1,657
+0,val,115,187,复方青黛丸,13,head,71,White blood cell count decreased,1,658
+0,val,116,187,复方青黛丸,13,head,7,Dizziness,1,659
+0,val,117,187,复方青黛丸,13,head,10,Headache,1,660
+0,val,118,140,培元通脑胶囊,3,tail,0,Nausea,1,761
+0,val,119,140,培元通脑胶囊,3,tail,21,Somnolence,1,762
+0,val,120,140,培元通脑胶囊,3,tail,13,Asthenia,1,763
+0,val,121,174,肠康片,4,medium,0,Nausea,1,767
+0,val,122,174,肠康片,4,medium,3,Vomiting,1,768
+0,val,123,174,肠康片,4,medium,1,Rash,1,769
+0,val,124,174,肠康片,4,medium,18,Pyrexia,1,770
+0,val,125,127,健脾生血颗粒,8,medium,108,Tooth discolouration,1,772
+0,val,126,127,健脾生血颗粒,8,medium,48,Melaena,1,773
+0,val,127,127,健脾生血颗粒,8,medium,29,Pain,1,774
+0,val,128,127,健脾生血颗粒,8,medium,19,Constipation,1,775
+0,val,129,127,健脾生血颗粒,8,medium,16,Decreased appetite,1,776
+0,val,130,127,健脾生血颗粒,8,medium,0,Nausea,1,777
+0,val,131,127,健脾生血颗粒,8,medium,3,Vomiting,1,778
+0,val,132,127,健脾生血颗粒,8,medium,2,Diarrhoea,1,779
+0,val,133,54,金莲清热颗粒,11,medium,0,Nausea,1,794
+0,val,134,54,金莲清热颗粒,11,medium,3,Vomiting,1,795
+0,val,135,54,金莲清热颗粒,11,medium,12,Abdominal distension,1,796
+0,val,136,54,金莲清热颗粒,11,medium,5,Abdominal pain,1,797
+0,val,137,54,金莲清热颗粒,11,medium,6,Abdominal discomfort,1,798
+0,val,138,54,金莲清热颗粒,11,medium,2,Diarrhoea,1,799
+0,val,139,54,金莲清热颗粒,11,medium,11,Dry mouth,1,800
+0,val,140,54,金莲清热颗粒,11,medium,1,Rash,1,801
+0,val,141,54,金莲清热颗粒,11,medium,4,Pruritus,1,802
+0,val,142,54,金莲清热颗粒,11,medium,15,Flushing,1,803
+0,val,143,54,金莲清热颗粒,11,medium,8,Hypersensitivity,1,804
+0,val,144,49,通络祛痛膏,4,medium,4,Pruritus,1,938
+0,val,145,49,通络祛痛膏,4,medium,15,Flushing,1,939
+0,val,146,49,通络祛痛膏,4,medium,158,Rash erythematous,1,940
+0,val,147,49,通络祛痛膏,4,medium,159,Dermatitis allergic,1,941
+0,val,148,92,冠心苏合胶囊,12,head,0,Nausea,1,961
+0,val,149,92,冠心苏合胶囊,12,head,3,Vomiting,1,962
+0,val,150,92,冠心苏合胶囊,12,head,12,Abdominal distension,1,963
+0,val,151,92,冠心苏合胶囊,12,head,5,Abdominal pain,1,964
+0,val,152,92,冠心苏合胶囊,12,head,2,Diarrhoea,1,965
+0,val,153,92,冠心苏合胶囊,12,head,6,Abdominal discomfort,1,966
+0,val,154,92,冠心苏合胶囊,12,head,11,Dry mouth,1,967
+0,val,155,92,冠心苏合胶囊,12,head,7,Dizziness,1,968
+0,val,156,92,冠心苏合胶囊,12,head,10,Headache,1,969
+0,val,157,92,冠心苏合胶囊,12,head,1,Rash,1,970
+0,val,158,92,冠心苏合胶囊,12,head,4,Pruritus,1,971
+0,val,159,92,冠心苏合胶囊,12,head,9,Palpitations,1,972
+0,val,160,62,妇炎康片,5,medium,5,Abdominal pain,1,988
+0,val,161,62,妇炎康片,5,medium,7,Dizziness,1,989
+0,val,162,62,妇炎康片,5,medium,3,Vomiting,1,990
+0,val,163,62,妇炎康片,5,medium,1,Rash,1,991
+0,val,164,62,妇炎康片,5,medium,4,Pruritus,1,992
+0,val,165,88,附桂骨痛颗粒,9,medium,6,Abdominal discomfort,1,1048
+0,val,166,88,附桂骨痛颗粒,9,medium,12,Abdominal distension,1,1049
+0,val,167,88,附桂骨痛颗粒,9,medium,7,Dizziness,1,1050
+0,val,168,88,附桂骨痛颗粒,9,medium,10,Headache,1,1051
+0,val,169,88,附桂骨痛颗粒,9,medium,26,Blood pressure increased,1,1052
+0,val,170,88,附桂骨痛颗粒,9,medium,9,Palpitations,1,1053
+0,val,171,88,附桂骨痛颗粒,9,medium,4,Pruritus,1,1054
+0,val,172,88,附桂骨痛颗粒,9,medium,1,Rash,1,1055
+0,val,173,88,附桂骨痛颗粒,9,medium,8,Hypersensitivity,1,1056
+0,val,174,224,镇痛活络酊,6,medium,4,Pruritus,1,1146
+0,val,175,224,镇痛活络酊,6,medium,29,Pain,1,1147
+0,val,176,224,镇痛活络酊,6,medium,1,Rash,1,1148
+0,val,177,224,镇痛活络酊,6,medium,22,Erythema,1,1149
+0,val,178,224,镇痛活络酊,6,medium,41,Papule,1,1150
+0,val,179,224,镇痛活络酊,6,medium,79,Blister,1,1151
+0,val,180,19,蒲地蓝消炎胶囊,10,medium,0,Nausea,1,1175
+0,val,181,19,蒲地蓝消炎胶囊,10,medium,3,Vomiting,1,1176
+0,val,182,19,蒲地蓝消炎胶囊,10,medium,12,Abdominal distension,1,1177
+0,val,183,19,蒲地蓝消炎胶囊,10,medium,5,Abdominal pain,1,1178
+0,val,184,19,蒲地蓝消炎胶囊,10,medium,2,Diarrhoea,1,1179
+0,val,185,19,蒲地蓝消炎胶囊,10,medium,7,Dizziness,1,1180
+0,val,186,19,蒲地蓝消炎胶囊,10,medium,13,Asthenia,1,1181
+0,val,187,19,蒲地蓝消炎胶囊,10,medium,1,Rash,1,1182
+0,val,188,19,蒲地蓝消炎胶囊,10,medium,4,Pruritus,1,1183
+0,val,189,19,蒲地蓝消炎胶囊,10,medium,8,Hypersensitivity,1,1184
+0,val,190,228,丹参滴注液,3,tail,8,Hypersensitivity,1,1244
+0,val,191,228,丹参滴注液,3,tail,9,Palpitations,1,1245
+0,val,192,228,丹参滴注液,3,tail,3,Vomiting,1,1246
+0,val,193,230,三金胶囊,12,head,0,Nausea,1,1256
+0,val,194,230,三金胶囊,12,head,3,Vomiting,1,1257
+0,val,195,230,三金胶囊,12,head,5,Abdominal pain,1,1258
+0,val,196,230,三金胶囊,12,head,2,Diarrhoea,1,1259
+0,val,197,230,三金胶囊,12,head,12,Abdominal distension,1,1260
+0,val,198,230,三金胶囊,12,head,11,Dry mouth,1,1261
+0,val,199,230,三金胶囊,12,head,1,Rash,1,1262
+0,val,200,230,三金胶囊,12,head,4,Pruritus,1,1263
+0,val,201,230,三金胶囊,12,head,7,Dizziness,1,1264
+0,val,202,230,三金胶囊,12,head,10,Headache,1,1265
+0,val,203,230,三金胶囊,12,head,8,Hypersensitivity,1,1266
+0,val,204,230,三金胶囊,12,head,9,Palpitations,1,1267
+0,val,205,231,清润丸,3,tail,2,Diarrhoea,1,1269
+0,val,206,231,清润丸,3,tail,6,Abdominal discomfort,1,1270
+0,val,207,231,清润丸,3,tail,3,Vomiting,1,1271
+0,val,208,216,胃欣舒胶囊,7,medium,11,Dry mouth,1,1276
+0,val,209,216,胃欣舒胶囊,7,medium,19,Constipation,1,1277
+0,val,210,216,胃欣舒胶囊,7,medium,113,Hypohidrosis,1,1278
+0,val,211,216,胃欣舒胶囊,7,medium,111,Nasal dryness,1,1279
+0,val,212,216,胃欣舒胶囊,7,medium,62,Dry skin,1,1280
+0,val,213,216,胃欣舒胶囊,7,medium,75,Vision blurred,1,1281
+0,val,214,216,胃欣舒胶囊,7,medium,81,Dysuria,1,1282
+0,val,215,117,黄连上清颗粒,9,medium,2,Diarrhoea,1,1292
+0,val,216,117,黄连上清颗粒,9,medium,5,Abdominal pain,1,1293
+0,val,217,117,黄连上清颗粒,9,medium,0,Nausea,1,1294
+0,val,218,117,黄连上清颗粒,9,medium,3,Vomiting,1,1295
+0,val,219,117,黄连上清颗粒,9,medium,1,Rash,1,1296
+0,val,220,117,黄连上清颗粒,9,medium,4,Pruritus,1,1297
+0,val,221,117,黄连上清颗粒,9,medium,6,Abdominal discomfort,1,1298
+0,val,222,117,黄连上清颗粒,9,medium,13,Asthenia,1,1299
+0,val,223,117,黄连上清颗粒,9,medium,8,Hypersensitivity,1,1300
+0,val,224,234,金防感冒颗粒,6,medium,1,Rash,1,1304
+0,val,225,234,金防感冒颗粒,6,medium,23,Urticaria,1,1305
+0,val,226,234,金防感冒颗粒,6,medium,18,Pyrexia,1,1306
+0,val,227,234,金防感冒颗粒,6,medium,87,Neutrophil count decreased,1,1307
+0,val,228,234,金防感冒颗粒,6,medium,17,Hepatic function abnormal,1,1308
+0,val,229,234,金防感冒颗粒,6,medium,78,Renal impairment,1,1309
+0,val,230,235,感愈胶囊,6,medium,1,Rash,1,1310
+0,val,231,235,感愈胶囊,6,medium,23,Urticaria,1,1311
+0,val,232,235,感愈胶囊,6,medium,18,Pyrexia,1,1312
+0,val,233,235,感愈胶囊,6,medium,87,Neutrophil count decreased,1,1313
+0,val,234,235,感愈胶囊,6,medium,17,Hepatic function abnormal,1,1314
+0,val,235,235,感愈胶囊,6,medium,78,Renal impairment,1,1315
+0,val,236,236,金感欣片,10,medium,101,Lethargy,1,1316
+0,val,237,236,金感欣片,10,medium,21,Somnolence,1,1317
+0,val,238,236,金感欣片,10,medium,56,Thirst,1,1318
+0,val,239,236,金感欣片,10,medium,13,Asthenia,1,1319
+0,val,240,236,金感欣片,10,medium,1,Rash,1,1320
+0,val,241,236,金感欣片,10,medium,23,Urticaria,1,1321
+0,val,242,236,金感欣片,10,medium,18,Pyrexia,1,1322
+0,val,243,236,金感欣片,10,medium,87,Neutrophil count decreased,1,1323
+0,val,244,236,金感欣片,10,medium,17,Hepatic function abnormal,1,1324
+0,val,245,236,金感欣片,10,medium,78,Renal impairment,1,1325
+0,val,246,239,酸痛喷雾剂,7,medium,8,Hypersensitivity,1,1363
+0,val,247,239,酸痛喷雾剂,7,medium,4,Pruritus,1,1364
+0,val,248,239,酸痛喷雾剂,7,medium,29,Pain,1,1365
+0,val,249,239,酸痛喷雾剂,7,medium,1,Rash,1,1366
+0,val,250,239,酸痛喷雾剂,7,medium,22,Erythema,1,1367
+0,val,251,239,酸痛喷雾剂,7,medium,41,Papule,1,1368
+0,val,252,239,酸痛喷雾剂,7,medium,79,Blister,1,1369
+0,val,253,90,冠心丹参胶囊,7,medium,8,Hypersensitivity,1,1593
+0,val,254,90,冠心丹参胶囊,7,medium,11,Dry mouth,1,1594
+0,val,255,90,冠心丹参胶囊,7,medium,73,Epigastric discomfort,1,1595
+0,val,256,90,冠心丹参胶囊,7,medium,0,Nausea,1,1596
+0,val,257,90,冠心丹参胶囊,7,medium,3,Vomiting,1,1597
+0,val,258,90,冠心丹参胶囊,7,medium,10,Headache,1,1598
+0,val,259,90,冠心丹参胶囊,7,medium,141,Neurological symptom,1,1599
+0,val,260,166,白蚀丸,13,head,16,Decreased appetite,1,1631
+0,val,261,166,白蚀丸,13,head,0,Nausea,1,1632
+0,val,262,166,白蚀丸,13,head,25,Dyspepsia,1,1633
+0,val,263,166,白蚀丸,13,head,38,Abdominal pain upper,1,1634
+0,val,264,166,白蚀丸,13,head,45,Chromaturia,1,1635
+0,val,265,166,白蚀丸,13,head,51,Ocular icterus,1,1636
+0,val,266,166,白蚀丸,13,head,59,Yellow skin,1,1637
+0,val,267,166,白蚀丸,13,head,49,Transaminases increased,1,1638
+0,val,268,166,白蚀丸,13,head,17,Hepatic function abnormal,1,1639
+0,val,269,166,白蚀丸,13,head,74,Hepatic failure,1,1640
+0,val,270,166,白蚀丸,13,head,1,Rash,1,1641
+0,val,271,166,白蚀丸,13,head,13,Asthenia,1,1642
+0,val,272,166,白蚀丸,13,head,7,Dizziness,1,1643
+0,val,273,67,丹益片,4,medium,17,Hepatic function abnormal,1,1741
+0,val,274,67,丹益片,4,medium,38,Abdominal pain upper,1,1742
+0,val,275,67,丹益片,4,medium,2,Diarrhoea,1,1743
+0,val,276,67,丹益片,4,medium,25,Dyspepsia,1,1744
+0,val,277,24,灯盏细辛颗粒,4,medium,22,Erythema,1,1745
+0,val,278,24,灯盏细辛颗粒,4,medium,14,Chest discomfort,1,1746
+0,val,279,24,灯盏细辛颗粒,4,medium,7,Dizziness,1,1747
+0,val,280,24,灯盏细辛颗粒,4,medium,29,Pain,1,1748
+0,val,281,25,金蝉止痒胶囊,6,medium,11,Dry mouth,1,1751
+0,val,282,25,金蝉止痒胶囊,6,medium,16,Decreased appetite,1,1752
+0,val,283,25,金蝉止痒胶囊,6,medium,0,Nausea,1,1753
+0,val,284,25,金蝉止痒胶囊,6,medium,3,Vomiting,1,1754
+0,val,285,25,金蝉止痒胶囊,6,medium,2,Diarrhoea,1,1755
+0,val,286,25,金蝉止痒胶囊,6,medium,7,Dizziness,1,1756
+0,val,287,152,化痔栓,7,medium,4,Pruritus,1,1849
+0,val,288,152,化痔栓,7,medium,1,Rash,1,1850
+0,val,289,152,化痔栓,7,medium,2,Diarrhoea,1,1851
+0,val,290,152,化痔栓,7,medium,5,Abdominal pain,1,1852
+0,val,291,152,化痔栓,7,medium,8,Hypersensitivity,1,1853
+0,val,292,152,化痔栓,7,medium,7,Dizziness,1,1854
+0,val,293,152,化痔栓,7,medium,9,Palpitations,1,1855
+0,val,294,50,疏风定痛丸,5,medium,138,Muscle tightness,1,2046
+0,val,295,50,疏风定痛丸,5,medium,136,Neck pain,1,2047
+0,val,296,50,疏风定痛丸,5,medium,10,Headache,1,2048
+0,val,297,50,疏风定痛丸,5,medium,65,Tremor,1,2049
+0,val,298,50,疏风定痛丸,5,medium,20,Dyspnoea,1,2050
+0,val,299,30,乳康颗粒,5,medium,0,Nausea,1,2189
+0,val,300,30,乳康颗粒,5,medium,2,Diarrhoea,1,2190
+0,val,301,30,乳康颗粒,5,medium,102,Menstruation irregular,1,2191
+0,val,302,30,乳康颗粒,5,medium,82,Heavy menstrual bleeding,1,2192
+0,val,303,30,乳康颗粒,5,medium,40,Drug eruption,1,2193
+0,val,304,119,血府逐瘀口服液,9,medium,59,Yellow skin,0,-1
+0,val,305,187,复方青黛丸,13,head,25,Dyspepsia,0,-1
+0,val,306,239,酸痛喷雾剂,7,medium,150,Alopecia,0,-1
+0,val,307,19,蒲地蓝消炎胶囊,10,medium,15,Flushing,0,-1
+0,val,308,250,康艾注射液,9,medium,10,Headache,0,-1
+0,val,309,235,感愈胶囊,6,medium,165,Allergic oedema,0,-1
+0,val,310,152,化痔栓,7,medium,11,Dry mouth,0,-1
+0,val,311,187,复方青黛丸,13,head,61,Tachypnoea,0,-1
+0,val,312,61,首乌丸,8,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+0,val,313,144,川贝枇杷糖浆,8,medium,42,Epistaxis,0,-1
+0,val,314,30,乳康颗粒,5,medium,12,Abdominal distension,0,-1
+0,val,315,236,金感欣片,10,medium,144,Coagulopathy,0,-1
+0,val,316,230,三金胶囊,12,head,128,Blood urea increased,0,-1
+0,val,317,239,酸痛喷雾剂,7,medium,106,Hypertension,0,-1
+0,val,318,67,丹益片,4,medium,49,Transaminases increased,0,-1
+0,val,319,90,冠心丹参胶囊,7,medium,133,Confusional state,0,-1
+0,val,320,9,脉络舒通颗粒,4,medium,100,Tongue paralysis,0,-1
+0,val,321,152,化痔栓,7,medium,80,Acute kidney injury,0,-1
+0,val,322,88,附桂骨痛颗粒,9,medium,5,Abdominal pain,0,-1
+0,val,323,117,黄连上清颗粒,9,medium,71,White blood cell count decreased,0,-1
+0,val,324,254,舒肝宁注射液,6,medium,154,Male sexual dysfunction,0,-1
+0,val,325,25,金蝉止痒胶囊,6,medium,55,Vertigo,0,-1
+0,val,326,144,川贝枇杷糖浆,8,medium,156,Anal incontinence,0,-1
+0,val,327,30,乳康颗粒,5,medium,138,Muscle tightness,0,-1
+0,val,328,250,康艾注射液,9,medium,142,Red blood cells urine,0,-1
+0,val,329,254,舒肝宁注射液,6,medium,114,Drug-induced liver injury,0,-1
+0,val,330,62,妇炎康片,5,medium,130,Injection site pruritus,0,-1
+0,val,331,61,首乌丸,8,medium,74,Hepatic failure,0,-1
+0,val,332,254,舒肝宁注射液,6,medium,105,Muscle twitching,0,-1
+0,val,333,236,金感欣片,10,medium,157,Hypothermia,0,-1
+0,val,334,216,胃欣舒胶囊,7,medium,79,Blister,0,-1
+0,val,335,234,金防感冒颗粒,6,medium,85,Pigmentation disorder,0,-1
+0,val,336,117,黄连上清颗粒,9,medium,88,Pallor,0,-1
+0,val,337,235,感愈胶囊,6,medium,98,Oedema peripheral,0,-1
+0,val,338,224,镇痛活络酊,6,medium,100,Tongue paralysis,0,-1
+0,val,339,228,丹参滴注液,3,tail,116,Hepatitis,0,-1
+0,val,340,144,川贝枇杷糖浆,8,medium,67,Gastrointestinal disorder,0,-1
+0,val,341,50,疏风定痛丸,5,medium,34,Oedema,0,-1
+0,val,342,224,镇痛活络酊,6,medium,148,Oropharyngeal pain,0,-1
+0,val,343,46,黄藤素片,5,medium,151,Crying,0,-1
+0,val,344,251,复方麝香注射液,11,medium,55,Vertigo,0,-1
+0,val,345,61,首乌丸,8,medium,43,Haematuria,0,-1
+0,val,346,254,舒肝宁注射液,6,medium,128,Blood urea increased,0,-1
+0,val,347,61,首乌丸,8,medium,47,Dysphoria,0,-1
+0,val,348,254,舒肝宁注射液,6,medium,62,Dry skin,0,-1
+0,val,349,19,蒲地蓝消炎胶囊,10,medium,161,Mucosal irritation,0,-1
+0,val,350,208,稳心颗粒,11,medium,100,Tongue paralysis,0,-1
+0,val,351,117,黄连上清颗粒,9,medium,89,Liver injury,0,-1
+0,val,352,178,茵栀黄颗粒,7,medium,108,Tooth discolouration,0,-1
+0,val,353,88,附桂骨痛颗粒,9,medium,162,Dry throat,0,-1
+0,val,354,216,胃欣舒胶囊,7,medium,155,Malaise,0,-1
+0,val,355,178,茵栀黄颗粒,7,medium,161,Mucosal irritation,0,-1
+0,val,356,50,疏风定痛丸,5,medium,54,Poisoning,0,-1
+0,val,357,92,冠心苏合胶囊,12,head,29,Pain,0,-1
+0,val,358,235,感愈胶囊,6,medium,41,Papule,0,-1
+0,val,359,90,冠心丹参胶囊,7,medium,92,Burning sensation,0,-1
+0,val,360,90,冠心丹参胶囊,7,medium,64,Epidermal necrosis,0,-1
+0,val,361,208,稳心颗粒,11,medium,121,Conjunctival haemorrhage,0,-1
+0,val,362,88,附桂骨痛颗粒,9,medium,50,Hyperchlorhydria,0,-1
+0,val,363,174,肠康片,4,medium,126,Application site pruritus,0,-1
+0,val,364,231,清润丸,3,tail,170,Faeces discoloured,0,-1
+0,val,365,254,舒肝宁注射液,6,medium,141,Neurological symptom,0,-1
+0,val,366,25,金蝉止痒胶囊,6,medium,123,Coma,0,-1
+0,val,367,46,黄藤素片,5,medium,121,Conjunctival haemorrhage,0,-1
+0,val,368,239,酸痛喷雾剂,7,medium,95,Blood bilirubin increased,0,-1
+0,val,369,251,复方麝香注射液,11,medium,62,Dry skin,0,-1
+0,val,370,140,培元通脑胶囊,3,tail,94,General symptom,0,-1
+0,val,371,19,蒲地蓝消炎胶囊,10,medium,160,Skin irritation,0,-1
+0,val,372,88,附桂骨痛颗粒,9,medium,131,Dermatitis,0,-1
+0,val,373,230,三金胶囊,12,head,147,Macule,0,-1
+0,val,374,46,黄藤素片,5,medium,49,Transaminases increased,0,-1
+0,val,375,235,感愈胶囊,6,medium,19,Constipation,0,-1
+0,val,376,46,黄藤素片,5,medium,98,Oedema peripheral,0,-1
+0,val,377,67,丹益片,4,medium,67,Gastrointestinal disorder,0,-1
+0,val,378,49,通络祛痛膏,4,medium,40,Drug eruption,0,-1
+0,val,379,235,感愈胶囊,6,medium,103,Hiccups,0,-1
+0,val,380,92,冠心苏合胶囊,12,head,16,Decreased appetite,0,-1
+0,val,381,250,康艾注射液,9,medium,25,Dyspepsia,0,-1
+0,val,382,231,清润丸,3,tail,145,Gastrointestinal tract mucosal pigmentation,0,-1
+0,val,383,127,健脾生血颗粒,8,medium,107,Temperature intolerance,0,-1
+0,val,384,166,白蚀丸,13,head,88,Pallor,0,-1
+0,val,385,49,通络祛痛膏,4,medium,5,Abdominal pain,0,-1
+0,val,386,208,稳心颗粒,11,medium,160,Skin irritation,0,-1
+0,val,387,228,丹参滴注液,3,tail,113,Hypohidrosis,0,-1
+0,val,388,88,附桂骨痛颗粒,9,medium,61,Tachypnoea,0,-1
+0,val,389,228,丹参滴注液,3,tail,76,Hyperpyrexia,0,-1
+0,val,390,140,培元通脑胶囊,3,tail,116,Hepatitis,0,-1
+0,val,391,119,血府逐瘀口服液,9,medium,127,Infection,0,-1
+0,val,392,152,化痔栓,7,medium,98,Oedema peripheral,0,-1
+0,val,393,24,灯盏细辛颗粒,4,medium,126,Application site pruritus,0,-1
+0,val,394,228,丹参滴注液,3,tail,123,Coma,0,-1
+0,val,395,251,复方麝香注射液,11,medium,137,Application site pain,0,-1
+0,val,396,250,康艾注射液,9,medium,87,Neutrophil count decreased,0,-1
+0,val,397,25,金蝉止痒胶囊,6,medium,105,Muscle twitching,0,-1
+0,val,398,140,培元通脑胶囊,3,tail,23,Urticaria,0,-1
+0,val,399,174,肠康片,4,medium,135,Platelet count decreased,0,-1
+0,val,400,239,酸痛喷雾剂,7,medium,93,Purpura,0,-1
+0,val,401,88,附桂骨痛颗粒,9,medium,139,Lacrimation increased,0,-1
+0,val,402,234,金防感冒颗粒,6,medium,132,Swelling,0,-1
+0,val,403,119,血府逐瘀口服液,9,medium,77,Myoclonus,0,-1
+0,val,404,152,化痔栓,7,medium,120,Skin atrophy,0,-1
+0,val,405,166,白蚀丸,13,head,77,Myoclonus,0,-1
+0,val,406,92,冠心苏合胶囊,12,head,59,Yellow skin,0,-1
+0,val,407,216,胃欣舒胶囊,7,medium,28,Hyperhidrosis,0,-1
+0,val,408,2,复方双花口服液,3,tail,23,Urticaria,0,-1
+0,val,409,250,康艾注射液,9,medium,130,Injection site pruritus,0,-1
+0,val,410,236,金感欣片,10,medium,117,Haemorrhage subcutaneous,0,-1
+0,val,411,25,金蝉止痒胶囊,6,medium,106,Hypertension,0,-1
+0,val,412,236,金感欣片,10,medium,102,Menstruation irregular,0,-1
+0,val,413,152,化痔栓,7,medium,151,Crying,0,-1
+0,val,414,228,丹参滴注液,3,tail,133,Confusional state,0,-1
+0,val,415,231,清润丸,3,tail,46,Head discomfort,0,-1
+0,val,416,234,金防感冒颗粒,6,medium,153,Vaginal haemorrhage,0,-1
+0,val,417,117,黄连上清颗粒,9,medium,150,Alopecia,0,-1
+0,val,418,24,灯盏细辛颗粒,4,medium,25,Dyspepsia,0,-1
+0,val,419,251,复方麝香注射液,11,medium,146,Tinnitus,0,-1
+0,val,420,178,茵栀黄颗粒,7,medium,126,Application site pruritus,0,-1
+0,val,421,127,健脾生血颗粒,8,medium,149,Eyelid oedema,0,-1
+0,val,422,61,首乌丸,8,medium,139,Lacrimation increased,0,-1
+0,val,423,144,川贝枇杷糖浆,8,medium,79,Blister,0,-1
+0,val,424,61,首乌丸,8,medium,90,Henoch-Schonlein purpura,0,-1
+0,val,425,166,白蚀丸,13,head,131,Dermatitis,0,-1
+0,val,426,88,附桂骨痛颗粒,9,medium,59,Yellow skin,0,-1
+0,val,427,92,冠心苏合胶囊,12,head,22,Erythema,0,-1
+0,val,428,90,冠心丹参胶囊,7,medium,17,Hepatic function abnormal,0,-1
+0,val,429,92,冠心苏合胶囊,12,head,144,Coagulopathy,0,-1
+0,val,430,187,复方青黛丸,13,head,69,Arrhythmia,0,-1
+0,val,431,208,稳心颗粒,11,medium,164,Drooling,0,-1
+0,val,432,46,黄藤素片,5,medium,80,Acute kidney injury,0,-1
+0,val,433,208,稳心颗粒,11,medium,67,Gastrointestinal disorder,0,-1
+0,val,434,166,白蚀丸,13,head,52,Cyanosis,0,-1
+0,val,435,251,复方麝香注射液,11,medium,84,Chronic arsenic toxicity,0,-1
+0,val,436,117,黄连上清颗粒,9,medium,31,Dysgeusia,0,-1
+0,val,437,234,金防感冒颗粒,6,medium,30,Gastrointestinal haemorrhage,0,-1
+0,val,438,250,康艾注射液,9,medium,32,Eructation,0,-1
+0,val,439,19,蒲地蓝消炎胶囊,10,medium,71,White blood cell count decreased,0,-1
+0,val,440,19,蒲地蓝消炎胶囊,10,medium,51,Ocular icterus,0,-1
+0,val,441,25,金蝉止痒胶囊,6,medium,158,Rash erythematous,0,-1
+0,val,442,228,丹参滴注液,3,tail,62,Dry skin,0,-1
+0,val,443,251,复方麝香注射液,11,medium,45,Chromaturia,0,-1
+0,val,444,152,化痔栓,7,medium,160,Skin irritation,0,-1
+0,val,445,2,复方双花口服液,3,tail,136,Neck pain,0,-1
+0,val,446,46,黄藤素片,5,medium,26,Blood pressure increased,0,-1
+0,val,447,49,通络祛痛膏,4,medium,136,Neck pain,0,-1
+0,val,448,152,化痔栓,7,medium,135,Platelet count decreased,0,-1
+0,val,449,2,复方双花口服液,3,tail,7,Dizziness,0,-1
+0,val,450,144,川贝枇杷糖浆,8,medium,64,Epidermal necrosis,0,-1
+0,val,451,61,首乌丸,8,medium,5,Abdominal pain,0,-1
+0,val,452,234,金防感冒颗粒,6,medium,80,Acute kidney injury,0,-1
+0,val,453,46,黄藤素片,5,medium,91,Haematochezia,0,-1
+0,val,454,230,三金胶囊,12,head,98,Oedema peripheral,0,-1
+0,val,455,90,冠心丹参胶囊,7,medium,168,Instillation site irritation,0,-1
+0,val,456,49,通络祛痛膏,4,medium,144,Coagulopathy,0,-1
+0,val,457,88,附桂骨痛颗粒,9,medium,104,Dyschezia,0,-1
+0,val,458,25,金蝉止痒胶囊,6,medium,107,Temperature intolerance,0,-1
+0,val,459,230,三金胶囊,12,head,136,Neck pain,0,-1
+0,val,460,117,黄连上清颗粒,9,medium,168,Instillation site irritation,0,-1
+0,val,461,67,丹益片,4,medium,73,Epigastric discomfort,0,-1
+0,val,462,25,金蝉止痒胶囊,6,medium,18,Pyrexia,0,-1
+0,val,463,119,血府逐瘀口服液,9,medium,100,Tongue paralysis,0,-1
+0,val,464,231,清润丸,3,tail,49,Transaminases increased,0,-1
+0,val,465,230,三金胶囊,12,head,89,Liver injury,0,-1
+0,val,466,50,疏风定痛丸,5,medium,30,Gastrointestinal haemorrhage,0,-1
+0,val,467,19,蒲地蓝消炎胶囊,10,medium,99,Anaphylactoid reaction,0,-1
+0,val,468,127,健脾生血颗粒,8,medium,137,Application site pain,0,-1
+0,val,469,228,丹参滴注液,3,tail,57,Laryngeal oedema,0,-1
+0,val,470,91,冠心苏合丸,12,head,39,Rash maculo-papular,0,-1
+0,val,471,236,金感欣片,10,medium,59,Yellow skin,0,-1
+0,val,472,234,金防感冒颗粒,6,medium,170,Faeces discoloured,0,-1
+0,val,473,239,酸痛喷雾剂,7,medium,137,Application site pain,0,-1
+0,val,474,62,妇炎康片,5,medium,107,Temperature intolerance,0,-1
+0,val,475,144,川贝枇杷糖浆,8,medium,76,Hyperpyrexia,0,-1
+0,val,476,230,三金胶囊,12,head,143,Syncope,0,-1
+0,val,477,25,金蝉止痒胶囊,6,medium,90,Henoch-Schonlein purpura,0,-1
+0,val,478,235,感愈胶囊,6,medium,38,Abdominal pain upper,0,-1
+0,val,479,25,金蝉止痒胶囊,6,medium,122,Skin reaction,0,-1
+0,val,480,2,复方双花口服液,3,tail,10,Headache,0,-1
+0,val,481,61,首乌丸,8,medium,103,Hiccups,0,-1
+0,val,482,159,六味地黄胶囊,12,head,143,Syncope,0,-1
+0,val,483,24,灯盏细辛颗粒,4,medium,146,Tinnitus,0,-1
+0,val,484,216,胃欣舒胶囊,7,medium,129,Ocular hyperaemia,0,-1
+0,val,485,62,妇炎康片,5,medium,41,Papule,0,-1
+0,val,486,174,肠康片,4,medium,167,Arthralgia,0,-1
+0,val,487,234,金防感冒颗粒,6,medium,6,Abdominal discomfort,0,-1
+0,val,488,152,化痔栓,7,medium,41,Papule,0,-1
+0,val,489,2,复方双花口服液,3,tail,79,Blister,0,-1
+0,val,490,2,复方双花口服液,3,tail,69,Arrhythmia,0,-1
+0,val,491,234,金防感冒颗粒,6,medium,139,Lacrimation increased,0,-1
+0,val,492,117,黄连上清颗粒,9,medium,30,Gastrointestinal haemorrhage,0,-1
+0,val,493,254,舒肝宁注射液,6,medium,157,Hypothermia,0,-1
+0,val,494,30,乳康颗粒,5,medium,164,Drooling,0,-1
+0,val,495,144,川贝枇杷糖浆,8,medium,19,Constipation,0,-1
+0,val,496,234,金防感冒颗粒,6,medium,126,Application site pruritus,0,-1
+0,val,497,46,黄藤素片,5,medium,93,Purpura,0,-1
+0,val,498,159,六味地黄胶囊,12,head,150,Alopecia,0,-1
+0,val,499,24,灯盏细辛颗粒,4,medium,88,Pallor,0,-1
+0,val,500,62,妇炎康片,5,medium,64,Epidermal necrosis,0,-1
+0,val,501,127,健脾生血颗粒,8,medium,26,Blood pressure increased,0,-1
+0,val,502,25,金蝉止痒胶囊,6,medium,74,Hepatic failure,0,-1
+0,val,503,236,金感欣片,10,medium,100,Tongue paralysis,0,-1
+0,val,504,254,舒肝宁注射液,6,medium,66,Aspartate aminotransferase increased,0,-1
+0,val,505,30,乳康颗粒,5,medium,13,Asthenia,0,-1
+0,val,506,30,乳康颗粒,5,medium,19,Constipation,0,-1
+0,val,507,91,冠心苏合丸,12,head,103,Hiccups,0,-1
+0,val,508,119,血府逐瘀口服液,9,medium,65,Tremor,0,-1
+0,val,509,90,冠心丹参胶囊,7,medium,147,Macule,0,-1
+0,val,510,46,黄藤素片,5,medium,134,Laryngeal discomfort,0,-1
+0,val,511,127,健脾生血颗粒,8,medium,23,Urticaria,0,-1
+0,val,512,250,康艾注射液,9,medium,125,Application site telangiectasia,0,-1
+0,val,513,254,舒肝宁注射液,6,medium,127,Infection,0,-1
+0,val,514,239,酸痛喷雾剂,7,medium,120,Skin atrophy,0,-1
+0,val,515,46,黄藤素片,5,medium,101,Lethargy,0,-1
+0,val,516,230,三金胶囊,12,head,29,Pain,0,-1
+0,val,517,231,清润丸,3,tail,153,Vaginal haemorrhage,0,-1
+0,val,518,49,通络祛痛膏,4,medium,11,Dry mouth,0,-1
+0,val,519,24,灯盏细辛颗粒,4,medium,68,Flatulence,0,-1
+0,val,520,178,茵栀黄颗粒,7,medium,93,Purpura,0,-1
+0,val,521,208,稳心颗粒,11,medium,44,Cough,0,-1
+0,val,522,2,复方双花口服液,3,tail,72,Dermatitis exfoliative,0,-1
+0,val,523,50,疏风定痛丸,5,medium,18,Pyrexia,0,-1
+0,val,524,144,川贝枇杷糖浆,8,medium,165,Allergic oedema,0,-1
+0,val,525,117,黄连上清颗粒,9,medium,92,Burning sensation,0,-1
+0,val,526,236,金感欣片,10,medium,29,Pain,0,-1
+0,val,527,61,首乌丸,8,medium,100,Tongue paralysis,0,-1
+0,val,528,228,丹参滴注液,3,tail,78,Renal impairment,0,-1
+0,val,529,239,酸痛喷雾剂,7,medium,80,Acute kidney injury,0,-1
+0,val,530,49,通络祛痛膏,4,medium,82,Heavy menstrual bleeding,0,-1
+0,val,531,140,培元通脑胶囊,3,tail,95,Blood bilirubin increased,0,-1
+0,val,532,224,镇痛活络酊,6,medium,147,Macule,0,-1
+0,val,533,234,金防感冒颗粒,6,medium,63,Face oedema,0,-1
+0,val,534,152,化痔栓,7,medium,20,Dyspnoea,0,-1
+0,val,535,61,首乌丸,8,medium,134,Laryngeal discomfort,0,-1
+0,val,536,25,金蝉止痒胶囊,6,medium,53,Phlebitis,0,-1
+0,val,537,25,金蝉止痒胶囊,6,medium,166,Myalgia,0,-1
+0,val,538,46,黄藤素片,5,medium,157,Hypothermia,0,-1
+0,val,539,239,酸痛喷雾剂,7,medium,115,Ecchymosis,0,-1
+0,val,540,46,黄藤素片,5,medium,15,Flushing,0,-1
+0,val,541,216,胃欣舒胶囊,7,medium,93,Purpura,0,-1
+0,val,542,236,金感欣片,10,medium,94,General symptom,0,-1
+0,val,543,127,健脾生血颗粒,8,medium,34,Oedema,0,-1
+0,val,544,117,黄连上清颗粒,9,medium,95,Blood bilirubin increased,0,-1
+0,val,545,144,川贝枇杷糖浆,8,medium,77,Myoclonus,0,-1
+0,val,546,91,冠心苏合丸,12,head,113,Hypohidrosis,0,-1
+0,val,547,251,复方麝香注射液,11,medium,108,Tooth discolouration,0,-1
+0,val,548,46,黄藤素片,5,medium,156,Anal incontinence,0,-1
+0,val,549,67,丹益片,4,medium,51,Ocular icterus,0,-1
+0,val,550,88,附桂骨痛颗粒,9,medium,128,Blood urea increased,0,-1
+0,val,551,230,三金胶囊,12,head,54,Poisoning,0,-1
+0,val,552,25,金蝉止痒胶囊,6,medium,33,Blood pressure decreased,0,-1
+0,val,553,67,丹益片,4,medium,54,Poisoning,0,-1
+0,val,554,187,复方青黛丸,13,head,123,Coma,0,-1
+0,val,555,224,镇痛活络酊,6,medium,20,Dyspnoea,0,-1
+0,val,556,224,镇痛活络酊,6,medium,12,Abdominal distension,0,-1
+0,val,557,236,金感欣片,10,medium,14,Chest discomfort,0,-1
+0,val,558,224,镇痛活络酊,6,medium,77,Myoclonus,0,-1
+0,val,559,90,冠心丹参胶囊,7,medium,28,Hyperhidrosis,0,-1
+0,val,560,250,康艾注射液,9,medium,170,Faeces discoloured,0,-1
+0,val,561,234,金防感冒颗粒,6,medium,97,Injection site pain,0,-1
+0,val,562,9,脉络舒通颗粒,4,medium,55,Vertigo,0,-1
+0,val,563,230,三金胶囊,12,head,167,Arthralgia,0,-1
+0,val,564,90,冠心丹参胶囊,7,medium,167,Arthralgia,0,-1
+0,val,565,61,首乌丸,8,medium,34,Oedema,0,-1
+0,val,566,174,肠康片,4,medium,153,Vaginal haemorrhage,0,-1
+0,val,567,224,镇痛活络酊,6,medium,71,White blood cell count decreased,0,-1
+0,val,568,174,肠康片,4,medium,86,Stevens-Johnson syndrome,0,-1
+0,val,569,54,金莲清热颗粒,11,medium,63,Face oedema,0,-1
+0,val,570,239,酸痛喷雾剂,7,medium,76,Hyperpyrexia,0,-1
+0,val,571,127,健脾生血颗粒,8,medium,99,Anaphylactoid reaction,0,-1
+0,val,572,90,冠心丹参胶囊,7,medium,116,Hepatitis,0,-1
+0,val,573,230,三金胶囊,12,head,67,Gastrointestinal disorder,0,-1
+0,val,574,19,蒲地蓝消炎胶囊,10,medium,122,Skin reaction,0,-1
+0,val,575,251,复方麝香注射液,11,medium,43,Haematuria,0,-1
+0,val,576,251,复方麝香注射液,11,medium,130,Injection site pruritus,0,-1
+0,val,577,62,妇炎康片,5,medium,149,Eyelid oedema,0,-1
+0,val,578,166,白蚀丸,13,head,133,Confusional state,0,-1
+0,val,579,127,健脾生血颗粒,8,medium,51,Ocular icterus,0,-1
+0,val,580,30,乳康颗粒,5,medium,99,Anaphylactoid reaction,0,-1
+0,val,581,62,妇炎康片,5,medium,163,Skin test positive,0,-1
+0,val,582,174,肠康片,4,medium,2,Diarrhoea,0,-1
+0,val,583,228,丹参滴注液,3,tail,160,Skin irritation,0,-1
+0,val,584,216,胃欣舒胶囊,7,medium,131,Dermatitis,0,-1
+0,val,585,24,灯盏细辛颗粒,4,medium,89,Liver injury,0,-1
+0,val,586,178,茵栀黄颗粒,7,medium,74,Hepatic failure,0,-1
+0,val,587,2,复方双花口服液,3,tail,101,Lethargy,0,-1
+0,val,588,119,血府逐瘀口服液,9,medium,10,Headache,0,-1
+0,val,589,91,冠心苏合丸,12,head,129,Ocular hyperaemia,0,-1
+0,val,590,46,黄藤素片,5,medium,92,Burning sensation,0,-1
+0,val,591,127,健脾生血颗粒,8,medium,58,Gingival bleeding,0,-1
+0,val,592,208,稳心颗粒,11,medium,86,Stevens-Johnson syndrome,0,-1
+0,val,593,140,培元通脑胶囊,3,tail,170,Faeces discoloured,0,-1
+0,val,594,119,血府逐瘀口服液,9,medium,47,Dysphoria,0,-1
+0,val,595,234,金防感冒颗粒,6,medium,33,Blood pressure decreased,0,-1
+0,val,596,50,疏风定痛丸,5,medium,91,Haematochezia,0,-1
+0,val,597,250,康艾注射液,9,medium,37,Hypoaesthesia,0,-1
+0,val,598,159,六味地黄胶囊,12,head,95,Blood bilirubin increased,0,-1
+0,val,599,250,康艾注射液,9,medium,99,Anaphylactoid reaction,0,-1
+0,val,600,24,灯盏细辛颗粒,4,medium,105,Muscle twitching,0,-1
+0,val,601,2,复方双花口服液,3,tail,139,Lacrimation increased,0,-1
+0,val,602,216,胃欣舒胶囊,7,medium,73,Epigastric discomfort,0,-1
+0,val,603,24,灯盏细辛颗粒,4,medium,61,Tachypnoea,0,-1
+0,val,604,2,复方双花口服液,3,tail,115,Ecchymosis,0,-1
+0,val,605,67,丹益片,4,medium,169,Protein urine,0,-1
+0,val,606,61,首乌丸,8,medium,122,Skin reaction,0,-1
+0,val,607,9,脉络舒通颗粒,4,medium,162,Dry throat,0,-1

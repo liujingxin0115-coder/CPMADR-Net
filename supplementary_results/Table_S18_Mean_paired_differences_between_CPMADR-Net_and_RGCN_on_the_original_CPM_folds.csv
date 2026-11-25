@@ -1,0 +1,13 @@
+﻿Original prediction subset,Group,Δ Recall,Δ F1,Δ MCC
+Full test folds,Tail,+0.3320,+0.1692,+0.1283
+Full test folds,Medium,+0.3040,+0.2523,+0.1724
+Full test folds,Head,+0.2533,+0.2769,+0.1620
+Exclude strict record matches,Tail,+0.3420,+0.1791,+0.1342
+Exclude strict record matches,Medium,+0.3040,+0.2523,+0.1724
+Exclude strict record matches,Head,+0.2486,+0.2644,+0.1602
+Exclude identical herb sets,Tail,+0.3500,+0.1856,+0.1435
+Exclude identical herb sets,Medium,+0.2951,+0.2546,+0.1703
+Exclude identical herb sets,Head,+0.2387,+0.2457,+0.1476
+Exclude Jaccard ≥ 0.8,Tail,+0.3541,+0.1876,+0.1455
+Exclude Jaccard ≥ 0.8,Medium,+0.2957,+0.2564,+0.1680
+Exclude Jaccard ≥ 0.8,Head,+0.2387,+0.2457,+0.1476

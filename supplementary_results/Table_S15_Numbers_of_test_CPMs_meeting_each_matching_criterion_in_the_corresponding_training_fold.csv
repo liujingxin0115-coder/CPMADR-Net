@@ -1,0 +1,5 @@
+﻿Group,Test CPMs,Identical herb set,Identical herbs and recorded doses,Strict record match,Maximum Jaccard ≥ 0.8
+All,255,66,26,21,68
+Tail,100,9,7,5,10
+Medium,76,17,1,0,18
+Head,79,40,18,16,40

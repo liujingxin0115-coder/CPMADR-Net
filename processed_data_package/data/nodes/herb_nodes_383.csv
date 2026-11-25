@@ -1,0 +1,384 @@
+﻿herb_id,herb_name_cn,herb_name_en,herb_latin_name,herb2_id,num_cpm_edges,num_ingredient_edges
+0,贯叶金丝桃,Herbahypericiperforati;Curvedsepal StJohn’swort,Hypericum curvisepalum,HERB001981;HERB005615,1,88
+1,刺五加,Manypr ickle Acanthopanax,Acanthopanax senticosus [Syn. Eleutherococcus senticosus ],HERB000940,1,38
+2,虎杖,"rhizome of Gaint Knotweed, Polygonum cuspidatum, Polygonum cuspidatum",Rhizoma Polygoni cuspidati,HERB002405,3,98
+3,连翘,Weeping Forsythia Capsule,Fructus Forsythiae,HERB003361,25,223
+4,板蓝根,Root of Dyers Woad;Indigowoad Root;Isatis indigotica,Radix Isatidis seu Baphicacanthi,HERB000323,16,256
+5,柴胡,root of Chinese Thorowax;Radix Bupleuri,Radix Bupleuri,HERB000638,17,419
+6,败酱草,Grass of Dahurian Patrinia,Herba Patriniae,HERB000221,3,108
+7,马鞭草,European Verbe Herb; European Verbena; Verbena officinalis,Herba Verbae,HERB003636,2,198
+8,芦根,Reed rhizome;Common Reed Rhizome;Phragmites communis Trin,Rhizoma Phragmitis,HERB003526,4,101
+9,甘草,Root of Ural Licorice,Radix Glycyrrhizae,HERB001779,54,388
+10,金银花,Honeysuckle Flower,Flos Lonicerae,HERB002962,29,364
+11,穿心莲,Elongate Andrographis,Andrographis elongata,HERB004993,2,127
+12,黄芪,root of Membranous Milkvetch,Radix Astragali,HERB002560,40,162
+13,葛根,root of lobed kudzuvine,Radix Puerariae,HERB001874,19,59
+14,地黄,Radix Rehmanniae,,HERB001251,20,54
+15,枸杞子,fruit of Chinese Wolfberry;Chinese WoIfberry Fruit,Fructus Lycii,HERB001915,6,296
+16,决明子,Cassia Seed;Sickle Senna Seed,Semen Cassiae;Semen Sene,HERB003070,5,170
+17,茺蔚子,Motherwort Fruit,Fructus Leonuri,HERB000822,1,140
+18,蒲黄,pollen of longbract cattail;PU HUANG;Longbract Cattail Pollen,pollen typhae,HERB004402,6,111
+19,水蛭,Bigflower Cape Jasmine,Gardenia jasminoides var. grandiflora,HERB005206,7,32
+20,熟地黄,Rehmannia glutinosa,,,14,87
+21,黄连,rhizome of Chinese Goldthread,Rhizoma Coptidis,HERB002540,16,70
+22,白芍,White peony root,Radix Paeoniae Alba,HERB000267,24,229
+23,黄芩,root of Baikal skullcap,Radix Scutellariae,HERB002563,40,224
+24,阿胶,Donkey hide gelatin,Colla Corii Asini,HERB001564,1,3
+25,茯苓,Indian Bread;Poria cocos,Poria,HERB001749,28,123
+26,山楂叶,Crataegi Folium;Chinese Hawthorn Leaf,,HERB004948,1,138
+27,银杏叶,Ginkgo Folium,,HERB006632,4,305
+28,麻黄,Ephedra;Herba Ephedrae,Herba Ephedrae,HERB003658,17,448
+29,苦杏仁,bitter Apricot seed,Semen armeniacae amarum,HERB003174,10,163
+30,石膏,Gypsum,Gypsum Fibrosum,HERB005048,18,1
+31,北豆根,Chinese Cinquefoil,Rhizoma Menispermi,HERB000373,1,72
+32,香附,rhizome of Nutgrass Galingale;Nutgrass Galingale,Rhizoma Cyperi,HERB006019;HERB006068,4,138
+33,酒大黄,root and rhziome of Sorrel Rhubarb in wine,Radix et Rhizoma Rhei,HERB003007,5,4
+34,青皮,Green Tangerine Peel;Walnut Green Husk,Pericarpium Citri Reticulatae Viride,HERB004534,3,53
+35,川芎,"Chuanxiong rhizome, Szechuan lovage root;WaIIich Ligusticum",Radix chuanxiong;Rhizoma Chuanxiong,HERB000887;HERB004596,35,323
+36,莪术,Zedoray Rhizome,Rhizoma Curcumae,HERB001579,9,95
+37,土鳖虫,Cockroach,Eupolyphaga seu Steleophaga,HERB005549,6,3
+38,浙贝母,bulb of Thunberg Fritillary;Thunberg  Fritillary,Bulbus Fritillariae thunbergii,HERB006950,3,52
+39,当归,Angelica sinensis,,,44,251
+40,王不留行,Vacarria seed; Cow soapwort seed;Cowherb,Semen Vaccariae,HERB005637,3,51
+41,黄柏,Amur Corktree Equivalent plant;Phellodendron chinense;Phellodendron chinense var Glabriusculum;Phellodendron amurense var wilsonii;Phellodendron bark,Phellodendron amurense;Cortex Phellodendri,HERB002483;HERB002489,16,173
+42,苍术,Rhizome of Swordlike Atractylodes;Swordlike Atractylodes ,Rhizoma Atractylodis,HERB000584,8,128
+43,薏苡仁,seed of Jobstears,semen coicis,HERB006568,6,75
+44,玄参,,,,11,116
+45,蜈蚣,Centipede,Scolopendra subspinipes mutilans,HERB005706,2,10
+46,全蝎,Scorpion,Buthus martensi,HERB004579,5,16
+47,灵芝,,,,5,350
+48,丹参,root of Ligulilobe sage,Radix Salviae liguliobae,HERB001193,42,306
+49,五味子,Schisandra chinensis;Chinese Magnoliavine Equivalent plant: Schisandra sphenanthera;Chinese Magnoliavine,Schisandra chinensis,HERB005762,9,158
+50,三七,Sanchi;Panax notoginseng,Radix Notoginseng,HERB004783,18,331
+51,白芷,Dahurian Angelica Root,Radix Angelicae Dahuricae,HERB000305,25,337
+52,红花,Safflower,Flos Carthami,HERB002276,21,237
+53,延胡索,Corydalis tuber,Rhizoma Corydalis,HERB006353,12,114
+54,苦参,Chinese Dregea,Dregea sinensis,HERB003167,9,213
+55,蝉蜕,Cicada Slough;Periostracum Cicadae,Periostracum Cicadae,HERB000571,7,13
+56,白鲜皮,"Densefruit Pittany Root-bark, Dictamnus angustifolius, Dictamni Cortex, Dictamnus dasycarpus",,HERB000286;HERB000132,5,109
+57,土茯苓,Glabrous Greenbrier Rhizome,Rhizoma Smilacis Glabrae,HERB005564,7,107
+58,紫苏叶,Common Perilla Leaf Equivalent plant: Perilla frutescens var acuta;Common Perilla Leaf;Acute Common PeriIIa Leaf,Perilla frutescens var. arguta,HERB007211,4,29
+59,前胡,Common Hogfennel,,,2,167
+60,桔梗,Platycodon Root;Balloonflower,Radix Platycodi,HERB002876,22,147
+61,陈皮,Dried Tangerine Peel;Pericarpium Citri Reticulatae,Pericarpium Citri Reticulatae,HERB000775,14,143
+62,炙甘草,Prepared Liauorice Root,Radix Glycyrrhizae Preparata,HERB006990,10,11
+63,党参,root Pilose Asiabell; Pilose Asiabell,Radix Codonopsis pilosulae,HERB001211,13,247
+64,瓜蒌,Trichosanthes Kirilowii Maxim;Trichosanthes rosthornii;Trichosanthes kirilowii,,HERB001952,2,134
+65,制川乌,Prepared Monkshood Mother Root,Radix Aconiti Preparata,HERB006985,4,2
+66,制草乌,Prepared Kusnezoff Monkshood Root,Radix Aconiti Kusnezoffii Preparata,HERB006983,5,22
+67,木瓜,fruit of Common Floweringquince;Chaenomeles speciosa;Chinese Floweringquince,Fructus Chaenomelis,HERB004021,6,239
+68,乌梅,Smoked Plum,Fructus Mume,HERB005742,4,127
+69,鹿角胶,Gelatin of Buckhorn,Pulvis Cornu Cervi,HERB003531,1,8
+70,杜仲,Eucommia bark;Eucommia ulmoides,Cortex Eucommiae,HERB001409,3,214
+71,红参,Red Ginseng,Radix Ginseng Rubra,HERB002319,1,104
+72,桂枝,Cassia Twig,Ramulus Cinmomi,HERB002062,11,258
+73,蒲公英,"Dandelion,Mongolian Dandelion",Taraxacum mongolicum,HERB004401,6,72
+74,苦地丁,all - grass of Bunge Corydalis;Bunge Corydalis,Herba Corydalis bungeae,HERB003136,3,70
+75,地龙,Earthworm,Pheretima,HERB001257,9,3
+76,枇杷叶,Loquat Leaf;PI PA YE,Folium Eriobotryae,HERB004350,3,344
+77,紫苏子,Perilia Fruit,Fructus Perillae,HERB007213,2,8
+78,牛蒡子,,,,2,165
+79,满山红,Dahurian Rhododendron Leaf,Folium Rhododendri Daurici,HERB003730,1,190
+80,人参,Ginseng,Radix Ginseng,HERB004609,10,387
+81,白术,rhizome of Largehead Atractylodes,Rhizoma Atractylodis macrocephalae,HERB000309,19,142
+82,泽泻,rhizome of Oriental Waterplantain;Oriental Waterplantain;Alisma orientalis,Rhizoma Alismatis,HERB006908,12,65
+83,半夏,tuber of Pinellia,Rhizoma Pinelliae,HERB000330,6,174
+84,羌活,Root and rhizome of Incised Notoptergium;Rhizoma et Radix Notopterygii;Incised Notopterygium,Radix et Rhizoma Notopterygii,HERB004479,8,445
+85,独活,Doubleteeth Pubescent Angelica Root;Doubleteeth Pubescent Angelica;Angelica pubescens,Radix Angelicae Pubescentis,HERB001394,5,196
+86,防风,root of Divaricate Saposhnikovia;Saposhnikovia divaricata;Divaricate Saposhnikovia,Radix Saposhnikoviae divaricatae,HERB001622,18,212
+87,生姜,Fresh Ginger,Rhizoma Zingiberis Recens,HERB005017,7,464
+88,大枣,Ziziphus jujuba Mill.,,,13,229
+89,灯盏细辛,Shortscape Fleabane,Erigeron breviscapus,HERB001239,3,14
+90,栀子,"fruit of Cape Jasmine, Gardenia jasminoides",Fructus Gardeniae,HERB007046,17,222
+91,龙胆,Gentiae Radix Et Rhozima,Gentiana scabra var. buesgeri,HERB003478,2,3
+92,蛇床子,Common Cnidium Fruit; Cnidium monnieri; Common Cnidium,Fructus Cnidii,HERB004971,2,225
+93,地肤子,fruit of Belvedere,Fructus Kochiae,HERB001247,2,65
+94,青蒿,CeIery Wormwood,,,2,179
+95,广藿香,Pogostemon Cablin (Blanco) Benth.,,HERB002002,7,166
+96,制乳香,Prepared Frankincense,Resina Olibani Praparata,HERB007029,4,3
+97,煅自然铜,Calcined Pyrite,Pyritum Preparata,HERB001459,1,1
+98,冰片,Borneol,Borneolum syntheticum,HERB000498,24,74
+99,牡蛎,Oyster,Crassostrea gigas,HERB004050,4,10
+100,乳香,Frankincense;Olibanum,Resi oliani,HERB004719,11,166
+101,海藻,seaweed,Sargassum,HERB002126,1,38
+102,没药,Myrrh,Resi myrrhae;Myrrha,HERB004004,8,575
+103,天冬,Cochinchinese Asparagus Root,Radix Asparagi,HERB005434,2,48
+104,夏枯草,fruit -spike of Common Selfheal;Common Selfheal;Prunella vulgaris,Spica Prunellae,HERB005940,7,110
+105,三棱,Common Burreed Tuber,Rhizoma Sparganii,HERB004774,7,79
+106,鸡内金,Chicken’s Gizzard Endothelium,Gallus gallus domesticus,HERB002690,5,21
+107,淫羊藿,Epimrdii Herba;Epimedium Herb;Shorthorned Epimedium,,HERB006633,11,147
+108,补骨脂,Malaytea Scurfpea;Psoralea corylifolia,Psoralea corylifolia,HERB000546,10,79
+109,制附子,Prepared lateral root of Common Monkshood,Radix Aconiti Lateralis Praeparata,HERB006989,2,4
+110,鸡血藤,spatholobus stem;Suberect Spatholobus Stem,Caulis Millettiae; Caulis spatholobi,HERB002714,5,223
+111,茜草,root of Tali Madder; Madder,Radix Rubiae,HERB004446,1,86
+112,麦冬,Liriope Equivalent plant: Liriope spicata var prolifera;Liriope,Ophiopogon japonicus,HERB003708,8,10
+113,广藿香油,oil of Cabline potchouli,Oleum Pogostemonis,HERB002004,2,12
+114,紫苏叶油,perilla oil,Oleum Folii Perillae,HERB007212,2,2
+115,厚朴,bark of Officil magnolia;Officinal  Mangolia ;Magnolia officinalis;Officinal Magnolia Equivalent plant: Magnolia biloba,Cortex Magnoliae officilis;Magnolia officinalis,HERB002339;HERB002342,6,195
+116,大腹皮,Areca Catechu L.,,HERB001034,3,109
+117,牛黄,Cow-bezoar (Ox-gaIIstone),Calculus Bovis,HERB004201,1,62
+118,水牛角,Buffalo Horn,Bubalus bubalis,HERB005183,5,6
+119,麝香,Abelmusk,"Moschus moschiferus, Moschus berezovskii, Moschus sifanicus",HERB004984,2,43
+120,珍珠,Pearl,Margarita,HERB006967,3,9
+121,朱砂,,,,2,1
+122,雄黄,Realgar,Realgar,HERB006243,5,5
+123,郁金,Tuber-root of Common Turmeric;Aromatic Turmeric,Radix Curcumae,HERB006718,12,297
+124,胆南星,,,,1,2
+125,制没药,Myrrhtree gum resin,Myrrha Praeparata,HERB007022,2,4
+126,人工牛黄,Artificial Bezoar,Calculus Bovis Artificiosus,HERB004606,9,7
+127,大黄,,,,28,135
+128,蛇胆汁,Snake bile,Fel Serpentis Liquidum,HERB004972,1,1
+129,川贝母,Bulb of Tendrilleaf Fritillary;Tendrilleaf Fritillary,Bulbus Fritillariae Cirrhosae,HERB000849,4,160
+130,龙眼肉,Longan Aril;Dimocarpus longan,Arillus Longan,HERB003498,4,4
+131,炙黄芪,Prepared Manyinflorescenced Sweetvetch Root,Radix Astragali seu Hedysari Praeparata,HERB006998,6,4
+132,酸枣仁,Spine Date Seed,Semen Ziziphi Spinosae,HERB005319,5,75
+133,木香,Common AuckIandia (Costustoot),,,14,209
+134,远志,Thinleaf Milkwort Equivalent plant: Polygala sibirica,Polygala tenuifolia,HERB006798,5,101
+135,姜黄,rhizome of Common Turmeric,Rhizoma Curcumae longae,HERB002840,3,146
+136,天花粉,"Trichosanthes root, Skegourd root",Radix Trichosanthis,HERB005444,4,83
+137,天南星,Jackinthepulpit Tuber,Rhizoma Arisaematis,HERB005455,3,135
+138,五灵脂,Trogopterus Dung,"Trogopterus xanthipes, Pteromys volans",HERB005732,2,39
+139,山楂,Chinese Hawthorn Equivalent plant: Crataegus pinnatifida var major,Crataegus pinnatifida,HERB004945,16,92
+140,菊花,Chrysanthemum Flower,Flos Chrysanthemi,HERB003031,7,402
+141,小蓟,Field Thistle Herb;XIAO JI;Setose Thistle,Herba Cirsii;Herba Cirsii segeti,HERB006122,1,48
+142,荷叶,Lotus leaf;Nelumbo nucifera;Hindu Lotus Leaf,Folium Nelumbinis,HERB002191,2,111
+143,番泻叶,Sen leaf;Narrowleaf Senna Leaf,Folium Sene,HERB001621,2,88
+144,熊胆,Bear Gall; Ursus arctos Linnaeus and Selenarctos thibetanus,"Selenarctos thibetanus, Ursus arctos",HERB006240,3,20
+145,地榆,Root of Garden Burnet; Garden Burnet,Radix Sanguisorbae,HERB001271,1,129
+146,何首乌,Tuber Fleeceflower;Polygonum multiflorum,Polygonum multiflorum,HERB002185,3,65
+147,枳壳,fruit of Seville orange;Seville Orange Unripe Fruit,Fructus Aurantii,HERB007004;HERB007026,7,30
+148,黄藤,,,,1,1
+149,制何首乌,,,,11,3
+150,石斛,Dendrobium,Herba Dendrobii,HERB005051,2,54
+151,山柰,Galanga Resurrectionlily Rhizome,Rhizoma Kaempferiae,HERB004914,1,75
+152,花椒,Pricklyash Peel;Bunge Pricklyash,Pericarpium Zanthoxyli,HERB002424,4,141
+153,胡椒,Pepper Fruit;Piper nigrum;Black Pepper,Fructus Piperis,HERB002371,1,156
+154,丁香,Clove,Flos Caryophylli,HERB001309,3,229
+155,肉桂,Cassia Bark,Cortex Cinmomi,HERB004694,8,209
+156,荜茇,Piperis Longi Fructus,,HERB000415,1,127
+157,干姜,Common Ginger Dried Rhizome,,,3,251
+158,樟脑,Camphorar,Camphora,HERB006931,3,28
+159,薄荷脑,menthol,Mentholum,HERB000509,8,1
+160,马钱子粉,Nux Vomica Powder,Semen Strychni Pulveratum,HERB003680,2,2
+161,千年健,rhizome of Obscured Homalome,Rhizoma Homalomee occultae,HERB004468,1,76
+162,地枫皮,Difengpi Bark;Difengpi Anisetree,Cortex Illicii,HERB001246,1,102
+163,牛膝,root of Twotooth Achyranthes;Twotooth Achyranthes,Radix Achyranthis bidentatae,HERB004218,8,212
+164,自然铜,Pyrite;native copper,Pyritum,HERB007200,2,1
+165,透骨草,Tuberculate Speranskia,Speranskia tuberculata,HERB005541,1,6
+166,伸筋草,Common Clubmoss Herb,Herba Lycopodii;Lycopodium japonium;Common Clubmoss Herb,HERB004998,1,13
+167,益母草,,,,3,94
+168,金钱草,Christi Loosestrife,Herba Glechomae Longitubae,HERB002937,1,15
+169,海金沙,spore of Japanese climbing Fern;Japanese Climbing Fern;Lygodium japonicum,Spora Lygodii,HERB002094,4,108
+170,琥珀,,,,2,44
+171,山慈菇,Appendiculate Cremastra Pseudobulb or Common Pleione Pseudobulb;Arrowhead-like Wildginger,Pseudobulbus Cremastrae seu Pleiones;Asarum sagittarioides,HERB004874,1,66
+172,锁阳,Songaria Cynomorium;Cynomorium songaricum,Cynomorium songaricum,HERB005338,2,25
+173,菟丝子,"Dodder Seed, Cuscuta chinensis",Semen Cuseutae;Semen Cuseutae,HERB005580,4,1
+174,巴戟天,Morindae Officilis Radix,Medicinal Indianmulberry,HERB000134,1,180
+175,山药,Common Yam Rhizome; Dioscorea opposita; Common Yam,Rhizoma Dioscoreae,HERB004938,11,139
+176,附子,Common Monkshood Daughter Root,,,2,124
+177,金莲花,Chinese Globeflower,Flos Trollii chinensis,HERB002926,1,66
+178,大青叶,Indigo-coloured Woad  Leaf ,,,6,101
+179,知母,rhizome of Common Amarrhe;Anemarrhena asphodeloides;Common Anemarrhena,Rhizoma Anemarrhee,HERB007023,6,183
+180,赤芍,Red Peony root; Common Peony (wild); Radix Paeoniae Rubra,Radix Paeoniae Rubra; Lignum Paeoniae Rubra,HERB000800; HERB003416,20,199
+181,薤白,"bulb of longstamen onion, Allium macrostemon Bunge",Bulbus Allii Macrostemi,HERB006191,2,115
+182,射干,Blackberrylily Rhizome,Rhizoma Belamcandae,HERB004973,2,121
+183,金果榄,HairystaIk Tinospora ,,,1,11
+184,石菖蒲,Grassleaf Sweetflag Rhizome;Grassleaved Sweetflag,Rhizoma Acori Talarinowii,HERB005030,3,157
+185,桑椹,Morus alba,,,5,175
+186,女贞子,fruit of Glossy privet;Ligustrum lucidum,Fructus Ligustri lucidi,HERB004242;HERB004237,6,18
+187,墨旱莲,all-grass of Yerbadetajo,herba ecliptae,HERB003988,3,73
+188,桑叶,Mulberry Leaf; White Mulberry Leaf; Morus alba; White Mulberry,Folium Mori,HERB004834,2,405
+189,黑芝麻,Black Sesame;Oriental Sesame (black seed),Semen Sesami Nigrum,HERB002242,2,136
+190,金樱子,fruit of Cherokee Rose;Rosa laevigata,Fructus Rosae laevigatae,HERB002966,2,85
+191,豨莶草,Siegesbeckiae Herba;Siegesbeckia herb;HairstaI k  St.  PauIswort,,HERB005889,5,53
+192,芡实,seed of Gordon Euryale,Semen Euryales,HERB004472,1,50
+193,川楝子,Szechwan Chiberry Fruit;Szechwan Chinaberry Fruit;CHUAN LIAN ZI,Fructus Meliae Toosendan,HERB000868,2,104
+194,辛夷,Magnoliae Flos;Lily Magnolia Buds,,HERB006228,3,219
+195,薄荷,"Mentha, Peppermint;Wild Mint",herba Menthae;Mentha haplocalyx Briq,HERB000508,12,246
+196,野菊花,Wild Chrysanthemum Flower;Indian Wild Chrysanthemum Flower,Flos Chrysanthemi Indici,HERB006471,3,76
+197,苍耳子,fruit of Siberian Cockleblur;Xanthium sibiricum,Fructus Xanthii sibirici,HERB000580,4,164
+198,藁本,Ligustici Rhizoma Et Radix,,HERB001821,2,103
+199,鹅不食草,Small Centipeda Herb;Small Centipeda,Herba Centipedae,HERB001556,1,142
+200,薄荷油,Mentha canadaensis L.,,HERB000510,1,22
+201,猪胆粉,,,,2,15
+202,马来酸氯苯那敏,,,,1,1
+203,金樱根,root of Cherokee Rose,Radix Rosae laevigatae,HERB002963,2,4
+204,菝葜,Smilax Chi,,HERB000143,2,41
+205,八月札,,,,2,6
+206,积雪草,Asiatic Pennywort Herb,herba centellae,HERB002713,2,113
+207,白头翁,Root of Chinese Pulsatilla;Pulsatilla chinensis;Chinese Pulsatilla,Radix Pulsatillae,HERB000281,1,107
+208,制半夏,Prepared tuber of Pinellia,Rhizoma Pinelliae Preparata,HERB006978,1,8
+209,鹿茸,Hairy Antler,"Cervus nippon , Cervus elaphus",HERB003536,3,24
+210,维生素B1,,,,2,1
+211,马钱子,Nux Vomica,Semen Strychni,HERB003679,2,100
+212,防己,Root of Fourstamen Stephania,Radix Stephaniae Tetrandrae,HERB001626,4,96
+213,香加皮,Cortex Periplocae Radicis,,HERB006026,1,119
+214,骨碎补,rhizome of Heartleaf Dryria;Fortune’s Drynaria Rhizome,Rhizoma Dryriae,HERB001942,9,112
+215,车前子,seed of Asiatic pantain;Plantain herb,Semen Plantaginis,HERB000770,1,54
+216,牡丹皮,Tree Peony Bark; Subshrubby Peony Root-Bark; Paeonia suffruticosa,Cortex Moutan,HERB004013,13,108
+217,白花蛇舌草,all - grass of Spreading Hedyotis;Oldenlandia diffusa,Herba Hedyotis Diffusae,HERB000208,2,88
+218,仙鹤草,all - grss of Hairyvein Agrimonia;Japanese Argimonia,Herba Agrimoniae,HERB005977,3,70
+219,天麻,Tall Gastrodia;Gastrodia elata,Gastrodia elata,HERB005451,7,42
+220,细辛,all-grass Manchurian wildginger;Wild ginger (xi xin);Siebold Wildginger,Herba Asari,HERB005894,4,234
+221,茶叶,Common Tea,Camellia sinensis [Syn. Thea sinensis],HERB000632,1,73
+222,珍珠母,Nacre,Concha Margaritifera Usta;Margarita,HERB006972,2,9
+223,盐酸小檗碱,,,,5,1
+224,瓜子金,,,,1,1
+225,紫花地丁,Tokyo Violet Herb;Viola yedoensis,Herba Violae,HERB007174,2,42
+226,碳酸氢钠,,,,1,1
+227,重质碳酸镁,,,,1,1
+228,氢氧化铝,,,,1,1
+229,白茅根,,,,1,76
+230,紫草,Arnebia Root Gromwell Root,Radix Arnebiae seu Lithospermi,HERB007160,6,93
+231,芦荟,Aloe,Aloe,HERB003528,3,140
+232,橘叶,tangerine leaf,folium citri tangerie,HERB003053,1,53
+233,皂角刺,,,,1,43
+234,南五味子,Schisandrae Sphentherae Fructus,,HERB004118,5,52
+235,海螵蛸,Cuttlebone ,Os Sepiellae seu Sepiae,HERB002108,3,3
+236,白及,Bletilla Striata (Thunb.Ex A.Murray)Rchb.F.,,HERB000216,2,65
+237,颠茄草,Belladonna Herb,Herba Belladonnae,HERB001292,2,2
+238,红景天,all-grass of Rhodiola;Rhodiola rosea,Radix et Rhizoma Rhodiolae,HERB002294,2,20
+239,沙棘,fruit of seabuckthorn; sea-buckthorn,fructus hippophae,HERB004849,1,303
+240,盐酸青藤碱,,,,1,1
+241,松叶,Folium Pini armandi,,HERB005268,1,31
+242,降香油,Odoriferous Rosewood oil,Oleum Dalbergiae Odoriferae,HERB002847,1,2
+243,苏合香,"Oriental Sweetgum Resin,Storax",Styrax,HERB005287,2,108
+244,檀香,Sandalwood,Lignum Santaii Albi,HERB005392,2,109
+245,土木香,Elecampane Inula Equivalent plant: Inula racemosa,Inula helenium,HERB005574,2,14
+246,肉苁蓉,Desertliving Cistanche,Herba Cistanches,HERB004692,3,193
+247,枳实,immature fruit of Seville orange;Seville Orange Young Fruit,Fructus Aurantii Immaturus,HERB007034,4,92
+248,独一味,Common Lamiophlomis,Lamiophlomis rotata [Syn. Phlomis rotata ],HERB001407,2,35
+249,稻芽,Rice-grain Sprout,Fructus Oryzae Germinatus,HERB001222,1,1
+250,淡竹叶,Common Lophatherum,Lophatherum gracile,HERB001204,2,4
+251,钩藤,Gambir Plant,Ramulus Uncariae cum Uncis,HERB001924,3,132
+252,槟榔,areca seed;Areca catechu;Betenutpalm,semen arecae,HERB000497,3,102
+253,牵牛子,Pharbitis seed,Semen Pharbitidis,HERB004469,3,100
+254,猪牙皂,,,,1,12
+255,桃仁,Peach Seed;Peach Kernel,Semen Persicae,HERB005412,6,120
+256,降香,Odoriferous Rosewood;Dalbergia,Lignum Dalbergiae odoriferae Rosewood,HERB002846,3,153
+257,雪上一枝蒿,Shortstalk Monkshood Equivalent plant: Aconitum nagarum var lasiandrum,Aconitum brachypodum,HERB006299,2,21
+258,接骨木,Elder Equivalent plant: Sambucus nigra,Sambucus williamsii,HERB002877,2,3
+259,硝石,saltpeter,Niter,HERB006149,1,8
+260,白矾,,,,1,1
+261,干漆,Dried Lacquer,Resina Toxicodendri,HERB001796,1,1
+262,狗脊,Cochinchina Cudrania,Cudrania cochinchinensis,HERB001903,2,1
+263,荆芥穗,Schizonepetae Spica,,HERB002986,7,6
+264,芒硝,,,,1,4
+265,滑石,Talc,Talcum,HERB002450,1,1
+266,蔓荆子,Shrub Chastetree Fruit,Fructus Viticis,HERB003725,4,201
+267,旋覆花,Inula Flower;British Inula,Flos Inulae,HERB006269,5,89
+268,威灵仙,Chinese Clematis Root;Chinese Clematis,Radix Clematidis,HERB005659,2,151
+269,龟甲,Tortoise Shell,Carapax et Plastrum Testudinis,HERB002050,4,12
+270,山麦冬,,Liriope spicata,HERB004910,2,21
+271,龙骨,"Dragon's bone, Fossilized bone",Os Draconis,HERB003480,2,3
+272,硫酸亚铁,,,,3,1
+273,北沙参,,,,1,154
+274,千里光,Climbing Groundsel,Senecio scandens [Syn. Senecio chinensis],HERB004462,1,50
+275,卷柏,aal-grass of Tamariskoid spikemoss;Tamariskoid Spikemoss,Herba Selaginellae,HERB003061,1,70
+276,神曲,Medicated leaven,Massa fermentata medicinalis,HERB005005,2,1
+277,焦麦芽,Charred Malt,Fructus Hordei germinatus Preparata,HERB002859,2,1
+278,焦槟榔,Charred Areca Seed,Semen Arecae Preparata,HERB002852,2,5
+279,玉米须,Corn stigma;Zea mays;Maize Style,Stigma Maydis,HERB006733,1,96
+280,格列本脲,,,,2,1
+281,柏子仁,seed of Chinese Arborvitae,Semen Biotae,HERB000311,1,78
+282,鱼腥草,all-grass of Heartleaf Houttuynia,Herba Houttuyniae,HERB006741,3,98
+283,浮萍,all-grass of Common Ducksmeat; Common Duckwood; Spirodela polyrrhiza,Herba Spirodelae,HERB001758,1,66
+284,重楼,Paris Root,Rhizoma Paridis,HERB000818,2,26
+285,白薇,Blackend Swallowwort Root,Radix cynchi atrati;Blackend Swallowwort,HERB000285,1,102
+286,次没食子酸铋,,,,1,1
+287,洋金花,Datura Flower;Hindu Datura Flower,Flos Daturae,HERB006387,1,90
+288,瓜蒌皮,,,,4,9
+289,吴茱萸,Medicil Evodia Fruit,Fructus Evodiae,HERB005782,2,209
+290,片姜黄,Wenyujin Concise Rhizome,Rhizoma Wenyujin Concisum,HERB004362,1,28
+291,乌药,Combined Spicebush Root,Radix Linderae,HERB005767,1,144
+292,山银花,,,,1,3
+293,青黛,"tural Indigo, Indigo Naturalis",Indigo turalis,HERB004516,5,35
+294,山茱萸,Asiatic Cornelian Cherry Fruit,Fructus Corni,HERB004950,4,302
+295,常山,root of antifebrile Dichroa;Antifebrile Dichroa;Dichroa febrifuga,Radix Dichroae,HERB000706,1,91
+296,莲子心,Hindu Lotus Plumule,Plumula Nelumbinis,HERB003378,1,44
+297,蒺藜,Puncturevine Caltrop Fruit;Tribulus terrestris,Fructus Tribuli,HERB002679,1,67
+298,黄药子,rhizome of Airpotato Yam;Airpotato Yam,Rhizoma Dioscoreae bulbiferae,HERB002591,1,80
+299,续断,Himalayan Teasel Root; Japanese Teasel Root; Dipsacus asperoides,Radix Dipsaci,HERB006259,4,35
+300,桑寄生,Chinese Taxillus Herb;Parasite Scurrula,Herba Taxilli,HERB004829,1,61
+301,荆芥,all-grass of Fineleaf Schizonepeta,Herba Schizonepetae,HERB002983,1,217
+302,制僵蚕,Prepared Stiff Silkworm,Bombyx Batryticatus Preparata,HERB007000,1,9
+303,罂粟壳,poppy capsule;Opium  Poppy  Pericarp ,pericarpium papaveris,HERB006653,1,37
+304,莱菔子,Radish Seed;Garden Radish Seed,Semen Raphani,HERB003245,3,82
+305,紫石英,Fluorite,Fluoritum,HERB007206,1,1
+306,炒枳壳,Prepared fruit of Seville orange,Fructus Aurantii Preparata,HERB000765,2,2
+307,炙麻黄,Prepared Ephedra,Herba Ephedrae Preparata,HERB007018,1,8
+308,绵马贯众,Male Fern Rhizome,Rhizoma Dryopteris Crassirhizomae,HERB003961,2,1
+309,僵蚕,Stiff Silkworm,Bombyx Batryticatus,HERB002834;HERB002835,2,4
+310,玫瑰花,Rose Flower,Flos Rosae Rugosae,HERB003840,1,182
+311,鳖甲,Turtle Shell,Carapax Trionycis,HERB000484,1,16
+312,鹿角,Deer Horn,Cornu Cervi,HERB003529,1,2
+313,茵陈,Virgate Wormwood Herb,Herba Artemisiae Scopariae,HERB006586,3,87
+314,黄芩甙,Baicalin,Baicalinum,HERB002564,5,1
+315,紫苏梗,Common Perilla Stem Equivalent plant: Perilla frutescens var crispa,Perilla frutescens var. arguta,HERB007210,1,44
+316,香橼,Korea Poplar;Wilson Citron,Populus koreana,HERB006055,1,86
+317,佛手,Finger Citron;Fleshfingered Citron;FO SHOU,Fructus Citri sarcodactylis,HERB001734,1,125
+318,南沙参,Fourleaf Ladybell Root,Radix Adenophorae,HERB004102,1,123
+319,黄精,Rhizome of Fragrant Solomonseal;Solomonseal Rhizome;Siberian Solomonseal,Rhizoma Polygoti,HERB002534,2,65
+320,水飞蓟,St. Marys,,,1,85
+321,五倍子,Chinese Gall,Galla Chinensis,HERB005692,1,5
+322,马齿苋,all-grass of Purslane;Purslane;Portulaca oleracea,Herba Portulacae,HERB003641,2,90
+323,建曲,,,HERB002804,2,3
+324,绵萆薢,Sevenlobed Yam,,,1,117
+325,广枣,fruit of Axillary choerospondias,Fructus Choerospondiatis,HERB002040,1,132
+326,天竺黄,Chinese schinzostachyum Tabasheer,Concretio Silicea Bambusae,HERB005485,1,96
+327,漏芦,Uniflower Swisscentaury Root,Radix Rhapontici,HERB003504,1,94
+328,桑枝,Morus alba,,,1,173
+329,槐花,flower bud of Japanese pagodatree;Flos Sophorae,flos Sophorae,HERB002472,1,173
+330,火麻仁,,,,1,206
+331,血竭,Calamus gum; Dragon's blood,Sanguis Draconis,HERB006290,2,19
+332,儿茶,"Cutch, Black Catechu",Catechu,HERB001583,2,62
+333,葶苈子,"Lepidium seed, Descurainia seed",Semen Lepiddi seu Descurainiae;Semen Lepidii;Semen Descurainiae,HERB005519,2,83
+334,赭石,Hematite,Haematitum,HERB006955,2,1
+335,白果,Ginkgo seed;Ginkgo Nut,Semen Ginkgo,HERB000186,1,134
+336,蛤蚧,Tokay Gecko,Gecko,HERB001877,1,7
+337,枸骨叶,,,,3,123
+338,丝瓜络,Luffa Vegetable Sponge,Retinervus Luffae Fructus,HERB005222,3,1
+339,泽兰,Hirsute Shiny Bugleweed Herb;Compositeleaf Eupatorium;Shiny  Bugleweed ,Herba Lycopi;Eupatorium compositifolium,HERB006901;HERB001773,3,50
+340,川牛膝,Root of Medicil cyathula;Mediinal Cyathula,Radix Cyathulae,HERB000872,4,49
+341,裸花紫珠,,,,2,49
+342,甘松,Chinese Nardostachys,,,1,98
+343,硼砂,Borax,Sal Sedatirum,HERB004339,2,1
+344,地骨皮,Cortex Lycii;root - bark of Chinese Wolfberry,Cortex Lycii Radicis,HERB001249,1,72
+345,八角莲,Dysosmae Verspiellis Rhixoma Et Radix,,HERB000139,1,89
+346,半枝莲,all - grass of Barbed Skullcap;Barbed SkuIIcap,Herba Scutellariae barbatae,HERB000338,1,141
+347,半边莲,Chinese Lobelia Herb;Lobelia chinensis;Chinese Lobelia,Herba Lobeliae Chinensis,HERB000312,1,103
+348,猫爪草,Catclaw Buttercup Root,Radix Ranunculi Terti,HERB003837,1,99
+349,千金藤素,,,,1,1
+350,维生素U,,,,1,1
+351,贯众,root of Chinese Angelica,Rhizoma Dryopteris crassirhizomae,HERB001989,1,22
+352,粉萆薢,Dioscoreae Hypoglaucae Rhizoma,,HERB001679,1,43
+353,草乌,Kusnezoff Monkshood Root,Radix Aconiti Kusnezoffii,HERB000604,2,47
+354,川乌,root of Common Monkshood,Radix Aconiti,HERB000881,2,202
+355,苏木,Sappan Caesalpinia,Caesalpinia sappan,HERB005297,2,59
+356,香樟木,stem of Yellow cinnamon,Ligum Cinnamomi Camphorae,HERB006065,2,4
+357,路路通,fruit of beautiful sweetgum;Beautiful Sweetgum;Liquidambar formosana,Fructus Liquidambaris,HERB003535,2,34
+358,车前草,all-grass of Rippleseed plantain,Herba Plantaginis,HERB000767,1,238
+359,肾茶,,,,1,49
+360,制大黄,Prepared root and rhziome of Sorrel Rhubarb,Radix et Rhizoma Rhei Praeparata,HERB006986,1,5
+361,青果,Olive,,,1,75
+362,法半夏,Prepared Pinellia Tuber,Rhizoma Pinelliae Preparata,HERB001604,1,4
+363,芥子,India Mustard Seed,Semen Sipis,HERB002887,1,189
+364,紫菀,root of tatarian aster;Tatarion Aster;ZI WAN,radix asteris,HERB007221,1,88
+365,款冬花,Common CoItsfoot,,,1,175
+366,盐酸溴己新,,,,1,1
+367,对乙酰氨基酚,,,,3,1
+368,盐酸金刚烷胺,,,,2,1
+369,扑尔敏,Chlorpheniramine maleate,Chlorpheniramini Maleas,HERB004395,1,1
+370,通关藤,Tenacious Condorvine,Marsdenia tenacissima,HERB005526,1,52
+371,鹿衔草,all-grass Chinese pyrola,herba pyrolae chinensis,HERB003549,1,68
+372,葡醛内酯,,,,1,1
+373,露水草,Common Cyanotis,Cyanotis vaga,HERB003543,1,6
+374,玉竹,Fragrant Solomonseal;Polygonatum odoratum Rhizome,Rhizoma Polygoti Odorati,HERB006754,1,75
+375,辣蓼,Flaccid Knotweed,Polygonum hydropiper var. flaccidum [Syn. Polygonum flaccidum],HERB003236,1,1
+376,老鹳草,All - grass of Common Heron's bill;wind-dampness dispelling medicinal;Wilford Cranesbill;All - grass of Common Heron's bill;Herba Geranii;Common Heron's BiII,Herba ErodiiHerba Geranii,HERB003274,1,49
+377,抱茎苦荬菜,Sowthistle-leaf Ixeris,Ixeris sonchifolia,HERB000353,1,5
+378,徐长卿,Paniculate Swallowwort Root,Radix Cynchi Paniculati,HERB006258,1,79
+379,麝香草酚,,,,1,1
+380,松馏油,Pine Tar,Pix Pini,HERB005261,1,1
+381,醋酸地塞米松,,Dexamethasoni Acetas,HERB000988,1,1
+382,白蔹,root of Japanese Ampelopsis ,Radix Ampelopsis,HERB000237,1,111

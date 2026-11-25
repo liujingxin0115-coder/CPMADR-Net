@@ -1,0 +1,6 @@
+# Baseline-only Python dependencies; the repository root requirements.txt is authoritative.
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.9
+xgboost>=2.0

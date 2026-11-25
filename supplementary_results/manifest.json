@@ -1,0 +1,407 @@
+{
+  "reference_document": "Supplementary Materials.docx",
+  "reference_document_sha256": "1fe6dfe91558100247cfacd366d428b708d0ebfb0cc94aa1906eb747377b2174",
+  "prepared_on": "2026-11-24",
+  "summary_tables": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S21",
+    "S25",
+    "S26"
+  ],
+  "not_supplied": [
+    "S1",
+    "S11",
+    "S12",
+    "S20",
+    "S22",
+    "S23",
+    "S24"
+  ],
+  "checks": {
+    "source_document_cells": 1020,
+    "recomputed_numeric_components": 666,
+    "numeric_mismatches": 0
+  },
+  "files": [
+    {
+      "file": "Table_S02_Simple-baseline_performance_at_threshold_0.5.csv",
+      "role": "appendix_summary",
+      "tables": [
+        2
+      ],
+      "caption": "Table S2. Simple-baseline performance at threshold 0.5.",
+      "source_file": "R3_12_Supplementary_Simple_Baselines_行列互换版.docx",
+      "source_sha256": "366e1801f9920d3f4dc63afc311ac334dc63d4f46b73e5d6b815181e4568dafb",
+      "sha256": "0fa02dd10029aee102988011b142f39edc037ee430e02ff8552d1e873d241f9f"
+    },
+    {
+      "file": "Table_S02_Simple-baseline_performance_at_threshold_0.5_learned_baseline_fold_metrics.csv",
+      "role": "source_metrics",
+      "tables": [
+        2
+      ],
+      "caption": "Table S2. Simple-baseline performance at threshold 0.5.",
+      "source_file": "learned_baseline_fold_metrics.csv",
+      "source_sha256": "35fd30b50a21f53b2a892b6e3c313e1a8578716dc5badb1a6b8da90587e4c649",
+      "sha256": "35fd30b50a21f53b2a892b6e3c313e1a8578716dc5badb1a6b8da90587e4c649"
+    },
+    {
+      "file": "Table_S02_Simple-baseline_performance_at_threshold_0.5_rule_based_fold_metrics.csv",
+      "role": "source_metrics",
+      "tables": [
+        2
+      ],
+      "caption": "Table S2. Simple-baseline performance at threshold 0.5.",
+      "source_file": "rule_based_fold_metrics.csv",
+      "source_sha256": "7f4e7f92cd807deac1aaf5617a8c16162cd2612301382ebd0adf9eb93cdfeacb",
+      "sha256": "7f4e7f92cd807deac1aaf5617a8c16162cd2612301382ebd0adf9eb93cdfeacb"
+    },
+    {
+      "file": "Table_S03_Full-candidate_retrieval_performance_of_the_saved_1×_reference_rerun.csv",
+      "role": "appendix_summary",
+      "tables": [
+        3
+      ],
+      "caption": "Table S3. Full-candidate retrieval performance of the saved 1× reference rerun.",
+      "source_file": "R3_12_Supplementary_Repeated_Evaluation_and_Ranking.docx",
+      "source_sha256": "becb80c1c93e3d41c971930e10d2609b4b9b1e2ae09e0f8693328ff25dcd4546",
+      "sha256": "189a885b36aaf6193cc86f8617197669362a0b377f78c3d12aaa96867136fd74"
+    },
+    {
+      "file": "Table_S03_Full-candidate_retrieval_performance_of_the_saved_1×_reference_rerun_retrieval_fold_metrics.csv",
+      "role": "source_metrics",
+      "tables": [
+        3
+      ],
+      "caption": "Table S3. Full-candidate retrieval performance of the saved 1× reference rerun.",
+      "source_file": "ranking_fold_metrics.csv",
+      "source_sha256": "4f109863420a7e8593ace6a800dce2b25d1c40889da8b3025e8fc32f327e8bd4",
+      "sha256": "4f109863420a7e8593ace6a800dce2b25d1c40889da8b3025e8fc32f327e8bd4"
+    },
+    {
+      "file": "Table_S04_CPMADR-Net_performance_across_repeats_using_a_fixed_classification_threshold_of_0.5.csv",
+      "role": "appendix_summary",
+      "tables": [
+        4
+      ],
+      "caption": "Table S4. CPMADR-Net performance across repeats using a fixed classification threshold of 0.5.",
+      "source_file": "R3_12_Supplementary_Repeated_Evaluation_and_Ranking.docx",
+      "source_sha256": "becb80c1c93e3d41c971930e10d2609b4b9b1e2ae09e0f8693328ff25dcd4546",
+      "sha256": "db6a294c5d07476c4372355d401027797776262bafafd423e3272050c454231c"
+    },
+    {
+      "file": "Table_S04_CPMADR-Net_performance_across_repeats_using_a_fixed_classification_threshold_of_0.5_source_fold_metrics.csv",
+      "role": "source_metrics",
+      "tables": [
+        4,
+        5
+      ],
+      "caption": "Table S4. CPMADR-Net performance across repeats using a fixed classification threshold of 0.5.",
+      "source_file": "repeated_fold_metrics.csv",
+      "source_sha256": "8aeac75cb84b4b4bce22a614d71d3afd2acc41aac1aa24055a286bb5b357a8b6",
+      "sha256": "8aeac75cb84b4b4bce22a614d71d3afd2acc41aac1aa24055a286bb5b357a8b6"
+    },
+    {
+      "file": "Table_S05_CPMADR-Net_performance_across_repeats_using_validation-selected_classification_thresholds.csv",
+      "role": "appendix_summary",
+      "tables": [
+        5
+      ],
+      "caption": "Table S5. CPMADR-Net performance across repeats using validation-selected classification thresholds.",
+      "source_file": "R3_12_Supplementary_Repeated_Evaluation_and_Ranking.docx",
+      "source_sha256": "becb80c1c93e3d41c971930e10d2609b4b9b1e2ae09e0f8693328ff25dcd4546",
+      "sha256": "0da75d1308afa8e9a66f4581352a2c322523ab20fb6b549b654a5a0007558b6b"
+    },
+    {
+      "file": "Table_S06_Main-experiment_reference_and_local_ablation_results_at_threshold_0.5.csv",
+      "role": "appendix_summary",
+      "tables": [
+        6
+      ],
+      "caption": "Table S6. Main-experiment reference and local ablation results at threshold 0.5.",
+      "source_file": "R3_8_Supplementary_Main_Reference.docx",
+      "source_sha256": "7d9a8f502fe2208c40e31e8d4b7ac900c5fc3c8e099783fb8884cb74a4312af0",
+      "sha256": "91ccb5d0b0479f26faac546b060a0bfff9ed28c61566a746f79d4c4886d4e294"
+    },
+    {
+      "file": "Table_S07_Local_retrained_models_using_validation-selected_thresholds.csv",
+      "role": "appendix_summary",
+      "tables": [
+        7
+      ],
+      "caption": "Table S7. Local retrained models using validation-selected thresholds.",
+      "source_file": "R3_8_Supplementary_Main_Reference.docx",
+      "source_sha256": "7d9a8f502fe2208c40e31e8d4b7ac900c5fc3c8e099783fb8884cb74a4312af0",
+      "sha256": "6e0e9ef99151b73cf3932c3f48557153ee11e9799d48ba759de1887cd083230a"
+    },
+    {
+      "file": "Table_S07_Local_retrained_models_using_validation-selected_thresholds_source_fold_metrics.csv",
+      "role": "source_metrics",
+      "tables": [
+        7
+      ],
+      "caption": "Table S7. Local retrained models using validation-selected thresholds.",
+      "source_file": "all_fold_metrics.csv",
+      "source_sha256": "25df051f9cc4d9ed03b96cd86488e98c1bbd1b042123dcda167deb62fb477cbe",
+      "sha256": "25df051f9cc4d9ed03b96cd86488e98c1bbd1b042123dcda167deb62fb477cbe"
+    },
+    {
+      "file": "Table_S08_Changes_in_prediction_scores_and_ADR_rankings_after_proportional_rescaling_of_herb_quantities.csv",
+      "role": "appendix_summary",
+      "tables": [
+        8
+      ],
+      "caption": "Table S8. Changes in prediction scores and ADR rankings after proportional rescaling of herb quantities.",
+      "source_file": "R3_7_Supplementary_Dosage_Sensitivity.docx",
+      "source_sha256": "d18ba7be05931f14e7b9bbd6502b26b13a50586450283cb58ca52aa44500c676",
+      "sha256": "cd40ca70c72408393f9f6e62a2aee2cf2d3c3cb75dcf49f9d1ac21436dfb93ec"
+    },
+    {
+      "file": "Table_S08_Changes_in_prediction_scores_and_ADR_rankings_after_proportional_rescaling_of_herb_quantities_performance_by_fold.csv",
+      "role": "source_metrics",
+      "tables": [
+        8
+      ],
+      "caption": "Table S8. Changes in prediction scores and ADR rankings after proportional rescaling of herb quantities.",
+      "source_file": "frozen_fold_metrics.csv",
+      "source_sha256": "951e864ba2fb1010a159a21b51bb8372521621c13d68a2a9622be58f829eb5a4",
+      "sha256": "951e864ba2fb1010a159a21b51bb8372521621c13d68a2a9622be58f829eb5a4"
+    },
+    {
+      "file": "Table_S08_Changes_in_prediction_scores_and_ADR_rankings_after_proportional_rescaling_of_herb_quantities_ranking_by_CPM.csv",
+      "role": "source_metrics",
+      "tables": [
+        8
+      ],
+      "caption": "Table S8. Changes in prediction scores and ADR rankings after proportional rescaling of herb quantities.",
+      "source_file": "ranking_stability_by_cpm.csv",
+      "source_sha256": "a80f79b5c83eff045cae3250cd0a7308da213f80e4d72a29ab60c9a4450be0a9",
+      "sha256": "a80f79b5c83eff045cae3250cd0a7308da213f80e4d72a29ab60c9a4450be0a9"
+    },
+    {
+      "file": "Table_S08_Changes_in_prediction_scores_and_ADR_rankings_after_proportional_rescaling_of_herb_quantities_ranking_by_fold.csv",
+      "role": "source_metrics",
+      "tables": [
+        8
+      ],
+      "caption": "Table S8. Changes in prediction scores and ADR rankings after proportional rescaling of herb quantities.",
+      "source_file": "frozen_ranking_stability_by_fold.csv",
+      "source_sha256": "eb18498388717a38abd79e8ce5ea9d8da7931d686703e28f22e0d530c2b32378",
+      "sha256": "eb18498388717a38abd79e8ce5ea9d8da7931d686703e28f22e0d530c2b32378"
+    },
+    {
+      "file": "Table_S08_Changes_in_prediction_scores_and_ADR_rankings_after_proportional_rescaling_of_herb_quantities_score_changes_by_fold.csv",
+      "role": "recomputed_source_summary",
+      "tables": [
+        8
+      ],
+      "caption": "Table S8. Changes in prediction scores and ADR rankings after proportional rescaling of herb quantities.",
+      "source_file": "test_predictions_fold_0.csv.gz through test_predictions_fold_4.csv.gz",
+      "sha256": "0071ac80b6f69c313e042aa6de18ea1feb7a318adfd7bee7bccca88e02c7c81b"
+    },
+    {
+      "file": "Table_S09_Predictive_performance_after_retraining_with_alternative_weighting_schemes_at_a_fixed_threshold_of_0.5.csv",
+      "role": "appendix_summary",
+      "tables": [
+        9
+      ],
+      "caption": "Table S9. Predictive performance after retraining with alternative weighting schemes at a fixed threshold of 0.5.",
+      "source_file": "R3_7_Supplementary_Dosage_Sensitivity.docx",
+      "source_sha256": "d18ba7be05931f14e7b9bbd6502b26b13a50586450283cb58ca52aa44500c676",
+      "sha256": "96f9040fff97bffb0560f5c7b18c4cb417474bf6bb0b3df57d71a71f1f8dbadc"
+    },
+    {
+      "file": "Table_S09_Predictive_performance_after_retraining_with_alternative_weighting_schemes_at_a_fixed_threshold_of_0.5_source_fold_metrics.csv",
+      "role": "source_metrics",
+      "tables": [
+        9,
+        10
+      ],
+      "caption": "Table S9. Predictive performance after retraining with alternative weighting schemes at a fixed threshold of 0.5.",
+      "source_file": "retraining_fold_metrics.csv",
+      "source_sha256": "ff36b47865eeca06447127efeacb8429c217f91320e60552b94ede25fb6dd857",
+      "sha256": "ff36b47865eeca06447127efeacb8429c217f91320e60552b94ede25fb6dd857"
+    },
+    {
+      "file": "Table_S10_Predictive_performance_after_retraining_with_alternative_weighting_schemes_and_validation-selected_thresholds.csv",
+      "role": "appendix_summary",
+      "tables": [
+        10
+      ],
+      "caption": "Table S10. Predictive performance after retraining with alternative weighting schemes and validation-selected thresholds.",
+      "source_file": "R3_7_Supplementary_Dosage_Sensitivity.docx",
+      "source_sha256": "d18ba7be05931f14e7b9bbd6502b26b13a50586450283cb58ca52aa44500c676",
+      "sha256": "2cb01816979718e6a0493c691f50e9ec3ed84bb26b50984091caa665805ac0dd"
+    },
+    {
+      "file": "Table_S13_Classification_performance_at_fixed_and_validation-selected_thresholds.csv",
+      "role": "appendix_summary",
+      "tables": [
+        13
+      ],
+      "caption": "Table S13. Classification performance at fixed and validation-selected thresholds.",
+      "source_file": "R3_11_Supplementary_Threshold_Comparison.docx",
+      "source_sha256": "bd15d491acd2ad5c5c4b9304873d77265587727a8138741ad011c25c0cbd4217",
+      "sha256": "700f8e588c6a8b68551766c0d62bfb048b4810ae08d200f5401c78083fe54894"
+    },
+    {
+      "file": "Table_S13_Classification_performance_at_fixed_and_validation-selected_thresholds_source_fold_metrics.xlsx",
+      "role": "source_metrics",
+      "tables": [
+        13,
+        14
+      ],
+      "caption": "Table S13. Classification performance at fixed and validation-selected thresholds.",
+      "source_file": "fold_metrics.xlsx",
+      "source_sha256": "081ac9b19bf3839c8f8efe02d6e404481432347f8d5027521532554182eabbcd",
+      "sha256": "081ac9b19bf3839c8f8efe02d6e404481432347f8d5027521532554182eabbcd"
+    },
+    {
+      "file": "Table_S14_Recall_at_common_false-positive-rate_limits_on_the_test_ROC_curves.csv",
+      "role": "appendix_summary",
+      "tables": [
+        14
+      ],
+      "caption": "Table S14. Recall at common false-positive-rate limits on the test ROC curves.",
+      "source_file": "R3_11_Supplementary_Threshold_Comparison.docx",
+      "source_sha256": "bd15d491acd2ad5c5c4b9304873d77265587727a8138741ad011c25c0cbd4217",
+      "sha256": "27eb76c4bf2f1c4ee648a556e13ffb8c37364b63f976fe0382c8247a3c0d459f"
+    },
+    {
+      "file": "Table_S15_Numbers_of_test_CPMs_meeting_each_matching_criterion_in_the_corresponding_training_fold.csv",
+      "role": "appendix_summary",
+      "tables": [
+        15
+      ],
+      "caption": "Table S15. Numbers of test CPMs meeting each matching criterion in the corresponding training fold.",
+      "source_file": "R3_4_Formulation_Overlap_and_Grouped_Retraining.docx",
+      "source_sha256": "4adf94a1d0b026ac775ed760e7644041cf001764263f65691df87921ee538ebc",
+      "sha256": "31963b65ca96a8d8fba43b0bb759ed292b5e9fac5b97ad4319f64150c06eb00f"
+    },
+    {
+      "file": "Table_S16_Performance_on_the_retained_test_CPMs_after_identical_herb-set_matches_were_excluded.csv",
+      "role": "appendix_summary",
+      "tables": [
+        16
+      ],
+      "caption": "Table S16. Performance on the retained test CPMs after identical herb-set matches were excluded.",
+      "source_file": "R3_4_Formulation_Overlap_and_Grouped_Retraining.docx",
+      "source_sha256": "4adf94a1d0b026ac775ed760e7644041cf001764263f65691df87921ee538ebc",
+      "sha256": "08ce0cf69fb84d031e6ad6315e8529307527626d9971b9cde794f3e2acab8e98"
+    },
+    {
+      "file": "Table_S17_Performance_after_retraining_and_testing_on_folds_grouped_by_exact_herb_sets.csv",
+      "role": "appendix_summary",
+      "tables": [
+        17
+      ],
+      "caption": "Table S17. Performance after retraining and testing on folds grouped by exact herb sets.",
+      "source_file": "R3_4_Formulation_Overlap_and_Grouped_Retraining.docx",
+      "source_sha256": "4adf94a1d0b026ac775ed760e7644041cf001764263f65691df87921ee538ebc",
+      "sha256": "971dabff83767ab78f09f19f0835c5a7d59d8e3d988ca842ce11b26f16caa626"
+    },
+    {
+      "file": "Table_S18_Mean_paired_differences_between_CPMADR-Net_and_RGCN_on_the_original_CPM_folds.csv",
+      "role": "appendix_summary",
+      "tables": [
+        18
+      ],
+      "caption": "Table S18. Mean paired differences between CPMADR-Net and RGCN on the original CPM folds.",
+      "source_file": "R3_4_Formulation_Overlap_and_Grouped_Retraining.docx",
+      "source_sha256": "4adf94a1d0b026ac775ed760e7644041cf001764263f65691df87921ee538ebc",
+      "sha256": "65ada702a8516d71afee498eb6d252519f9d024b0b376f3dd216d89bf3a2ff0c"
+    },
+    {
+      "file": "Table_S19_Foldwise_audit_of_strict_matches_in_the_edge-level_protocols.csv",
+      "role": "appendix_summary",
+      "tables": [
+        19
+      ],
+      "caption": "Table S19. Foldwise audit of strict matches in the edge-level protocols.",
+      "source_file": "R3_4_Formulation_Overlap_and_Grouped_Retraining.docx",
+      "source_sha256": "4adf94a1d0b026ac775ed760e7644041cf001764263f65691df87921ee538ebc",
+      "sha256": "719c2fb610337a49cdba33a35ba1372721cd06efe897c2f456e7278635d779a5"
+    },
+    {
+      "file": "Table_S21_Retrieval_of_published_Japanese_Kampo_pharmacovigilance_signals.csv",
+      "role": "appendix_summary",
+      "tables": [
+        21
+      ],
+      "caption": "Table S21. Retrieval of published Japanese Kampo pharmacovigilance signals.",
+      "source_file": "Kampo_Signal_Evaluation.docx",
+      "source_sha256": "d30b7d05cf38a6897c5c9f3da9a016fcc0676c14c6b1bccabb8fc204fc1dc662",
+      "sha256": "51ffb08e6fd68da095c606877a6224d10d925e83093151acb7c6aa712f084f4e"
+    },
+    {
+      "file": "Table_S21_Retrieval_of_published_Japanese_Kampo_pharmacovigilance_signals_source_metrics.xlsx",
+      "role": "source_metrics",
+      "tables": [
+        21
+      ],
+      "caption": "Table S21. Retrieval of published Japanese Kampo pharmacovigilance signals.",
+      "source_file": "kampo_published_signal_metrics.xlsx",
+      "source_sha256": "5ab40178b16925211c692028b254e7a4feaaf25433fbac4724593aeaf52691d2",
+      "sha256": "5ab40178b16925211c692028b254e7a4feaaf25433fbac4724593aeaf52691d2"
+    },
+    {
+      "file": "Table_S21_Retrieval_of_published_Japanese_Kampo_pharmacovigilance_signals_source_signals.xlsx",
+      "role": "source_metrics",
+      "tables": [
+        21
+      ],
+      "caption": "Table S21. Retrieval of published Japanese Kampo pharmacovigilance signals.",
+      "source_file": "paper_signals_in_171.xlsx",
+      "source_sha256": "1b8944f6de32dc58c209a818485e56aa7c5ac26b560313908e331ed020429935",
+      "sha256": "1b8944f6de32dc58c209a818485e56aa7c5ac26b560313908e331ed020429935"
+    },
+    {
+      "file": "Table_S25_Foldwise_audit_of_recorded_CPM–ADR_edges_and_held-out_edge_overlaps.csv",
+      "role": "appendix_summary",
+      "tables": [
+        25
+      ],
+      "caption": "Table S25. Foldwise audit of recorded CPM–ADR edges and held-out edge overlaps.",
+      "source_file": "R3.2 - Foldwise CPM-ADR Edge Audit.docx",
+      "source_sha256": "4841dc070c5c7c00fecd361a94abd29770a40725039fe51ac0a159f1f81ae05d",
+      "sha256": "f3888b802331a7a10b8d6a8561cf32e3caaf249b01e4a41cade99bcc7d252836"
+    },
+    {
+      "file": "Table_S26_Edge-level_five-fold_cross-validation_at_a_1-to-1_positive-to-negative_ratio.csv",
+      "role": "appendix_summary",
+      "tables": [
+        26
+      ],
+      "caption": "Table S26. Edge-level five-fold cross-validation at a 1:1 positive-to-negative ratio.",
+      "source_file": "negative_sampling_sensitivity.docx",
+      "source_sha256": "217f8f3433a53da74f0d2da4d78ff567b090ab2b8b6b18acb60871a8ca708edb",
+      "sha256": "3b9e23343d515cbd60a26e5e05369433f6424a819c4db467b8f794f332213dec"
+    },
+    {
+      "file": "Table_S26_Edge-level_five-fold_cross-validation_at_a_1-to-1_positive-to-negative_ratio_source_fold_metrics.xlsx",
+      "role": "source_metrics",
+      "tables": [
+        26
+      ],
+      "caption": "Table S26. Edge-level five-fold cross-validation at a 1:1 positive-to-negative ratio.",
+      "source_file": "fold_metrics.xlsx",
+      "source_sha256": "8df81f8e80aa9c531054550a3f5f4a5354d9a844c157527d8680eca16dc96070",
+      "sha256": "8df81f8e80aa9c531054550a3f5f4a5354d9a844c157527d8680eca16dc96070"
+    }
+  ]
+}

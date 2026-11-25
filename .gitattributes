@@ -1,0 +1,3 @@
+# Preserve data bytes used by SHA-256 manifests.
+processed_data_package/data/** -text
+supplementary_results/** -text

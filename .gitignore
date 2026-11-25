@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments and IDEs
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+~$*
+
+# Training outputs and checkpoints
+results/
+result/
+checkpoints/
+wandb/
+runs/
+*.pt
+*.pth
+*.ckpt
+
+# Local pretrained weights and generated embeddings
+BERT/**/pytorch_model.bin
+BERT/**/flax_model.msgpack
+BERT/**/*_output/*.npy
+
+# Local named training tables and drafts (keep on disk, do not publish)
+HerbData/
+adr/
+herb_ingredient/
+ingredient_target/
+*.xlsx
+
+# Generated experiment artifacts
+unbalanced/grid_search/
+unbalanced/网格搜索/
+unbalanced/tmp_split_check_*/
+unbalanced/*_smoke/
+unbalanced/bucket_tables/
+unbalanced/case_explain_*/
+unbalanced/*leaderboard.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

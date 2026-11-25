@@ -1,0 +1,218 @@
+﻿raw_chinese_term,disambiguation_context,observed_cpm_summary_freq,mapping_rule,reaction_id,meddra_pt_code,meddra_pt_cn,meddra_pt_en,meddra_soc_en,target_pt_cpm_edges_in_graph,notes
+恶心,Direct verbatim PT match,154,Rule_1_Exact_MedDRA_PT_Match,0,10028813,恶心,Nausea,Gastrointestinal disorders,153,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+皮疹,Direct verbatim PT match,148,Rule_1_Exact_MedDRA_PT_Match,1,10037844,皮疹,Rash,Skin and subcutaneous tissue disorders,146,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+呕吐,Direct verbatim PT match,133,Rule_1_Exact_MedDRA_PT_Match,3,10047700,呕吐,Vomiting,Gastrointestinal disorders,133,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+腹泻,Direct verbatim PT match,129,Rule_1_Exact_MedDRA_PT_Match,2,10012735,腹泻,Diarrhoea,Gastrointestinal disorders,133,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+瘙痒,Direct verbatim PT match,126,Rule_1_Exact_MedDRA_PT_Match,4,10037087,瘙痒,Pruritus,Skin and subcutaneous tissue disorders,123,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+腹痛,Direct verbatim PT match,108,Rule_1_Exact_MedDRA_PT_Match,5,10000081,腹痛,Abdominal pain,Gastrointestinal disorders,110,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+头晕,Direct verbatim PT match,86,Rule_1_Exact_MedDRA_PT_Match,7,10013573,头晕,Dizziness,Nervous system disorders,89,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+心悸,Direct verbatim PT match,76,Rule_1_Exact_MedDRA_PT_Match,9,10033557,心悸,Palpitations,Cardiac disorders,73,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+头痛,Direct verbatim PT match,72,Rule_1_Exact_MedDRA_PT_Match,10,10019211,头痛,Headache,Nervous system disorders,73,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+口干,Direct verbatim PT match,69,Rule_1_Exact_MedDRA_PT_Match,11,10013781,口干,Dry mouth,Gastrointestinal disorders,71,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+腹胀,Direct verbatim PT match,68,Rule_1_Exact_MedDRA_PT_Match,12,10000060,腹胀,Abdominal distension,Gastrointestinal disorders,70,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+腹部不适,Direct verbatim PT match,56,Rule_1_Exact_MedDRA_PT_Match,6,10000059,腹部不适,Abdominal discomfort,Gastrointestinal disorders,108,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+潮红,Direct verbatim PT match,41,Rule_1_Exact_MedDRA_PT_Match,15,10016825,潮红,Flushing,Vascular disorders,44,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+呼吸困难,Direct verbatim PT match,32,Rule_1_Exact_MedDRA_PT_Match,20,10013968,呼吸困难,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",29,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+便秘,Direct verbatim PT match,29,Rule_1_Exact_MedDRA_PT_Match,19,10010774,便秘,Constipation,Gastrointestinal disorders,29,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+发热,Direct verbatim PT match,27,Rule_1_Exact_MedDRA_PT_Match,18,10037660,发热,Pyrexia,General disorders and administration site conditions,30,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+嗜睡,Direct verbatim PT match,24,Rule_1_Exact_MedDRA_PT_Match,21,10041349,嗜睡,Somnolence,Nervous system disorders,24,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+荨麻疹,Direct verbatim PT match,21,Rule_1_Exact_MedDRA_PT_Match,23,10046735,荨麻疹,Urticaria,Skin and subcutaneous tissue disorders,21,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+失眠,Direct verbatim PT match,17,Rule_1_Exact_MedDRA_PT_Match,27,10022437,失眠,Insomnia,Psychiatric disorders,17,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+红斑,Direct verbatim PT match,17,Rule_1_Exact_MedDRA_PT_Match,22,10015150,红斑,Erythema,Skin and subcutaneous tissue disorders,23,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+多汗,Direct verbatim PT match,16,Rule_1_Exact_MedDRA_PT_Match,28,10020642,多汗,Hyperhidrosis,Skin and subcutaneous tissue disorders,16,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+食欲减退,Direct verbatim PT match,16,Rule_1_Exact_MedDRA_PT_Match,16,10061428,食欲减退,Decreased appetite,Metabolism and nutrition disorders,37,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+水肿,Direct verbatim PT match,15,Rule_1_Exact_MedDRA_PT_Match,34,10030095,水肿,Oedema,General disorders and administration site conditions,11,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+胸部不适,Direct verbatim PT match,15,Rule_1_Exact_MedDRA_PT_Match,14,10008469,胸部不适,Chest discomfort,General disorders and administration site conditions,49,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+血压升高,Direct verbatim PT match,15,Rule_1_Exact_MedDRA_PT_Match,26,10005750,血压升高,Blood pressure increased,Investigations,20,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+疼痛,Direct verbatim PT match,14,Rule_1_Exact_MedDRA_PT_Match,29,10033371,疼痛,Pain,General disorders and administration site conditions,16,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+寒战,Direct verbatim PT match,12,Rule_1_Exact_MedDRA_PT_Match,35,10008531,寒战,Chills,General disorders and administration site conditions,10,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+过敏性休克,Direct verbatim PT match,12,Rule_1_Exact_MedDRA_PT_Match,24,10002199,过敏性休克,Anaphylactic shock,Immune system disorders,21,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+嗳气,Direct verbatim PT match,11,Rule_1_Exact_MedDRA_PT_Match,32,10015137,嗳气,Eructation,Gastrointestinal disorders,11,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+肝功能异常,Direct verbatim PT match,10,Rule_1_Exact_MedDRA_PT_Match,17,10019670,肝功能异常,Hepatic function abnormal,Hepatobiliary disorders,35,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+斑丘疹,Direct verbatim PT match,8,Rule_1_Exact_MedDRA_PT_Match,39,10037868,斑丘疹,Rash maculo-papular,Skin and subcutaneous tissue disorders,8,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+咳嗽,Direct verbatim PT match,6,Rule_1_Exact_MedDRA_PT_Match,44,10011224,咳嗽,Cough,"Respiratory, thoracic and mediastinal disorders",7,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+胃酸过多,Direct verbatim PT match,6,Rule_1_Exact_MedDRA_PT_Match,50,10020601,胃酸过多,Hyperchlorhydria,Gastrointestinal disorders,6,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+丘疹,Direct verbatim PT match,5,Rule_1_Exact_MedDRA_PT_Match,41,10033733,丘疹,Papule,Skin and subcutaneous tissue disorders,8,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+口渴,Direct verbatim PT match,5,Rule_1_Exact_MedDRA_PT_Match,56,10043458,口渴,Thirst,General disorders and administration site conditions,5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+呼吸急促,Direct verbatim PT match,5,Rule_1_Exact_MedDRA_PT_Match,61,10043089,呼吸急促,Tachypnoea,"Respiratory, thoracic and mediastinal disorders",5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+眩晕,Direct verbatim PT match,5,Rule_1_Exact_MedDRA_PT_Match,55,10047340,眩晕,Vertigo,Ear and labyrinth disorders,5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+心动过速,Direct verbatim PT match,4,Rule_1_Exact_MedDRA_PT_Match,70,10043071,心动过速,Tachycardia,Cardiac disorders,4,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+皮肤黄染,Direct verbatim PT match,4,Rule_1_Exact_MedDRA_PT_Match,59,10048245,皮肤黄染,Yellow skin,Skin and subcutaneous tissue disorders,5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+转氨酶升高,Direct verbatim PT match,4,Rule_1_Exact_MedDRA_PT_Match,49,10054889,转氨酶升高,Transaminases increased,Investigations,6,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+静脉炎,Direct verbatim PT match,4,Rule_1_Exact_MedDRA_PT_Match,53,10034879,静脉炎,Phlebitis,Vascular disorders,5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+黑便,Direct verbatim PT match,4,Rule_1_Exact_MedDRA_PT_Match,48,10027141,黑便,Melaena,Gastrointestinal disorders,6,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+心律失常,Direct verbatim PT match,3,Rule_1_Exact_MedDRA_PT_Match,69,10003119,心律失常,Arrhythmia,Cardiac disorders,4,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+药疹,Direct verbatim PT match,3,Rule_1_Exact_MedDRA_PT_Match,40,10013687,药疹,Drug eruption,Skin and subcutaneous tissue disorders,8,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+震颤,Direct verbatim PT match,3,Rule_1_Exact_MedDRA_PT_Match,65,10044565,震颤,Tremor,Nervous system disorders,4,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+面部水肿,Direct verbatim PT match,3,Rule_1_Exact_MedDRA_PT_Match,63,10016029,面部水肿,Face oedema,General disorders and administration site conditions,4,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+高热,Direct verbatim PT match,3,Rule_1_Exact_MedDRA_PT_Match,76,10020741,高热,Hyperpyrexia,General disorders and administration site conditions,3,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+鼻衄,Direct verbatim PT match,3,Rule_1_Exact_MedDRA_PT_Match,42,10015090,鼻衄,Epistaxis,"Respiratory, thoracic and mediastinal disorders",8,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+低血糖,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,110,10020993,低血糖,Hypoglycaemia,Metabolism and nutrition disorders,2,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+呃逆,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,103,10020039,呃逆,Hiccups,"Respiratory, thoracic and mediastinal disorders",2,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+喉水肿,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,57,10023845,喉水肿,Laryngeal oedema,"Respiratory, thoracic and mediastinal disorders",5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+消化不良,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,25,10013946,消化不良,Dyspepsia,Gastrointestinal disorders,20,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+皮肤肿胀,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,83,10053262,皮肤肿胀,Skin swelling,Skin and subcutaneous tissue disorders,3,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+紫癜,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,93,10037549,紫癜,Purpura,Skin and subcutaneous tissue disorders,3,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+肠胃气胀,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,68,10016766,肠胃气胀,Flatulence,Gastrointestinal disorders,4,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+肿胀,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,132,10042674,肿胀,Swelling,General disorders and administration site conditions,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+高血压,Direct verbatim PT match,2,Rule_1_Exact_MedDRA_PT_Match,106,10020772,高血压,Hypertension,Vascular disorders,2,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+中毒,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,54,10061355,中毒,Poisoning,"Injury, poisoning and procedural complications",5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+体温过低,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,157,10021113,体温过低,Hypothermia,General disorders and administration site conditions,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+口咽疼痛,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,148,10068319,口咽疼痛,Oropharyngeal pain,"Respiratory, thoracic and mediastinal disorders",1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+咽干,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,162,10013789,咽干,Dry throat,"Respiratory, thoracic and mediastinal disorders",1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+头部不适,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,46,10019194,头部不适,Head discomfort,Nervous system disorders,6,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+感觉减退,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,37,10020937,感觉减退,Hypoaesthesia,Nervous system disorders,9,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+排尿困难,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,81,10013990,排尿困难,Dysuria,Renal and urinary disorders,3,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+斑疹,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,147,10025421,斑疹,Macule,Skin and subcutaneous tissue disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+昏迷,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,123,10010071,昏迷,Coma,Nervous system disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+晕厥,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,143,10042772,晕厥,Syncope,Nervous system disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+流涎,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,164,10013642,流涎,Drooling,Nervous system disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+烦躁不安,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,47,10013954,烦躁不安,Dysphoria,Psychiatric disorders,6,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+牙龈出血,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,58,10018276,牙龈出血,Gingival bleeding,Gastrointestinal disorders,5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+瘀斑,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,115,10014080,瘀斑,Ecchymosis,Skin and subcutaneous tissue disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+皮炎,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,131,10012431,皮炎,Dermatitis,Skin and subcutaneous tissue disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+皮肤干燥,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,62,10013786,皮肤干燥,Dry skin,Skin and subcutaneous tissue disorders,5,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+皮肤萎缩,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,120,10040799,皮肤萎缩,Skin atrophy,Skin and subcutaneous tissue disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+眼充血,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,129,10030041,眼充血,Ocular hyperaemia,Eye disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+眼睑水肿,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,149,10015993,眼睑水肿,Eyelid oedema,Eye disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+结膜出血,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,121,10010719,结膜出血,Conjunctival haemorrhage,Eye disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+耳鸣,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,146,10043882,耳鸣,Tinnitus,Ear and labyrinth disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+肝损伤,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,89,10067125,肝损伤,Liver injury,Hepatobiliary disorders,3,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+苍白,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,88,10033546,苍白,Pallor,Vascular disorders,3,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+虚弱,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,13,10003549,虚弱,Asthenia,General disorders and administration site conditions,53,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+血压降低,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,33,10005734,血压降低,Blood pressure decreased,Investigations,11,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+血尿症,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,43,10018867,血尿症,Haematuria,Renal and urinary disorders,6,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+过敏性皮炎,Direct verbatim PT match,1,Rule_1_Exact_MedDRA_PT_Match,159,10012434,过敏性皮炎,Dermatitis allergic,Skin and subcutaneous tissue disorders,1,Raw Chinese term matches official Chinese MedDRA PT verbatim.
+过敏,General systemic context,79,Rule_2_Colloquial_or_LLT_to_PT,8,10020751,超敏反应,Hypersensitivity,Immune system disorders,83,General allergic reaction standardized to Hypersensitivity.
+过敏,"Anaphylactoid monograph context (e.g., 三七伤药片/胶囊)",79,Rule_6_Monograph_Context_Disambiguation,99,10002216,类过敏反应,Anaphylactoid reaction,Immune system disorders,2,Mapped to Anaphylactoid reaction when full monograph specifies anaphylactoid reaction.
+乏力,General systemic context,50,Rule_2_Colloquial_or_LLT_to_PT,13,10003549,虚弱,Asthenia,General disorders and administration site conditions,53,Clinical colloquialism mapped to Asthenia.
+虚弱感,General systemic context,2,Rule_2_Colloquial_or_LLT_to_PT,13,10003549,虚弱,Asthenia,General disorders and administration site conditions,53,Standardized to Asthenia.
+疲劳,"General systemic context (e.g., 鼻炎康片)",1,Rule_2_Colloquial_or_LLT_to_PT,101,10024264,倦怠,Lethargy,Nervous system disorders,2,Fatigue/lethargy phrasing mapped to Lethargy.
+胸闷,General systemic context,35,Rule_2_Colloquial_or_LLT_to_PT,14,10008469,胸部不适,Chest discomfort,General disorders and administration site conditions,49,Chest tightness/oppression standardized to Chest discomfort.
+心区不适,"Cardiac/precordial context (e.g., 苦碟子注射液)",1,Rule_3_Anatomical_LLT_Consolidation,14,10008469,胸部不适,Chest discomfort,General disorders and administration site conditions,49,Precordial discomfort consolidated under Chest discomfort.
+胃部不适,Gastrointestinal context,34,Rule_3_Anatomical_LLT_Consolidation,6,10000059,腹部不适,Abdominal discomfort,Gastrointestinal disorders,108,Gastric discomfort consolidated under MedDRA PT Abdominal discomfort.
+胃脘不适,Gastrointestinal context,11,Rule_3_Anatomical_LLT_Consolidation,6,10000059,腹部不适,Abdominal discomfort,Gastrointestinal disorders,108,TCM epigastric/stomach phrasing standardized to Abdominal discomfort.
+胃肠不适,Gastrointestinal context,8,Rule_3_Anatomical_LLT_Consolidation,6,10000059,腹部不适,Abdominal discomfort,Gastrointestinal disorders,108,Gastrointestinal discomfort mapped to Abdominal discomfort.
+胃肠道不适,Gastrointestinal context,1,Rule_3_Anatomical_LLT_Consolidation,6,10000059,腹部不适,Abdominal discomfort,Gastrointestinal disorders,108,Gastrointestinal discomfort mapped to Abdominal discomfort.
+肠胃不适,Gastrointestinal context,2,Rule_3_Anatomical_LLT_Consolidation,6,10000059,腹部不适,Abdominal discomfort,Gastrointestinal disorders,108,Gastrointestinal discomfort mapped to Abdominal discomfort.
+上腹不适,Gastrointestinal context,2,Rule_3_Anatomical_LLT_Consolidation,73,10053155,中上腹不适,Epigastric discomfort,Gastrointestinal disorders,3,Upper abdominal discomfort mapped to Epigastric discomfort.
+胃痛,Gastrointestinal context,7,Rule_3_Anatomical_LLT_Consolidation,38,10000087,上腹痛,Abdominal pain upper,Gastrointestinal disorders,9,Stomach ache (LLT) standardized to Abdominal pain upper.
+上腹疼痛,Gastrointestinal context,2,Rule_3_Anatomical_LLT_Consolidation,38,10000087,上腹痛,Abdominal pain upper,Gastrointestinal disorders,9,Standardized to Abdominal pain upper.
+胃脘胀痛,"Gastrointestinal context (e.g., 癃清片)",1,Rule_3_Anatomical_LLT_Consolidation,6,10000059,腹部不适,Abdominal discomfort,Gastrointestinal disorders,108,TCM epigastric distending pain mapped to Abdominal discomfort.
+胃脘胀满,"Gastrointestinal context (e.g., 松龄血脉康胶囊)",1,Rule_3_Anatomical_LLT_Consolidation,12,10000060,腹胀,Abdominal distension,Gastrointestinal disorders,70,TCM epigastric fullness mapped to Abdominal distension.
+胃胀,Gastrointestinal context,1,Rule_3_Anatomical_LLT_Consolidation,12,10000060,腹胀,Abdominal distension,Gastrointestinal disorders,70,Gastric distension mapped to Abdominal distension.
+胃肠胀气,Gastrointestinal context,1,Rule_2_Colloquial_or_LLT_to_PT,68,10016766,肠胃气胀,Flatulence,Gastrointestinal disorders,4,Gastrointestinal flatulence mapped to Flatulence.
+胀气,Gastrointestinal context,1,Rule_2_Colloquial_or_LLT_to_PT,68,10016766,肠胃气胀,Flatulence,Gastrointestinal disorders,4,Bloating/gas mapped to Flatulence.
+食欲不振,General context,15,Rule_2_Colloquial_or_LLT_to_PT,16,10061428,食欲减退,Decreased appetite,Metabolism and nutrition disorders,37,Loss of appetite standardized to Decreased appetite.
+纳差,TCM clinical context,4,Rule_2_Colloquial_or_LLT_to_PT,16,10061428,食欲减退,Decreased appetite,Metabolism and nutrition disorders,37,TCM clinical term for poor appetite mapped to Decreased appetite.
+厌食,General context,1,Rule_2_Colloquial_or_LLT_to_PT,16,10061428,食欲减退,Decreased appetite,Metabolism and nutrition disorders,37,Consolidated with Decreased appetite within the same monograph.
+厌油,"Hepatobiliary/GI context (e.g., 首乌丸、白蚀丸)",2,Rule_2_Colloquial_or_LLT_to_PT,16,10061428,食欲减退,Decreased appetite,Metabolism and nutrition disorders,37,Greasy-food aversion mapped to Decreased appetite.
+食欲下降,General context,2,Rule_2_Colloquial_or_LLT_to_PT,16,10061428,食欲减退,Decreased appetite,Metabolism and nutrition disorders,37,Standardized to Decreased appetite.
+食欲亢进,General context,2,Rule_2_Colloquial_or_LLT_to_PT,109,10021654,食欲增加,Increased appetite,Metabolism and nutrition disorders,2,Standardized to Increased appetite.
+口苦,Oral/taste context,13,Rule_2_Colloquial_or_LLT_to_PT,31,10013911,味觉倒错,Dysgeusia,Nervous system disorders,13,Bitter taste in mouth (LLT) standardized to Dysgeusia.
+反酸,Gastrointestinal context,8,Rule_2_Colloquial_or_LLT_to_PT,25,10013946,消化不良,Dyspepsia,Gastrointestinal disorders,20,Acid regurgitation consolidated under Dyspepsia / Hyperchlorhydria.
+返酸,Gastrointestinal context,5,Rule_2_Colloquial_or_LLT_to_PT,25,10013946,消化不良,Dyspepsia,Gastrointestinal disorders,20,Orthographic variant of 反酸 standardized to Dyspepsia.
+胃灼热,Gastrointestinal context,6,Rule_2_Colloquial_or_LLT_to_PT,25,10013946,消化不良,Dyspepsia,Gastrointestinal disorders,20,Heartburn/gastric burning consolidated under Dyspepsia.
+烧心,Gastrointestinal context,3,Rule_2_Colloquial_or_LLT_to_PT,25,10013946,消化不良,Dyspepsia,Gastrointestinal disorders,20,Heartburn standardized to Dyspepsia.
+胃烧灼感,Gastrointestinal/sensory context,1,Rule_2_Colloquial_or_LLT_to_PT,92,10006784,烧灼感,Burning sensation,Nervous system disorders,3,Mapped to Burning sensation.
+暧气,Orthographic variant,1,Rule_2_Colloquial_or_LLT_to_PT,32,10015137,嗳气,Eructation,Gastrointestinal disorders,11,Orthographic variant standardized to Eructation.
+欲吐,"Gastrointestinal context (e.g., 都梁滴丸)",1,Rule_2_Colloquial_or_LLT_to_PT,0,10028813,恶心,Nausea,Gastrointestinal disorders,153,Retching/urge to vomit mapped to Nausea.
+消化道不适,Gastrointestinal context,4,Rule_2_Colloquial_or_LLT_to_PT,25,10013946,消化不良,Dyspepsia,Gastrointestinal disorders,20,Standardized to Dyspepsia.
+消化道反应,Gastrointestinal context,1,Rule_3_Anatomical_LLT_Consolidation,67,10017944,胃肠疾病,Gastrointestinal disorder,Gastrointestinal disorders,4,Non-specific GI reaction mapped to Gastrointestinal disorder.
+消化道症状,Gastrointestinal context,1,Rule_3_Anatomical_LLT_Consolidation,67,10017944,胃肠疾病,Gastrointestinal disorder,Gastrointestinal disorders,4,Non-specific GI symptom mapped to Gastrointestinal disorder.
+胃肠道反应,Gastrointestinal context,1,Rule_3_Anatomical_LLT_Consolidation,67,10017944,胃肠疾病,Gastrointestinal disorder,Gastrointestinal disorders,4,Non-specific GI reaction mapped to Gastrointestinal disorder.
+便溏,TCM clinical context,2,Rule_2_Colloquial_or_LLT_to_PT,2,10012735,腹泻,Diarrhoea,Gastrointestinal disorders,133,TCM loose-stool term standardized to Diarrhoea.
+溏便,TCM clinical context,1,Rule_2_Colloquial_or_LLT_to_PT,2,10012735,腹泻,Diarrhoea,Gastrointestinal disorders,133,TCM loose-stool term standardized to Diarrhoea.
+大便偏稀,Gastrointestinal context,1,Rule_2_Colloquial_or_LLT_to_PT,2,10012735,腹泻,Diarrhoea,Gastrointestinal disorders,133,Loose stool mapped to Diarrhoea.
+大便次数增加,Gastrointestinal context,3,Rule_2_Colloquial_or_LLT_to_PT,2,10012735,腹泻,Diarrhoea,Gastrointestinal disorders,133,Increased bowel frequency standardized to Diarrhoea.
+大便次数增多,Gastrointestinal context,1,Rule_2_Colloquial_or_LLT_to_PT,2,10012735,腹泻,Diarrhoea,Gastrointestinal disorders,133,Increased bowel frequency standardized to Diarrhoea.
+大便频率增多,Gastrointestinal context,1,Rule_2_Colloquial_or_LLT_to_PT,2,10012735,腹泻,Diarrhoea,Gastrointestinal disorders,133,Increased bowel frequency standardized to Diarrhoea.
+大便干燥,Gastrointestinal context,2,Rule_2_Colloquial_or_LLT_to_PT,104,10051244,排便困难,Dyschezia,Gastrointestinal disorders,2,Dry/hard stool mapped to Dyschezia.
+大便难以控制,Gastrointestinal context,1,Rule_2_Colloquial_or_LLT_to_PT,156,10077605,肛门失禁,Anal incontinence,Gastrointestinal disorders,1,Bowel incontinence mapped to Anal incontinence.
+大便颜色灰白,"Hepatobiliary context (e.g., 壮骨关节丸)",1,Rule_2_Colloquial_or_LLT_to_PT,170,10016100,粪便变色,Faeces discoloured,Gastrointestinal disorders,1,Clay-colored/pale stool mapped to Faeces discoloured.
+消化道出血,Gastrointestinal context,5,Rule_2_Colloquial_or_LLT_to_PT,30,10017955,胃肠出血,Gastrointestinal haemorrhage,Gastrointestinal disorders,15,Digestive tract bleeding standardized to Gastrointestinal haemorrhage.
+胃肠道出血,Gastrointestinal context,1,Rule_2_Colloquial_or_LLT_to_PT,30,10017955,胃肠出血,Gastrointestinal haemorrhage,Gastrointestinal disorders,15,Gastrointestinal bleeding standardized to Gastrointestinal haemorrhage.
+皮下出血点,"Dermatological/vascular context (e.g., 丹红注射液)",1,Rule_2_Colloquial_or_LLT_to_PT,117,10018999,皮下出血,Haemorrhage subcutaneous,Skin and subcutaneous tissue disorders,1,Subcutaneous bleeding spots mapped to Haemorrhage subcutaneous / Ecchymosis.
+头昏,Neurological context,4,Rule_2_Colloquial_or_LLT_to_PT,7,10013573,头晕,Dizziness,Nervous system disorders,89,Lightheadedness/dizziness synonym standardized to Dizziness.
+头胀,Neurological context,5,Rule_2_Colloquial_or_LLT_to_PT,46,10019194,头部不适,Head discomfort,Nervous system disorders,6,Head fullness/distension mapped to Head discomfort.
+头颈不适,"Musculoskeletal context (e.g., 疏风定痛丸)",1,Rule_3_Anatomical_LLT_Consolidation,136,10028836,颈痛,Neck pain,Musculoskeletal and connective tissue disorders,1,Head/neck discomfort mapped to Neck pain.
+周身发紧,"Musculoskeletal context (e.g., 疏风定痛丸)",1,Rule_2_Colloquial_or_LLT_to_PT,138,10049816,肌紧张,Muscle tightness,Musculoskeletal and connective tissue disorders,1,Generalized tightness mapped to Muscle tightness.
+肌肉痛,Musculoskeletal context,1,Rule_2_Colloquial_or_LLT_to_PT,166,10028411,肌痛,Myalgia,Musculoskeletal and connective tissue disorders,1,Standardized to Myalgia.
+关节疼痛,Musculoskeletal context,1,Rule_2_Colloquial_or_LLT_to_PT,167,10003239,关节痛,Arthralgia,Musculoskeletal and connective tissue disorders,1,Standardized to Arthralgia.
+周身难受,"General systemic context (e.g., 瓜蒌皮注射液)",1,Rule_2_Colloquial_or_LLT_to_PT,155,10025482,难受,Malaise,General disorders and administration site conditions,1,Generalized malaise standardized to Malaise.
+哭闹不止,"Pediatric/systemic context (e.g., 复方麝香注射液)",1,Rule_2_Colloquial_or_LLT_to_PT,151,10011469,哭,Crying,General disorders and administration site conditions,1,Persistent crying mapped to Crying.
+心慌,Cardiac context,2,Rule_2_Colloquial_or_LLT_to_PT,9,10033557,心悸,Palpitations,Cardiac disorders,73,Colloquial palpitation term standardized to Palpitations.
+憋气,Respiratory context,7,Rule_2_Colloquial_or_LLT_to_PT,20,10013968,呼吸困难,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",29,Shortness of breath/suffocating sensation standardized to Dyspnoea.
+血压下降,Investigations context,6,Rule_2_Colloquial_or_LLT_to_PT,33,10005734,血压降低,Blood pressure decreased,Investigations,11,Standardized to Blood pressure decreased.
+药热,General systemic context,6,Rule_2_Colloquial_or_LLT_to_PT,18,10037660,发热,Pyrexia,General disorders and administration site conditions,30,Drug fever mapped to Pyrexia.
+畏寒,General systemic context,2,Rule_2_Colloquial_or_LLT_to_PT,107,10057040,温度变化不耐受,Temperature intolerance,General disorders and administration site conditions,2,Cold intolerance/chilliness mapped to Temperature intolerance.
+烦躁,Psychiatric context,4,Rule_2_Colloquial_or_LLT_to_PT,47,10013954,烦躁不安,Dysphoria,Psychiatric disorders,6,Standardized to Dysphoria.
+烦热,Psychiatric context,1,Rule_2_Colloquial_or_LLT_to_PT,47,10013954,烦躁不安,Dysphoria,Psychiatric disorders,6,Standardized to Dysphoria.
+意识模糊,Psychiatric context,1,Rule_2_Colloquial_or_LLT_to_PT,133,10010305,意识模糊状态,Confusional state,Psychiatric disorders,1,Standardized to Confusional state.
+困倦,Neurological context,2,Rule_2_Colloquial_or_LLT_to_PT,21,10041349,嗜睡,Somnolence,Nervous system disorders,24,Drowsiness standardized to Somnolence.
+视力模糊,Ophthalmic context,3,Rule_2_Colloquial_or_LLT_to_PT,75,10047513,视物模糊,Vision blurred,Eye disorders,3,Standardized to Vision blurred.
+流泪,"Ophthalmic context (e.g., 双黄连滴眼剂)",1,Rule_2_Colloquial_or_LLT_to_PT,139,10023644,流泪增加,Lacrimation increased,Eye disorders,1,Tearing mapped to Lacrimation increased.
+紫绀,Vascular context,4,Rule_2_Colloquial_or_LLT_to_PT,52,10011703,发绀,Cyanosis,Vascular disorders,5,Orthographic clinical synonym standardized to Cyanosis.
+口唇紫绀,Vascular context,1,Rule_3_Anatomical_LLT_Consolidation,52,10011703,发绀,Cyanosis,Vascular disorders,5,Lip cyanosis mapped to Cyanosis.
+面色苍白,Vascular context,2,Rule_2_Colloquial_or_LLT_to_PT,88,10033546,苍白,Pallor,Vascular disorders,3,Facial pallor standardized to Pallor.
+面红,Vascular context,2,Rule_2_Colloquial_or_LLT_to_PT,15,10016825,潮红,Flushing,Vascular disorders,44,Facial flushing standardized to Flushing.
+出汗,Dermatological context,1,Rule_2_Colloquial_or_LLT_to_PT,28,10020642,多汗,Hyperhidrosis,Skin and subcutaneous tissue disorders,16,Sweating mapped to Hyperhidrosis.
+发红,Dermatological context,1,Rule_2_Colloquial_or_LLT_to_PT,22,10015150,红斑,Erythema,Skin and subcutaneous tissue disorders,23,Skin redness mapped to Erythema.
+皮肤发红,Dermatological context,1,Rule_2_Colloquial_or_LLT_to_PT,22,10015150,红斑,Erythema,Skin and subcutaneous tissue disorders,23,Standardized to Erythema.
+红斑疹,Dermatological context,2,Rule_2_Colloquial_or_LLT_to_PT,22,10015150,红斑,Erythema,Skin and subcutaneous tissue disorders,23,Erythematous rash mapped to Erythema.
+红疹,Dermatological context,1,Rule_2_Colloquial_or_LLT_to_PT,158,10037855,红色皮疹,Rash erythematous,Skin and subcutaneous tissue disorders,1,Standardized to Rash erythematous.
+偶见皮疹,"Frequency-prefixed clause (e.g., 金感欣片)",1,Rule_5_Qualifier_Stripping,1,10037844,皮疹,Rash,Skin and subcutaneous tissue disorders,146,Frequency qualifier stripped; mapped to Rash.
+以及皮疹,"Conjunction-prefixed clause (e.g., 连花清瘟颗粒)",1,Rule_5_Qualifier_Stripping,1,10037844,皮疹,Rash,Skin and subcutaneous tissue disorders,146,Conjunction stripped; mapped to Rash.
+皮肤瘙痒,Dermatological context,3,Rule_2_Colloquial_or_LLT_to_PT,4,10037087,瘙痒,Pruritus,Skin and subcutaneous tissue disorders,123,Skin itching standardized to Pruritus.
+刺痛,Topical/dermatological context,3,Rule_2_Colloquial_or_LLT_to_PT,29,10033371,疼痛,Pain,General disorders and administration site conditions,16,Stinging pain mapped to Pain.
+灼烧感,Sensory context,2,Rule_2_Colloquial_or_LLT_to_PT,92,10006784,烧灼感,Burning sensation,Nervous system disorders,3,Orthographic variant standardized to Burning sensation.
+喉头水肿,Respiratory context,3,Rule_2_Colloquial_or_LLT_to_PT,57,10023845,喉水肿,Laryngeal oedema,"Respiratory, thoracic and mediastinal disorders",5,Standardized to Laryngeal oedema.
+咽喉不适,Respiratory context,1,Rule_2_Colloquial_or_LLT_to_PT,134,10054115,喉部不适,Laryngeal discomfort,"Respiratory, thoracic and mediastinal disorders",1,Standardized to Laryngeal discomfort.
+口咽干燥,Oral/respiratory context,1,Rule_2_Colloquial_or_LLT_to_PT,11,10013781,口干,Dry mouth,Gastrointestinal disorders,71,Standardized to Dry mouth.
+麻木,General neurological context,3,Rule_2_Colloquial_or_LLT_to_PT,37,10020937,感觉减退,Hypoaesthesia,Nervous system disorders,9,Numbness standardized to Hypoaesthesia.
+四肢麻木,Limb neurological context,3,Rule_3_Anatomical_LLT_Consolidation,37,10020937,感觉减退,Hypoaesthesia,Nervous system disorders,9,Limb numbness mapped to Hypoaesthesia.
+口麻木,Oral context,1,Rule_3_Anatomical_LLT_Consolidation,36,10057371,口腔感觉减退,Hypoaesthesia oral,Gastrointestinal disorders,9,Oral numbness standardized to Hypoaesthesia oral.
+口内麻木感,"Oral context (e.g., 都梁滴丸)",1,Rule_3_Anatomical_LLT_Consolidation,36,10057371,口腔感觉减退,Hypoaesthesia oral,Gastrointestinal disorders,9,Intraoral numbness mapped to Hypoaesthesia oral.
+舌麻木,Oral context,2,Rule_3_Anatomical_LLT_Consolidation,36,10057371,口腔感觉减退,Hypoaesthesia oral,Gastrointestinal disorders,9,Tongue numbness standardized to Hypoaesthesia oral.
+口舌麻木,Oral context,3,Rule_3_Anatomical_LLT_Consolidation,36,10057371,口腔感觉减退,Hypoaesthesia oral,Gastrointestinal disorders,9,Oral/tongue numbness standardized to Hypoaesthesia oral.
+口周麻木,Perioral context,2,Rule_3_Anatomical_LLT_Consolidation,36,10057371,口腔感觉减退,Hypoaesthesia oral,Gastrointestinal disorders,9,Perioral numbness mapped to Hypoaesthesia oral.
+舌麻痹,Neurological context,2,Rule_2_Colloquial_or_LLT_to_PT,100,10043972,舌瘫痪,Tongue paralysis,Nervous system disorders,2,Standardized to Tongue paralysis.
+抽搐,Neurological context,4,Rule_2_Colloquial_or_LLT_to_PT,77,10028622,肌阵挛,Myoclonus,Nervous system disorders,3,Twitching/convulsive jerks mapped to Myoclonus / Muscle twitching.
+颤抖,Neurological context,2,Rule_2_Colloquial_or_LLT_to_PT,65,10044565,震颤,Tremor,Nervous system disorders,4,Shivering/trembling standardized to Tremor.
+肢体颤动,"Neurological context (e.g., 疏风定痛丸)",1,Rule_2_Colloquial_or_LLT_to_PT,65,10044565,震颤,Tremor,Nervous system disorders,4,Limb tremor standardized to Tremor.
+出汗减少,Dermatological context,2,Rule_2_Colloquial_or_LLT_to_PT,113,10021013,少汗症,Hypohidrosis,Skin and subcutaneous tissue disorders,2,Reduced sweating standardized to Hypohidrosis.
+尿黄,Renal/hepatobiliary context,5,Rule_2_Colloquial_or_LLT_to_PT,45,10008796,色素尿,Chromaturia,Renal and urinary disorders,7,Dark/yellow urine standardized to Chromaturia.
+尿色加深,"Renal/hepatobiliary context (e.g., 仙灵骨葆胶囊/片)",2,Rule_2_Colloquial_or_LLT_to_PT,45,10008796,色素尿,Chromaturia,Renal and urinary disorders,7,Darkened urine mapped to Chromaturia.
+血尿,Renal context,3,Rule_2_Colloquial_or_LLT_to_PT,43,10018867,血尿症,Haematuria,Renal and urinary disorders,6,Standardized to Haematuria.
+肾损伤,"Renal context (e.g., 牛黄解毒片)",1,Rule_2_Colloquial_or_LLT_to_PT,80,10069339,急性肾损伤,Acute kidney injury,Renal and urinary disorders,3,Kidney injury mapped to Acute kidney injury per monograph.
+凝血功能异常,"Hematological context (e.g., 通天口服液)",1,Rule_2_Colloquial_or_LLT_to_PT,144,10009802,凝血障碍,Coagulopathy,Blood and lymphatic system disorders,1,Abnormal coagulation mapped to Coagulopathy.
+铝蓄积中毒,"Toxicological context (e.g., 复方陈香胃片)",1,Rule_2_Colloquial_or_LLT_to_PT,54,10061355,中毒,Poisoning,"Injury, poisoning and procedural complications",5,Aluminum accumulation toxicity mapped to Poisoning.
+目黄,Hepatobiliary context,4,Rule_2_Colloquial_or_LLT_to_PT,51,10058117,眼黄疸,Ocular icterus,Hepatobiliary disorders,5,TCM scleral icterus term standardized to Ocular icterus.
+皮肤黄染等表现,"Hepatobiliary context (e.g., 白蚀丸)",1,Rule_5_Qualifier_Stripping,59,10048245,皮肤黄染,Yellow skin,Skin and subcutaneous tissue disorders,5,Trailing clause stripped; mapped to Yellow skin.
+ALT升高,"Investigations context (e.g., 舒肝解郁胶囊)",1,Rule_4_Lab_Abbreviation_Expansion,60,10001551,丙氨酸氨基转移酶升高,Alanine aminotransferase increased,Investigations,5,Laboratory abbreviation expanded to Alanine aminotransferase increased.
+血清转氨酶升高,Investigations context,1,Rule_4_Lab_Abbreviation_Expansion,49,10054889,转氨酶升高,Transaminases increased,Investigations,6,Standardized to Transaminases increased.
+肝生化指标异常,Hepatobiliary/investigations context,8,Rule_4_Lab_Abbreviation_Expansion,17,10019670,肝功能异常,Hepatic function abnormal,Hepatobiliary disorders,35,Abnormal liver biochemistry standardized to Hepatic function abnormal.
+有肝生化指标异常,Hepatobiliary/investigations context,2,Rule_4_Lab_Abbreviation_Expansion,17,10019670,肝功能异常,Hepatic function abnormal,Hepatobiliary disorders,35,Standardized to Hepatic function abnormal.
+肝功能生化指标异常,Hepatobiliary/investigations context,1,Rule_4_Lab_Abbreviation_Expansion,17,10019670,肝功能异常,Hepatic function abnormal,Hepatobiliary disorders,35,Standardized to Hepatic function abnormal.
+肝功能异常,"Full monograph lab breakdown (e.g., 通天口服液)",10,Rule_4_Lab_Abbreviation_Expansion,66,10003481,天门冬氨酸氨基转移酶升高,Aspartate aminotransferase increased,Investigations,4,Expanded to ALT/AST increased when full monograph specifies transaminase subtypes.
+肝肾功能异常,"Compound organ clause (e.g., 感愈胶囊、金感欣片)",2,Rule_1_Compound_Clause_Split,78,10062237,肾功能损害,Renal impairment,Renal and urinary disorders,3,Split jointly into Hepatic function abnormal (10019670) and Renal impairment (10062237).
+肝脏生化指标异常,Hepatobiliary context,2,Rule_4_Lab_Abbreviation_Expansion,114,10072268,药物诱导的肝损伤,Drug-induced liver injury,Hepatobiliary disorders,2,Mapped to Drug-induced liver injury per monograph.
+药物性肝损害,Hepatobiliary context,2,Rule_2_Colloquial_or_LLT_to_PT,114,10072268,药物诱导的肝损伤,Drug-induced liver injury,Hepatobiliary disorders,2,Drug-induced liver damage standardized to Drug-induced liver injury.
+白细胞减少,Investigations context,2,Rule_4_Lab_Abbreviation_Expansion,71,10047942,白细胞计数降低,White blood cell count decreased,Investigations,4,Leukopenia phrasing standardized to White blood cell count decreased.
+粒细胞减少,Investigations context,3,Rule_4_Lab_Abbreviation_Expansion,87,10029366,中性粒细胞计数降低,Neutrophil count decreased,Investigations,3,Granulocytopenia phrasing mapped to Neutrophil count decreased.
+排尿困难（老人）,"Population-qualified clause (e.g., 胃康灵胶囊)",2,Rule_5_Qualifier_Stripping,81,10013990,排尿困难,Dysuria,Renal and urinary disorders,3,Population qualifier stripped; core symptom mapped to Dysuria.
+月经期提前,Reproductive context,1,Rule_2_Colloquial_or_LLT_to_PT,102,10027339,月经不规律,Menstruation irregular,Reproductive system and breast disorders,2,Early menses mapped to Menstruation irregular.
+经期提前,Reproductive context,1,Rule_2_Colloquial_or_LLT_to_PT,102,10027339,月经不规律,Menstruation irregular,Reproductive system and breast disorders,2,Early menses mapped to Menstruation irregular.
+月经量过多,"Reproductive context (e.g., 天舒片)",1,Rule_2_Colloquial_or_LLT_to_PT,82,10085423,月经出血过多,Heavy menstrual bleeding,Reproductive system and breast disorders,3,Heavy menses mapped to Heavy menstrual bleeding.
+妇女月经量过多,"Reproductive context (e.g., 天舒胶囊)",1,Rule_5_Qualifier_Stripping,82,10085423,月经出血过多,Heavy menstrual bleeding,Reproductive system and breast disorders,3,Population prefix stripped; mapped to Heavy menstrual bleeding.
+粘膜刺激性反应,"Topical lotion context (e.g., 青柏洁身洗液)",1,Rule_6_Route_Site_Specific_PT,161,10091906,黏膜刺激,Mucosal irritation,General disorders and administration site conditions,1,Mucosal irritation reaction mapped to Mucosal irritation.
+刺激,"Suppository/instillation context (e.g., 裸花紫珠栓)",1,Rule_6_Route_Site_Specific_PT,168,10055117,滴用部位局部刺激作用,Instillation site irritation,General disorders and administration site conditions,1,Local instillation/suppository irritation mapped to Instillation site irritation.
+毛细血管扩张,"Topical ointment context (e.g., 紫松皮炎膏)",1,Rule_6_Route_Site_Specific_PT,125,10072640,外用药部位毛细血管扩张症,Application site telangiectasia,General disorders and administration site conditions,1,Topical ointment telangiectasia mapped to Application site telangiectasia.
+色素沉着,"Topical ointment context (e.g., 紫松皮炎膏)",1,Rule_6_Route_Site_Specific_PT,118,10059005,外用药部位变色,Application site discolouration,General disorders and administration site conditions,1,Topical ointment pigmentation mapped to Application site discolouration.
+注射部位疼痛,"Injectable local reaction clause (e.g., 消癌平注射液)",1,Rule_6_Route_Site_Specific_PT,112,10052995,注射,Injection,Surgical and medical procedures,2,Injectable local administration clause recorded in monograph.
+皮疹,"Injectable local-site section (e.g., 注射用双黄连、苦碟子注射液)",148,Rule_6_Route_Site_Specific_PT,96,10022094,注射部位皮疹,Injection site rash,General disorders and administration site conditions,2,Second occurrence under monograph administration-site section mapped to Injection site rash.
+瘙痒,"Injectable local-site section (e.g., 注射用双黄连)",126,Rule_6_Route_Site_Specific_PT,130,10022093,注射部位瘙痒,Injection site pruritus,General disorders and administration site conditions,1,Second occurrence under monograph administration-site section mapped to Injection site pruritus.
+疼痛,"Injectable local-site section (e.g., 注射用双黄连、苦碟子注射液)",14,Rule_6_Route_Site_Specific_PT,97,10022086,注射部位痛,Injection site pain,General disorders and administration site conditions,2,Second occurrence under monograph administration-site section mapped to Injection site pain.
+麻木,"Injectable local-site section (e.g., 苦碟子注射液)",3,Rule_6_Route_Site_Specific_PT,119,10074586,注射部位感觉减退,Injection site hypoaesthesia,General disorders and administration site conditions,1,Local injection-site numbness mapped to Injection site hypoaesthesia.
+瘙痒,"Suppository/topical local-site section (e.g., 康妇消炎栓)",126,Rule_6_Route_Site_Specific_PT,126,10003053,外用药部位瘙痒,Application site pruritus,General disorders and administration site conditions,1,Second occurrence under monograph local administration-site section mapped to Application site pruritus.
+疼痛,"Suppository/topical local-site section (e.g., 康妇消炎栓)",14,Rule_6_Route_Site_Specific_PT,137,10003051,外用药部位疼痛,Application site pain,General disorders and administration site conditions,1,Second occurrence under monograph local administration-site section mapped to Application site pain.

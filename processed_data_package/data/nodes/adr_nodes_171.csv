@@ -1,0 +1,172 @@
+﻿reaction_id,meddra_pt_code,meddra_pt_cn,meddra_pt_en,meddra_soc_code,meddra_soc_cn,meddra_soc_en,num_cpm_edges,num_target_edges
+0,10028813,恶心,Nausea,10017947,胃肠系统疾病,Gastrointestinal disorders,153,179
+1,10037844,皮疹,Rash,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,146,70
+2,10012735,腹泻,Diarrhoea,10017947,胃肠系统疾病,Gastrointestinal disorders,133,258
+3,10047700,呕吐,Vomiting,10017947,胃肠系统疾病,Gastrointestinal disorders,133,170
+4,10037087,瘙痒,Pruritus,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,123,30
+5,10000081,腹痛,Abdominal pain,10017947,胃肠系统疾病,Gastrointestinal disorders,110,69
+6,10000059,腹部不适,Abdominal discomfort,10017947,胃肠系统疾病,Gastrointestinal disorders,108,37
+7,10013573,头晕,Dizziness,10029205,各类神经系统疾病,Nervous system disorders,89,129
+8,10020751,超敏反应,Hypersensitivity,10021428,免疫系统疾病,Immune system disorders,83,27
+9,10033557,心悸,Palpitations,10007541,心脏器官疾病,Cardiac disorders,73,17
+10,10019211,头痛,Headache,10029205,各类神经系统疾病,Nervous system disorders,73,114
+11,10013781,口干,Dry mouth,10017947,胃肠系统疾病,Gastrointestinal disorders,71,12
+12,10000060,腹胀,Abdominal distension,10017947,胃肠系统疾病,Gastrointestinal disorders,70,28
+13,10003549,虚弱,Asthenia,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,53,68
+14,10008469,胸部不适,Chest discomfort,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,49,18
+15,10016825,潮红,Flushing,10047065,血管与淋巴管类疾病,Vascular disorders,44,19
+16,10061428,食欲减退,Decreased appetite,10027433,代谢及营养类疾病,Metabolism and nutrition disorders,37,111
+17,10019670,肝功能异常,Hepatic function abnormal,10019805,肝胆系统疾病,Hepatobiliary disorders,35,38
+18,10037660,发热,Pyrexia,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,30,118
+19,10010774,便秘,Constipation,10017947,胃肠系统疾病,Gastrointestinal disorders,29,86
+20,10013968,呼吸困难,Dyspnoea,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",29,83
+21,10041349,嗜睡,Somnolence,10029205,各类神经系统疾病,Nervous system disorders,24,131
+22,10015150,红斑,Erythema,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,23,25
+23,10046735,荨麻疹,Urticaria,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,21,18
+24,10002199,过敏性休克,Anaphylactic shock,10021428,免疫系统疾病,Immune system disorders,21,36
+25,10013946,消化不良,Dyspepsia,10017947,胃肠系统疾病,Gastrointestinal disorders,20,12
+26,10005750,血压升高,Blood pressure increased,10022891,各类检查,Investigations,20,42
+27,10022437,失眠,Insomnia,10037175,精神病类,Psychiatric disorders,17,73
+28,10020642,多汗,Hyperhidrosis,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,16,16
+29,10033371,疼痛,Pain,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,16,115
+30,10017955,胃肠出血,Gastrointestinal haemorrhage,10017947,胃肠系统疾病,Gastrointestinal disorders,15,24
+31,10013911,味觉倒错,Dysgeusia,10029205,各类神经系统疾病,Nervous system disorders,13,27
+32,10015137,嗳气,Eructation,10017947,胃肠系统疾病,Gastrointestinal disorders,11,3
+33,10005734,血压降低,Blood pressure decreased,10022891,各类检查,Investigations,11,38
+34,10030095,水肿,Oedema,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,11,22
+35,10008531,寒战,Chills,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,10,15
+36,10057371,口腔感觉减退,Hypoaesthesia oral,10017947,胃肠系统疾病,Gastrointestinal disorders,9,0
+37,10020937,感觉减退,Hypoaesthesia,10029205,各类神经系统疾病,Nervous system disorders,9,7
+38,10000087,上腹痛,Abdominal pain upper,10017947,胃肠系统疾病,Gastrointestinal disorders,9,24
+39,10037868,斑丘疹,Rash maculo-papular,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,8,28
+40,10013687,药疹,Drug eruption,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,8,0
+41,10033733,丘疹,Papule,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,8,1
+42,10015090,鼻衄,Epistaxis,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",8,11
+43,10018867,血尿症,Haematuria,10038359,肾脏及泌尿系统疾病,Renal and urinary disorders,6,8
+44,10011224,咳嗽,Cough,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",7,55
+45,10008796,色素尿,Chromaturia,10038359,肾脏及泌尿系统疾病,Renal and urinary disorders,7,3
+46,10019194,头部不适,Head discomfort,10029205,各类神经系统疾病,Nervous system disorders,6,2
+47,10013954,烦躁不安,Dysphoria,10037175,精神病类,Psychiatric disorders,6,3
+48,10027141,黑便,Melaena,10017947,胃肠系统疾病,Gastrointestinal disorders,6,7
+49,10054889,转氨酶升高,Transaminases increased,10022891,各类检查,Investigations,6,18
+50,10020601,胃酸过多,Hyperchlorhydria,10017947,胃肠系统疾病,Gastrointestinal disorders,6,0
+51,10058117,眼黄疸,Ocular icterus,10019805,肝胆系统疾病,Hepatobiliary disorders,5,2
+52,10011703,发绀,Cyanosis,10047065,血管与淋巴管类疾病,Vascular disorders,5,8
+53,10034879,静脉炎,Phlebitis,10047065,血管与淋巴管类疾病,Vascular disorders,5,2
+54,10061355,中毒,Poisoning,10022117,各类损伤、中毒及操作并发症,"Injury, poisoning and procedural complications",5,0
+55,10047340,眩晕,Vertigo,10013993,耳及迷路类疾病,Ear and labyrinth disorders,5,3
+56,10043458,口渴,Thirst,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,5,2
+57,10023845,喉水肿,Laryngeal oedema,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",5,4
+58,10018276,牙龈出血,Gingival bleeding,10017947,胃肠系统疾病,Gastrointestinal disorders,5,5
+59,10048245,皮肤黄染,Yellow skin,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,5,4
+60,10001551,丙氨酸氨基转移酶升高,Alanine aminotransferase increased,10022891,各类检查,Investigations,5,40
+61,10043089,呼吸急促,Tachypnoea,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",5,7
+62,10013786,皮肤干燥,Dry skin,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,5,22
+63,10016029,面部水肿,Face oedema,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,4,2
+64,10059284,表皮坏死,Epidermal necrosis,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,4,0
+65,10044565,震颤,Tremor,10029205,各类神经系统疾病,Nervous system disorders,4,27
+66,10003481,天门冬氨酸氨基转移酶升高,Aspartate aminotransferase increased,10022891,各类检查,Investigations,4,37
+67,10017944,胃肠疾病,Gastrointestinal disorder,10017947,胃肠系统疾病,Gastrointestinal disorders,4,19
+68,10016766,肠胃气胀,Flatulence,10017947,胃肠系统疾病,Gastrointestinal disorders,4,27
+69,10003119,心律失常,Arrhythmia,10007541,心脏器官疾病,Cardiac disorders,4,11
+70,10043071,心动过速,Tachycardia,10007541,心脏器官疾病,Cardiac disorders,4,44
+71,10047942,白细胞计数降低,White blood cell count decreased,10022891,各类检查,Investigations,4,40
+72,10012455,剥脱性皮炎,Dermatitis exfoliative,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,3,6
+73,10053155,中上腹不适,Epigastric discomfort,10017947,胃肠系统疾病,Gastrointestinal disorders,3,0
+74,10019663,肝衰竭,Hepatic failure,10019805,肝胆系统疾病,Hepatobiliary disorders,3,9
+75,10047513,视物模糊,Vision blurred,10015919,眼器官疾病,Eye disorders,3,56
+76,10020741,高热,Hyperpyrexia,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,3,0
+77,10028622,肌阵挛,Myoclonus,10029205,各类神经系统疾病,Nervous system disorders,3,46
+78,10062237,肾功能损害,Renal impairment,10038359,肾脏及泌尿系统疾病,Renal and urinary disorders,3,43
+79,10005191,水疱,Blister,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,3,30
+80,10069339,急性肾损伤,Acute kidney injury,10038359,肾脏及泌尿系统疾病,Renal and urinary disorders,3,77
+81,10013990,排尿困难,Dysuria,10038359,肾脏及泌尿系统疾病,Renal and urinary disorders,3,3
+82,10085423,月经出血过多,Heavy menstrual bleeding,10038604,生殖系统及乳腺疾病,Reproductive system and breast disorders,3,0
+83,10053262,皮肤肿胀,Skin swelling,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,3,1
+84,10086602,慢性砷中毒,Chronic arsenic toxicity,10022117,各类损伤、中毒及操作并发症,"Injury, poisoning and procedural complications",3,0
+85,10062080,色素沉着障碍,Pigmentation disorder,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,3,0
+86,10042033,Stevens-Johnson综合征,Stevens-Johnson syndrome,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,3,15
+87,10029366,中性粒细胞计数降低,Neutrophil count decreased,10022891,各类检查,Investigations,3,65
+88,10033546,苍白,Pallor,10047065,血管与淋巴管类疾病,Vascular disorders,3,0
+89,10067125,肝损伤,Liver injury,10019805,肝胆系统疾病,Hepatobiliary disorders,3,11
+90,10019617,过敏性紫癜,Henoch-Schonlein purpura,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,3,1
+91,10018836,便血,Haematochezia,10017947,胃肠系统疾病,Gastrointestinal disorders,3,7
+92,10006784,烧灼感,Burning sensation,10029205,各类神经系统疾病,Nervous system disorders,3,1
+93,10037549,紫癜,Purpura,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,3,12
+94,10060891,全身症状,General symptom,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,2,4
+95,10005364,血胆红素升高,Blood bilirubin increased,10022891,各类检查,Investigations,2,23
+96,10022094,注射部位皮疹,Injection site rash,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,2,5
+97,10022086,注射部位痛,Injection site pain,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,2,138
+98,10030124,外周水肿,Oedema peripheral,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,2,44
+99,10002216,类过敏反应,Anaphylactoid reaction,10021428,免疫系统疾病,Immune system disorders,2,6
+100,10043972,舌瘫痪,Tongue paralysis,10029205,各类神经系统疾病,Nervous system disorders,2,0
+101,10024264,倦怠,Lethargy,10029205,各类神经系统疾病,Nervous system disorders,2,7
+102,10027339,月经不规律,Menstruation irregular,10038604,生殖系统及乳腺疾病,Reproductive system and breast disorders,2,2
+103,10020039,呃逆,Hiccups,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",2,1
+104,10051244,排便困难,Dyschezia,10017947,胃肠系统疾病,Gastrointestinal disorders,2,1
+105,10028347,肌肉抽搐,Muscle twitching,10028395,各种肌肉骨骼及结缔组织疾病,Musculoskeletal and connective tissue disorders,2,7
+106,10020772,高血压,Hypertension,10047065,血管与淋巴管类疾病,Vascular disorders,2,58
+107,10057040,温度变化不耐受,Temperature intolerance,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,2,1
+108,10044032,牙齿变色,Tooth discolouration,10017947,胃肠系统疾病,Gastrointestinal disorders,2,0
+109,10021654,食欲增加,Increased appetite,10027433,代谢及营养类疾病,Metabolism and nutrition disorders,2,17
+110,10020993,低血糖,Hypoglycaemia,10027433,代谢及营养类疾病,Metabolism and nutrition disorders,2,61
+111,10028740,鼻干燥,Nasal dryness,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",2,2
+112,10052995,注射,Injection,10042613,各种手术及医疗操作,Surgical and medical procedures,2,0
+113,10021013,少汗症,Hypohidrosis,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,2,2
+114,10072268,药物诱导的肝损伤,Drug-induced liver injury,10019805,肝胆系统疾病,Hepatobiliary disorders,2,15
+115,10014080,瘀斑,Ecchymosis,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,27
+116,10019717,肝炎,Hepatitis,10019805,肝胆系统疾病,Hepatobiliary disorders,1,8
+117,10018999,皮下出血,Haemorrhage subcutaneous,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,5
+118,10059005,外用药部位变色,Application site discolouration,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,25
+119,10074586,注射部位感觉减退,Injection site hypoaesthesia,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,0
+120,10040799,皮肤萎缩,Skin atrophy,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,0
+121,10010719,结膜出血,Conjunctival haemorrhage,10015919,眼器官疾病,Eye disorders,1,5
+122,10040914,皮肤反应,Skin reaction,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,0
+123,10010071,昏迷,Coma,10029205,各类神经系统疾病,Nervous system disorders,1,50
+124,10002383,心绞痛,Angina pectoris,10007541,心脏器官疾病,Cardiac disorders,1,8
+125,10072640,外用药部位毛细血管扩张症,Application site telangiectasia,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,0
+126,10003053,外用药部位瘙痒,Application site pruritus,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,6
+127,10021789,感染,Infection,10021881,感染及侵染类疾病,Infections and infestations,1,32
+128,10005851,血尿素升高,Blood urea increased,10022891,各类检查,Investigations,1,24
+129,10030041,眼充血,Ocular hyperaemia,10015919,眼器官疾病,Eye disorders,1,47
+130,10022093,注射部位瘙痒,Injection site pruritus,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,9
+131,10012431,皮炎,Dermatitis,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,3
+132,10042674,肿胀,Swelling,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,49
+133,10010305,意识模糊状态,Confusional state,10037175,精神病类,Psychiatric disorders,1,89
+134,10054115,喉部不适,Laryngeal discomfort,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",1,0
+135,10035528,血小板计数降低,Platelet count decreased,10022891,各类检查,Investigations,1,87
+136,10028836,颈痛,Neck pain,10028395,各种肌肉骨骼及结缔组织疾病,Musculoskeletal and connective tissue disorders,1,1
+137,10003051,外用药部位疼痛,Application site pain,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,9
+138,10049816,肌紧张,Muscle tightness,10028395,各种肌肉骨骼及结缔组织疾病,Musculoskeletal and connective tissue disorders,1,3
+139,10023644,流泪增加,Lacrimation increased,10015919,眼器官疾病,Eye disorders,1,12
+140,10089746,神经心理症状,Neuropsychological symptoms,10037175,精神病类,Psychiatric disorders,1,0
+141,10060860,神经病学症状,Neurological symptom,10029205,各类神经系统疾病,Nervous system disorders,1,3
+142,10050676,尿红细胞,Red blood cells urine,10022891,各类检查,Investigations,1,0
+143,10042772,晕厥,Syncope,10029205,各类神经系统疾病,Nervous system disorders,1,32
+144,10009802,凝血障碍,Coagulopathy,10005329,血液及淋巴系统疾病,Blood and lymphatic system disorders,1,5
+145,10057084,胃肠道黏膜色素沉着,Gastrointestinal tract mucosal pigmentation,10017947,胃肠系统疾病,Gastrointestinal disorders,1,1
+146,10043882,耳鸣,Tinnitus,10013993,耳及迷路类疾病,Ear and labyrinth disorders,1,1
+147,10025421,斑疹,Macule,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,1
+148,10068319,口咽疼痛,Oropharyngeal pain,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",1,6
+149,10015993,眼睑水肿,Eyelid oedema,10015919,眼器官疾病,Eye disorders,1,2
+150,10001760,脱发,Alopecia,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,44
+151,10011469,哭,Crying,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,4
+152,10027327,月经不调,Menstrual disorder,10038604,生殖系统及乳腺疾病,Reproductive system and breast disorders,1,1
+153,10046910,阴道出血,Vaginal haemorrhage,10038604,生殖系统及乳腺疾病,Reproductive system and breast disorders,1,8
+154,10057672,男性性功能障碍,Male sexual dysfunction,10038604,生殖系统及乳腺疾病,Reproductive system and breast disorders,1,0
+155,10025482,难受,Malaise,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,61
+156,10077605,肛门失禁,Anal incontinence,10017947,胃肠系统疾病,Gastrointestinal disorders,1,1
+157,10021113,体温过低,Hypothermia,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,43
+158,10037855,红色皮疹,Rash erythematous,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,3
+159,10012434,过敏性皮炎,Dermatitis allergic,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,1
+160,10040880,皮肤刺激,Skin irritation,10040785,皮肤及皮下组织类疾病,Skin and subcutaneous tissue disorders,1,0
+161,10091906,黏膜刺激,Mucosal irritation,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,0
+162,10013789,咽干,Dry throat,10038738,呼吸系统、胸及纵隔疾病,"Respiratory, thoracic and mediastinal disorders",1,2
+163,10040934,皮肤试验阳性,Skin test positive,10022891,各类检查,Investigations,1,3
+164,10013642,流涎,Drooling,10029205,各类神经系统疾病,Nervous system disorders,1,2
+165,10060934,过敏性水肿,Allergic oedema,10021428,免疫系统疾病,Immune system disorders,1,0
+166,10028411,肌痛,Myalgia,10028395,各种肌肉骨骼及结缔组织疾病,Musculoskeletal and connective tissue disorders,1,15
+167,10003239,关节痛,Arthralgia,10028395,各种肌肉骨骼及结缔组织疾病,Musculoskeletal and connective tissue disorders,1,75
+168,10055117,滴用部位局部刺激作用,Instillation site irritation,10018065,全身性疾病及给药部位各种反应,General disorders and administration site conditions,1,2
+169,10037018,尿蛋白,Protein urine,10022891,各类检查,Investigations,1,0
+170,10016100,粪便变色,Faeces discoloured,10017947,胃肠系统疾病,Gastrointestinal disorders,1,2

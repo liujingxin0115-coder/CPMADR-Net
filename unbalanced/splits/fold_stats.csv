@@ -1,0 +1,6 @@
+fold,n_train_medicine,n_val_medicine,n_test_medicine,n_train_edges,n_val_edges,n_test_edges,tail_reaction_covered_in_train,tail_reaction_covered_in_test,nontail_missing_in_train,nontail_missing_in_val,nontail_missing_in_test
+0,163,41,51,1524,304,461,70,36,0,26,6
+1,163,41,51,1528,305,456,76,29,0,25,9
+2,163,41,51,1525,307,457,76,25,0,24,7
+3,163,41,51,1530,302,457,75,28,0,24,9
+4,163,41,51,1526,305,458,67,35,0,26,10

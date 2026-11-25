@@ -1,0 +1,7 @@
+﻿Metric,Normalized logarithmic weighting (reference),Uniform weighting,Normalized linear weighting,Normalized logarithmic weighting (10× quantities)
+Selected threshold,0.516 ± 0.235,0.702 ± 0.180,0.562 ± 0.217,0.570 ± 0.238
+Accuracy,0.8755 ± 0.0082,0.8740 ± 0.0060,0.8709 ± 0.0107,0.8720 ± 0.0137
+Precision,0.8913 ± 0.0134,0.8893 ± 0.0191,0.8733 ± 0.0180,0.8969 ± 0.0264
+Recall,0.8558 ± 0.0304,0.8550 ± 0.0155,0.8685 ± 0.0318,0.8419 ± 0.0293
+F1,0.8728 ± 0.0108,0.8715 ± 0.0050,0.8704 ± 0.0127,0.8679 ± 0.0142
+MCC,0.7522 ± 0.0157,0.7489 ± 0.0127,0.7426 ± 0.0210,0.7462 ± 0.0274

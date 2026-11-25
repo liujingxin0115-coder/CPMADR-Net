@@ -1,0 +1,7 @@
+﻿Herb matching,Model,Formulas / signals,Median rank,Recall@10,Recall@20,Recall@30
+All formulas,Edge-based,56 / 196,42.5,13.27%,37.24%,45.92%
+All formulas,Node-masked,56 / 196,32.0,11.22%,42.35%,48.98%
+All herbs matched,Edge-based,17 / 59,56.0,10.17%,35.59%,44.07%
+All herbs matched,Node-masked,17 / 59,33.0,8.47%,40.68%,47.46%
+Partial match,Edge-based,39 / 137,40.0,14.60%,37.96%,46.72%
+Partial match,Node-masked,39 / 137,31.0,12.41%,43.07%,49.64%

@@ -1,0 +1,367 @@
+﻿fold,split,sample_order,medicine_id,medicine_name_cn,reaction_id,meddra_pt_en,label,pos_edge_row_id
+4,val,0,101,银黄片,11,Dry mouth,1,855
+4,val,1,82,康妇消炎栓,1,Rash,1,1867
+4,val,2,209,藿香正气滴丸,1,Rash,1,1222
+4,val,3,35,小活络丸,10,Headache,1,363
+4,val,4,190,脑心通胶囊,0,Nausea,1,945
+4,val,5,177,参芪十一味颗粒,10,Headache,1,72
+4,val,6,35,小活络丸,27,Insomnia,1,382
+4,val,7,191,消银胶囊,14,Chest discomfort,1,551
+4,val,8,209,藿香正气滴丸,4,Pruritus,1,1223
+4,val,9,66,三金片,8,Hypersensitivity,1,1985
+4,val,10,35,小活络丸,0,Nausea,1,343
+4,val,11,59,抗病毒口服液,3,Vomiting,1,409
+4,val,12,101,银黄片,7,Dizziness,1,861
+4,val,13,84,参芪五味子胶囊,2,Diarrhoea,1,1468
+4,val,14,129,元胡止痛口服液,13,Asthenia,1,1493
+4,val,15,47,斑秃丸,1,Rash,1,1580
+4,val,16,135,牛黄解毒软胶囊,62,Dry skin,1,295
+4,val,17,205,蒲地蓝消炎口服液,2,Diarrhoea,1,3
+4,val,18,16,风湿骨痛片,0,Nausea,1,1057
+4,val,19,96,独一味胶囊,8,Hypersensitivity,1,248
+4,val,20,205,蒲地蓝消炎口服液,16,Decreased appetite,1,6
+4,val,21,32,藿香正气水,9,Palpitations,1,1514
+4,val,22,203,腰痛宁胶囊,9,Palpitations,1,2089
+4,val,23,116,黄连上清胶囊,0,Nausea,1,1285
+4,val,24,175,金芪降糖片,3,Vomiting,1,1209
+4,val,25,35,小活络丸,69,Arrhythmia,1,374
+4,val,26,74,复方瓜子金颗粒,4,Pruritus,1,1727
+4,val,27,36,牛黄解毒片,62,Dry skin,1,1904
+4,val,28,223,仙灵骨葆片,45,Chromaturia,1,1145
+4,val,29,92,冠心苏合胶囊,12,Abdominal distension,1,963
+4,val,30,202,滑膜炎片,26,Blood pressure increased,1,1567
+4,val,31,80,银杏叶片,10,Headache,1,690
+4,val,32,59,抗病毒口服液,12,Abdominal distension,1,412
+4,val,33,155,风湿骨痛胶囊,7,Dizziness,1,1690
+4,val,34,69,安神补脑液,19,Constipation,1,38
+4,val,35,69,安神补脑液,12,Abdominal distension,1,36
+4,val,36,217,三黄胶囊,9,Palpitations,1,731
+4,val,37,205,蒲地蓝消炎口服液,12,Abdominal distension,1,5
+4,val,38,61,首乌丸,17,Hepatic function abnormal,1,457
+4,val,39,153,丹蒌片,2,Diarrhoea,1,481
+4,val,40,206,裸花紫珠片,55,Vertigo,1,437
+4,val,41,212,首乌片,59,Yellow skin,1,1428
+4,val,42,192,消栓通络胶囊,4,Pruritus,1,129
+4,val,43,105,三七伤药胶囊,28,Hyperhidrosis,1,1025
+4,val,44,104,三七伤药片,2,Diarrhoea,1,2008
+4,val,45,184,复方丹参胶囊,12,Abdominal distension,1,704
+4,val,46,200,滑膜炎颗粒,9,Palpitations,1,1777
+4,val,47,39,归脾丸,25,Dyspepsia,1,406
+4,val,48,161,六味地黄片,3,Vomiting,1,809
+4,val,49,134,牛黄解毒丸,86,Stevens-Johnson syndrome,1,1950
+4,val,50,191,消银胶囊,30,Gastrointestinal haemorrhage,1,553
+4,val,51,0,舒肝解郁胶囊,9,Palpitations,1,88
+4,val,52,223,仙灵骨葆片,5,Abdominal pain,1,1135
+4,val,53,247,苦碟子注射液,107,Temperature intolerance,1,1814
+4,val,54,160,六味地黄颗粒,0,Nausea,1,1878
+4,val,55,52,癃闭舒胶囊,56,Thirst,1,1926
+4,val,56,91,冠心苏合丸,9,Palpitations,1,109
+4,val,57,193,麻仁润肠丸,6,Abdominal discomfort,1,144
+4,val,58,79,一清颗粒,0,Nausea,1,2101
+4,val,59,105,三七伤药胶囊,12,Abdominal distension,1,1013
+4,val,60,85,胃康灵胶囊,113,Hypohidrosis,1,231
+4,val,61,130,元胡止痛颗粒,21,Somnolence,1,903
+4,val,62,66,三金片,3,Vomiting,1,1976
+4,val,63,191,消银胶囊,20,Dyspnoea,1,552
+4,val,64,16,风湿骨痛片,32,Eructation,1,1066
+4,val,65,182,复方丹参滴丸,26,Blood pressure increased,1,1541
+4,val,66,212,首乌片,49,Transaminases increased,1,1429
+4,val,67,130,元胡止痛颗粒,12,Abdominal distension,1,892
+4,val,68,230,三金胶囊,8,Hypersensitivity,1,1266
+4,val,69,184,复方丹参胶囊,13,Asthenia,1,714
+4,val,70,92,冠心苏合胶囊,7,Dizziness,1,968
+4,val,71,167,壮骨关节丸,89,Liver injury,1,2281
+4,val,72,201,滑膜炎胶囊,21,Somnolence,1,1398
+4,val,73,12,湿毒清片,4,Pruritus,1,787
+4,val,74,245,升血小板胶囊,0,Nausea,1,1454
+4,val,75,165,双黄连胶囊,20,Dyspnoea,1,196
+4,val,76,46,黄藤素片,16,Decreased appetite,1,402
+4,val,77,184,复方丹参胶囊,7,Dizziness,1,710
+4,val,78,117,黄连上清颗粒,2,Diarrhoea,1,1292
+4,val,79,145,小儿肺热咳喘口服液,8,Hypersensitivity,1,169
+4,val,80,79,一清颗粒,5,Abdominal pain,1,2103
+4,val,81,49,通络祛痛膏,158,Rash erythematous,1,940
+4,val,82,19,蒲地蓝消炎胶囊,13,Asthenia,1,1181
+4,val,83,73,复方牛黄消炎胶囊,1,Rash,1,1732
+4,val,84,49,通络祛痛膏,159,Dermatitis allergic,1,941
+4,val,85,69,安神补脑液,9,Palpitations,1,43
+4,val,86,16,风湿骨痛片,83,Skin swelling,1,1075
+4,val,87,252,瓜蒌皮注射液,9,Palpitations,1,582
+4,val,88,238,消癌平注射液,10,Headache,1,1359
+4,val,89,183,复方丹参颗粒,13,Asthenia,1,1716
+4,val,90,220,复方青黛胶囊,1,Rash,1,981
+4,val,91,116,黄连上清胶囊,13,Asthenia,1,1290
+4,val,92,135,牛黄解毒软胶囊,40,Drug eruption,1,292
+4,val,93,82,康妇消炎栓,126,Application site pruritus,1,1872
+4,val,94,21,消咳喘胶囊,70,Tachycardia,1,1204
+4,val,95,162,心速宁胶囊,0,Nausea,1,493
+4,val,96,81,银杏叶滴丸,37,Hypoaesthesia,1,2114
+4,val,97,104,三七伤药片,25,Dyspepsia,1,2013
+4,val,98,184,复方丹参胶囊,8,Hypersensitivity,1,716
+4,val,99,84,参芪五味子胶囊,12,Abdominal distension,1,1467
+4,val,100,6,银杏叶口服液,4,Pruritus,1,506
+4,val,101,66,三金片,71,White blood cell count decreased,1,1974
+4,val,102,35,小活络丸,25,Dyspepsia,1,350
+4,val,103,0,舒肝解郁胶囊,27,Insomnia,1,82
+4,val,104,238,消癌平注射液,166,Myalgia,1,1344
+4,val,105,216,胃欣舒胶囊,113,Hypohidrosis,1,1278
+4,val,106,164,双黄连滴眼剂,139,Lacrimation increased,1,2203
+4,val,107,97,小儿七星茶颗粒,5,Abdominal pain,1,203
+4,val,108,208,稳心颗粒,5,Abdominal pain,1,53
+4,val,109,208,稳心颗粒,4,Pruritus,1,58
+4,val,110,135,牛黄解毒软胶囊,84,Chronic arsenic toxicity,1,297
+4,val,111,64,鼻炎康片,19,Constipation,1,1651
+4,val,112,135,牛黄解毒软胶囊,24,Anaphylactic shock,1,303
+4,val,113,166,白蚀丸,59,Yellow skin,1,1637
+4,val,114,151,牛黄上清软胶囊,6,Abdominal discomfort,1,1888
+4,val,115,16,风湿骨痛片,8,Hypersensitivity,1,1089
+4,val,116,34,元胡止痛片,6,Abdominal discomfort,1,628
+4,val,117,214,首乌延寿颗粒,51,Ocular icterus,1,1441
+4,val,118,139,消渴丸,150,Alopecia,1,464
+4,val,119,101,银黄片,4,Pruritus,1,858
+4,val,120,218,丹红注射液,77,Myoclonus,1,2260
+4,val,121,201,滑膜炎胶囊,22,Erythema,1,1394
+4,val,122,80,银杏叶片,42,Epistaxis,1,701
+4,val,123,35,小活络丸,39,Rash maculo-papular,1,358
+4,val,124,218,丹红注射液,52,Cyanosis,1,2246
+4,val,125,244,露水草胶囊,67,Gastrointestinal disorder,1,1451
+4,val,126,168,灯盏细辛注射液,18,Pyrexia,1,670
+4,val,127,87,正清风痛宁片,22,Erythema,1,2063
+4,val,128,217,三黄胶囊,1,Rash,1,725
+4,val,129,80,银杏叶片,14,Chest discomfort,1,694
+4,val,130,79,一清颗粒,2,Diarrhoea,1,2102
+4,val,131,165,双黄连胶囊,2,Diarrhoea,1,191
+4,val,132,243,舒肝康胶囊,6,Abdominal discomfort,1,1464
+4,val,133,201,滑膜炎胶囊,6,Abdominal discomfort,1,1385
+4,val,134,190,脑心通胶囊,2,Diarrhoea,1,949
+4,val,135,250,康艾注射液,35,Chills,1,445
+4,val,136,36,牛黄解毒片,10,Headache,1,1908
+4,val,137,87,正清风痛宁片,1,Rash,1,2054
+4,val,138,134,牛黄解毒丸,5,Abdominal pain,1,1939
+4,val,139,220,复方青黛胶囊,0,Nausea,1,976
+4,val,140,174,肠康片,3,Vomiting,1,768
+4,val,141,142,通窍鼻炎片,7,Dizziness,1,222
+4,val,142,130,元胡止痛颗粒,8,Hypersensitivity,1,910
+4,val,143,227,丹香冠心注射液,9,Palpitations,1,1239
+4,val,144,66,三金片,4,Pruritus,1,1982
+4,val,145,167,壮骨关节丸,5,Abdominal pain,1,2277
+4,val,146,92,冠心苏合胶囊,1,Rash,1,970
+4,val,147,40,如意金黄散,1,Rash,1,924
+4,val,148,223,仙灵骨葆片,60,Alanine aminotransferase increased,1,1138
+4,val,149,35,小活络丸,61,Tachypnoea,1,377
+4,val,150,35,小活络丸,83,Skin swelling,1,360
+4,val,151,3,芪明颗粒,1,Rash,1,393
+4,val,152,220,复方青黛胶囊,71,White blood cell count decreased,1,984
+4,val,153,250,康艾注射液,4,Pruritus,1,444
+4,val,154,38,蛇胆川贝散,5,Abdominal pain,1,1992
+4,val,155,34,元胡止痛片,4,Pruritus,1,631
+4,val,156,71,癃清片,0,Nausea,1,1936
+4,val,157,247,苦碟子注射液,7,Dizziness,1,1833
+4,val,158,177,参芪十一味颗粒,6,Abdominal discomfort,1,65
+4,val,159,54,金莲清热颗粒,15,Flushing,1,803
+4,val,160,15,小儿咳喘灵口服液,4,Pruritus,1,994
+4,val,161,217,三黄胶囊,2,Diarrhoea,1,719
+4,val,162,74,复方瓜子金颗粒,8,Hypersensitivity,1,1728
+4,val,163,202,滑膜炎片,3,Vomiting,1,1548
+4,val,164,207,新血宝胶囊,38,Abdominal pain upper,1,2097
+4,val,165,28,注射用双黄连,26,Blood pressure increased,1,2148
+4,val,166,114,黄连上清丸,0,Nausea,1,1602
+4,val,167,134,牛黄解毒丸,63,Face oedema,1,1948
+4,val,168,245,升血小板胶囊,2,Diarrhoea,1,1453
+4,val,169,107,生血宝合剂,6,Abdominal discomfort,1,519
+4,val,170,28,注射用双黄连,61,Tachypnoea,1,2143
+4,val,171,16,风湿骨痛片,6,Abdominal discomfort,1,1064
+4,val,172,222,仙灵骨葆胶囊,2,Diarrhoea,1,1118
+4,val,173,182,复方丹参滴丸,6,Abdominal discomfort,1,1523
+4,val,174,35,小活络丸,23,Urticaria,1,357
+4,val,175,238,消癌平注射液,52,Cyanosis,1,1340
+4,val,176,203,腰痛宁胶囊,14,Chest discomfort,1,2094
+4,val,177,171,芪参胶囊,46,Head discomfort,1,1155
+4,val,178,176,乳癖散结胶囊,2,Diarrhoea,1,175
+4,val,179,212,首乌片,51,Ocular icterus,1,1427
+4,val,180,36,牛黄解毒片,9,Palpitations,1,1913
+4,val,181,22,益肾化湿颗粒,11,Dry mouth,1,1226
+4,val,182,155,风湿骨痛胶囊,13,Asthenia,1,1699
+4,val,183,111,都梁滴丸,94,General symptom,0,-1
+4,val,184,57,痛泻宁颗粒,126,Application site pruritus,0,-1
+4,val,185,146,小儿热速清糖浆,157,Hypothermia,0,-1
+4,val,186,23,丹灯通脑胶囊,118,Application site discolouration,0,-1
+4,val,187,191,消银胶囊,47,Dysphoria,0,-1
+4,val,188,99,天舒片,74,Hepatic failure,0,-1
+4,val,189,89,松龄血脉康胶囊,170,Faeces discoloured,0,-1
+4,val,190,1,疏风解毒胶囊,55,Vertigo,0,-1
+4,val,191,132,小儿化食口服液,3,Vomiting,0,-1
+4,val,192,143,通窍鼻炎胶囊,146,Tinnitus,0,-1
+4,val,193,250,康艾注射液,166,Myalgia,0,-1
+4,val,194,194,清热灵颗粒,138,Muscle tightness,0,-1
+4,val,195,227,丹香冠心注射液,71,White blood cell count decreased,0,-1
+4,val,196,58,小儿咽扁颗粒,165,Allergic oedema,0,-1
+4,val,197,110,都梁软胶囊,36,Hypoaesthesia oral,0,-1
+4,val,198,128,益心通脉颗粒,161,Mucosal irritation,0,-1
+4,val,199,195,跌打活血散,111,Nasal dryness,0,-1
+4,val,200,126,健脾生血片,110,Hypoglycaemia,0,-1
+4,val,201,244,露水草胶囊,85,Pigmentation disorder,0,-1
+4,val,202,216,胃欣舒胶囊,138,Muscle tightness,0,-1
+4,val,203,80,银杏叶片,95,Blood bilirubin increased,0,-1
+4,val,204,75,复方陈香胃片,139,Lacrimation increased,0,-1
+4,val,205,241,熊胆栓,121,Conjunctival haemorrhage,0,-1
+4,val,206,244,露水草胶囊,105,Muscle twitching,0,-1
+4,val,207,48,养阴生血合剂,135,Platelet count decreased,0,-1
+4,val,208,119,血府逐瘀口服液,54,Poisoning,0,-1
+4,val,209,24,灯盏细辛颗粒,52,Cyanosis,0,-1
+4,val,210,78,一清胶囊,76,Hyperpyrexia,0,-1
+4,val,211,211,十味降糖颗粒,113,Hypohidrosis,0,-1
+4,val,212,203,腰痛宁胶囊,119,Injection site hypoaesthesia,0,-1
+4,val,213,113,桂枝茯苓胶囊,166,Myalgia,0,-1
+4,val,214,100,天舒胶囊,12,Abdominal distension,0,-1
+4,val,215,151,牛黄上清软胶囊,126,Application site pruritus,0,-1
+4,val,216,170,克咳片,146,Tinnitus,0,-1
+4,val,217,4,坤泰胶囊,65,Tremor,0,-1
+4,val,218,120,颈舒颗粒,52,Cyanosis,0,-1
+4,val,219,105,三七伤药胶囊,96,Injection site rash,0,-1
+4,val,220,82,康妇消炎栓,58,Gingival bleeding,0,-1
+4,val,221,58,小儿咽扁颗粒,29,Pain,0,-1
+4,val,222,119,血府逐瘀口服液,86,Stevens-Johnson syndrome,0,-1
+4,val,223,10,五灵胶囊,26,Blood pressure increased,0,-1
+4,val,224,11,沈阳红药胶囊,90,Henoch-Schonlein purpura,0,-1
+4,val,225,170,克咳片,43,Haematuria,0,-1
+4,val,226,31,生白合剂,127,Infection,0,-1
+4,val,227,148,小儿热速清口服液,145,Gastrointestinal tract mucosal pigmentation,0,-1
+4,val,228,187,复方青黛丸,122,Skin reaction,0,-1
+4,val,229,59,抗病毒口服液,101,Lethargy,0,-1
+4,val,230,180,胃苏颗粒,50,Hyperchlorhydria,0,-1
+4,val,231,253,五酯片,38,Abdominal pain upper,0,-1
+4,val,232,154,丹桂香颗粒,17,Hepatic function abnormal,0,-1
+4,val,233,224,镇痛活络酊,133,Confusional state,0,-1
+4,val,234,63,鼻渊通窍颗粒,45,Chromaturia,0,-1
+4,val,235,240,颈康片,46,Head discomfort,0,-1
+4,val,236,179,茵栀黄胶囊,53,Phlebitis,0,-1
+4,val,237,126,健脾生血片,104,Dyschezia,0,-1
+4,val,238,43,荷丹片,143,Syncope,0,-1
+4,val,239,110,都梁软胶囊,89,Liver injury,0,-1
+4,val,240,184,复方丹参胶囊,29,Pain,0,-1
+4,val,241,111,都梁滴丸,77,Myoclonus,0,-1
+4,val,242,79,一清颗粒,95,Blood bilirubin increased,0,-1
+4,val,243,245,升血小板胶囊,39,Rash maculo-papular,0,-1
+4,val,244,182,复方丹参滴丸,170,Faeces discoloured,0,-1
+4,val,245,114,黄连上清丸,155,Malaise,0,-1
+4,val,246,65,三七通舒胶囊,111,Nasal dryness,0,-1
+4,val,247,237,川贝枇杷颗粒,31,Dysgeusia,0,-1
+4,val,248,51,疏痛安涂膜剂,167,Arthralgia,0,-1
+4,val,249,130,元胡止痛颗粒,53,Phlebitis,0,-1
+4,val,250,6,银杏叶口服液,141,Neurological symptom,0,-1
+4,val,251,50,疏风定痛丸,31,Dysgeusia,0,-1
+4,val,252,21,消咳喘胶囊,22,Erythema,0,-1
+4,val,253,131,千柏鼻炎胶囊,127,Infection,0,-1
+4,val,254,223,仙灵骨葆片,122,Skin reaction,0,-1
+4,val,255,192,消栓通络胶囊,107,Temperature intolerance,0,-1
+4,val,256,148,小儿热速清口服液,158,Rash erythematous,0,-1
+4,val,257,57,痛泻宁颗粒,38,Abdominal pain upper,0,-1
+4,val,258,127,健脾生血颗粒,14,Chest discomfort,0,-1
+4,val,259,151,牛黄上清软胶囊,61,Tachypnoea,0,-1
+4,val,260,222,仙灵骨葆胶囊,115,Ecchymosis,0,-1
+4,val,261,10,五灵胶囊,38,Abdominal pain upper,0,-1
+4,val,262,254,舒肝宁注射液,69,Arrhythmia,0,-1
+4,val,263,175,金芪降糖片,47,Dysphoria,0,-1
+4,val,264,130,元胡止痛颗粒,124,Angina pectoris,0,-1
+4,val,265,159,六味地黄胶囊,107,Temperature intolerance,0,-1
+4,val,266,71,癃清片,134,Laryngeal discomfort,0,-1
+4,val,267,131,千柏鼻炎胶囊,132,Swelling,0,-1
+4,val,268,247,苦碟子注射液,167,Arthralgia,0,-1
+4,val,269,13,杏苏止咳口服液,136,Neck pain,0,-1
+4,val,270,114,黄连上清丸,33,Blood pressure decreased,0,-1
+4,val,271,130,元胡止痛颗粒,132,Swelling,0,-1
+4,val,272,228,丹参滴注液,149,Eyelid oedema,0,-1
+4,val,273,230,三金胶囊,6,Abdominal discomfort,0,-1
+4,val,274,15,小儿咳喘灵口服液,125,Application site telangiectasia,0,-1
+4,val,275,206,裸花紫珠片,158,Rash erythematous,0,-1
+4,val,276,22,益肾化湿颗粒,80,Acute kidney injury,0,-1
+4,val,277,53,固本统血颗粒,60,Alanine aminotransferase increased,0,-1
+4,val,278,200,滑膜炎颗粒,78,Renal impairment,0,-1
+4,val,279,25,金蝉止痒胶囊,104,Dyschezia,0,-1
+4,val,280,27,银杏叶软胶囊,45,Chromaturia,0,-1
+4,val,281,56,慢支固本颗粒,88,Pallor,0,-1
+4,val,282,61,首乌丸,23,Urticaria,0,-1
+4,val,283,41,失笑散,121,Conjunctival haemorrhage,0,-1
+4,val,284,211,十味降糖颗粒,64,Epidermal necrosis,0,-1
+4,val,285,65,三七通舒胶囊,143,Syncope,0,-1
+4,val,286,94,便通胶囊,117,Haemorrhage subcutaneous,0,-1
+4,val,287,37,玉屏风丸,96,Injection site rash,0,-1
+4,val,288,145,小儿肺热咳喘口服液,95,Blood bilirubin increased,0,-1
+4,val,289,144,川贝枇杷糖浆,43,Haematuria,0,-1
+4,val,290,136,复方金黄连颗粒,101,Lethargy,0,-1
+4,val,291,32,藿香正气水,125,Application site telangiectasia,0,-1
+4,val,292,166,白蚀丸,114,Drug-induced liver injury,0,-1
+4,val,293,138,柴连口服液,135,Platelet count decreased,0,-1
+4,val,294,27,银杏叶软胶囊,157,Hypothermia,0,-1
+4,val,295,198,葛根汤片,112,Injection,0,-1
+4,val,296,161,六味地黄片,119,Injection site hypoaesthesia,0,-1
+4,val,297,220,复方青黛胶囊,106,Hypertension,0,-1
+4,val,298,24,灯盏细辛颗粒,156,Anal incontinence,0,-1
+4,val,299,212,首乌片,23,Urticaria,0,-1
+4,val,300,168,灯盏细辛注射液,50,Hyperchlorhydria,0,-1
+4,val,301,159,六味地黄胶囊,137,Application site pain,0,-1
+4,val,302,62,妇炎康片,85,Pigmentation disorder,0,-1
+4,val,303,221,青柏洁身洗液,133,Confusional state,0,-1
+4,val,304,36,牛黄解毒片,90,Henoch-Schonlein purpura,0,-1
+4,val,305,83,乳块消胶囊,87,Neutrophil count decreased,0,-1
+4,val,306,180,胃苏颗粒,169,Protein urine,0,-1
+4,val,307,64,鼻炎康片,27,Insomnia,0,-1
+4,val,308,46,黄藤素片,129,Ocular hyperaemia,0,-1
+4,val,309,105,三七伤药胶囊,80,Acute kidney injury,0,-1
+4,val,310,91,冠心苏合丸,113,Hypohidrosis,0,-1
+4,val,311,96,独一味胶囊,98,Oedema peripheral,0,-1
+4,val,312,22,益肾化湿颗粒,123,Coma,0,-1
+4,val,313,225,荷叶调脂茶,122,Skin reaction,0,-1
+4,val,314,9,脉络舒通颗粒,127,Infection,0,-1
+4,val,315,21,消咳喘胶囊,27,Insomnia,0,-1
+4,val,316,90,冠心丹参胶囊,149,Eyelid oedema,0,-1
+4,val,317,193,麻仁润肠丸,54,Poisoning,0,-1
+4,val,318,17,丹鹿通督片,15,Flushing,0,-1
+4,val,319,17,丹鹿通督片,0,Nausea,0,-1
+4,val,320,88,附桂骨痛颗粒,55,Vertigo,0,-1
+4,val,321,93,便通片,131,Dermatitis,0,-1
+4,val,322,61,首乌丸,96,Injection site rash,0,-1
+4,val,323,55,补肺活血胶囊,111,Nasal dryness,0,-1
+4,val,324,202,滑膜炎片,42,Epistaxis,0,-1
+4,val,325,128,益心通脉颗粒,124,Angina pectoris,0,-1
+4,val,326,130,元胡止痛颗粒,62,Dry skin,0,-1
+4,val,327,156,风热清口服液,70,Tachycardia,0,-1
+4,val,328,159,六味地黄胶囊,125,Application site telangiectasia,0,-1
+4,val,329,7,小儿清热止咳合剂,136,Neck pain,0,-1
+4,val,330,206,裸花紫珠片,59,Yellow skin,0,-1
+4,val,331,116,黄连上清胶囊,150,Alopecia,0,-1
+4,val,332,198,葛根汤片,97,Injection site pain,0,-1
+4,val,333,9,脉络舒通颗粒,80,Acute kidney injury,0,-1
+4,val,334,167,壮骨关节丸,109,Increased appetite,0,-1
+4,val,335,222,仙灵骨葆胶囊,108,Tooth discolouration,0,-1
+4,val,336,27,银杏叶软胶囊,49,Transaminases increased,0,-1
+4,val,337,16,风湿骨痛片,24,Anaphylactic shock,0,-1
+4,val,338,80,银杏叶片,99,Anaphylactoid reaction,0,-1
+4,val,339,238,消癌平注射液,94,General symptom,0,-1
+4,val,340,14,养血当归胶囊,62,Dry skin,0,-1
+4,val,341,84,参芪五味子胶囊,28,Hyperhidrosis,0,-1
+4,val,342,92,冠心苏合胶囊,92,Burning sensation,0,-1
+4,val,343,235,感愈胶囊,110,Hypoglycaemia,0,-1
+4,val,344,198,葛根汤片,47,Dysphoria,0,-1
+4,val,345,2,复方双花口服液,155,Malaise,0,-1
+4,val,346,141,软脉灵口服液,12,Abdominal distension,0,-1
+4,val,347,32,藿香正气水,89,Liver injury,0,-1
+4,val,348,235,感愈胶囊,32,Eructation,0,-1
+4,val,349,148,小儿热速清口服液,111,Nasal dryness,0,-1
+4,val,350,205,蒲地蓝消炎口服液,137,Application site pain,0,-1
+4,val,351,66,三金片,36,Hypoaesthesia oral,0,-1
+4,val,352,160,六味地黄颗粒,56,Thirst,0,-1
+4,val,353,85,胃康灵胶囊,122,Skin reaction,0,-1
+4,val,354,61,首乌丸,72,Dermatitis exfoliative,0,-1
+4,val,355,216,胃欣舒胶囊,133,Confusional state,0,-1
+4,val,356,2,复方双花口服液,168,Instillation site irritation,0,-1
+4,val,357,253,五酯片,155,Malaise,0,-1
+4,val,358,251,复方麝香注射液,145,Gastrointestinal tract mucosal pigmentation,0,-1
+4,val,359,113,桂枝茯苓胶囊,97,Injection site pain,0,-1
+4,val,360,107,生血宝合剂,75,Vision blurred,0,-1
+4,val,361,225,荷叶调脂茶,28,Hyperhidrosis,0,-1
+4,val,362,151,牛黄上清软胶囊,14,Chest discomfort,0,-1
+4,val,363,206,裸花紫珠片,103,Hiccups,0,-1
+4,val,364,156,风热清口服液,129,Ocular hyperaemia,0,-1
+4,val,365,64,鼻炎康片,81,Dysuria,0,-1

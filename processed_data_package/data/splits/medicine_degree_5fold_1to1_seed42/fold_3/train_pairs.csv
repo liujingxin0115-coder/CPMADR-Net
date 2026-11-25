@@ -1,0 +1,3061 @@
+﻿fold,split,sample_order,medicine_id,medicine_name_cn,medicine_degree,degree_bucket,reaction_id,meddra_pt_en,label,pos_edge_row_id
+3,train,0,205,蒲地蓝消炎口服液,19,head,0,Nausea,1,0
+3,train,1,205,蒲地蓝消炎口服液,19,head,3,Vomiting,1,1
+3,train,2,205,蒲地蓝消炎口服液,19,head,11,Dry mouth,1,2
+3,train,3,205,蒲地蓝消炎口服液,19,head,2,Diarrhoea,1,3
+3,train,4,205,蒲地蓝消炎口服液,19,head,5,Abdominal pain,1,4
+3,train,5,205,蒲地蓝消炎口服液,19,head,12,Abdominal distension,1,5
+3,train,6,205,蒲地蓝消炎口服液,19,head,16,Decreased appetite,1,6
+3,train,7,205,蒲地蓝消炎口服液,19,head,1,Rash,1,7
+3,train,8,205,蒲地蓝消炎口服液,19,head,4,Pruritus,1,8
+3,train,9,205,蒲地蓝消炎口服液,19,head,23,Urticaria,1,9
+3,train,10,205,蒲地蓝消炎口服液,19,head,22,Erythema,1,10
+3,train,11,205,蒲地蓝消炎口服液,19,head,39,Rash maculo-papular,1,11
+3,train,12,205,蒲地蓝消炎口服液,19,head,7,Dizziness,1,12
+3,train,13,205,蒲地蓝消炎口服液,19,head,10,Headache,1,13
+3,train,14,205,蒲地蓝消炎口服液,19,head,13,Asthenia,1,14
+3,train,15,205,蒲地蓝消炎口服液,19,head,14,Chest discomfort,1,15
+3,train,16,205,蒲地蓝消炎口服液,19,head,9,Palpitations,1,16
+3,train,17,205,蒲地蓝消炎口服液,19,head,17,Hepatic function abnormal,1,17
+3,train,18,205,蒲地蓝消炎口服液,19,head,8,Hypersensitivity,1,18
+3,train,19,69,安神补脑液,15,head,0,Nausea,1,31
+3,train,20,69,安神补脑液,15,head,3,Vomiting,1,32
+3,train,21,69,安神补脑液,15,head,6,Abdominal discomfort,1,33
+3,train,22,69,安神补脑液,15,head,11,Dry mouth,1,34
+3,train,23,69,安神补脑液,15,head,5,Abdominal pain,1,35
+3,train,24,69,安神补脑液,15,head,12,Abdominal distension,1,36
+3,train,25,69,安神补脑液,15,head,2,Diarrhoea,1,37
+3,train,26,69,安神补脑液,15,head,19,Constipation,1,38
+3,train,27,69,安神补脑液,15,head,10,Headache,1,39
+3,train,28,69,安神补脑液,15,head,21,Somnolence,1,40
+3,train,29,69,安神补脑液,15,head,1,Rash,1,41
+3,train,30,69,安神补脑液,15,head,4,Pruritus,1,42
+3,train,31,69,安神补脑液,15,head,9,Palpitations,1,43
+3,train,32,69,安神补脑液,15,head,8,Hypersensitivity,1,44
+3,train,33,69,安神补脑液,15,head,17,Hepatic function abnormal,1,45
+3,train,34,93,便通片,3,tail,5,Abdominal pain,1,46
+3,train,35,93,便通片,3,tail,2,Diarrhoea,1,47
+3,train,36,93,便通片,3,tail,1,Rash,1,48
+3,train,37,144,川贝枇杷糖浆,8,medium,0,Nausea,1,90
+3,train,38,144,川贝枇杷糖浆,8,medium,3,Vomiting,1,91
+3,train,39,144,川贝枇杷糖浆,8,medium,5,Abdominal pain,1,92
+3,train,40,144,川贝枇杷糖浆,8,medium,2,Diarrhoea,1,93
+3,train,41,144,川贝枇杷糖浆,8,medium,6,Abdominal discomfort,1,94
+3,train,42,144,川贝枇杷糖浆,8,medium,7,Dizziness,1,95
+3,train,43,144,川贝枇杷糖浆,8,medium,1,Rash,1,96
+3,train,44,144,川贝枇杷糖浆,8,medium,4,Pruritus,1,97
+3,train,45,1,疏风解毒胶囊,12,head,0,Nausea,1,110
+3,train,46,1,疏风解毒胶囊,12,head,3,Vomiting,1,111
+3,train,47,1,疏风解毒胶囊,12,head,5,Abdominal pain,1,112
+3,train,48,1,疏风解毒胶囊,12,head,2,Diarrhoea,1,113
+3,train,49,1,疏风解毒胶囊,12,head,12,Abdominal distension,1,114
+3,train,50,1,疏风解毒胶囊,12,head,6,Abdominal discomfort,1,115
+3,train,51,1,疏风解毒胶囊,12,head,25,Dyspepsia,1,116
+3,train,52,1,疏风解毒胶囊,12,head,1,Rash,1,117
+3,train,53,1,疏风解毒胶囊,12,head,4,Pruritus,1,118
+3,train,54,1,疏风解毒胶囊,12,head,7,Dizziness,1,119
+3,train,55,1,疏风解毒胶囊,12,head,14,Chest discomfort,1,120
+3,train,56,1,疏风解毒胶囊,12,head,8,Hypersensitivity,1,121
+3,train,57,89,松龄血脉康胶囊,2,tail,2,Diarrhoea,1,130
+3,train,58,89,松龄血脉康胶囊,2,tail,12,Abdominal distension,1,131
+3,train,59,57,痛泻宁颗粒,1,tail,0,Nausea,1,132
+3,train,60,193,麻仁润肠丸,15,head,0,Nausea,1,139
+3,train,61,193,麻仁润肠丸,15,head,3,Vomiting,1,140
+3,train,62,193,麻仁润肠丸,15,head,2,Diarrhoea,1,141
+3,train,63,193,麻仁润肠丸,15,head,5,Abdominal pain,1,142
+3,train,64,193,麻仁润肠丸,15,head,12,Abdominal distension,1,143
+3,train,65,193,麻仁润肠丸,15,head,6,Abdominal discomfort,1,144
+3,train,66,193,麻仁润肠丸,15,head,1,Rash,1,145
+3,train,67,193,麻仁润肠丸,15,head,4,Pruritus,1,146
+3,train,68,193,麻仁润肠丸,15,head,15,Flushing,1,147
+3,train,69,193,麻仁润肠丸,15,head,7,Dizziness,1,148
+3,train,70,193,麻仁润肠丸,15,head,10,Headache,1,149
+3,train,71,193,麻仁润肠丸,15,head,13,Asthenia,1,150
+3,train,72,193,麻仁润肠丸,15,head,14,Chest discomfort,1,151
+3,train,73,193,麻仁润肠丸,15,head,9,Palpitations,1,152
+3,train,74,193,麻仁润肠丸,15,head,145,Gastrointestinal tract mucosal pigmentation,1,153
+3,train,75,145,小儿肺热咳喘口服液,11,medium,2,Diarrhoea,1,159
+3,train,76,145,小儿肺热咳喘口服液,11,medium,3,Vomiting,1,160
+3,train,77,145,小儿肺热咳喘口服液,11,medium,0,Nausea,1,161
+3,train,78,145,小儿肺热咳喘口服液,11,medium,5,Abdominal pain,1,162
+3,train,79,145,小儿肺热咳喘口服液,11,medium,6,Abdominal discomfort,1,163
+3,train,80,145,小儿肺热咳喘口服液,11,medium,12,Abdominal distension,1,164
+3,train,81,145,小儿肺热咳喘口服液,11,medium,1,Rash,1,165
+3,train,82,145,小儿肺热咳喘口服液,11,medium,4,Pruritus,1,166
+3,train,83,145,小儿肺热咳喘口服液,11,medium,15,Flushing,1,167
+3,train,84,145,小儿肺热咳喘口服液,11,medium,16,Decreased appetite,1,168
+3,train,85,145,小儿肺热咳喘口服液,11,medium,8,Hypersensitivity,1,169
+3,train,86,150,小儿退热颗粒,3,tail,0,Nausea,1,183
+3,train,87,150,小儿退热颗粒,3,tail,3,Vomiting,1,184
+3,train,88,150,小儿退热颗粒,3,tail,1,Rash,1,185
+3,train,89,165,双黄连胶囊,14,head,1,Rash,1,186
+3,train,90,165,双黄连胶囊,14,head,4,Pruritus,1,187
+3,train,91,165,双黄连胶囊,14,head,0,Nausea,1,188
+3,train,92,165,双黄连胶囊,14,head,3,Vomiting,1,189
+3,train,93,165,双黄连胶囊,14,head,5,Abdominal pain,1,190
+3,train,94,165,双黄连胶囊,14,head,2,Diarrhoea,1,191
+3,train,95,165,双黄连胶囊,14,head,14,Chest discomfort,1,192
+3,train,96,165,双黄连胶囊,14,head,15,Flushing,1,193
+3,train,97,165,双黄连胶囊,14,head,8,Hypersensitivity,1,194
+3,train,98,165,双黄连胶囊,14,head,7,Dizziness,1,195
+3,train,99,165,双黄连胶囊,14,head,20,Dyspnoea,1,196
+3,train,100,165,双黄连胶囊,14,head,9,Palpitations,1,197
+3,train,101,165,双黄连胶囊,14,head,17,Hepatic function abnormal,1,198
+3,train,102,165,双黄连胶囊,14,head,24,Anaphylactic shock,1,199
+3,train,103,86,心脑欣丸,2,tail,0,Nausea,1,200
+3,train,104,86,心脑欣丸,2,tail,3,Vomiting,1,201
+3,train,105,147,小儿热速清颗粒,6,medium,0,Nausea,1,208
+3,train,106,147,小儿热速清颗粒,6,medium,3,Vomiting,1,209
+3,train,107,147,小儿热速清颗粒,6,medium,5,Abdominal pain,1,210
+3,train,108,147,小儿热速清颗粒,6,medium,2,Diarrhoea,1,211
+3,train,109,147,小儿热速清颗粒,6,medium,4,Pruritus,1,212
+3,train,110,147,小儿热速清颗粒,6,medium,1,Rash,1,213
+3,train,111,96,独一味胶囊,22,head,6,Abdominal discomfort,1,236
+3,train,112,96,独一味胶囊,22,head,5,Abdominal pain,1,237
+3,train,113,96,独一味胶囊,22,head,12,Abdominal distension,1,238
+3,train,114,96,独一味胶囊,22,head,2,Diarrhoea,1,239
+3,train,115,96,独一味胶囊,22,head,0,Nausea,1,240
+3,train,116,96,独一味胶囊,22,head,3,Vomiting,1,241
+3,train,117,96,独一味胶囊,22,head,11,Dry mouth,1,242
+3,train,118,96,独一味胶囊,22,head,17,Hepatic function abnormal,1,243
+3,train,119,96,独一味胶囊,22,head,29,Pain,1,244
+3,train,120,96,独一味胶囊,22,head,34,Oedema,1,245
+3,train,121,96,独一味胶囊,22,head,13,Asthenia,1,246
+3,train,122,96,独一味胶囊,22,head,15,Flushing,1,247
+3,train,123,96,独一味胶囊,22,head,8,Hypersensitivity,1,248
+3,train,124,96,独一味胶囊,22,head,1,Rash,1,249
+3,train,125,96,独一味胶囊,22,head,4,Pruritus,1,250
+3,train,126,96,独一味胶囊,22,head,7,Dizziness,1,251
+3,train,127,96,独一味胶囊,22,head,10,Headache,1,252
+3,train,128,96,独一味胶囊,22,head,9,Palpitations,1,253
+3,train,129,96,独一味胶囊,22,head,14,Chest discomfort,1,254
+3,train,130,96,独一味胶囊,22,head,42,Epistaxis,1,255
+3,train,131,96,独一味胶囊,22,head,48,Melaena,1,256
+3,train,132,96,独一味胶囊,22,head,93,Purpura,1,257
+3,train,133,137,养血清脑颗粒,16,head,1,Rash,1,258
+3,train,134,137,养血清脑颗粒,16,head,4,Pruritus,1,259
+3,train,135,137,养血清脑颗粒,16,head,0,Nausea,1,260
+3,train,136,137,养血清脑颗粒,16,head,3,Vomiting,1,261
+3,train,137,137,养血清脑颗粒,16,head,12,Abdominal distension,1,262
+3,train,138,137,养血清脑颗粒,16,head,2,Diarrhoea,1,263
+3,train,139,137,养血清脑颗粒,16,head,5,Abdominal pain,1,264
+3,train,140,137,养血清脑颗粒,16,head,92,Burning sensation,1,265
+3,train,141,137,养血清脑颗粒,16,head,11,Dry mouth,1,266
+3,train,142,137,养血清脑颗粒,16,head,7,Dizziness,1,267
+3,train,143,137,养血清脑颗粒,16,head,10,Headache,1,268
+3,train,144,137,养血清脑颗粒,16,head,46,Head discomfort,1,269
+3,train,145,137,养血清脑颗粒,16,head,146,Tinnitus,1,270
+3,train,146,137,养血清脑颗粒,16,head,9,Palpitations,1,271
+3,train,147,137,养血清脑颗粒,16,head,33,Blood pressure decreased,1,272
+3,train,148,137,养血清脑颗粒,16,head,17,Hepatic function abnormal,1,273
+3,train,149,178,茵栀黄颗粒,7,medium,2,Diarrhoea,1,274
+3,train,150,178,茵栀黄颗粒,7,medium,3,Vomiting,1,275
+3,train,151,178,茵栀黄颗粒,7,medium,1,Rash,1,276
+3,train,152,178,茵栀黄颗粒,7,medium,4,Pruritus,1,277
+3,train,153,178,茵栀黄颗粒,7,medium,18,Pyrexia,1,278
+3,train,154,178,茵栀黄颗粒,7,medium,7,Dizziness,1,279
+3,train,155,178,茵栀黄颗粒,7,medium,91,Haematochezia,1,280
+3,train,156,135,牛黄解毒软胶囊,29,head,2,Diarrhoea,1,281
+3,train,157,135,牛黄解毒软胶囊,29,head,5,Abdominal pain,1,282
+3,train,158,135,牛黄解毒软胶囊,29,head,0,Nausea,1,283
+3,train,159,135,牛黄解毒软胶囊,29,head,3,Vomiting,1,284
+3,train,160,135,牛黄解毒软胶囊,29,head,11,Dry mouth,1,285
+3,train,161,135,牛黄解毒软胶囊,29,head,6,Abdominal discomfort,1,286
+3,train,162,135,牛黄解毒软胶囊,29,head,17,Hepatic function abnormal,1,287
+3,train,163,135,牛黄解毒软胶囊,29,head,30,Gastrointestinal haemorrhage,1,288
+3,train,164,135,牛黄解毒软胶囊,29,head,1,Rash,1,289
+3,train,165,135,牛黄解毒软胶囊,29,head,4,Pruritus,1,290
+3,train,166,135,牛黄解毒软胶囊,29,head,63,Face oedema,1,291
+3,train,167,135,牛黄解毒软胶囊,29,head,40,Drug eruption,1,292
+3,train,168,135,牛黄解毒软胶囊,29,head,86,Stevens-Johnson syndrome,1,293
+3,train,169,135,牛黄解毒软胶囊,29,head,64,Epidermal necrosis,1,294
+3,train,170,135,牛黄解毒软胶囊,29,head,62,Dry skin,1,295
+3,train,171,135,牛黄解毒软胶囊,29,head,85,Pigmentation disorder,1,296
+3,train,172,135,牛黄解毒软胶囊,29,head,84,Chronic arsenic toxicity,1,297
+3,train,173,135,牛黄解毒软胶囊,29,head,7,Dizziness,1,298
+3,train,174,135,牛黄解毒软胶囊,29,head,10,Headache,1,299
+3,train,175,135,牛黄解毒软胶囊,29,head,21,Somnolence,1,300
+3,train,176,135,牛黄解毒软胶囊,29,head,27,Insomnia,1,301
+3,train,177,135,牛黄解毒软胶囊,29,head,8,Hypersensitivity,1,302
+3,train,178,135,牛黄解毒软胶囊,29,head,24,Anaphylactic shock,1,303
+3,train,179,135,牛黄解毒软胶囊,29,head,9,Palpitations,1,304
+3,train,180,135,牛黄解毒软胶囊,29,head,20,Dyspnoea,1,305
+3,train,181,135,牛黄解毒软胶囊,29,head,14,Chest discomfort,1,306
+3,train,182,135,牛黄解毒软胶囊,29,head,43,Haematuria,1,307
+3,train,183,135,牛黄解毒软胶囊,29,head,80,Acute kidney injury,1,308
+3,train,184,135,牛黄解毒软胶囊,29,head,54,Poisoning,1,309
+3,train,185,106,平消胶囊,4,medium,0,Nausea,1,310
+3,train,186,106,平消胶囊,4,medium,40,Drug eruption,1,311
+3,train,187,106,平消胶囊,4,medium,7,Dizziness,1,312
+3,train,188,106,平消胶囊,4,medium,2,Diarrhoea,1,313
+3,train,189,133,小儿化食丸,4,medium,2,Diarrhoea,1,315
+3,train,190,133,小儿化食丸,4,medium,5,Abdominal pain,1,316
+3,train,191,133,小儿化食丸,4,medium,1,Rash,1,317
+3,train,192,133,小儿化食丸,4,medium,4,Pruritus,1,318
+3,train,193,2,复方双花口服液,3,tail,0,Nausea,1,328
+3,train,194,2,复方双花口服液,3,tail,16,Decreased appetite,1,329
+3,train,195,2,复方双花口服液,3,tail,2,Diarrhoea,1,330
+3,train,196,35,小活络丸,47,head,0,Nausea,1,343
+3,train,197,35,小活络丸,47,head,3,Vomiting,1,344
+3,train,198,35,小活络丸,47,head,11,Dry mouth,1,345
+3,train,199,35,小活络丸,47,head,5,Abdominal pain,1,346
+3,train,200,35,小活络丸,47,head,6,Abdominal discomfort,1,347
+3,train,201,35,小活络丸,47,head,2,Diarrhoea,1,348
+3,train,202,35,小活络丸,47,head,12,Abdominal distension,1,349
+3,train,203,35,小活络丸,47,head,25,Dyspepsia,1,350
+3,train,204,35,小活络丸,47,head,19,Constipation,1,351
+3,train,205,35,小活络丸,47,head,48,Melaena,1,352
+3,train,206,35,小活络丸,47,head,30,Gastrointestinal haemorrhage,1,353
+3,train,207,35,小活络丸,47,head,1,Rash,1,354
+3,train,208,35,小活络丸,47,head,4,Pruritus,1,355
+3,train,209,35,小活络丸,47,head,15,Flushing,1,356
+3,train,210,35,小活络丸,47,head,23,Urticaria,1,357
+3,train,211,35,小活络丸,47,head,39,Rash maculo-papular,1,358
+3,train,212,35,小活络丸,47,head,147,Macule,1,359
+3,train,213,35,小活络丸,47,head,83,Skin swelling,1,360
+3,train,214,35,小活络丸,47,head,28,Hyperhidrosis,1,361
+3,train,215,35,小活络丸,47,head,7,Dizziness,1,362
+3,train,216,35,小活络丸,47,head,10,Headache,1,363
+3,train,217,35,小活络丸,47,head,36,Hypoaesthesia oral,1,364
+3,train,218,35,小活络丸,47,head,37,Hypoaesthesia,1,365
+3,train,219,35,小活络丸,47,head,21,Somnolence,1,366
+3,train,220,35,小活络丸,47,head,14,Chest discomfort,1,367
+3,train,221,35,小活络丸,47,head,13,Asthenia,1,368
+3,train,222,35,小活络丸,47,head,29,Pain,1,369
+3,train,223,35,小活络丸,47,head,34,Oedema,1,370
+3,train,224,35,小活络丸,47,head,18,Pyrexia,1,371
+3,train,225,35,小活络丸,47,head,9,Palpitations,1,372
+3,train,226,35,小活络丸,47,head,70,Tachycardia,1,373
+3,train,227,35,小活络丸,47,head,69,Arrhythmia,1,374
+3,train,228,35,小活络丸,47,head,44,Cough,1,375
+3,train,229,35,小活络丸,47,head,20,Dyspnoea,1,376
+3,train,230,35,小活络丸,47,head,61,Tachypnoea,1,377
+3,train,231,35,小活络丸,47,head,148,Oropharyngeal pain,1,378
+3,train,232,35,小活络丸,47,head,8,Hypersensitivity,1,379
+3,train,233,35,小活络丸,47,head,24,Anaphylactic shock,1,380
+3,train,234,35,小活络丸,47,head,16,Decreased appetite,1,381
+3,train,235,35,小活络丸,47,head,27,Insomnia,1,382
+3,train,236,35,小活络丸,47,head,55,Vertigo,1,383
+3,train,237,35,小活络丸,47,head,26,Blood pressure increased,1,384
+3,train,238,35,小活络丸,47,head,88,Pallor,1,385
+3,train,239,35,小活络丸,47,head,81,Dysuria,1,386
+3,train,240,35,小活络丸,47,head,43,Haematuria,1,387
+3,train,241,35,小活络丸,47,head,54,Poisoning,1,388
+3,train,242,35,小活络丸,47,head,17,Hepatic function abnormal,1,389
+3,train,243,3,芪明颗粒,3,tail,6,Abdominal discomfort,1,392
+3,train,244,3,芪明颗粒,3,tail,1,Rash,1,393
+3,train,245,3,芪明颗粒,3,tail,4,Pruritus,1,394
+3,train,246,112,桂枝茯苓片,2,tail,6,Abdominal discomfort,1,395
+3,train,247,112,桂枝茯苓片,2,tail,5,Abdominal pain,1,396
+3,train,248,131,千柏鼻炎胶囊,1,tail,89,Liver injury,1,397
+3,train,249,121,颈痛颗粒,2,tail,1,Rash,1,398
+3,train,250,121,颈痛颗粒,2,tail,4,Pruritus,1,399
+3,train,251,98,开胸顺气胶囊,1,tail,2,Diarrhoea,1,400
+3,train,252,46,黄藤素片,5,medium,6,Abdominal discomfort,1,401
+3,train,253,46,黄藤素片,5,medium,16,Decreased appetite,1,402
+3,train,254,46,黄藤素片,5,medium,19,Constipation,1,403
+3,train,255,46,黄藤素片,5,medium,64,Epidermal necrosis,1,404
+3,train,256,46,黄藤素片,5,medium,40,Drug eruption,1,405
+3,train,257,39,归脾丸,2,tail,25,Dyspepsia,1,406
+3,train,258,39,归脾丸,2,tail,1,Rash,1,407
+3,train,259,4,坤泰胶囊,2,tail,12,Abdominal distension,1,417
+3,train,260,4,坤泰胶囊,2,tail,38,Abdominal pain upper,1,418
+3,train,261,206,裸花紫珠片,24,head,0,Nausea,1,419
+3,train,262,206,裸花紫珠片,24,head,3,Vomiting,1,420
+3,train,263,206,裸花紫珠片,24,head,5,Abdominal pain,1,421
+3,train,264,206,裸花紫珠片,24,head,2,Diarrhoea,1,422
+3,train,265,206,裸花紫珠片,24,head,6,Abdominal discomfort,1,423
+3,train,266,206,裸花紫珠片,24,head,12,Abdominal distension,1,424
+3,train,267,206,裸花紫珠片,24,head,11,Dry mouth,1,425
+3,train,268,206,裸花紫珠片,24,head,19,Constipation,1,426
+3,train,269,206,裸花紫珠片,24,head,1,Rash,1,427
+3,train,270,206,裸花紫珠片,24,head,23,Urticaria,1,428
+3,train,271,206,裸花紫珠片,24,head,22,Erythema,1,429
+3,train,272,206,裸花紫珠片,24,head,39,Rash maculo-papular,1,430
+3,train,273,206,裸花紫珠片,24,head,4,Pruritus,1,431
+3,train,274,206,裸花紫珠片,24,head,63,Face oedema,1,432
+3,train,275,206,裸花紫珠片,24,head,149,Eyelid oedema,1,433
+3,train,276,206,裸花紫珠片,24,head,15,Flushing,1,434
+3,train,277,206,裸花紫珠片,24,head,7,Dizziness,1,435
+3,train,278,206,裸花紫珠片,24,head,10,Headache,1,436
+3,train,279,206,裸花紫珠片,24,head,55,Vertigo,1,437
+3,train,280,206,裸花紫珠片,24,head,14,Chest discomfort,1,438
+3,train,281,206,裸花紫珠片,24,head,61,Tachypnoea,1,439
+3,train,282,206,裸花紫珠片,24,head,13,Asthenia,1,440
+3,train,283,206,裸花紫珠片,24,head,9,Palpitations,1,441
+3,train,284,206,裸花紫珠片,24,head,8,Hypersensitivity,1,442
+3,train,285,44,消痔软膏,1,tail,8,Hypersensitivity,1,465
+3,train,286,163,心可舒片,15,head,0,Nausea,1,466
+3,train,287,163,心可舒片,15,head,3,Vomiting,1,467
+3,train,288,163,心可舒片,15,head,12,Abdominal distension,1,468
+3,train,289,163,心可舒片,15,head,5,Abdominal pain,1,469
+3,train,290,163,心可舒片,15,head,2,Diarrhoea,1,470
+3,train,291,163,心可舒片,15,head,6,Abdominal discomfort,1,471
+3,train,292,163,心可舒片,15,head,11,Dry mouth,1,472
+3,train,293,163,心可舒片,15,head,25,Dyspepsia,1,473
+3,train,294,163,心可舒片,15,head,32,Eructation,1,474
+3,train,295,163,心可舒片,15,head,1,Rash,1,475
+3,train,296,163,心可舒片,15,head,4,Pruritus,1,476
+3,train,297,163,心可舒片,15,head,15,Flushing,1,477
+3,train,298,163,心可舒片,15,head,28,Hyperhidrosis,1,478
+3,train,299,163,心可舒片,15,head,13,Asthenia,1,479
+3,train,300,163,心可舒片,15,head,8,Hypersensitivity,1,480
+3,train,301,119,血府逐瘀口服液,9,medium,0,Nausea,1,483
+3,train,302,119,血府逐瘀口服液,9,medium,3,Vomiting,1,484
+3,train,303,119,血府逐瘀口服液,9,medium,12,Abdominal distension,1,485
+3,train,304,119,血府逐瘀口服液,9,medium,5,Abdominal pain,1,486
+3,train,305,119,血府逐瘀口服液,9,medium,2,Diarrhoea,1,487
+3,train,306,119,血府逐瘀口服液,9,medium,1,Rash,1,488
+3,train,307,119,血府逐瘀口服液,9,medium,4,Pruritus,1,489
+3,train,308,119,血府逐瘀口服液,9,medium,15,Flushing,1,490
+3,train,309,119,血府逐瘀口服液,9,medium,8,Hypersensitivity,1,491
+3,train,310,5,益心酮滴丸,1,tail,6,Abdominal discomfort,1,492
+3,train,311,162,心速宁胶囊,1,tail,0,Nausea,1,493
+3,train,312,6,银杏叶口服液,21,head,0,Nausea,1,494
+3,train,313,6,银杏叶口服液,21,head,3,Vomiting,1,495
+3,train,314,6,银杏叶口服液,21,head,11,Dry mouth,1,496
+3,train,315,6,银杏叶口服液,21,head,12,Abdominal distension,1,497
+3,train,316,6,银杏叶口服液,21,head,5,Abdominal pain,1,498
+3,train,317,6,银杏叶口服液,21,head,6,Abdominal discomfort,1,499
+3,train,318,6,银杏叶口服液,21,head,50,Hyperchlorhydria,1,500
+3,train,319,6,银杏叶口服液,21,head,30,Gastrointestinal haemorrhage,1,501
+3,train,320,6,银杏叶口服液,21,head,7,Dizziness,1,502
+3,train,321,6,银杏叶口服液,21,head,10,Headache,1,503
+3,train,322,6,银杏叶口服液,21,head,37,Hypoaesthesia,1,504
+3,train,323,6,银杏叶口服液,21,head,1,Rash,1,505
+3,train,324,6,银杏叶口服液,21,head,4,Pruritus,1,506
+3,train,325,6,银杏叶口服液,21,head,14,Chest discomfort,1,507
+3,train,326,6,银杏叶口服液,21,head,9,Palpitations,1,508
+3,train,327,6,银杏叶口服液,21,head,26,Blood pressure increased,1,509
+3,train,328,6,银杏叶口服液,21,head,33,Blood pressure decreased,1,510
+3,train,329,6,银杏叶口服液,21,head,13,Asthenia,1,511
+3,train,330,6,银杏叶口服液,21,head,8,Hypersensitivity,1,512
+3,train,331,6,银杏叶口服液,21,head,58,Gingival bleeding,1,513
+3,train,332,6,银杏叶口服液,21,head,42,Epistaxis,1,514
+3,train,333,107,生血宝合剂,10,medium,0,Nausea,1,517
+3,train,334,107,生血宝合剂,10,medium,3,Vomiting,1,518
+3,train,335,107,生血宝合剂,10,medium,6,Abdominal discomfort,1,519
+3,train,336,107,生血宝合剂,10,medium,2,Diarrhoea,1,520
+3,train,337,107,生血宝合剂,10,medium,5,Abdominal pain,1,521
+3,train,338,107,生血宝合剂,10,medium,12,Abdominal distension,1,522
+3,train,339,107,生血宝合剂,10,medium,19,Constipation,1,523
+3,train,340,107,生血宝合剂,10,medium,1,Rash,1,524
+3,train,341,107,生血宝合剂,10,medium,4,Pruritus,1,525
+3,train,342,107,生血宝合剂,10,medium,17,Hepatic function abnormal,1,526
+3,train,343,198,葛根汤片,3,tail,1,Rash,1,539
+3,train,344,198,葛根汤片,3,tail,4,Pruritus,1,540
+3,train,345,198,葛根汤片,3,tail,0,Nausea,1,541
+3,train,346,191,消银胶囊,15,head,0,Nausea,1,542
+3,train,347,191,消银胶囊,15,head,3,Vomiting,1,543
+3,train,348,191,消银胶囊,15,head,12,Abdominal distension,1,544
+3,train,349,191,消银胶囊,15,head,5,Abdominal pain,1,545
+3,train,350,191,消银胶囊,15,head,2,Diarrhoea,1,546
+3,train,351,191,消银胶囊,15,head,17,Hepatic function abnormal,1,547
+3,train,352,191,消银胶囊,15,head,4,Pruritus,1,548
+3,train,353,191,消银胶囊,15,head,1,Rash,1,549
+3,train,354,191,消银胶囊,15,head,8,Hypersensitivity,1,550
+3,train,355,191,消银胶囊,15,head,14,Chest discomfort,1,551
+3,train,356,191,消银胶囊,15,head,20,Dyspnoea,1,552
+3,train,357,191,消银胶囊,15,head,30,Gastrointestinal haemorrhage,1,553
+3,train,358,191,消银胶囊,15,head,152,Menstrual disorder,1,554
+3,train,359,191,消银胶囊,15,head,153,Vaginal haemorrhage,1,555
+3,train,360,191,消银胶囊,15,head,154,Male sexual dysfunction,1,556
+3,train,361,7,小儿清热止咳合剂,16,head,0,Nausea,1,557
+3,train,362,7,小儿清热止咳合剂,16,head,3,Vomiting,1,558
+3,train,363,7,小儿清热止咳合剂,16,head,11,Dry mouth,1,559
+3,train,364,7,小儿清热止咳合剂,16,head,2,Diarrhoea,1,560
+3,train,365,7,小儿清热止咳合剂,16,head,5,Abdominal pain,1,561
+3,train,366,7,小儿清热止咳合剂,16,head,12,Abdominal distension,1,562
+3,train,367,7,小儿清热止咳合剂,16,head,6,Abdominal discomfort,1,563
+3,train,368,7,小儿清热止咳合剂,16,head,1,Rash,1,564
+3,train,369,7,小儿清热止咳合剂,16,head,4,Pruritus,1,565
+3,train,370,7,小儿清热止咳合剂,16,head,15,Flushing,1,566
+3,train,371,7,小儿清热止咳合剂,16,head,23,Urticaria,1,567
+3,train,372,7,小儿清热止咳合剂,16,head,22,Erythema,1,568
+3,train,373,7,小儿清热止咳合剂,16,head,7,Dizziness,1,569
+3,train,374,7,小儿清热止咳合剂,16,head,21,Somnolence,1,570
+3,train,375,7,小儿清热止咳合剂,16,head,8,Hypersensitivity,1,571
+3,train,376,7,小儿清热止咳合剂,16,head,24,Anaphylactic shock,1,572
+3,train,377,252,瓜蒌皮注射液,30,head,8,Hypersensitivity,1,576
+3,train,378,252,瓜蒌皮注射液,30,head,15,Flushing,1,577
+3,train,379,252,瓜蒌皮注射液,30,head,35,Chills,1,578
+3,train,380,252,瓜蒌皮注射液,30,head,18,Pyrexia,1,579
+3,train,381,252,瓜蒌皮注射液,30,head,1,Rash,1,580
+3,train,382,252,瓜蒌皮注射液,30,head,4,Pruritus,1,581
+3,train,383,252,瓜蒌皮注射液,30,head,9,Palpitations,1,582
+3,train,384,252,瓜蒌皮注射液,30,head,20,Dyspnoea,1,583
+3,train,385,252,瓜蒌皮注射液,30,head,57,Laryngeal oedema,1,584
+3,train,386,252,瓜蒌皮注射液,30,head,24,Anaphylactic shock,1,585
+3,train,387,252,瓜蒌皮注射液,30,head,22,Erythema,1,586
+3,train,388,252,瓜蒌皮注射液,30,head,28,Hyperhidrosis,1,587
+3,train,389,252,瓜蒌皮注射液,30,head,14,Chest discomfort,1,588
+3,train,390,252,瓜蒌皮注射液,30,head,155,Malaise,1,589
+3,train,391,252,瓜蒌皮注射液,30,head,29,Pain,1,590
+3,train,392,252,瓜蒌皮注射液,30,head,10,Headache,1,591
+3,train,393,252,瓜蒌皮注射液,30,head,7,Dizziness,1,592
+3,train,394,252,瓜蒌皮注射液,30,head,46,Head discomfort,1,593
+3,train,395,252,瓜蒌皮注射液,30,head,37,Hypoaesthesia,1,594
+3,train,396,252,瓜蒌皮注射液,30,head,65,Tremor,1,595
+3,train,397,252,瓜蒌皮注射液,30,head,0,Nausea,1,596
+3,train,398,252,瓜蒌皮注射液,30,head,3,Vomiting,1,597
+3,train,399,252,瓜蒌皮注射液,30,head,6,Abdominal discomfort,1,598
+3,train,400,252,瓜蒌皮注射液,30,head,2,Diarrhoea,1,599
+3,train,401,252,瓜蒌皮注射液,30,head,5,Abdominal pain,1,600
+3,train,402,252,瓜蒌皮注射液,30,head,61,Tachypnoea,1,601
+3,train,403,252,瓜蒌皮注射液,30,head,26,Blood pressure increased,1,602
+3,train,404,252,瓜蒌皮注射液,30,head,33,Blood pressure decreased,1,603
+3,train,405,252,瓜蒌皮注射液,30,head,53,Phlebitis,1,604
+3,train,406,252,瓜蒌皮注射液,30,head,112,Injection,1,605
+3,train,407,253,五酯片,1,tail,6,Abdominal discomfort,1,606
+3,train,408,45,通乐颗粒,2,tail,6,Abdominal discomfort,1,607
+3,train,409,45,通乐颗粒,2,tail,156,Anal incontinence,1,608
+3,train,410,196,葶贝胶囊,2,tail,11,Dry mouth,1,609
+3,train,411,196,葶贝胶囊,2,tail,9,Palpitations,1,610
+3,train,412,9,脉络舒通颗粒,4,medium,0,Nausea,1,611
+3,train,413,9,脉络舒通颗粒,4,medium,3,Vomiting,1,612
+3,train,414,9,脉络舒通颗粒,4,medium,16,Decreased appetite,1,613
+3,train,415,9,脉络舒通颗粒,4,medium,6,Abdominal discomfort,1,614
+3,train,416,157,六味香连胶囊,1,tail,19,Constipation,1,615
+3,train,417,34,元胡止痛片,26,head,0,Nausea,1,622
+3,train,418,34,元胡止痛片,26,head,3,Vomiting,1,623
+3,train,419,34,元胡止痛片,26,head,11,Dry mouth,1,624
+3,train,420,34,元胡止痛片,26,head,5,Abdominal pain,1,625
+3,train,421,34,元胡止痛片,26,head,2,Diarrhoea,1,626
+3,train,422,34,元胡止痛片,26,head,12,Abdominal distension,1,627
+3,train,423,34,元胡止痛片,26,head,6,Abdominal discomfort,1,628
+3,train,424,34,元胡止痛片,26,head,32,Eructation,1,629
+3,train,425,34,元胡止痛片,26,head,1,Rash,1,630
+3,train,426,34,元胡止痛片,26,head,4,Pruritus,1,631
+3,train,427,34,元胡止痛片,26,head,15,Flushing,1,632
+3,train,428,34,元胡止痛片,26,head,22,Erythema,1,633
+3,train,429,34,元胡止痛片,26,head,23,Urticaria,1,634
+3,train,430,34,元胡止痛片,26,head,28,Hyperhidrosis,1,635
+3,train,431,34,元胡止痛片,26,head,7,Dizziness,1,636
+3,train,432,34,元胡止痛片,26,head,10,Headache,1,637
+3,train,433,34,元胡止痛片,26,head,21,Somnolence,1,638
+3,train,434,34,元胡止痛片,26,head,27,Insomnia,1,639
+3,train,435,34,元胡止痛片,26,head,14,Chest discomfort,1,640
+3,train,436,34,元胡止痛片,26,head,13,Asthenia,1,641
+3,train,437,34,元胡止痛片,26,head,18,Pyrexia,1,642
+3,train,438,34,元胡止痛片,26,head,9,Palpitations,1,643
+3,train,439,34,元胡止痛片,26,head,20,Dyspnoea,1,644
+3,train,440,34,元胡止痛片,26,head,8,Hypersensitivity,1,645
+3,train,441,34,元胡止痛片,26,head,17,Hepatic function abnormal,1,646
+3,train,442,34,元胡止痛片,26,head,24,Anaphylactic shock,1,647
+3,train,443,187,复方青黛丸,13,head,2,Diarrhoea,1,648
+3,train,444,187,复方青黛丸,13,head,5,Abdominal pain,1,649
+3,train,445,187,复方青黛丸,13,head,0,Nausea,1,650
+3,train,446,187,复方青黛丸,13,head,3,Vomiting,1,651
+3,train,447,187,复方青黛丸,13,head,109,Increased appetite,1,652
+3,train,448,187,复方青黛丸,13,head,114,Drug-induced liver injury,1,653
+3,train,449,187,复方青黛丸,13,head,30,Gastrointestinal haemorrhage,1,654
+3,train,450,187,复方青黛丸,13,head,1,Rash,1,655
+3,train,451,187,复方青黛丸,13,head,4,Pruritus,1,656
+3,train,452,187,复方青黛丸,13,head,72,Dermatitis exfoliative,1,657
+3,train,453,187,复方青黛丸,13,head,71,White blood cell count decreased,1,658
+3,train,454,187,复方青黛丸,13,head,7,Dizziness,1,659
+3,train,455,187,复方青黛丸,13,head,10,Headache,1,660
+3,train,456,168,灯盏细辛注射液,18,head,8,Hypersensitivity,1,661
+3,train,457,168,灯盏细辛注射液,18,head,15,Flushing,1,662
+3,train,458,168,灯盏细辛注射液,18,head,4,Pruritus,1,663
+3,train,459,168,灯盏细辛注射液,18,head,1,Rash,1,664
+3,train,460,168,灯盏细辛注射液,18,head,20,Dyspnoea,1,665
+3,train,461,168,灯盏细辛注射液,18,head,9,Palpitations,1,666
+3,train,462,168,灯盏细辛注射液,18,head,33,Blood pressure decreased,1,667
+3,train,463,168,灯盏细辛注射液,18,head,24,Anaphylactic shock,1,668
+3,train,464,168,灯盏细辛注射液,18,head,35,Chills,1,669
+3,train,465,168,灯盏细辛注射液,18,head,18,Pyrexia,1,670
+3,train,466,168,灯盏细辛注射液,18,head,76,Hyperpyrexia,1,671
+3,train,467,168,灯盏细辛注射液,18,head,13,Asthenia,1,672
+3,train,468,168,灯盏细辛注射液,18,head,28,Hyperhidrosis,1,673
+3,train,469,168,灯盏细辛注射液,18,head,0,Nausea,1,674
+3,train,470,168,灯盏细辛注射液,18,head,3,Vomiting,1,675
+3,train,471,168,灯盏细辛注射液,18,head,14,Chest discomfort,1,676
+3,train,472,168,灯盏细辛注射液,18,head,7,Dizziness,1,677
+3,train,473,168,灯盏细辛注射液,18,head,10,Headache,1,678
+3,train,474,10,五灵胶囊,2,tail,0,Nausea,1,679
+3,train,475,10,五灵胶囊,2,tail,73,Epigastric discomfort,1,680
+3,train,476,80,银杏叶片,21,head,0,Nausea,1,681
+3,train,477,80,银杏叶片,21,head,3,Vomiting,1,682
+3,train,478,80,银杏叶片,21,head,11,Dry mouth,1,683
+3,train,479,80,银杏叶片,21,head,12,Abdominal distension,1,684
+3,train,480,80,银杏叶片,21,head,5,Abdominal pain,1,685
+3,train,481,80,银杏叶片,21,head,6,Abdominal discomfort,1,686
+3,train,482,80,银杏叶片,21,head,50,Hyperchlorhydria,1,687
+3,train,483,80,银杏叶片,21,head,30,Gastrointestinal haemorrhage,1,688
+3,train,484,80,银杏叶片,21,head,7,Dizziness,1,689
+3,train,485,80,银杏叶片,21,head,10,Headache,1,690
+3,train,486,80,银杏叶片,21,head,37,Hypoaesthesia,1,691
+3,train,487,80,银杏叶片,21,head,1,Rash,1,692
+3,train,488,80,银杏叶片,21,head,4,Pruritus,1,693
+3,train,489,80,银杏叶片,21,head,14,Chest discomfort,1,694
+3,train,490,80,银杏叶片,21,head,9,Palpitations,1,695
+3,train,491,80,银杏叶片,21,head,26,Blood pressure increased,1,696
+3,train,492,80,银杏叶片,21,head,33,Blood pressure decreased,1,697
+3,train,493,80,银杏叶片,21,head,13,Asthenia,1,698
+3,train,494,80,银杏叶片,21,head,8,Hypersensitivity,1,699
+3,train,495,80,银杏叶片,21,head,58,Gingival bleeding,1,700
+3,train,496,80,银杏叶片,21,head,42,Epistaxis,1,701
+3,train,497,184,复方丹参胶囊,15,head,0,Nausea,1,702
+3,train,498,184,复方丹参胶囊,15,head,3,Vomiting,1,703
+3,train,499,184,复方丹参胶囊,15,head,12,Abdominal distension,1,704
+3,train,500,184,复方丹参胶囊,15,head,5,Abdominal pain,1,705
+3,train,501,184,复方丹参胶囊,15,head,2,Diarrhoea,1,706
+3,train,502,184,复方丹参胶囊,15,head,6,Abdominal discomfort,1,707
+3,train,503,184,复方丹参胶囊,15,head,1,Rash,1,708
+3,train,504,184,复方丹参胶囊,15,head,4,Pruritus,1,709
+3,train,505,184,复方丹参胶囊,15,head,7,Dizziness,1,710
+3,train,506,184,复方丹参胶囊,15,head,10,Headache,1,711
+3,train,507,184,复方丹参胶囊,15,head,9,Palpitations,1,712
+3,train,508,184,复方丹参胶囊,15,head,14,Chest discomfort,1,713
+3,train,509,184,复方丹参胶囊,15,head,13,Asthenia,1,714
+3,train,510,184,复方丹参胶囊,15,head,11,Dry mouth,1,715
+3,train,511,184,复方丹参胶囊,15,head,8,Hypersensitivity,1,716
+3,train,512,217,三黄胶囊,15,head,0,Nausea,1,717
+3,train,513,217,三黄胶囊,15,head,3,Vomiting,1,718
+3,train,514,217,三黄胶囊,15,head,2,Diarrhoea,1,719
+3,train,515,217,三黄胶囊,15,head,5,Abdominal pain,1,720
+3,train,516,217,三黄胶囊,15,head,12,Abdominal distension,1,721
+3,train,517,217,三黄胶囊,15,head,6,Abdominal discomfort,1,722
+3,train,518,217,三黄胶囊,15,head,11,Dry mouth,1,723
+3,train,519,217,三黄胶囊,15,head,18,Pyrexia,1,724
+3,train,520,217,三黄胶囊,15,head,1,Rash,1,725
+3,train,521,217,三黄胶囊,15,head,4,Pruritus,1,726
+3,train,522,217,三黄胶囊,15,head,7,Dizziness,1,727
+3,train,523,217,三黄胶囊,15,head,10,Headache,1,728
+3,train,524,217,三黄胶囊,15,head,8,Hypersensitivity,1,729
+3,train,525,217,三黄胶囊,15,head,43,Haematuria,1,730
+3,train,526,217,三黄胶囊,15,head,9,Palpitations,1,731
+3,train,527,33,安宫牛黄丸,2,tail,157,Hypothermia,1,743
+3,train,528,33,安宫牛黄丸,2,tail,8,Hypersensitivity,1,744
+3,train,529,63,鼻渊通窍颗粒,1,tail,2,Diarrhoea,1,745
+3,train,530,219,安神补脑片,15,head,0,Nausea,1,746
+3,train,531,219,安神补脑片,15,head,3,Vomiting,1,747
+3,train,532,219,安神补脑片,15,head,6,Abdominal discomfort,1,748
+3,train,533,219,安神补脑片,15,head,11,Dry mouth,1,749
+3,train,534,219,安神补脑片,15,head,5,Abdominal pain,1,750
+3,train,535,219,安神补脑片,15,head,12,Abdominal distension,1,751
+3,train,536,219,安神补脑片,15,head,2,Diarrhoea,1,752
+3,train,537,219,安神补脑片,15,head,19,Constipation,1,753
+3,train,538,219,安神补脑片,15,head,10,Headache,1,754
+3,train,539,219,安神补脑片,15,head,21,Somnolence,1,755
+3,train,540,219,安神补脑片,15,head,1,Rash,1,756
+3,train,541,219,安神补脑片,15,head,4,Pruritus,1,757
+3,train,542,219,安神补脑片,15,head,9,Palpitations,1,758
+3,train,543,219,安神补脑片,15,head,8,Hypersensitivity,1,759
+3,train,544,219,安神补脑片,15,head,17,Hepatic function abnormal,1,760
+3,train,545,11,沈阳红药胶囊,2,tail,8,Hypersensitivity,1,765
+3,train,546,11,沈阳红药胶囊,2,tail,6,Abdominal discomfort,1,766
+3,train,547,174,肠康片,4,medium,0,Nausea,1,767
+3,train,548,174,肠康片,4,medium,3,Vomiting,1,768
+3,train,549,174,肠康片,4,medium,1,Rash,1,769
+3,train,550,174,肠康片,4,medium,18,Pyrexia,1,770
+3,train,551,170,克咳片,1,tail,1,Rash,1,771
+3,train,552,124,归脾合剂,2,tail,25,Dyspepsia,1,780
+3,train,553,124,归脾合剂,2,tail,1,Rash,1,781
+3,train,554,161,六味地黄片,12,head,2,Diarrhoea,1,805
+3,train,555,161,六味地黄片,12,head,5,Abdominal pain,1,806
+3,train,556,161,六味地黄片,12,head,12,Abdominal distension,1,807
+3,train,557,161,六味地黄片,12,head,0,Nausea,1,808
+3,train,558,161,六味地黄片,12,head,3,Vomiting,1,809
+3,train,559,161,六味地黄片,12,head,6,Abdominal discomfort,1,810
+3,train,560,161,六味地黄片,12,head,16,Decreased appetite,1,811
+3,train,561,161,六味地黄片,12,head,19,Constipation,1,812
+3,train,562,161,六味地黄片,12,head,4,Pruritus,1,813
+3,train,563,161,六味地黄片,12,head,1,Rash,1,814
+3,train,564,161,六味地黄片,12,head,10,Headache,1,815
+3,train,565,161,六味地黄片,12,head,9,Palpitations,1,816
+3,train,566,204,感冒清热胶囊,12,head,0,Nausea,1,817
+3,train,567,204,感冒清热胶囊,12,head,3,Vomiting,1,818
+3,train,568,204,感冒清热胶囊,12,head,2,Diarrhoea,1,819
+3,train,569,204,感冒清热胶囊,12,head,5,Abdominal pain,1,820
+3,train,570,204,感冒清热胶囊,12,head,12,Abdominal distension,1,821
+3,train,571,204,感冒清热胶囊,12,head,6,Abdominal discomfort,1,822
+3,train,572,204,感冒清热胶囊,12,head,11,Dry mouth,1,823
+3,train,573,204,感冒清热胶囊,12,head,1,Rash,1,824
+3,train,574,204,感冒清热胶囊,12,head,4,Pruritus,1,825
+3,train,575,204,感冒清热胶囊,12,head,9,Palpitations,1,826
+3,train,576,204,感冒清热胶囊,12,head,8,Hypersensitivity,1,827
+3,train,577,204,感冒清热胶囊,12,head,20,Dyspnoea,1,828
+3,train,578,122,玉屏风袋泡茶,20,head,0,Nausea,1,829
+3,train,579,122,玉屏风袋泡茶,20,head,2,Diarrhoea,1,830
+3,train,580,122,玉屏风袋泡茶,20,head,3,Vomiting,1,831
+3,train,581,122,玉屏风袋泡茶,20,head,5,Abdominal pain,1,832
+3,train,582,122,玉屏风袋泡茶,20,head,11,Dry mouth,1,833
+3,train,583,122,玉屏风袋泡茶,20,head,6,Abdominal discomfort,1,834
+3,train,584,122,玉屏风袋泡茶,20,head,12,Abdominal distension,1,835
+3,train,585,122,玉屏风袋泡茶,20,head,19,Constipation,1,836
+3,train,586,122,玉屏风袋泡茶,20,head,25,Dyspepsia,1,837
+3,train,587,122,玉屏风袋泡茶,20,head,16,Decreased appetite,1,838
+3,train,588,122,玉屏风袋泡茶,20,head,31,Dysgeusia,1,839
+3,train,589,122,玉屏风袋泡茶,20,head,1,Rash,1,840
+3,train,590,122,玉屏风袋泡茶,20,head,4,Pruritus,1,841
+3,train,591,122,玉屏风袋泡茶,20,head,15,Flushing,1,842
+3,train,592,122,玉屏风袋泡茶,20,head,7,Dizziness,1,843
+3,train,593,122,玉屏风袋泡茶,20,head,10,Headache,1,844
+3,train,594,122,玉屏风袋泡茶,20,head,27,Insomnia,1,845
+3,train,595,122,玉屏风袋泡茶,20,head,9,Palpitations,1,846
+3,train,596,122,玉屏风袋泡茶,20,head,14,Chest discomfort,1,847
+3,train,597,122,玉屏风袋泡茶,20,head,8,Hypersensitivity,1,848
+3,train,598,101,银黄片,19,head,2,Diarrhoea,1,849
+3,train,599,101,银黄片,19,head,5,Abdominal pain,1,850
+3,train,600,101,银黄片,19,head,6,Abdominal discomfort,1,851
+3,train,601,101,银黄片,19,head,12,Abdominal distension,1,852
+3,train,602,101,银黄片,19,head,0,Nausea,1,853
+3,train,603,101,银黄片,19,head,3,Vomiting,1,854
+3,train,604,101,银黄片,19,head,11,Dry mouth,1,855
+3,train,605,101,银黄片,19,head,31,Dysgeusia,1,856
+3,train,606,101,银黄片,19,head,1,Rash,1,857
+3,train,607,101,银黄片,19,head,4,Pruritus,1,858
+3,train,608,101,银黄片,19,head,22,Erythema,1,859
+3,train,609,101,银黄片,19,head,23,Urticaria,1,860
+3,train,610,101,银黄片,19,head,7,Dizziness,1,861
+3,train,611,101,银黄片,19,head,10,Headache,1,862
+3,train,612,101,银黄片,19,head,13,Asthenia,1,863
+3,train,613,101,银黄片,19,head,14,Chest discomfort,1,864
+3,train,614,101,银黄片,19,head,9,Palpitations,1,865
+3,train,615,101,银黄片,19,head,15,Flushing,1,866
+3,train,616,101,银黄片,19,head,8,Hypersensitivity,1,867
+3,train,617,111,都梁滴丸,2,tail,0,Nausea,1,868
+3,train,618,111,都梁滴丸,2,tail,36,Hypoaesthesia oral,1,869
+3,train,619,125,归脾颗粒,2,tail,25,Dyspepsia,1,870
+3,train,620,125,归脾颗粒,2,tail,1,Rash,1,871
+3,train,621,143,通窍鼻炎胶囊,15,head,0,Nausea,1,872
+3,train,622,143,通窍鼻炎胶囊,15,head,3,Vomiting,1,873
+3,train,623,143,通窍鼻炎胶囊,15,head,5,Abdominal pain,1,874
+3,train,624,143,通窍鼻炎胶囊,15,head,2,Diarrhoea,1,875
+3,train,625,143,通窍鼻炎胶囊,15,head,6,Abdominal discomfort,1,876
+3,train,626,143,通窍鼻炎胶囊,15,head,11,Dry mouth,1,877
+3,train,627,143,通窍鼻炎胶囊,15,head,1,Rash,1,878
+3,train,628,143,通窍鼻炎胶囊,15,head,4,Pruritus,1,879
+3,train,629,143,通窍鼻炎胶囊,15,head,7,Dizziness,1,880
+3,train,630,143,通窍鼻炎胶囊,15,head,10,Headache,1,881
+3,train,631,143,通窍鼻炎胶囊,15,head,21,Somnolence,1,882
+3,train,632,143,通窍鼻炎胶囊,15,head,13,Asthenia,1,883
+3,train,633,143,通窍鼻炎胶囊,15,head,9,Palpitations,1,884
+3,train,634,143,通窍鼻炎胶囊,15,head,8,Hypersensitivity,1,885
+3,train,635,143,通窍鼻炎胶囊,15,head,90,Henoch-Schonlein purpura,1,886
+3,train,636,130,元胡止痛颗粒,26,head,0,Nausea,1,887
+3,train,637,130,元胡止痛颗粒,26,head,3,Vomiting,1,888
+3,train,638,130,元胡止痛颗粒,26,head,11,Dry mouth,1,889
+3,train,639,130,元胡止痛颗粒,26,head,5,Abdominal pain,1,890
+3,train,640,130,元胡止痛颗粒,26,head,2,Diarrhoea,1,891
+3,train,641,130,元胡止痛颗粒,26,head,12,Abdominal distension,1,892
+3,train,642,130,元胡止痛颗粒,26,head,6,Abdominal discomfort,1,893
+3,train,643,130,元胡止痛颗粒,26,head,32,Eructation,1,894
+3,train,644,130,元胡止痛颗粒,26,head,1,Rash,1,895
+3,train,645,130,元胡止痛颗粒,26,head,4,Pruritus,1,896
+3,train,646,130,元胡止痛颗粒,26,head,15,Flushing,1,897
+3,train,647,130,元胡止痛颗粒,26,head,22,Erythema,1,898
+3,train,648,130,元胡止痛颗粒,26,head,23,Urticaria,1,899
+3,train,649,130,元胡止痛颗粒,26,head,28,Hyperhidrosis,1,900
+3,train,650,130,元胡止痛颗粒,26,head,7,Dizziness,1,901
+3,train,651,130,元胡止痛颗粒,26,head,10,Headache,1,902
+3,train,652,130,元胡止痛颗粒,26,head,21,Somnolence,1,903
+3,train,653,130,元胡止痛颗粒,26,head,27,Insomnia,1,904
+3,train,654,130,元胡止痛颗粒,26,head,14,Chest discomfort,1,905
+3,train,655,130,元胡止痛颗粒,26,head,13,Asthenia,1,906
+3,train,656,130,元胡止痛颗粒,26,head,18,Pyrexia,1,907
+3,train,657,130,元胡止痛颗粒,26,head,9,Palpitations,1,908
+3,train,658,130,元胡止痛颗粒,26,head,20,Dyspnoea,1,909
+3,train,659,130,元胡止痛颗粒,26,head,8,Hypersensitivity,1,910
+3,train,660,130,元胡止痛颗粒,26,head,17,Hepatic function abnormal,1,911
+3,train,661,130,元胡止痛颗粒,26,head,24,Anaphylactic shock,1,912
+3,train,662,13,杏苏止咳口服液,1,tail,0,Nausea,1,913
+3,train,663,181,胃安胶囊,2,tail,1,Rash,1,914
+3,train,664,181,胃安胶囊,2,tail,3,Vomiting,1,915
+3,train,665,138,柴连口服液,5,medium,0,Nausea,1,916
+3,train,666,138,柴连口服液,5,medium,3,Vomiting,1,917
+3,train,667,138,柴连口服液,5,medium,27,Insomnia,1,918
+3,train,668,138,柴连口服液,5,medium,9,Palpitations,1,919
+3,train,669,138,柴连口服液,5,medium,11,Dry mouth,1,920
+3,train,670,14,养血当归胶囊,1,tail,17,Hepatic function abnormal,1,921
+3,train,671,102,肾康宁片,2,tail,11,Dry mouth,1,936
+3,train,672,102,肾康宁片,2,tail,69,Arrhythmia,1,937
+3,train,673,94,便通胶囊,3,tail,5,Abdominal pain,1,942
+3,train,674,94,便通胶囊,3,tail,2,Diarrhoea,1,943
+3,train,675,94,便通胶囊,3,tail,1,Rash,1,944
+3,train,676,190,脑心通胶囊,16,head,0,Nausea,1,945
+3,train,677,190,脑心通胶囊,16,head,3,Vomiting,1,946
+3,train,678,190,脑心通胶囊,16,head,12,Abdominal distension,1,947
+3,train,679,190,脑心通胶囊,16,head,5,Abdominal pain,1,948
+3,train,680,190,脑心通胶囊,16,head,2,Diarrhoea,1,949
+3,train,681,190,脑心通胶囊,16,head,6,Abdominal discomfort,1,950
+3,train,682,190,脑心通胶囊,16,head,19,Constipation,1,951
+3,train,683,190,脑心通胶囊,16,head,11,Dry mouth,1,952
+3,train,684,190,脑心通胶囊,16,head,7,Dizziness,1,953
+3,train,685,190,脑心通胶囊,16,head,10,Headache,1,954
+3,train,686,190,脑心通胶囊,16,head,1,Rash,1,955
+3,train,687,190,脑心通胶囊,16,head,4,Pruritus,1,956
+3,train,688,190,脑心通胶囊,16,head,9,Palpitations,1,957
+3,train,689,190,脑心通胶囊,16,head,20,Dyspnoea,1,958
+3,train,690,190,脑心通胶囊,16,head,15,Flushing,1,959
+3,train,691,190,脑心通胶囊,16,head,8,Hypersensitivity,1,960
+3,train,692,92,冠心苏合胶囊,12,head,0,Nausea,1,961
+3,train,693,92,冠心苏合胶囊,12,head,3,Vomiting,1,962
+3,train,694,92,冠心苏合胶囊,12,head,12,Abdominal distension,1,963
+3,train,695,92,冠心苏合胶囊,12,head,5,Abdominal pain,1,964
+3,train,696,92,冠心苏合胶囊,12,head,2,Diarrhoea,1,965
+3,train,697,92,冠心苏合胶囊,12,head,6,Abdominal discomfort,1,966
+3,train,698,92,冠心苏合胶囊,12,head,11,Dry mouth,1,967
+3,train,699,92,冠心苏合胶囊,12,head,7,Dizziness,1,968
+3,train,700,92,冠心苏合胶囊,12,head,10,Headache,1,969
+3,train,701,92,冠心苏合胶囊,12,head,1,Rash,1,970
+3,train,702,92,冠心苏合胶囊,12,head,4,Pruritus,1,971
+3,train,703,92,冠心苏合胶囊,12,head,9,Palpitations,1,972
+3,train,704,60,养心氏片,1,tail,6,Abdominal discomfort,1,973
+3,train,705,15,小儿咳喘灵口服液,13,head,1,Rash,1,993
+3,train,706,15,小儿咳喘灵口服液,13,head,4,Pruritus,1,994
+3,train,707,15,小儿咳喘灵口服液,13,head,2,Diarrhoea,1,995
+3,train,708,15,小儿咳喘灵口服液,13,head,5,Abdominal pain,1,996
+3,train,709,15,小儿咳喘灵口服液,13,head,6,Abdominal discomfort,1,997
+3,train,710,15,小儿咳喘灵口服液,13,head,0,Nausea,1,998
+3,train,711,15,小儿咳喘灵口服液,13,head,3,Vomiting,1,999
+3,train,712,15,小儿咳喘灵口服液,13,head,11,Dry mouth,1,1000
+3,train,713,15,小儿咳喘灵口服液,13,head,16,Decreased appetite,1,1001
+3,train,714,15,小儿咳喘灵口服液,13,head,7,Dizziness,1,1002
+3,train,715,15,小儿咳喘灵口服液,13,head,10,Headache,1,1003
+3,train,716,15,小儿咳喘灵口服液,13,head,13,Asthenia,1,1004
+3,train,717,15,小儿咳喘灵口服液,13,head,8,Hypersensitivity,1,1005
+3,train,718,221,青柏洁身洗液,2,tail,160,Skin irritation,1,1006
+3,train,719,221,青柏洁身洗液,2,tail,161,Mucosal irritation,1,1007
+3,train,720,105,三七伤药胶囊,40,head,0,Nausea,1,1008
+3,train,721,105,三七伤药胶囊,40,head,3,Vomiting,1,1009
+3,train,722,105,三七伤药胶囊,40,head,2,Diarrhoea,1,1010
+3,train,723,105,三七伤药胶囊,40,head,5,Abdominal pain,1,1011
+3,train,724,105,三七伤药胶囊,40,head,6,Abdominal discomfort,1,1012
+3,train,725,105,三七伤药胶囊,40,head,12,Abdominal distension,1,1013
+3,train,726,105,三七伤药胶囊,40,head,68,Flatulence,1,1014
+3,train,727,105,三七伤药胶囊,40,head,25,Dyspepsia,1,1015
+3,train,728,105,三七伤药胶囊,40,head,50,Hyperchlorhydria,1,1016
+3,train,729,105,三七伤药胶囊,40,head,32,Eructation,1,1017
+3,train,730,105,三七伤药胶囊,40,head,19,Constipation,1,1018
+3,train,731,105,三七伤药胶囊,40,head,11,Dry mouth,1,1019
+3,train,732,105,三七伤药胶囊,40,head,1,Rash,1,1020
+3,train,733,105,三七伤药胶囊,40,head,23,Urticaria,1,1021
+3,train,734,105,三七伤药胶囊,40,head,22,Erythema,1,1022
+3,train,735,105,三七伤药胶囊,40,head,39,Rash maculo-papular,1,1023
+3,train,736,105,三七伤药胶囊,40,head,4,Pruritus,1,1024
+3,train,737,105,三七伤药胶囊,40,head,28,Hyperhidrosis,1,1025
+3,train,738,105,三七伤药胶囊,40,head,7,Dizziness,1,1026
+3,train,739,105,三七伤药胶囊,40,head,10,Headache,1,1027
+3,train,740,105,三七伤药胶囊,40,head,37,Hypoaesthesia,1,1028
+3,train,741,105,三七伤药胶囊,40,head,36,Hypoaesthesia oral,1,1029
+3,train,742,105,三七伤药胶囊,40,head,100,Tongue paralysis,1,1030
+3,train,743,105,三七伤药胶囊,40,head,31,Dysgeusia,1,1031
+3,train,744,105,三七伤药胶囊,40,head,21,Somnolence,1,1032
+3,train,745,105,三七伤药胶囊,40,head,27,Insomnia,1,1033
+3,train,746,105,三七伤药胶囊,40,head,65,Tremor,1,1034
+3,train,747,105,三七伤药胶囊,40,head,55,Vertigo,1,1035
+3,train,748,105,三七伤药胶囊,40,head,9,Palpitations,1,1036
+3,train,749,105,三七伤药胶囊,40,head,70,Tachycardia,1,1037
+3,train,750,105,三七伤药胶囊,40,head,14,Chest discomfort,1,1038
+3,train,751,105,三七伤药胶囊,40,head,26,Blood pressure increased,1,1039
+3,train,752,105,三七伤药胶囊,40,head,13,Asthenia,1,1040
+3,train,753,105,三七伤药胶囊,40,head,16,Decreased appetite,1,1041
+3,train,754,105,三七伤药胶囊,40,head,29,Pain,1,1042
+3,train,755,105,三七伤药胶囊,40,head,34,Oedema,1,1043
+3,train,756,105,三七伤药胶囊,40,head,18,Pyrexia,1,1044
+3,train,757,105,三七伤药胶囊,40,head,20,Dyspnoea,1,1045
+3,train,758,105,三七伤药胶囊,40,head,15,Flushing,1,1046
+3,train,759,105,三七伤药胶囊,40,head,99,Anaphylactoid reaction,1,1047
+3,train,760,16,风湿骨痛片,33,head,0,Nausea,1,1057
+3,train,761,16,风湿骨痛片,33,head,3,Vomiting,1,1058
+3,train,762,16,风湿骨痛片,33,head,11,Dry mouth,1,1059
+3,train,763,16,风湿骨痛片,33,head,31,Dysgeusia,1,1060
+3,train,764,16,风湿骨痛片,33,head,5,Abdominal pain,1,1061
+3,train,765,16,风湿骨痛片,33,head,2,Diarrhoea,1,1062
+3,train,766,16,风湿骨痛片,33,head,12,Abdominal distension,1,1063
+3,train,767,16,风湿骨痛片,33,head,6,Abdominal discomfort,1,1064
+3,train,768,16,风湿骨痛片,33,head,25,Dyspepsia,1,1065
+3,train,769,16,风湿骨痛片,33,head,32,Eructation,1,1066
+3,train,770,16,风湿骨痛片,33,head,16,Decreased appetite,1,1067
+3,train,771,16,风湿骨痛片,33,head,30,Gastrointestinal haemorrhage,1,1068
+3,train,772,16,风湿骨痛片,33,head,4,Pruritus,1,1069
+3,train,773,16,风湿骨痛片,33,head,1,Rash,1,1070
+3,train,774,16,风湿骨痛片,33,head,22,Erythema,1,1071
+3,train,775,16,风湿骨痛片,33,head,23,Urticaria,1,1072
+3,train,776,16,风湿骨痛片,33,head,28,Hyperhidrosis,1,1073
+3,train,777,16,风湿骨痛片,33,head,39,Rash maculo-papular,1,1074
+3,train,778,16,风湿骨痛片,33,head,83,Skin swelling,1,1075
+3,train,779,16,风湿骨痛片,33,head,7,Dizziness,1,1076
+3,train,780,16,风湿骨痛片,33,head,10,Headache,1,1077
+3,train,781,16,风湿骨痛片,33,head,36,Hypoaesthesia oral,1,1078
+3,train,782,16,风湿骨痛片,33,head,9,Palpitations,1,1079
+3,train,783,16,风湿骨痛片,33,head,14,Chest discomfort,1,1080
+3,train,784,16,风湿骨痛片,33,head,20,Dyspnoea,1,1081
+3,train,785,16,风湿骨痛片,33,head,106,Hypertension,1,1082
+3,train,786,16,风湿骨痛片,33,head,27,Insomnia,1,1083
+3,train,787,16,风湿骨痛片,33,head,47,Dysphoria,1,1084
+3,train,788,16,风湿骨痛片,33,head,13,Asthenia,1,1085
+3,train,789,16,风湿骨痛片,33,head,18,Pyrexia,1,1086
+3,train,790,16,风湿骨痛片,33,head,15,Flushing,1,1087
+3,train,791,16,风湿骨痛片,33,head,34,Oedema,1,1088
+3,train,792,16,风湿骨痛片,33,head,8,Hypersensitivity,1,1089
+3,train,793,223,仙灵骨葆片,18,head,8,Hypersensitivity,1,1128
+3,train,794,223,仙灵骨葆片,18,head,1,Rash,1,1129
+3,train,795,223,仙灵骨葆片,18,head,4,Pruritus,1,1130
+3,train,796,223,仙灵骨葆片,18,head,0,Nausea,1,1131
+3,train,797,223,仙灵骨葆片,18,head,3,Vomiting,1,1132
+3,train,798,223,仙灵骨葆片,18,head,16,Decreased appetite,1,1133
+3,train,799,223,仙灵骨葆片,18,head,6,Abdominal discomfort,1,1134
+3,train,800,223,仙灵骨葆片,18,head,5,Abdominal pain,1,1135
+3,train,801,223,仙灵骨葆片,18,head,2,Diarrhoea,1,1136
+3,train,802,223,仙灵骨葆片,18,head,19,Constipation,1,1137
+3,train,803,223,仙灵骨葆片,18,head,60,Alanine aminotransferase increased,1,1138
+3,train,804,223,仙灵骨葆片,18,head,66,Aspartate aminotransferase increased,1,1139
+3,train,805,223,仙灵骨葆片,18,head,95,Blood bilirubin increased,1,1140
+3,train,806,223,仙灵骨葆片,18,head,74,Hepatic failure,1,1141
+3,train,807,223,仙灵骨葆片,18,head,94,General symptom,1,1142
+3,train,808,223,仙灵骨葆片,18,head,13,Asthenia,1,1143
+3,train,809,223,仙灵骨葆片,18,head,98,Oedema peripheral,1,1144
+3,train,810,223,仙灵骨葆片,18,head,45,Chromaturia,1,1145
+3,train,811,120,颈舒颗粒,1,tail,0,Nausea,1,1152
+3,train,812,17,丹鹿通督片,1,tail,1,Rash,1,1153
+3,train,813,18,参桂胶囊,2,tail,11,Dry mouth,1,1156
+3,train,814,18,参桂胶囊,2,tail,56,Thirst,1,1157
+3,train,815,225,荷叶调脂茶,1,tail,67,Gastrointestinal disorder,1,1158
+3,train,816,226,灵芝口服液,1,tail,21,Somnolence,1,1163
+3,train,817,55,补肺活血胶囊,1,tail,11,Dry mouth,1,1174
+3,train,818,20,苏黄止咳胶囊,5,medium,0,Nausea,1,1185
+3,train,819,20,苏黄止咳胶囊,5,medium,3,Vomiting,1,1186
+3,train,820,20,苏黄止咳胶囊,5,medium,6,Abdominal discomfort,1,1187
+3,train,821,20,苏黄止咳胶囊,5,medium,19,Constipation,1,1188
+3,train,822,20,苏黄止咳胶囊,5,medium,162,Dry throat,1,1189
+3,train,823,209,藿香正气滴丸,5,medium,0,Nausea,1,1220
+3,train,824,209,藿香正气滴丸,5,medium,3,Vomiting,1,1221
+3,train,825,209,藿香正气滴丸,5,medium,1,Rash,1,1222
+3,train,826,209,藿香正气滴丸,5,medium,4,Pruritus,1,1223
+3,train,827,209,藿香正气滴丸,5,medium,7,Dizziness,1,1224
+3,train,828,22,益肾化湿颗粒,2,tail,11,Dry mouth,1,1226
+3,train,829,22,益肾化湿颗粒,2,tail,31,Dysgeusia,1,1227
+3,train,830,227,丹香冠心注射液,16,head,1,Rash,1,1228
+3,train,831,227,丹香冠心注射液,16,head,163,Skin test positive,1,1229
+3,train,832,227,丹香冠心注射液,16,head,4,Pruritus,1,1230
+3,train,833,227,丹香冠心注射液,16,head,0,Nausea,1,1231
+3,train,834,227,丹香冠心注射液,16,head,3,Vomiting,1,1232
+3,train,835,227,丹香冠心注射液,16,head,35,Chills,1,1233
+3,train,836,227,丹香冠心注射液,16,head,18,Pyrexia,1,1234
+3,train,837,227,丹香冠心注射液,16,head,7,Dizziness,1,1235
+3,train,838,227,丹香冠心注射液,16,head,10,Headache,1,1236
+3,train,839,227,丹香冠心注射液,16,head,5,Abdominal pain,1,1237
+3,train,840,227,丹香冠心注射液,16,head,2,Diarrhoea,1,1238
+3,train,841,227,丹香冠心注射液,16,head,9,Palpitations,1,1239
+3,train,842,227,丹香冠心注射液,16,head,24,Anaphylactic shock,1,1240
+3,train,843,227,丹香冠心注射液,16,head,20,Dyspnoea,1,1241
+3,train,844,227,丹香冠心注射液,16,head,57,Laryngeal oedema,1,1242
+3,train,845,227,丹香冠心注射液,16,head,53,Phlebitis,1,1243
+3,train,846,211,十味降糖颗粒,1,tail,110,Hypoglycaemia,1,1268
+3,train,847,231,清润丸,3,tail,2,Diarrhoea,1,1269
+3,train,848,231,清润丸,3,tail,6,Abdominal discomfort,1,1270
+3,train,849,231,清润丸,3,tail,3,Vomiting,1,1271
+3,train,850,116,黄连上清胶囊,9,medium,2,Diarrhoea,1,1283
+3,train,851,116,黄连上清胶囊,9,medium,5,Abdominal pain,1,1284
+3,train,852,116,黄连上清胶囊,9,medium,0,Nausea,1,1285
+3,train,853,116,黄连上清胶囊,9,medium,3,Vomiting,1,1286
+3,train,854,116,黄连上清胶囊,9,medium,1,Rash,1,1287
+3,train,855,116,黄连上清胶囊,9,medium,4,Pruritus,1,1288
+3,train,856,116,黄连上清胶囊,9,medium,6,Abdominal discomfort,1,1289
+3,train,857,116,黄连上清胶囊,9,medium,13,Asthenia,1,1290
+3,train,858,116,黄连上清胶囊,9,medium,8,Hypersensitivity,1,1291
+3,train,859,117,黄连上清颗粒,9,medium,2,Diarrhoea,1,1292
+3,train,860,117,黄连上清颗粒,9,medium,5,Abdominal pain,1,1293
+3,train,861,117,黄连上清颗粒,9,medium,0,Nausea,1,1294
+3,train,862,117,黄连上清颗粒,9,medium,3,Vomiting,1,1295
+3,train,863,117,黄连上清颗粒,9,medium,1,Rash,1,1296
+3,train,864,117,黄连上清颗粒,9,medium,4,Pruritus,1,1297
+3,train,865,117,黄连上清颗粒,9,medium,6,Abdominal discomfort,1,1298
+3,train,866,117,黄连上清颗粒,9,medium,13,Asthenia,1,1299
+3,train,867,117,黄连上清颗粒,9,medium,8,Hypersensitivity,1,1300
+3,train,868,233,复方咳喘胶囊,3,tail,0,Nausea,1,1301
+3,train,869,233,复方咳喘胶囊,3,tail,6,Abdominal discomfort,1,1302
+3,train,870,233,复方咳喘胶囊,3,tail,49,Transaminases increased,1,1303
+3,train,871,237,川贝枇杷颗粒,8,medium,0,Nausea,1,1326
+3,train,872,237,川贝枇杷颗粒,8,medium,3,Vomiting,1,1327
+3,train,873,237,川贝枇杷颗粒,8,medium,5,Abdominal pain,1,1328
+3,train,874,237,川贝枇杷颗粒,8,medium,2,Diarrhoea,1,1329
+3,train,875,237,川贝枇杷颗粒,8,medium,6,Abdominal discomfort,1,1330
+3,train,876,237,川贝枇杷颗粒,8,medium,7,Dizziness,1,1331
+3,train,877,237,川贝枇杷颗粒,8,medium,1,Rash,1,1332
+3,train,878,237,川贝枇杷颗粒,8,medium,4,Pruritus,1,1333
+3,train,879,238,消癌平注射液,28,head,8,Hypersensitivity,1,1334
+3,train,880,238,消癌平注射液,28,head,15,Flushing,1,1335
+3,train,881,238,消癌平注射液,28,head,1,Rash,1,1336
+3,train,882,238,消癌平注射液,28,head,4,Pruritus,1,1337
+3,train,883,238,消癌平注射液,28,head,20,Dyspnoea,1,1338
+3,train,884,238,消癌平注射液,28,head,9,Palpitations,1,1339
+3,train,885,238,消癌平注射液,28,head,52,Cyanosis,1,1340
+3,train,886,238,消癌平注射液,28,head,33,Blood pressure decreased,1,1341
+3,train,887,238,消癌平注射液,28,head,57,Laryngeal oedema,1,1342
+3,train,888,238,消癌平注射液,28,head,24,Anaphylactic shock,1,1343
+3,train,889,238,消癌平注射液,28,head,166,Myalgia,1,1344
+3,train,890,238,消癌平注射液,28,head,167,Arthralgia,1,1345
+3,train,891,238,消癌平注射液,28,head,18,Pyrexia,1,1346
+3,train,892,238,消癌平注射液,28,head,35,Chills,1,1347
+3,train,893,238,消癌平注射液,28,head,29,Pain,1,1348
+3,train,894,238,消癌平注射液,28,head,13,Asthenia,1,1349
+3,train,895,238,消癌平注射液,28,head,28,Hyperhidrosis,1,1350
+3,train,896,238,消癌平注射液,28,head,0,Nausea,1,1351
+3,train,897,238,消癌平注射液,28,head,3,Vomiting,1,1352
+3,train,898,238,消癌平注射液,28,head,5,Abdominal pain,1,1353
+3,train,899,238,消癌平注射液,28,head,2,Diarrhoea,1,1354
+3,train,900,238,消癌平注射液,28,head,44,Cough,1,1355
+3,train,901,238,消癌平注射液,28,head,14,Chest discomfort,1,1356
+3,train,902,238,消癌平注射液,28,head,26,Blood pressure increased,1,1357
+3,train,903,238,消癌平注射液,28,head,7,Dizziness,1,1358
+3,train,904,238,消癌平注射液,28,head,10,Headache,1,1359
+3,train,905,238,消癌平注射液,28,head,112,Injection,1,1360
+3,train,906,238,消癌平注射液,28,head,53,Phlebitis,1,1361
+3,train,907,215,千金藤素片,1,tail,6,Abdominal discomfort,1,1362
+3,train,908,201,滑膜炎胶囊,25,head,0,Nausea,1,1380
+3,train,909,201,滑膜炎胶囊,25,head,3,Vomiting,1,1381
+3,train,910,201,滑膜炎胶囊,25,head,2,Diarrhoea,1,1382
+3,train,911,201,滑膜炎胶囊,25,head,5,Abdominal pain,1,1383
+3,train,912,201,滑膜炎胶囊,25,head,12,Abdominal distension,1,1384
+3,train,913,201,滑膜炎胶囊,25,head,6,Abdominal discomfort,1,1385
+3,train,914,201,滑膜炎胶囊,25,head,25,Dyspepsia,1,1386
+3,train,915,201,滑膜炎胶囊,25,head,32,Eructation,1,1387
+3,train,916,201,滑膜炎胶囊,25,head,11,Dry mouth,1,1388
+3,train,917,201,滑膜炎胶囊,25,head,31,Dysgeusia,1,1389
+3,train,918,201,滑膜炎胶囊,25,head,1,Rash,1,1390
+3,train,919,201,滑膜炎胶囊,25,head,4,Pruritus,1,1391
+3,train,920,201,滑膜炎胶囊,25,head,15,Flushing,1,1392
+3,train,921,201,滑膜炎胶囊,25,head,41,Papule,1,1393
+3,train,922,201,滑膜炎胶囊,25,head,22,Erythema,1,1394
+3,train,923,201,滑膜炎胶囊,25,head,23,Urticaria,1,1395
+3,train,924,201,滑膜炎胶囊,25,head,7,Dizziness,1,1396
+3,train,925,201,滑膜炎胶囊,25,head,10,Headache,1,1397
+3,train,926,201,滑膜炎胶囊,25,head,21,Somnolence,1,1398
+3,train,927,201,滑膜炎胶囊,25,head,9,Palpitations,1,1399
+3,train,928,201,滑膜炎胶囊,25,head,26,Blood pressure increased,1,1400
+3,train,929,201,滑膜炎胶囊,25,head,13,Asthenia,1,1401
+3,train,930,201,滑膜炎胶囊,25,head,14,Chest discomfort,1,1402
+3,train,931,201,滑膜炎胶囊,25,head,16,Decreased appetite,1,1403
+3,train,932,201,滑膜炎胶囊,25,head,8,Hypersensitivity,1,1404
+3,train,933,23,丹灯通脑胶囊,1,tail,6,Abdominal discomfort,1,1420
+3,train,934,241,熊胆栓,1,tail,56,Thirst,1,1421
+3,train,935,242,裸花紫珠栓,3,tail,168,Instillation site irritation,1,1422
+3,train,936,242,裸花紫珠栓,3,tail,4,Pruritus,1,1423
+3,train,937,242,裸花紫珠栓,3,tail,92,Burning sensation,1,1424
+3,train,938,214,首乌延寿颗粒,18,head,0,Nausea,1,1433
+3,train,939,214,首乌延寿颗粒,18,head,3,Vomiting,1,1434
+3,train,940,214,首乌延寿颗粒,18,head,5,Abdominal pain,1,1435
+3,train,941,214,首乌延寿颗粒,18,head,2,Diarrhoea,1,1436
+3,train,942,214,首乌延寿颗粒,18,head,12,Abdominal distension,1,1437
+3,train,943,214,首乌延寿颗粒,18,head,16,Decreased appetite,1,1438
+3,train,944,214,首乌延寿颗粒,18,head,11,Dry mouth,1,1439
+3,train,945,214,首乌延寿颗粒,18,head,45,Chromaturia,1,1440
+3,train,946,214,首乌延寿颗粒,18,head,51,Ocular icterus,1,1441
+3,train,947,214,首乌延寿颗粒,18,head,59,Yellow skin,1,1442
+3,train,948,214,首乌延寿颗粒,18,head,49,Transaminases increased,1,1443
+3,train,949,214,首乌延寿颗粒,18,head,17,Hepatic function abnormal,1,1444
+3,train,950,214,首乌延寿颗粒,18,head,10,Headache,1,1445
+3,train,951,214,首乌延寿颗粒,18,head,7,Dizziness,1,1446
+3,train,952,214,首乌延寿颗粒,18,head,1,Rash,1,1447
+3,train,953,214,首乌延寿颗粒,18,head,4,Pruritus,1,1448
+3,train,954,214,首乌延寿颗粒,18,head,44,Cough,1,1449
+3,train,955,214,首乌延寿颗粒,18,head,13,Asthenia,1,1450
+3,train,956,244,露水草胶囊,1,tail,67,Gastrointestinal disorder,1,1451
+3,train,957,243,舒肝康胶囊,2,tail,15,Flushing,1,1463
+3,train,958,243,舒肝康胶囊,2,tail,6,Abdominal discomfort,1,1464
+3,train,959,84,参芪五味子胶囊,7,medium,0,Nausea,1,1465
+3,train,960,84,参芪五味子胶囊,7,medium,3,Vomiting,1,1466
+3,train,961,84,参芪五味子胶囊,7,medium,12,Abdominal distension,1,1467
+3,train,962,84,参芪五味子胶囊,7,medium,2,Diarrhoea,1,1468
+3,train,963,84,参芪五味子胶囊,7,medium,1,Rash,1,1469
+3,train,964,84,参芪五味子胶囊,7,medium,4,Pruritus,1,1470
+3,train,965,84,参芪五味子胶囊,7,medium,7,Dizziness,1,1471
+3,train,966,123,归脾丸（浓缩丸）,2,tail,25,Dyspepsia,1,1472
+3,train,967,123,归脾丸（浓缩丸）,2,tail,1,Rash,1,1473
+3,train,968,129,元胡止痛口服液,26,head,0,Nausea,1,1474
+3,train,969,129,元胡止痛口服液,26,head,3,Vomiting,1,1475
+3,train,970,129,元胡止痛口服液,26,head,11,Dry mouth,1,1476
+3,train,971,129,元胡止痛口服液,26,head,5,Abdominal pain,1,1477
+3,train,972,129,元胡止痛口服液,26,head,2,Diarrhoea,1,1478
+3,train,973,129,元胡止痛口服液,26,head,12,Abdominal distension,1,1479
+3,train,974,129,元胡止痛口服液,26,head,6,Abdominal discomfort,1,1480
+3,train,975,129,元胡止痛口服液,26,head,32,Eructation,1,1481
+3,train,976,129,元胡止痛口服液,26,head,1,Rash,1,1482
+3,train,977,129,元胡止痛口服液,26,head,4,Pruritus,1,1483
+3,train,978,129,元胡止痛口服液,26,head,15,Flushing,1,1484
+3,train,979,129,元胡止痛口服液,26,head,22,Erythema,1,1485
+3,train,980,129,元胡止痛口服液,26,head,23,Urticaria,1,1486
+3,train,981,129,元胡止痛口服液,26,head,28,Hyperhidrosis,1,1487
+3,train,982,129,元胡止痛口服液,26,head,7,Dizziness,1,1488
+3,train,983,129,元胡止痛口服液,26,head,10,Headache,1,1489
+3,train,984,129,元胡止痛口服液,26,head,21,Somnolence,1,1490
+3,train,985,129,元胡止痛口服液,26,head,27,Insomnia,1,1491
+3,train,986,129,元胡止痛口服液,26,head,14,Chest discomfort,1,1492
+3,train,987,129,元胡止痛口服液,26,head,13,Asthenia,1,1493
+3,train,988,129,元胡止痛口服液,26,head,18,Pyrexia,1,1494
+3,train,989,129,元胡止痛口服液,26,head,9,Palpitations,1,1495
+3,train,990,129,元胡止痛口服液,26,head,20,Dyspnoea,1,1496
+3,train,991,129,元胡止痛口服液,26,head,8,Hypersensitivity,1,1497
+3,train,992,129,元胡止痛口服液,26,head,17,Hepatic function abnormal,1,1498
+3,train,993,129,元胡止痛口服液,26,head,24,Anaphylactic shock,1,1499
+3,train,994,148,小儿热速清口服液,6,medium,0,Nausea,1,1517
+3,train,995,148,小儿热速清口服液,6,medium,3,Vomiting,1,1518
+3,train,996,148,小儿热速清口服液,6,medium,5,Abdominal pain,1,1519
+3,train,997,148,小儿热速清口服液,6,medium,2,Diarrhoea,1,1520
+3,train,998,148,小儿热速清口服液,6,medium,4,Pruritus,1,1521
+3,train,999,148,小儿热速清口服液,6,medium,1,Rash,1,1522
+3,train,1000,182,复方丹参滴丸,24,head,6,Abdominal discomfort,1,1523
+3,train,1001,182,复方丹参滴丸,24,head,25,Dyspepsia,1,1524
+3,train,1002,182,复方丹参滴丸,24,head,103,Hiccups,1,1525
+3,train,1003,182,复方丹参滴丸,24,head,0,Nausea,1,1526
+3,train,1004,182,复方丹参滴丸,24,head,3,Vomiting,1,1527
+3,train,1005,182,复方丹参滴丸,24,head,68,Flatulence,1,1528
+3,train,1006,182,复方丹参滴丸,24,head,38,Abdominal pain upper,1,1529
+3,train,1007,182,复方丹参滴丸,24,head,12,Abdominal distension,1,1530
+3,train,1008,182,复方丹参滴丸,24,head,2,Diarrhoea,1,1531
+3,train,1009,182,复方丹参滴丸,24,head,5,Abdominal pain,1,1532
+3,train,1010,182,复方丹参滴丸,24,head,1,Rash,1,1533
+3,train,1011,182,复方丹参滴丸,24,head,4,Pruritus,1,1534
+3,train,1012,182,复方丹参滴丸,24,head,15,Flushing,1,1535
+3,train,1013,182,复方丹参滴丸,24,head,8,Hypersensitivity,1,1536
+3,train,1014,182,复方丹参滴丸,24,head,7,Dizziness,1,1537
+3,train,1015,182,复方丹参滴丸,24,head,10,Headache,1,1538
+3,train,1016,182,复方丹参滴丸,24,head,9,Palpitations,1,1539
+3,train,1017,182,复方丹参滴丸,24,head,14,Chest discomfort,1,1540
+3,train,1018,182,复方丹参滴丸,24,head,26,Blood pressure increased,1,1541
+3,train,1019,182,复方丹参滴丸,24,head,13,Asthenia,1,1542
+3,train,1020,182,复方丹参滴丸,24,head,44,Cough,1,1543
+3,train,1021,182,复方丹参滴丸,24,head,11,Dry mouth,1,1544
+3,train,1022,182,复方丹参滴丸,24,head,169,Protein urine,1,1545
+3,train,1023,182,复方丹参滴丸,24,head,142,Red blood cells urine,1,1546
+3,train,1024,202,滑膜炎片,25,head,0,Nausea,1,1547
+3,train,1025,202,滑膜炎片,25,head,3,Vomiting,1,1548
+3,train,1026,202,滑膜炎片,25,head,2,Diarrhoea,1,1549
+3,train,1027,202,滑膜炎片,25,head,5,Abdominal pain,1,1550
+3,train,1028,202,滑膜炎片,25,head,12,Abdominal distension,1,1551
+3,train,1029,202,滑膜炎片,25,head,6,Abdominal discomfort,1,1552
+3,train,1030,202,滑膜炎片,25,head,25,Dyspepsia,1,1553
+3,train,1031,202,滑膜炎片,25,head,32,Eructation,1,1554
+3,train,1032,202,滑膜炎片,25,head,11,Dry mouth,1,1555
+3,train,1033,202,滑膜炎片,25,head,31,Dysgeusia,1,1556
+3,train,1034,202,滑膜炎片,25,head,1,Rash,1,1557
+3,train,1035,202,滑膜炎片,25,head,4,Pruritus,1,1558
+3,train,1036,202,滑膜炎片,25,head,15,Flushing,1,1559
+3,train,1037,202,滑膜炎片,25,head,41,Papule,1,1560
+3,train,1038,202,滑膜炎片,25,head,22,Erythema,1,1561
+3,train,1039,202,滑膜炎片,25,head,23,Urticaria,1,1562
+3,train,1040,202,滑膜炎片,25,head,7,Dizziness,1,1563
+3,train,1041,202,滑膜炎片,25,head,10,Headache,1,1564
+3,train,1042,202,滑膜炎片,25,head,21,Somnolence,1,1565
+3,train,1043,202,滑膜炎片,25,head,9,Palpitations,1,1566
+3,train,1044,202,滑膜炎片,25,head,26,Blood pressure increased,1,1567
+3,train,1045,202,滑膜炎片,25,head,13,Asthenia,1,1568
+3,train,1046,202,滑膜炎片,25,head,14,Chest discomfort,1,1569
+3,train,1047,202,滑膜炎片,25,head,16,Decreased appetite,1,1570
+3,train,1048,202,滑膜炎片,25,head,8,Hypersensitivity,1,1571
+3,train,1049,47,斑秃丸,11,medium,0,Nausea,1,1572
+3,train,1050,47,斑秃丸,11,medium,3,Vomiting,1,1573
+3,train,1051,47,斑秃丸,11,medium,5,Abdominal pain,1,1574
+3,train,1052,47,斑秃丸,11,medium,2,Diarrhoea,1,1575
+3,train,1053,47,斑秃丸,11,medium,6,Abdominal discomfort,1,1576
+3,train,1054,47,斑秃丸,11,medium,19,Constipation,1,1577
+3,train,1055,47,斑秃丸,11,medium,11,Dry mouth,1,1578
+3,train,1056,47,斑秃丸,11,medium,7,Dizziness,1,1579
+3,train,1057,47,斑秃丸,11,medium,1,Rash,1,1580
+3,train,1058,47,斑秃丸,11,medium,4,Pruritus,1,1581
+3,train,1059,47,斑秃丸,11,medium,17,Hepatic function abnormal,1,1582
+3,train,1060,179,茵栀黄胶囊,7,medium,2,Diarrhoea,1,1583
+3,train,1061,179,茵栀黄胶囊,7,medium,3,Vomiting,1,1584
+3,train,1062,179,茵栀黄胶囊,7,medium,1,Rash,1,1585
+3,train,1063,179,茵栀黄胶囊,7,medium,4,Pruritus,1,1586
+3,train,1064,179,茵栀黄胶囊,7,medium,18,Pyrexia,1,1587
+3,train,1065,179,茵栀黄胶囊,7,medium,7,Dizziness,1,1588
+3,train,1066,179,茵栀黄胶囊,7,medium,91,Haematochezia,1,1589
+3,train,1067,100,天舒胶囊,3,tail,6,Abdominal discomfort,1,1590
+3,train,1068,100,天舒胶囊,3,tail,46,Head discomfort,1,1591
+3,train,1069,100,天舒胶囊,3,tail,82,Heavy menstrual bleeding,1,1592
+3,train,1070,114,黄连上清丸,9,medium,2,Diarrhoea,1,1600
+3,train,1071,114,黄连上清丸,9,medium,5,Abdominal pain,1,1601
+3,train,1072,114,黄连上清丸,9,medium,0,Nausea,1,1602
+3,train,1073,114,黄连上清丸,9,medium,3,Vomiting,1,1603
+3,train,1074,114,黄连上清丸,9,medium,1,Rash,1,1604
+3,train,1075,114,黄连上清丸,9,medium,4,Pruritus,1,1605
+3,train,1076,114,黄连上清丸,9,medium,6,Abdominal discomfort,1,1606
+3,train,1077,114,黄连上清丸,9,medium,13,Asthenia,1,1607
+3,train,1078,114,黄连上清丸,9,medium,8,Hypersensitivity,1,1608
+3,train,1079,166,白蚀丸,13,head,16,Decreased appetite,1,1631
+3,train,1080,166,白蚀丸,13,head,0,Nausea,1,1632
+3,train,1081,166,白蚀丸,13,head,25,Dyspepsia,1,1633
+3,train,1082,166,白蚀丸,13,head,38,Abdominal pain upper,1,1634
+3,train,1083,166,白蚀丸,13,head,45,Chromaturia,1,1635
+3,train,1084,166,白蚀丸,13,head,51,Ocular icterus,1,1636
+3,train,1085,166,白蚀丸,13,head,59,Yellow skin,1,1637
+3,train,1086,166,白蚀丸,13,head,49,Transaminases increased,1,1638
+3,train,1087,166,白蚀丸,13,head,17,Hepatic function abnormal,1,1639
+3,train,1088,166,白蚀丸,13,head,74,Hepatic failure,1,1640
+3,train,1089,166,白蚀丸,13,head,1,Rash,1,1641
+3,train,1090,166,白蚀丸,13,head,13,Asthenia,1,1642
+3,train,1091,166,白蚀丸,13,head,7,Dizziness,1,1643
+3,train,1092,154,丹桂香颗粒,1,tail,6,Abdominal discomfort,1,1663
+3,train,1093,103,丹香清脂颗粒,1,tail,0,Nausea,1,1664
+3,train,1094,76,胆宁片,1,tail,2,Diarrhoea,1,1665
+3,train,1095,156,风热清口服液,2,tail,0,Nausea,1,1669
+3,train,1096,156,风热清口服液,2,tail,2,Diarrhoea,1,1670
+3,train,1097,74,复方瓜子金颗粒,10,medium,0,Nausea,1,1719
+3,train,1098,74,复方瓜子金颗粒,10,medium,3,Vomiting,1,1720
+3,train,1099,74,复方瓜子金颗粒,10,medium,2,Diarrhoea,1,1721
+3,train,1100,74,复方瓜子金颗粒,10,medium,5,Abdominal pain,1,1722
+3,train,1101,74,复方瓜子金颗粒,10,medium,12,Abdominal distension,1,1723
+3,train,1102,74,复方瓜子金颗粒,10,medium,6,Abdominal discomfort,1,1724
+3,train,1103,74,复方瓜子金颗粒,10,medium,7,Dizziness,1,1725
+3,train,1104,74,复方瓜子金颗粒,10,medium,1,Rash,1,1726
+3,train,1105,74,复方瓜子金颗粒,10,medium,4,Pruritus,1,1727
+3,train,1106,74,复方瓜子金颗粒,10,medium,8,Hypersensitivity,1,1728
+3,train,1107,136,复方金黄连颗粒,1,tail,6,Abdominal discomfort,1,1729
+3,train,1108,118,柴黄口服液,7,medium,0,Nausea,1,1734
+3,train,1109,118,柴黄口服液,7,medium,3,Vomiting,1,1735
+3,train,1110,118,柴黄口服液,7,medium,5,Abdominal pain,1,1736
+3,train,1111,118,柴黄口服液,7,medium,2,Diarrhoea,1,1737
+3,train,1112,118,柴黄口服液,7,medium,1,Rash,1,1738
+3,train,1113,118,柴黄口服液,7,medium,4,Pruritus,1,1739
+3,train,1114,118,柴黄口服液,7,medium,8,Hypersensitivity,1,1740
+3,train,1115,246,貂胰防裂软膏,1,tail,8,Hypersensitivity,1,1750
+3,train,1116,25,金蝉止痒胶囊,6,medium,11,Dry mouth,1,1751
+3,train,1117,25,金蝉止痒胶囊,6,medium,16,Decreased appetite,1,1752
+3,train,1118,25,金蝉止痒胶囊,6,medium,0,Nausea,1,1753
+3,train,1119,25,金蝉止痒胶囊,6,medium,3,Vomiting,1,1754
+3,train,1120,25,金蝉止痒胶囊,6,medium,2,Diarrhoea,1,1755
+3,train,1121,25,金蝉止痒胶囊,6,medium,7,Dizziness,1,1756
+3,train,1122,26,活血止痛软胶囊,1,tail,49,Transaminases increased,1,1757
+3,train,1123,27,银杏叶软胶囊,21,head,0,Nausea,1,1783
+3,train,1124,27,银杏叶软胶囊,21,head,3,Vomiting,1,1784
+3,train,1125,27,银杏叶软胶囊,21,head,11,Dry mouth,1,1785
+3,train,1126,27,银杏叶软胶囊,21,head,12,Abdominal distension,1,1786
+3,train,1127,27,银杏叶软胶囊,21,head,5,Abdominal pain,1,1787
+3,train,1128,27,银杏叶软胶囊,21,head,6,Abdominal discomfort,1,1788
+3,train,1129,27,银杏叶软胶囊,21,head,50,Hyperchlorhydria,1,1789
+3,train,1130,27,银杏叶软胶囊,21,head,30,Gastrointestinal haemorrhage,1,1790
+3,train,1131,27,银杏叶软胶囊,21,head,7,Dizziness,1,1791
+3,train,1132,27,银杏叶软胶囊,21,head,10,Headache,1,1792
+3,train,1133,27,银杏叶软胶囊,21,head,37,Hypoaesthesia,1,1793
+3,train,1134,27,银杏叶软胶囊,21,head,1,Rash,1,1794
+3,train,1135,27,银杏叶软胶囊,21,head,4,Pruritus,1,1795
+3,train,1136,27,银杏叶软胶囊,21,head,14,Chest discomfort,1,1796
+3,train,1137,27,银杏叶软胶囊,21,head,9,Palpitations,1,1797
+3,train,1138,27,银杏叶软胶囊,21,head,26,Blood pressure increased,1,1798
+3,train,1139,27,银杏叶软胶囊,21,head,33,Blood pressure decreased,1,1799
+3,train,1140,27,银杏叶软胶囊,21,head,13,Asthenia,1,1800
+3,train,1141,27,银杏叶软胶囊,21,head,8,Hypersensitivity,1,1801
+3,train,1142,27,银杏叶软胶囊,21,head,58,Gingival bleeding,1,1802
+3,train,1143,27,银杏叶软胶囊,21,head,42,Epistaxis,1,1803
+3,train,1144,247,苦碟子注射液,39,head,8,Hypersensitivity,1,1804
+3,train,1145,247,苦碟子注射液,39,head,15,Flushing,1,1805
+3,train,1146,247,苦碟子注射液,39,head,1,Rash,1,1806
+3,train,1147,247,苦碟子注射液,39,head,4,Pruritus,1,1807
+3,train,1148,247,苦碟子注射液,39,head,20,Dyspnoea,1,1808
+3,train,1149,247,苦碟子注射液,39,head,9,Palpitations,1,1809
+3,train,1150,247,苦碟子注射液,39,head,52,Cyanosis,1,1810
+3,train,1151,247,苦碟子注射液,39,head,33,Blood pressure decreased,1,1811
+3,train,1152,247,苦碟子注射液,39,head,24,Anaphylactic shock,1,1812
+3,train,1153,247,苦碟子注射液,39,head,105,Muscle twitching,1,1813
+3,train,1154,247,苦碟子注射液,39,head,107,Temperature intolerance,1,1814
+3,train,1155,247,苦碟子注射液,39,head,35,Chills,1,1815
+3,train,1156,247,苦碟子注射液,39,head,18,Pyrexia,1,1816
+3,train,1157,247,苦碟子注射液,39,head,13,Asthenia,1,1817
+3,train,1158,247,苦碟子注射液,39,head,28,Hyperhidrosis,1,1818
+3,train,1159,247,苦碟子注射液,39,head,29,Pain,1,1819
+3,train,1160,247,苦碟子注射液,39,head,34,Oedema,1,1820
+3,train,1161,247,苦碟子注射液,39,head,61,Tachypnoea,1,1821
+3,train,1162,247,苦碟子注射液,39,head,44,Cough,1,1822
+3,train,1163,247,苦碟子注射液,39,head,14,Chest discomfort,1,1823
+3,train,1164,247,苦碟子注射液,39,head,69,Arrhythmia,1,1824
+3,train,1165,247,苦碟子注射液,39,head,124,Angina pectoris,1,1825
+3,train,1166,247,苦碟子注射液,39,head,0,Nausea,1,1826
+3,train,1167,247,苦碟子注射液,39,head,3,Vomiting,1,1827
+3,train,1168,247,苦碟子注射液,39,head,5,Abdominal pain,1,1828
+3,train,1169,247,苦碟子注射液,39,head,2,Diarrhoea,1,1829
+3,train,1170,247,苦碟子注射液,39,head,41,Papule,1,1830
+3,train,1171,247,苦碟子注射液,39,head,22,Erythema,1,1831
+3,train,1172,247,苦碟子注射液,39,head,122,Skin reaction,1,1832
+3,train,1173,247,苦碟子注射液,39,head,7,Dizziness,1,1833
+3,train,1174,247,苦碟子注射液,39,head,10,Headache,1,1834
+3,train,1175,247,苦碟子注射液,39,head,46,Head discomfort,1,1835
+3,train,1176,247,苦碟子注射液,39,head,55,Vertigo,1,1836
+3,train,1177,247,苦碟子注射液,39,head,77,Myoclonus,1,1837
+3,train,1178,247,苦碟子注射液,39,head,47,Dysphoria,1,1838
+3,train,1179,247,苦碟子注射液,39,head,96,Injection site rash,1,1839
+3,train,1180,247,苦碟子注射液,39,head,97,Injection site pain,1,1840
+3,train,1181,247,苦碟子注射液,39,head,119,Injection site hypoaesthesia,1,1841
+3,train,1182,247,苦碟子注射液,39,head,53,Phlebitis,1,1842
+3,train,1183,248,紫松皮炎膏,5,medium,120,Skin atrophy,1,1843
+3,train,1184,248,紫松皮炎膏,5,medium,125,Application site telangiectasia,1,1844
+3,train,1185,248,紫松皮炎膏,5,medium,118,Application site discolouration,1,1845
+3,train,1186,248,紫松皮炎膏,5,medium,127,Infection,1,1846
+3,train,1187,248,紫松皮炎膏,5,medium,8,Hypersensitivity,1,1847
+3,train,1188,249,丹芎跌打膏,1,tail,41,Papule,1,1848
+3,train,1189,113,桂枝茯苓胶囊,2,tail,6,Abdominal discomfort,1,1856
+3,train,1190,113,桂枝茯苓胶囊,2,tail,5,Abdominal pain,1,1857
+3,train,1191,43,荷丹片,3,tail,2,Diarrhoea,1,1858
+3,train,1192,43,荷丹片,3,tail,0,Nausea,1,1859
+3,train,1193,43,荷丹片,3,tail,11,Dry mouth,1,1860
+3,train,1194,68,加味藿香正气软胶囊,1,tail,0,Nausea,1,1861
+3,train,1195,82,康妇消炎栓,13,head,2,Diarrhoea,1,1862
+3,train,1196,82,康妇消炎栓,13,head,5,Abdominal pain,1,1863
+3,train,1197,82,康妇消炎栓,13,head,12,Abdominal distension,1,1864
+3,train,1198,82,康妇消炎栓,13,head,0,Nausea,1,1865
+3,train,1199,82,康妇消炎栓,13,head,3,Vomiting,1,1866
+3,train,1200,82,康妇消炎栓,13,head,1,Rash,1,1867
+3,train,1201,82,康妇消炎栓,13,head,4,Pruritus,1,1868
+3,train,1202,82,康妇消炎栓,13,head,18,Pyrexia,1,1869
+3,train,1203,82,康妇消炎栓,13,head,35,Chills,1,1870
+3,train,1204,82,康妇消炎栓,13,head,7,Dizziness,1,1871
+3,train,1205,82,康妇消炎栓,13,head,126,Application site pruritus,1,1872
+3,train,1206,82,康妇消炎栓,13,head,137,Application site pain,1,1873
+3,train,1207,82,康妇消炎栓,13,head,92,Burning sensation,1,1874
+3,train,1208,151,牛黄上清软胶囊,2,tail,2,Diarrhoea,1,1887
+3,train,1209,151,牛黄上清软胶囊,2,tail,6,Abdominal discomfort,1,1888
+3,train,1210,194,清热灵颗粒,1,tail,6,Abdominal discomfort,1,1889
+3,train,1211,36,牛黄解毒片,29,head,2,Diarrhoea,1,1890
+3,train,1212,36,牛黄解毒片,29,head,5,Abdominal pain,1,1891
+3,train,1213,36,牛黄解毒片,29,head,0,Nausea,1,1892
+3,train,1214,36,牛黄解毒片,29,head,3,Vomiting,1,1893
+3,train,1215,36,牛黄解毒片,29,head,11,Dry mouth,1,1894
+3,train,1216,36,牛黄解毒片,29,head,6,Abdominal discomfort,1,1895
+3,train,1217,36,牛黄解毒片,29,head,17,Hepatic function abnormal,1,1896
+3,train,1218,36,牛黄解毒片,29,head,30,Gastrointestinal haemorrhage,1,1897
+3,train,1219,36,牛黄解毒片,29,head,1,Rash,1,1898
+3,train,1220,36,牛黄解毒片,29,head,4,Pruritus,1,1899
+3,train,1221,36,牛黄解毒片,29,head,63,Face oedema,1,1900
+3,train,1222,36,牛黄解毒片,29,head,40,Drug eruption,1,1901
+3,train,1223,36,牛黄解毒片,29,head,86,Stevens-Johnson syndrome,1,1902
+3,train,1224,36,牛黄解毒片,29,head,64,Epidermal necrosis,1,1903
+3,train,1225,36,牛黄解毒片,29,head,62,Dry skin,1,1904
+3,train,1226,36,牛黄解毒片,29,head,85,Pigmentation disorder,1,1905
+3,train,1227,36,牛黄解毒片,29,head,84,Chronic arsenic toxicity,1,1906
+3,train,1228,36,牛黄解毒片,29,head,7,Dizziness,1,1907
+3,train,1229,36,牛黄解毒片,29,head,10,Headache,1,1908
+3,train,1230,36,牛黄解毒片,29,head,21,Somnolence,1,1909
+3,train,1231,36,牛黄解毒片,29,head,27,Insomnia,1,1910
+3,train,1232,36,牛黄解毒片,29,head,8,Hypersensitivity,1,1911
+3,train,1233,36,牛黄解毒片,29,head,24,Anaphylactic shock,1,1912
+3,train,1234,36,牛黄解毒片,29,head,9,Palpitations,1,1913
+3,train,1235,36,牛黄解毒片,29,head,20,Dyspnoea,1,1914
+3,train,1236,36,牛黄解毒片,29,head,14,Chest discomfort,1,1915
+3,train,1237,36,牛黄解毒片,29,head,43,Haematuria,1,1916
+3,train,1238,36,牛黄解毒片,29,head,80,Acute kidney injury,1,1917
+3,train,1239,36,牛黄解毒片,29,head,54,Poisoning,1,1918
+3,train,1240,52,癃闭舒胶囊,14,head,0,Nausea,1,1920
+3,train,1241,52,癃闭舒胶囊,14,head,3,Vomiting,1,1921
+3,train,1242,52,癃闭舒胶囊,14,head,5,Abdominal pain,1,1922
+3,train,1243,52,癃闭舒胶囊,14,head,12,Abdominal distension,1,1923
+3,train,1244,52,癃闭舒胶囊,14,head,2,Diarrhoea,1,1924
+3,train,1245,52,癃闭舒胶囊,14,head,6,Abdominal discomfort,1,1925
+3,train,1246,52,癃闭舒胶囊,14,head,56,Thirst,1,1926
+3,train,1247,52,癃闭舒胶囊,14,head,17,Hepatic function abnormal,1,1927
+3,train,1248,52,癃闭舒胶囊,14,head,1,Rash,1,1928
+3,train,1249,52,癃闭舒胶囊,14,head,4,Pruritus,1,1929
+3,train,1250,52,癃闭舒胶囊,14,head,7,Dizziness,1,1930
+3,train,1251,52,癃闭舒胶囊,14,head,10,Headache,1,1931
+3,train,1252,52,癃闭舒胶囊,14,head,9,Palpitations,1,1932
+3,train,1253,52,癃闭舒胶囊,14,head,13,Asthenia,1,1933
+3,train,1254,56,慢支固本颗粒,1,tail,0,Nausea,1,1934
+3,train,1255,134,牛黄解毒丸,29,head,2,Diarrhoea,1,1938
+3,train,1256,134,牛黄解毒丸,29,head,5,Abdominal pain,1,1939
+3,train,1257,134,牛黄解毒丸,29,head,0,Nausea,1,1940
+3,train,1258,134,牛黄解毒丸,29,head,3,Vomiting,1,1941
+3,train,1259,134,牛黄解毒丸,29,head,11,Dry mouth,1,1942
+3,train,1260,134,牛黄解毒丸,29,head,6,Abdominal discomfort,1,1943
+3,train,1261,134,牛黄解毒丸,29,head,17,Hepatic function abnormal,1,1944
+3,train,1262,134,牛黄解毒丸,29,head,30,Gastrointestinal haemorrhage,1,1945
+3,train,1263,134,牛黄解毒丸,29,head,1,Rash,1,1946
+3,train,1264,134,牛黄解毒丸,29,head,4,Pruritus,1,1947
+3,train,1265,134,牛黄解毒丸,29,head,63,Face oedema,1,1948
+3,train,1266,134,牛黄解毒丸,29,head,40,Drug eruption,1,1949
+3,train,1267,134,牛黄解毒丸,29,head,86,Stevens-Johnson syndrome,1,1950
+3,train,1268,134,牛黄解毒丸,29,head,64,Epidermal necrosis,1,1951
+3,train,1269,134,牛黄解毒丸,29,head,62,Dry skin,1,1952
+3,train,1270,134,牛黄解毒丸,29,head,85,Pigmentation disorder,1,1953
+3,train,1271,134,牛黄解毒丸,29,head,54,Poisoning,1,1954
+3,train,1272,134,牛黄解毒丸,29,head,7,Dizziness,1,1955
+3,train,1273,134,牛黄解毒丸,29,head,10,Headache,1,1956
+3,train,1274,134,牛黄解毒丸,29,head,21,Somnolence,1,1957
+3,train,1275,134,牛黄解毒丸,29,head,27,Insomnia,1,1958
+3,train,1276,134,牛黄解毒丸,29,head,8,Hypersensitivity,1,1959
+3,train,1277,134,牛黄解毒丸,29,head,24,Anaphylactic shock,1,1960
+3,train,1278,134,牛黄解毒丸,29,head,9,Palpitations,1,1961
+3,train,1279,134,牛黄解毒丸,29,head,20,Dyspnoea,1,1962
+3,train,1280,134,牛黄解毒丸,29,head,14,Chest discomfort,1,1963
+3,train,1281,134,牛黄解毒丸,29,head,43,Haematuria,1,1964
+3,train,1282,134,牛黄解毒丸,29,head,80,Acute kidney injury,1,1965
+3,train,1283,134,牛黄解毒丸,29,head,84,Chronic arsenic toxicity,1,1966
+3,train,1284,141,软脉灵口服液,3,tail,11,Dry mouth,1,1968
+3,train,1285,141,软脉灵口服液,3,tail,31,Dysgeusia,1,1969
+3,train,1286,141,软脉灵口服液,3,tail,104,Dyschezia,1,1970
+3,train,1287,66,三金片,16,head,60,Alanine aminotransferase increased,1,1971
+3,train,1288,66,三金片,16,head,66,Aspartate aminotransferase increased,1,1972
+3,train,1289,66,三金片,16,head,128,Blood urea increased,1,1973
+3,train,1290,66,三金片,16,head,71,White blood cell count decreased,1,1974
+3,train,1291,66,三金片,16,head,0,Nausea,1,1975
+3,train,1292,66,三金片,16,head,3,Vomiting,1,1976
+3,train,1293,66,三金片,16,head,5,Abdominal pain,1,1977
+3,train,1294,66,三金片,16,head,2,Diarrhoea,1,1978
+3,train,1295,66,三金片,16,head,12,Abdominal distension,1,1979
+3,train,1296,66,三金片,16,head,11,Dry mouth,1,1980
+3,train,1297,66,三金片,16,head,1,Rash,1,1981
+3,train,1298,66,三金片,16,head,4,Pruritus,1,1982
+3,train,1299,66,三金片,16,head,7,Dizziness,1,1983
+3,train,1300,66,三金片,16,head,10,Headache,1,1984
+3,train,1301,66,三金片,16,head,8,Hypersensitivity,1,1985
+3,train,1302,66,三金片,16,head,9,Palpitations,1,1986
+3,train,1303,38,蛇胆川贝散,19,head,0,Nausea,1,1987
+3,train,1304,38,蛇胆川贝散,19,head,3,Vomiting,1,1988
+3,train,1305,38,蛇胆川贝散,19,head,11,Dry mouth,1,1989
+3,train,1306,38,蛇胆川贝散,19,head,12,Abdominal distension,1,1990
+3,train,1307,38,蛇胆川贝散,19,head,2,Diarrhoea,1,1991
+3,train,1308,38,蛇胆川贝散,19,head,5,Abdominal pain,1,1992
+3,train,1309,38,蛇胆川贝散,19,head,6,Abdominal discomfort,1,1993
+3,train,1310,38,蛇胆川贝散,19,head,1,Rash,1,1994
+3,train,1311,38,蛇胆川贝散,19,head,4,Pruritus,1,1995
+3,train,1312,38,蛇胆川贝散,19,head,15,Flushing,1,1996
+3,train,1313,38,蛇胆川贝散,19,head,7,Dizziness,1,1997
+3,train,1314,38,蛇胆川贝散,19,head,10,Headache,1,1998
+3,train,1315,38,蛇胆川贝散,19,head,13,Asthenia,1,1999
+3,train,1316,38,蛇胆川贝散,19,head,21,Somnolence,1,2000
+3,train,1317,38,蛇胆川贝散,19,head,18,Pyrexia,1,2001
+3,train,1318,38,蛇胆川贝散,19,head,9,Palpitations,1,2002
+3,train,1319,38,蛇胆川贝散,19,head,14,Chest discomfort,1,2003
+3,train,1320,38,蛇胆川贝散,19,head,20,Dyspnoea,1,2004
+3,train,1321,38,蛇胆川贝散,19,head,8,Hypersensitivity,1,2005
+3,train,1322,104,三七伤药片,40,head,0,Nausea,1,2006
+3,train,1323,104,三七伤药片,40,head,3,Vomiting,1,2007
+3,train,1324,104,三七伤药片,40,head,2,Diarrhoea,1,2008
+3,train,1325,104,三七伤药片,40,head,5,Abdominal pain,1,2009
+3,train,1326,104,三七伤药片,40,head,6,Abdominal discomfort,1,2010
+3,train,1327,104,三七伤药片,40,head,12,Abdominal distension,1,2011
+3,train,1328,104,三七伤药片,40,head,68,Flatulence,1,2012
+3,train,1329,104,三七伤药片,40,head,25,Dyspepsia,1,2013
+3,train,1330,104,三七伤药片,40,head,50,Hyperchlorhydria,1,2014
+3,train,1331,104,三七伤药片,40,head,32,Eructation,1,2015
+3,train,1332,104,三七伤药片,40,head,19,Constipation,1,2016
+3,train,1333,104,三七伤药片,40,head,11,Dry mouth,1,2017
+3,train,1334,104,三七伤药片,40,head,1,Rash,1,2018
+3,train,1335,104,三七伤药片,40,head,23,Urticaria,1,2019
+3,train,1336,104,三七伤药片,40,head,22,Erythema,1,2020
+3,train,1337,104,三七伤药片,40,head,39,Rash maculo-papular,1,2021
+3,train,1338,104,三七伤药片,40,head,4,Pruritus,1,2022
+3,train,1339,104,三七伤药片,40,head,28,Hyperhidrosis,1,2023
+3,train,1340,104,三七伤药片,40,head,7,Dizziness,1,2024
+3,train,1341,104,三七伤药片,40,head,10,Headache,1,2025
+3,train,1342,104,三七伤药片,40,head,37,Hypoaesthesia,1,2026
+3,train,1343,104,三七伤药片,40,head,36,Hypoaesthesia oral,1,2027
+3,train,1344,104,三七伤药片,40,head,100,Tongue paralysis,1,2028
+3,train,1345,104,三七伤药片,40,head,31,Dysgeusia,1,2029
+3,train,1346,104,三七伤药片,40,head,21,Somnolence,1,2030
+3,train,1347,104,三七伤药片,40,head,27,Insomnia,1,2031
+3,train,1348,104,三七伤药片,40,head,65,Tremor,1,2032
+3,train,1349,104,三七伤药片,40,head,55,Vertigo,1,2033
+3,train,1350,104,三七伤药片,40,head,9,Palpitations,1,2034
+3,train,1351,104,三七伤药片,40,head,70,Tachycardia,1,2035
+3,train,1352,104,三七伤药片,40,head,14,Chest discomfort,1,2036
+3,train,1353,104,三七伤药片,40,head,26,Blood pressure increased,1,2037
+3,train,1354,104,三七伤药片,40,head,13,Asthenia,1,2038
+3,train,1355,104,三七伤药片,40,head,16,Decreased appetite,1,2039
+3,train,1356,104,三七伤药片,40,head,29,Pain,1,2040
+3,train,1357,104,三七伤药片,40,head,34,Oedema,1,2041
+3,train,1358,104,三七伤药片,40,head,18,Pyrexia,1,2042
+3,train,1359,104,三七伤药片,40,head,20,Dyspnoea,1,2043
+3,train,1360,104,三七伤药片,40,head,15,Flushing,1,2044
+3,train,1361,104,三七伤药片,40,head,99,Anaphylactoid reaction,1,2045
+3,train,1362,87,正清风痛宁片,27,head,15,Flushing,1,2052
+3,train,1363,87,正清风痛宁片,27,head,4,Pruritus,1,2053
+3,train,1364,87,正清风痛宁片,27,head,1,Rash,1,2054
+3,train,1365,87,正清风痛宁片,27,head,6,Abdominal discomfort,1,2055
+3,train,1366,87,正清风痛宁片,27,head,0,Nausea,1,2056
+3,train,1367,87,正清风痛宁片,27,head,16,Decreased appetite,1,2057
+3,train,1368,87,正清风痛宁片,27,head,7,Dizziness,1,2058
+3,train,1369,87,正清风痛宁片,27,head,10,Headache,1,2059
+3,train,1370,87,正清风痛宁片,27,head,28,Hyperhidrosis,1,2060
+3,train,1371,87,正清风痛宁片,27,head,71,White blood cell count decreased,1,2061
+3,train,1372,87,正清风痛宁片,27,head,135,Platelet count decreased,1,2062
+3,train,1373,87,正清风痛宁片,27,head,22,Erythema,1,2063
+3,train,1374,87,正清风痛宁片,27,head,18,Pyrexia,1,2064
+3,train,1375,87,正清风痛宁片,27,head,90,Henoch-Schonlein purpura,1,2065
+3,train,1376,87,正清风痛宁片,27,head,3,Vomiting,1,2066
+3,train,1377,87,正清风痛宁片,27,head,5,Abdominal pain,1,2067
+3,train,1378,87,正清风痛宁片,27,head,12,Abdominal distension,1,2068
+3,train,1379,87,正清风痛宁片,27,head,2,Diarrhoea,1,2069
+3,train,1380,87,正清风痛宁片,27,head,103,Hiccups,1,2070
+3,train,1381,87,正清风痛宁片,27,head,11,Dry mouth,1,2071
+3,train,1382,87,正清风痛宁片,27,head,17,Hepatic function abnormal,1,2072
+3,train,1383,87,正清风痛宁片,27,head,21,Somnolence,1,2073
+3,train,1384,87,正清风痛宁片,27,head,13,Asthenia,1,2074
+3,train,1385,87,正清风痛宁片,27,head,14,Chest discomfort,1,2075
+3,train,1386,87,正清风痛宁片,27,head,8,Hypersensitivity,1,2076
+3,train,1387,87,正清风痛宁片,27,head,9,Palpitations,1,2077
+3,train,1388,87,正清风痛宁片,27,head,20,Dyspnoea,1,2078
+3,train,1389,203,腰痛宁胶囊,16,head,0,Nausea,1,2079
+3,train,1390,203,腰痛宁胶囊,16,head,3,Vomiting,1,2080
+3,train,1391,203,腰痛宁胶囊,16,head,12,Abdominal distension,1,2081
+3,train,1392,203,腰痛宁胶囊,16,head,2,Diarrhoea,1,2082
+3,train,1393,203,腰痛宁胶囊,16,head,1,Rash,1,2083
+3,train,1394,203,腰痛宁胶囊,16,head,4,Pruritus,1,2084
+3,train,1395,203,腰痛宁胶囊,16,head,7,Dizziness,1,2085
+3,train,1396,203,腰痛宁胶囊,16,head,10,Headache,1,2086
+3,train,1397,203,腰痛宁胶囊,16,head,27,Insomnia,1,2087
+3,train,1398,203,腰痛宁胶囊,16,head,36,Hypoaesthesia oral,1,2088
+3,train,1399,203,腰痛宁胶囊,16,head,9,Palpitations,1,2089
+3,train,1400,203,腰痛宁胶囊,16,head,26,Blood pressure increased,1,2090
+3,train,1401,203,腰痛宁胶囊,16,head,15,Flushing,1,2091
+3,train,1402,203,腰痛宁胶囊,16,head,8,Hypersensitivity,1,2092
+3,train,1403,203,腰痛宁胶囊,16,head,18,Pyrexia,1,2093
+3,train,1404,203,腰痛宁胶囊,16,head,14,Chest discomfort,1,2094
+3,train,1405,207,新血宝胶囊,5,medium,0,Nausea,1,2095
+3,train,1406,207,新血宝胶囊,5,medium,3,Vomiting,1,2096
+3,train,1407,207,新血宝胶囊,5,medium,38,Abdominal pain upper,1,2097
+3,train,1408,207,新血宝胶囊,5,medium,19,Constipation,1,2098
+3,train,1409,207,新血宝胶囊,5,medium,48,Melaena,1,2099
+3,train,1410,28,注射用双黄连,45,head,8,Hypersensitivity,1,2125
+3,train,1411,28,注射用双黄连,45,head,15,Flushing,1,2126
+3,train,1412,28,注射用双黄连,45,head,35,Chills,1,2127
+3,train,1413,28,注射用双黄连,45,head,18,Pyrexia,1,2128
+3,train,1414,28,注射用双黄连,45,head,1,Rash,1,2129
+3,train,1415,28,注射用双黄连,45,head,4,Pruritus,1,2130
+3,train,1416,28,注射用双黄连,45,head,20,Dyspnoea,1,2131
+3,train,1417,28,注射用双黄连,45,head,9,Palpitations,1,2132
+3,train,1418,28,注射用双黄连,45,head,52,Cyanosis,1,2133
+3,train,1419,28,注射用双黄连,45,head,33,Blood pressure decreased,1,2134
+3,train,1420,28,注射用双黄连,45,head,57,Laryngeal oedema,1,2135
+3,train,1421,28,注射用双黄连,45,head,24,Anaphylactic shock,1,2136
+3,train,1422,28,注射用双黄连,45,head,107,Temperature intolerance,1,2137
+3,train,1423,28,注射用双黄连,45,head,29,Pain,1,2138
+3,train,1424,28,注射用双黄连,45,head,13,Asthenia,1,2139
+3,train,1425,28,注射用双黄连,45,head,88,Pallor,1,2140
+3,train,1426,28,注射用双黄连,45,head,28,Hyperhidrosis,1,2141
+3,train,1427,28,注射用双黄连,45,head,34,Oedema,1,2142
+3,train,1428,28,注射用双黄连,45,head,61,Tachypnoea,1,2143
+3,train,1429,28,注射用双黄连,45,head,44,Cough,1,2144
+3,train,1430,28,注射用双黄连,45,head,134,Laryngeal discomfort,1,2145
+3,train,1431,28,注射用双黄连,45,head,14,Chest discomfort,1,2146
+3,train,1432,28,注射用双黄连,45,head,69,Arrhythmia,1,2147
+3,train,1433,28,注射用双黄连,45,head,26,Blood pressure increased,1,2148
+3,train,1434,28,注射用双黄连,45,head,0,Nausea,1,2149
+3,train,1435,28,注射用双黄连,45,head,3,Vomiting,1,2150
+3,train,1436,28,注射用双黄连,45,head,5,Abdominal pain,1,2151
+3,train,1437,28,注射用双黄连,45,head,2,Diarrhoea,1,2152
+3,train,1438,28,注射用双黄连,45,head,36,Hypoaesthesia oral,1,2153
+3,train,1439,28,注射用双黄连,45,head,7,Dizziness,1,2154
+3,train,1440,28,注射用双黄连,45,head,10,Headache,1,2155
+3,train,1441,28,注射用双黄连,45,head,37,Hypoaesthesia,1,2156
+3,train,1442,28,注射用双黄连,45,head,77,Myoclonus,1,2157
+3,train,1443,28,注射用双黄连,45,head,47,Dysphoria,1,2158
+3,train,1444,28,注射用双黄连,45,head,133,Confusional state,1,2159
+3,train,1445,28,注射用双黄连,45,head,23,Urticaria,1,2160
+3,train,1446,28,注射用双黄连,45,head,39,Rash maculo-papular,1,2161
+3,train,1447,28,注射用双黄连,45,head,22,Erythema,1,2162
+3,train,1448,28,注射用双黄连,45,head,132,Swelling,1,2163
+3,train,1449,28,注射用双黄连,45,head,131,Dermatitis,1,2164
+3,train,1450,28,注射用双黄连,45,head,96,Injection site rash,1,2165
+3,train,1451,28,注射用双黄连,45,head,130,Injection site pruritus,1,2166
+3,train,1452,28,注射用双黄连,45,head,97,Injection site pain,1,2167
+3,train,1453,28,注射用双黄连,45,head,129,Ocular hyperaemia,1,2168
+3,train,1454,28,注射用双黄连,45,head,53,Phlebitis,1,2169
+3,train,1455,128,益心通脉颗粒,1,tail,6,Abdominal discomfort,1,2170
+3,train,1456,48,养阴生血合剂,1,tail,6,Abdominal discomfort,1,2171
+3,train,1457,78,一清胶囊,4,medium,1,Rash,1,2172
+3,train,1458,78,一清胶囊,4,medium,0,Nausea,1,2173
+3,train,1459,78,一清胶囊,4,medium,2,Diarrhoea,1,2174
+3,train,1460,78,一清胶囊,4,medium,5,Abdominal pain,1,2175
+3,train,1461,77,降脂通络软胶囊,2,tail,12,Abdominal distension,1,2179
+3,train,1462,77,降脂通络软胶囊,2,tail,2,Diarrhoea,1,2180
+3,train,1463,108,乐脉片,1,tail,8,Hypersensitivity,1,2181
+3,train,1464,29,脉络舒通丸,4,medium,0,Nausea,1,2182
+3,train,1465,29,脉络舒通丸,4,medium,3,Vomiting,1,2183
+3,train,1466,29,脉络舒通丸,4,medium,16,Decreased appetite,1,2184
+3,train,1467,29,脉络舒通丸,4,medium,6,Abdominal discomfort,1,2185
+3,train,1468,189,脑栓通胶囊,2,tail,6,Abdominal discomfort,1,2186
+3,train,1469,189,脑栓通胶囊,2,tail,19,Constipation,1,2187
+3,train,1470,30,乳康颗粒,5,medium,0,Nausea,1,2189
+3,train,1471,30,乳康颗粒,5,medium,2,Diarrhoea,1,2190
+3,train,1472,30,乳康颗粒,5,medium,102,Menstruation irregular,1,2191
+3,train,1473,30,乳康颗粒,5,medium,82,Heavy menstrual bleeding,1,2192
+3,train,1474,30,乳康颗粒,5,medium,40,Drug eruption,1,2193
+3,train,1475,31,生白合剂,1,tail,6,Abdominal discomfort,1,2194
+3,train,1476,41,失笑散,1,tail,38,Abdominal pain upper,1,2195
+3,train,1477,164,双黄连滴眼剂,16,head,29,Pain,1,2202
+3,train,1478,164,双黄连滴眼剂,16,head,139,Lacrimation increased,1,2203
+3,train,1479,164,双黄连滴眼剂,16,head,1,Rash,1,2204
+3,train,1480,164,双黄连滴眼剂,16,head,4,Pruritus,1,2205
+3,train,1481,164,双黄连滴眼剂,16,head,0,Nausea,1,2206
+3,train,1482,164,双黄连滴眼剂,16,head,3,Vomiting,1,2207
+3,train,1483,164,双黄连滴眼剂,16,head,5,Abdominal pain,1,2208
+3,train,1484,164,双黄连滴眼剂,16,head,2,Diarrhoea,1,2209
+3,train,1485,164,双黄连滴眼剂,16,head,17,Hepatic function abnormal,1,2210
+3,train,1486,164,双黄连滴眼剂,16,head,14,Chest discomfort,1,2211
+3,train,1487,164,双黄连滴眼剂,16,head,15,Flushing,1,2212
+3,train,1488,164,双黄连滴眼剂,16,head,8,Hypersensitivity,1,2213
+3,train,1489,164,双黄连滴眼剂,16,head,24,Anaphylactic shock,1,2214
+3,train,1490,164,双黄连滴眼剂,16,head,7,Dizziness,1,2215
+3,train,1491,164,双黄连滴眼剂,16,head,20,Dyspnoea,1,2216
+3,train,1492,164,双黄连滴眼剂,16,head,9,Palpitations,1,2217
+3,train,1493,37,玉屏风丸,20,head,0,Nausea,1,2218
+3,train,1494,37,玉屏风丸,20,head,2,Diarrhoea,1,2219
+3,train,1495,37,玉屏风丸,20,head,3,Vomiting,1,2220
+3,train,1496,37,玉屏风丸,20,head,5,Abdominal pain,1,2221
+3,train,1497,37,玉屏风丸,20,head,11,Dry mouth,1,2222
+3,train,1498,37,玉屏风丸,20,head,6,Abdominal discomfort,1,2223
+3,train,1499,37,玉屏风丸,20,head,12,Abdominal distension,1,2224
+3,train,1500,37,玉屏风丸,20,head,19,Constipation,1,2225
+3,train,1501,37,玉屏风丸,20,head,25,Dyspepsia,1,2226
+3,train,1502,37,玉屏风丸,20,head,16,Decreased appetite,1,2227
+3,train,1503,37,玉屏风丸,20,head,31,Dysgeusia,1,2228
+3,train,1504,37,玉屏风丸,20,head,1,Rash,1,2229
+3,train,1505,37,玉屏风丸,20,head,4,Pruritus,1,2230
+3,train,1506,37,玉屏风丸,20,head,15,Flushing,1,2231
+3,train,1507,37,玉屏风丸,20,head,7,Dizziness,1,2232
+3,train,1508,37,玉屏风丸,20,head,10,Headache,1,2233
+3,train,1509,37,玉屏风丸,20,head,27,Insomnia,1,2234
+3,train,1510,37,玉屏风丸,20,head,9,Palpitations,1,2235
+3,train,1511,37,玉屏风丸,20,head,14,Chest discomfort,1,2236
+3,train,1512,37,玉屏风丸,20,head,8,Hypersensitivity,1,2237
+3,train,1513,167,壮骨关节丸,17,head,17,Hepatic function abnormal,1,2272
+3,train,1514,167,壮骨关节丸,17,head,1,Rash,1,2273
+3,train,1515,167,壮骨关节丸,17,head,4,Pruritus,1,2274
+3,train,1516,167,壮骨关节丸,17,head,0,Nausea,1,2275
+3,train,1517,167,壮骨关节丸,17,head,3,Vomiting,1,2276
+3,train,1518,167,壮骨关节丸,17,head,5,Abdominal pain,1,2277
+3,train,1519,167,壮骨关节丸,17,head,2,Diarrhoea,1,2278
+3,train,1520,167,壮骨关节丸,17,head,38,Abdominal pain upper,1,2279
+3,train,1521,167,壮骨关节丸,17,head,26,Blood pressure increased,1,2280
+3,train,1522,167,壮骨关节丸,17,head,89,Liver injury,1,2281
+3,train,1523,167,壮骨关节丸,17,head,116,Hepatitis,1,2282
+3,train,1524,167,壮骨关节丸,17,head,13,Asthenia,1,2283
+3,train,1525,167,壮骨关节丸,17,head,16,Decreased appetite,1,2284
+3,train,1526,167,壮骨关节丸,17,head,45,Chromaturia,1,2285
+3,train,1527,167,壮骨关节丸,17,head,170,Faeces discoloured,1,2286
+3,train,1528,167,壮骨关节丸,17,head,59,Yellow skin,1,2287
+3,train,1529,167,壮骨关节丸,17,head,51,Ocular icterus,1,2288
+3,train,1530,3,芪明颗粒,3,tail,45,Chromaturia,0,-1
+3,train,1531,223,仙灵骨葆片,18,head,161,Mucosal irritation,0,-1
+3,train,1532,243,舒肝康胶囊,2,tail,8,Hypersensitivity,0,-1
+3,train,1533,37,玉屏风丸,20,head,87,Neutrophil count decreased,0,-1
+3,train,1534,129,元胡止痛口服液,26,head,123,Coma,0,-1
+3,train,1535,246,貂胰防裂软膏,1,tail,153,Vaginal haemorrhage,0,-1
+3,train,1536,211,十味降糖颗粒,1,tail,1,Rash,0,-1
+3,train,1537,52,癃闭舒胶囊,14,head,133,Confusional state,0,-1
+3,train,1538,74,复方瓜子金颗粒,10,medium,155,Malaise,0,-1
+3,train,1539,9,脉络舒通颗粒,4,medium,137,Application site pain,0,-1
+3,train,1540,6,银杏叶口服液,21,head,132,Swelling,0,-1
+3,train,1541,201,滑膜炎胶囊,25,head,39,Rash maculo-papular,0,-1
+3,train,1542,84,参芪五味子胶囊,7,medium,93,Purpura,0,-1
+3,train,1543,36,牛黄解毒片,29,head,55,Vertigo,0,-1
+3,train,1544,9,脉络舒通颗粒,4,medium,83,Skin swelling,0,-1
+3,train,1545,44,消痔软膏,1,tail,56,Thirst,0,-1
+3,train,1546,27,银杏叶软胶囊,21,head,32,Eructation,0,-1
+3,train,1547,187,复方青黛丸,13,head,51,Ocular icterus,0,-1
+3,train,1548,29,脉络舒通丸,4,medium,89,Liver injury,0,-1
+3,train,1549,215,千金藤素片,1,tail,166,Myalgia,0,-1
+3,train,1550,113,桂枝茯苓胶囊,2,tail,119,Injection site hypoaesthesia,0,-1
+3,train,1551,191,消银胶囊,15,head,111,Nasal dryness,0,-1
+3,train,1552,201,滑膜炎胶囊,25,head,102,Menstruation irregular,0,-1
+3,train,1553,74,复方瓜子金颗粒,10,medium,64,Epidermal necrosis,0,-1
+3,train,1554,60,养心氏片,1,tail,50,Hyperchlorhydria,0,-1
+3,train,1555,107,生血宝合剂,10,medium,100,Tongue paralysis,0,-1
+3,train,1556,33,安宫牛黄丸,2,tail,149,Eyelid oedema,0,-1
+3,train,1557,233,复方咳喘胶囊,3,tail,79,Blister,0,-1
+3,train,1558,56,慢支固本颗粒,1,tail,52,Cyanosis,0,-1
+3,train,1559,189,脑栓通胶囊,2,tail,110,Hypoglycaemia,0,-1
+3,train,1560,167,壮骨关节丸,17,head,108,Tooth discolouration,0,-1
+3,train,1561,238,消癌平注射液,28,head,69,Arrhythmia,0,-1
+3,train,1562,120,颈舒颗粒,1,tail,159,Dermatitis allergic,0,-1
+3,train,1563,34,元胡止痛片,26,head,155,Malaise,0,-1
+3,train,1564,143,通窍鼻炎胶囊,15,head,109,Increased appetite,0,-1
+3,train,1565,77,降脂通络软胶囊,2,tail,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,1566,131,千柏鼻炎胶囊,1,tail,95,Blood bilirubin increased,0,-1
+3,train,1567,252,瓜蒌皮注射液,30,head,16,Decreased appetite,0,-1
+3,train,1568,168,灯盏细辛注射液,18,head,42,Epistaxis,0,-1
+3,train,1569,10,五灵胶囊,2,tail,130,Injection site pruritus,0,-1
+3,train,1570,100,天舒胶囊,3,tail,150,Alopecia,0,-1
+3,train,1571,151,牛黄上清软胶囊,2,tail,75,Vision blurred,0,-1
+3,train,1572,242,裸花紫珠栓,3,tail,165,Allergic oedema,0,-1
+3,train,1573,205,蒲地蓝消炎口服液,19,head,90,Henoch-Schonlein purpura,0,-1
+3,train,1574,147,小儿热速清颗粒,6,medium,7,Dizziness,0,-1
+3,train,1575,36,牛黄解毒片,29,head,46,Head discomfort,0,-1
+3,train,1576,121,颈痛颗粒,2,tail,109,Increased appetite,0,-1
+3,train,1577,68,加味藿香正气软胶囊,1,tail,91,Haematochezia,0,-1
+3,train,1578,96,独一味胶囊,22,head,18,Pyrexia,0,-1
+3,train,1579,84,参芪五味子胶囊,7,medium,168,Instillation site irritation,0,-1
+3,train,1580,137,养血清脑颗粒,16,head,95,Blood bilirubin increased,0,-1
+3,train,1581,46,黄藤素片,5,medium,80,Acute kidney injury,0,-1
+3,train,1582,120,颈舒颗粒,1,tail,2,Diarrhoea,0,-1
+3,train,1583,123,归脾丸（浓缩丸）,2,tail,54,Poisoning,0,-1
+3,train,1584,179,茵栀黄胶囊,7,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,1585,121,颈痛颗粒,2,tail,59,Yellow skin,0,-1
+3,train,1586,219,安神补脑片,15,head,16,Decreased appetite,0,-1
+3,train,1587,143,通窍鼻炎胶囊,15,head,72,Dermatitis exfoliative,0,-1
+3,train,1588,242,裸花紫珠栓,3,tail,54,Poisoning,0,-1
+3,train,1589,204,感冒清热胶囊,12,head,55,Vertigo,0,-1
+3,train,1590,33,安宫牛黄丸,2,tail,143,Syncope,0,-1
+3,train,1591,107,生血宝合剂,10,medium,155,Malaise,0,-1
+3,train,1592,25,金蝉止痒胶囊,6,medium,146,Tinnitus,0,-1
+3,train,1593,157,六味香连胶囊,1,tail,111,Nasal dryness,0,-1
+3,train,1594,120,颈舒颗粒,1,tail,81,Dysuria,0,-1
+3,train,1595,76,胆宁片,1,tail,50,Hyperchlorhydria,0,-1
+3,train,1596,15,小儿咳喘灵口服液,13,head,126,Application site pruritus,0,-1
+3,train,1597,193,麻仁润肠丸,15,head,11,Dry mouth,0,-1
+3,train,1598,106,平消胶囊,4,medium,107,Temperature intolerance,0,-1
+3,train,1599,168,灯盏细辛注射液,18,head,43,Haematuria,0,-1
+3,train,1600,241,熊胆栓,1,tail,83,Skin swelling,0,-1
+3,train,1601,237,川贝枇杷颗粒,8,medium,98,Oedema peripheral,0,-1
+3,train,1602,93,便通片,3,tail,147,Macule,0,-1
+3,train,1603,6,银杏叶口服液,21,head,72,Dermatitis exfoliative,0,-1
+3,train,1604,5,益心酮滴丸,1,tail,164,Drooling,0,-1
+3,train,1605,226,灵芝口服液,1,tail,1,Rash,0,-1
+3,train,1606,178,茵栀黄颗粒,7,medium,72,Dermatitis exfoliative,0,-1
+3,train,1607,41,失笑散,1,tail,103,Hiccups,0,-1
+3,train,1608,11,沈阳红药胶囊,2,tail,136,Neck pain,0,-1
+3,train,1609,125,归脾颗粒,2,tail,165,Allergic oedema,0,-1
+3,train,1610,5,益心酮滴丸,1,tail,17,Hepatic function abnormal,0,-1
+3,train,1611,181,胃安胶囊,2,tail,24,Anaphylactic shock,0,-1
+3,train,1612,156,风热清口服液,2,tail,77,Myoclonus,0,-1
+3,train,1613,106,平消胶囊,4,medium,81,Dysuria,0,-1
+3,train,1614,129,元胡止痛口服液,26,head,102,Menstruation irregular,0,-1
+3,train,1615,26,活血止痛软胶囊,1,tail,142,Red blood cells urine,0,-1
+3,train,1616,119,血府逐瘀口服液,9,medium,126,Application site pruritus,0,-1
+3,train,1617,244,露水草胶囊,1,tail,12,Abdominal distension,0,-1
+3,train,1618,145,小儿肺热咳喘口服液,11,medium,76,Hyperpyrexia,0,-1
+3,train,1619,170,克咳片,1,tail,126,Application site pruritus,0,-1
+3,train,1620,38,蛇胆川贝散,19,head,95,Blood bilirubin increased,0,-1
+3,train,1621,247,苦碟子注射液,39,head,26,Blood pressure increased,0,-1
+3,train,1622,9,脉络舒通颗粒,4,medium,57,Laryngeal oedema,0,-1
+3,train,1623,44,消痔软膏,1,tail,26,Blood pressure increased,0,-1
+3,train,1624,121,颈痛颗粒,2,tail,111,Nasal dryness,0,-1
+3,train,1625,87,正清风痛宁片,27,head,43,Haematuria,0,-1
+3,train,1626,28,注射用双黄连,45,head,48,Melaena,0,-1
+3,train,1627,136,复方金黄连颗粒,1,tail,137,Application site pain,0,-1
+3,train,1628,2,复方双花口服液,3,tail,13,Asthenia,0,-1
+3,train,1629,116,黄连上清胶囊,9,medium,19,Constipation,0,-1
+3,train,1630,103,丹香清脂颗粒,1,tail,84,Chronic arsenic toxicity,0,-1
+3,train,1631,244,露水草胶囊,1,tail,97,Injection site pain,0,-1
+3,train,1632,105,三七伤药胶囊,40,head,43,Haematuria,0,-1
+3,train,1633,44,消痔软膏,1,tail,149,Eyelid oedema,0,-1
+3,train,1634,174,肠康片,4,medium,30,Gastrointestinal haemorrhage,0,-1
+3,train,1635,39,归脾丸,2,tail,81,Dysuria,0,-1
+3,train,1636,46,黄藤素片,5,medium,149,Eyelid oedema,0,-1
+3,train,1637,154,丹桂香颗粒,1,tail,163,Skin test positive,0,-1
+3,train,1638,167,壮骨关节丸,17,head,31,Dysgeusia,0,-1
+3,train,1639,203,腰痛宁胶囊,16,head,135,Platelet count decreased,0,-1
+3,train,1640,94,便通胶囊,3,tail,147,Macule,0,-1
+3,train,1641,184,复方丹参胶囊,15,head,169,Protein urine,0,-1
+3,train,1642,190,脑心通胶囊,16,head,71,White blood cell count decreased,0,-1
+3,train,1643,121,颈痛颗粒,2,tail,123,Coma,0,-1
+3,train,1644,87,正清风痛宁片,27,head,23,Urticaria,0,-1
+3,train,1645,103,丹香清脂颗粒,1,tail,75,Vision blurred,0,-1
+3,train,1646,27,银杏叶软胶囊,21,head,90,Henoch-Schonlein purpura,0,-1
+3,train,1647,217,三黄胶囊,15,head,62,Dry skin,0,-1
+3,train,1648,78,一清胶囊,4,medium,19,Constipation,0,-1
+3,train,1649,25,金蝉止痒胶囊,6,medium,126,Application site pruritus,0,-1
+3,train,1650,18,参桂胶囊,2,tail,54,Poisoning,0,-1
+3,train,1651,4,坤泰胶囊,2,tail,55,Vertigo,0,-1
+3,train,1652,179,茵栀黄胶囊,7,medium,98,Oedema peripheral,0,-1
+3,train,1653,69,安神补脑液,15,head,124,Angina pectoris,0,-1
+3,train,1654,33,安宫牛黄丸,2,tail,87,Neutrophil count decreased,0,-1
+3,train,1655,80,银杏叶片,21,head,151,Crying,0,-1
+3,train,1656,205,蒲地蓝消炎口服液,19,head,131,Dermatitis,0,-1
+3,train,1657,119,血府逐瘀口服液,9,medium,79,Blister,0,-1
+3,train,1658,170,克咳片,1,tail,167,Arthralgia,0,-1
+3,train,1659,48,养阴生血合剂,1,tail,129,Ocular hyperaemia,0,-1
+3,train,1660,34,元胡止痛片,26,head,33,Blood pressure decreased,0,-1
+3,train,1661,86,心脑欣丸,2,tail,93,Purpura,0,-1
+3,train,1662,143,通窍鼻炎胶囊,15,head,115,Ecchymosis,0,-1
+3,train,1663,247,苦碟子注射液,39,head,131,Dermatitis,0,-1
+3,train,1664,77,降脂通络软胶囊,2,tail,102,Menstruation irregular,0,-1
+3,train,1665,107,生血宝合剂,10,medium,108,Tooth discolouration,0,-1
+3,train,1666,56,慢支固本颗粒,1,tail,78,Renal impairment,0,-1
+3,train,1667,226,灵芝口服液,1,tail,165,Allergic oedema,0,-1
+3,train,1668,33,安宫牛黄丸,2,tail,37,Hypoaesthesia,0,-1
+3,train,1669,178,茵栀黄颗粒,7,medium,27,Insomnia,0,-1
+3,train,1670,5,益心酮滴丸,1,tail,117,Haemorrhage subcutaneous,0,-1
+3,train,1671,68,加味藿香正气软胶囊,1,tail,68,Flatulence,0,-1
+3,train,1672,9,脉络舒通颗粒,4,medium,121,Conjunctival haemorrhage,0,-1
+3,train,1673,205,蒲地蓝消炎口服液,19,head,115,Ecchymosis,0,-1
+3,train,1674,131,千柏鼻炎胶囊,1,tail,67,Gastrointestinal disorder,0,-1
+3,train,1675,37,玉屏风丸,20,head,140,Neuropsychological symptoms,0,-1
+3,train,1676,27,银杏叶软胶囊,21,head,90,Henoch-Schonlein purpura,0,-1
+3,train,1677,163,心可舒片,15,head,54,Poisoning,0,-1
+3,train,1678,47,斑秃丸,11,medium,101,Lethargy,0,-1
+3,train,1679,194,清热灵颗粒,1,tail,110,Hypoglycaemia,0,-1
+3,train,1680,198,葛根汤片,3,tail,85,Pigmentation disorder,0,-1
+3,train,1681,16,风湿骨痛片,33,head,112,Injection,0,-1
+3,train,1682,105,三七伤药胶囊,40,head,94,General symptom,0,-1
+3,train,1683,31,生白合剂,1,tail,12,Abdominal distension,0,-1
+3,train,1684,141,软脉灵口服液,3,tail,108,Tooth discolouration,0,-1
+3,train,1685,74,复方瓜子金颗粒,10,medium,75,Vision blurred,0,-1
+3,train,1686,69,安神补脑液,15,head,103,Hiccups,0,-1
+3,train,1687,63,鼻渊通窍颗粒,1,tail,152,Menstrual disorder,0,-1
+3,train,1688,106,平消胶囊,4,medium,135,Platelet count decreased,0,-1
+3,train,1689,243,舒肝康胶囊,2,tail,126,Application site pruritus,0,-1
+3,train,1690,202,滑膜炎片,25,head,110,Hypoglycaemia,0,-1
+3,train,1691,98,开胸顺气胶囊,1,tail,28,Hyperhidrosis,0,-1
+3,train,1692,86,心脑欣丸,2,tail,29,Pain,0,-1
+3,train,1693,226,灵芝口服液,1,tail,68,Flatulence,0,-1
+3,train,1694,94,便通胶囊,3,tail,16,Decreased appetite,0,-1
+3,train,1695,206,裸花紫珠片,24,head,25,Dyspepsia,0,-1
+3,train,1696,106,平消胶囊,4,medium,57,Laryngeal oedema,0,-1
+3,train,1697,247,苦碟子注射液,39,head,103,Hiccups,0,-1
+3,train,1698,145,小儿肺热咳喘口服液,11,medium,100,Tongue paralysis,0,-1
+3,train,1699,31,生白合剂,1,tail,56,Thirst,0,-1
+3,train,1700,104,三七伤药片,40,head,126,Application site pruritus,0,-1
+3,train,1701,78,一清胶囊,4,medium,43,Haematuria,0,-1
+3,train,1702,78,一清胶囊,4,medium,88,Pallor,0,-1
+3,train,1703,111,都梁滴丸,2,tail,152,Menstrual disorder,0,-1
+3,train,1704,30,乳康颗粒,5,medium,47,Dysphoria,0,-1
+3,train,1705,194,清热灵颗粒,1,tail,159,Dermatitis allergic,0,-1
+3,train,1706,184,复方丹参胶囊,15,head,78,Renal impairment,0,-1
+3,train,1707,94,便通胶囊,3,tail,43,Haematuria,0,-1
+3,train,1708,119,血府逐瘀口服液,9,medium,17,Hepatic function abnormal,0,-1
+3,train,1709,56,慢支固本颗粒,1,tail,47,Dysphoria,0,-1
+3,train,1710,124,归脾合剂,2,tail,116,Hepatitis,0,-1
+3,train,1711,45,通乐颗粒,2,tail,3,Vomiting,0,-1
+3,train,1712,182,复方丹参滴丸,24,head,109,Increased appetite,0,-1
+3,train,1713,124,归脾合剂,2,tail,5,Abdominal pain,0,-1
+3,train,1714,63,鼻渊通窍颗粒,1,tail,67,Gastrointestinal disorder,0,-1
+3,train,1715,25,金蝉止痒胶囊,6,medium,43,Haematuria,0,-1
+3,train,1716,3,芪明颗粒,3,tail,152,Menstrual disorder,0,-1
+3,train,1717,131,千柏鼻炎胶囊,1,tail,121,Conjunctival haemorrhage,0,-1
+3,train,1718,231,清润丸,3,tail,0,Nausea,0,-1
+3,train,1719,190,脑心通胶囊,16,head,63,Face oedema,0,-1
+3,train,1720,181,胃安胶囊,2,tail,28,Hyperhidrosis,0,-1
+3,train,1721,14,养血当归胶囊,1,tail,4,Pruritus,0,-1
+3,train,1722,89,松龄血脉康胶囊,2,tail,134,Laryngeal discomfort,0,-1
+3,train,1723,194,清热灵颗粒,1,tail,42,Epistaxis,0,-1
+3,train,1724,46,黄藤素片,5,medium,24,Anaphylactic shock,0,-1
+3,train,1725,31,生白合剂,1,tail,77,Myoclonus,0,-1
+3,train,1726,124,归脾合剂,2,tail,115,Ecchymosis,0,-1
+3,train,1727,190,脑心通胶囊,16,head,89,Liver injury,0,-1
+3,train,1728,211,十味降糖颗粒,1,tail,65,Tremor,0,-1
+3,train,1729,189,脑栓通胶囊,2,tail,64,Epidermal necrosis,0,-1
+3,train,1730,135,牛黄解毒软胶囊,29,head,117,Haemorrhage subcutaneous,0,-1
+3,train,1731,4,坤泰胶囊,2,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,1732,116,黄连上清胶囊,9,medium,85,Pigmentation disorder,0,-1
+3,train,1733,202,滑膜炎片,25,head,169,Protein urine,0,-1
+3,train,1734,238,消癌平注射液,28,head,123,Coma,0,-1
+3,train,1735,202,滑膜炎片,25,head,163,Skin test positive,0,-1
+3,train,1736,154,丹桂香颗粒,1,tail,56,Thirst,0,-1
+3,train,1737,45,通乐颗粒,2,tail,91,Haematochezia,0,-1
+3,train,1738,96,独一味胶囊,22,head,147,Macule,0,-1
+3,train,1739,163,心可舒片,15,head,92,Burning sensation,0,-1
+3,train,1740,78,一清胶囊,4,medium,22,Erythema,0,-1
+3,train,1741,74,复方瓜子金颗粒,10,medium,96,Injection site rash,0,-1
+3,train,1742,34,元胡止痛片,26,head,70,Tachycardia,0,-1
+3,train,1743,249,丹芎跌打膏,1,tail,139,Lacrimation increased,0,-1
+3,train,1744,168,灯盏细辛注射液,18,head,134,Laryngeal discomfort,0,-1
+3,train,1745,60,养心氏片,1,tail,67,Gastrointestinal disorder,0,-1
+3,train,1746,130,元胡止痛颗粒,26,head,84,Chronic arsenic toxicity,0,-1
+3,train,1747,145,小儿肺热咳喘口服液,11,medium,150,Alopecia,0,-1
+3,train,1748,156,风热清口服液,2,tail,70,Tachycardia,0,-1
+3,train,1749,118,柴黄口服液,7,medium,48,Melaena,0,-1
+3,train,1750,13,杏苏止咳口服液,1,tail,148,Oropharyngeal pain,0,-1
+3,train,1751,203,腰痛宁胶囊,16,head,87,Neutrophil count decreased,0,-1
+3,train,1752,244,露水草胶囊,1,tail,31,Dysgeusia,0,-1
+3,train,1753,163,心可舒片,15,head,116,Hepatitis,0,-1
+3,train,1754,223,仙灵骨葆片,18,head,88,Pallor,0,-1
+3,train,1755,111,都梁滴丸,2,tail,28,Hyperhidrosis,0,-1
+3,train,1756,3,芪明颗粒,3,tail,127,Infection,0,-1
+3,train,1757,46,黄藤素片,5,medium,119,Injection site hypoaesthesia,0,-1
+3,train,1758,47,斑秃丸,11,medium,133,Confusional state,0,-1
+3,train,1759,112,桂枝茯苓片,2,tail,159,Dermatitis allergic,0,-1
+3,train,1760,217,三黄胶囊,15,head,170,Faeces discoloured,0,-1
+3,train,1761,55,补肺活血胶囊,1,tail,77,Myoclonus,0,-1
+3,train,1762,189,脑栓通胶囊,2,tail,73,Epigastric discomfort,0,-1
+3,train,1763,20,苏黄止咳胶囊,5,medium,75,Vision blurred,0,-1
+3,train,1764,4,坤泰胶囊,2,tail,116,Hepatitis,0,-1
+3,train,1765,13,杏苏止咳口服液,1,tail,55,Vertigo,0,-1
+3,train,1766,108,乐脉片,1,tail,151,Crying,0,-1
+3,train,1767,190,脑心通胶囊,16,head,78,Renal impairment,0,-1
+3,train,1768,2,复方双花口服液,3,tail,110,Hypoglycaemia,0,-1
+3,train,1769,131,千柏鼻炎胶囊,1,tail,169,Protein urine,0,-1
+3,train,1770,100,天舒胶囊,3,tail,35,Chills,0,-1
+3,train,1771,130,元胡止痛颗粒,26,head,72,Dermatitis exfoliative,0,-1
+3,train,1772,194,清热灵颗粒,1,tail,170,Faeces discoloured,0,-1
+3,train,1773,219,安神补脑片,15,head,39,Rash maculo-papular,0,-1
+3,train,1774,45,通乐颗粒,2,tail,50,Hyperchlorhydria,0,-1
+3,train,1775,163,心可舒片,15,head,149,Eyelid oedema,0,-1
+3,train,1776,26,活血止痛软胶囊,1,tail,74,Hepatic failure,0,-1
+3,train,1777,86,心脑欣丸,2,tail,8,Hypersensitivity,0,-1
+3,train,1778,182,复方丹参滴丸,24,head,90,Henoch-Schonlein purpura,0,-1
+3,train,1779,98,开胸顺气胶囊,1,tail,163,Skin test positive,0,-1
+3,train,1780,143,通窍鼻炎胶囊,15,head,108,Tooth discolouration,0,-1
+3,train,1781,148,小儿热速清口服液,6,medium,25,Dyspepsia,0,-1
+3,train,1782,102,肾康宁片,2,tail,77,Myoclonus,0,-1
+3,train,1783,238,消癌平注射液,28,head,79,Blister,0,-1
+3,train,1784,60,养心氏片,1,tail,144,Coagulopathy,0,-1
+3,train,1785,164,双黄连滴眼剂,16,head,82,Heavy menstrual bleeding,0,-1
+3,train,1786,77,降脂通络软胶囊,2,tail,64,Epidermal necrosis,0,-1
+3,train,1787,43,荷丹片,3,tail,106,Hypertension,0,-1
+3,train,1788,215,千金藤素片,1,tail,51,Ocular icterus,0,-1
+3,train,1789,116,黄连上清胶囊,9,medium,78,Renal impairment,0,-1
+3,train,1790,27,银杏叶软胶囊,21,head,76,Hyperpyrexia,0,-1
+3,train,1791,223,仙灵骨葆片,18,head,160,Skin irritation,0,-1
+3,train,1792,178,茵栀黄颗粒,7,medium,139,Lacrimation increased,0,-1
+3,train,1793,66,三金片,16,head,96,Injection site rash,0,-1
+3,train,1794,44,消痔软膏,1,tail,134,Laryngeal discomfort,0,-1
+3,train,1795,166,白蚀丸,13,head,80,Acute kidney injury,0,-1
+3,train,1796,194,清热灵颗粒,1,tail,91,Haematochezia,0,-1
+3,train,1797,179,茵栀黄胶囊,7,medium,90,Henoch-Schonlein purpura,0,-1
+3,train,1798,162,心速宁胶囊,1,tail,119,Injection site hypoaesthesia,0,-1
+3,train,1799,157,六味香连胶囊,1,tail,105,Muscle twitching,0,-1
+3,train,1800,157,六味香连胶囊,1,tail,22,Erythema,0,-1
+3,train,1801,44,消痔软膏,1,tail,157,Hypothermia,0,-1
+3,train,1802,116,黄连上清胶囊,9,medium,62,Dry skin,0,-1
+3,train,1803,227,丹香冠心注射液,16,head,131,Dermatitis,0,-1
+3,train,1804,137,养血清脑颗粒,16,head,32,Eructation,0,-1
+3,train,1805,247,苦碟子注射液,39,head,139,Lacrimation increased,0,-1
+3,train,1806,221,青柏洁身洗液,2,tail,75,Vision blurred,0,-1
+3,train,1807,16,风湿骨痛片,33,head,100,Tongue paralysis,0,-1
+3,train,1808,39,归脾丸,2,tail,103,Hiccups,0,-1
+3,train,1809,2,复方双花口服液,3,tail,118,Application site discolouration,0,-1
+3,train,1810,202,滑膜炎片,25,head,117,Haemorrhage subcutaneous,0,-1
+3,train,1811,16,风湿骨痛片,33,head,21,Somnolence,0,-1
+3,train,1812,17,丹鹿通督片,1,tail,69,Arrhythmia,0,-1
+3,train,1813,34,元胡止痛片,26,head,85,Pigmentation disorder,0,-1
+3,train,1814,112,桂枝茯苓片,2,tail,144,Coagulopathy,0,-1
+3,train,1815,187,复方青黛丸,13,head,84,Chronic arsenic toxicity,0,-1
+3,train,1816,18,参桂胶囊,2,tail,31,Dysgeusia,0,-1
+3,train,1817,231,清润丸,3,tail,130,Injection site pruritus,0,-1
+3,train,1818,16,风湿骨痛片,33,head,52,Cyanosis,0,-1
+3,train,1819,202,滑膜炎片,25,head,36,Hypoaesthesia oral,0,-1
+3,train,1820,219,安神补脑片,15,head,126,Application site pruritus,0,-1
+3,train,1821,43,荷丹片,3,tail,57,Laryngeal oedema,0,-1
+3,train,1822,48,养阴生血合剂,1,tail,77,Myoclonus,0,-1
+3,train,1823,249,丹芎跌打膏,1,tail,79,Blister,0,-1
+3,train,1824,2,复方双花口服液,3,tail,124,Angina pectoris,0,-1
+3,train,1825,248,紫松皮炎膏,5,medium,51,Ocular icterus,0,-1
+3,train,1826,1,疏风解毒胶囊,12,head,39,Rash maculo-papular,0,-1
+3,train,1827,242,裸花紫珠栓,3,tail,30,Gastrointestinal haemorrhage,0,-1
+3,train,1828,203,腰痛宁胶囊,16,head,24,Anaphylactic shock,0,-1
+3,train,1829,98,开胸顺气胶囊,1,tail,52,Cyanosis,0,-1
+3,train,1830,33,安宫牛黄丸,2,tail,121,Conjunctival haemorrhage,0,-1
+3,train,1831,7,小儿清热止咳合剂,16,head,129,Ocular hyperaemia,0,-1
+3,train,1832,166,白蚀丸,13,head,100,Tongue paralysis,0,-1
+3,train,1833,17,丹鹿通督片,1,tail,31,Dysgeusia,0,-1
+3,train,1834,114,黄连上清丸,9,medium,103,Hiccups,0,-1
+3,train,1835,187,复方青黛丸,13,head,47,Dysphoria,0,-1
+3,train,1836,93,便通片,3,tail,139,Lacrimation increased,0,-1
+3,train,1837,102,肾康宁片,2,tail,156,Anal incontinence,0,-1
+3,train,1838,165,双黄连胶囊,14,head,168,Instillation site irritation,0,-1
+3,train,1839,246,貂胰防裂软膏,1,tail,31,Dysgeusia,0,-1
+3,train,1840,163,心可舒片,15,head,37,Hypoaesthesia,0,-1
+3,train,1841,253,五酯片,1,tail,5,Abdominal pain,0,-1
+3,train,1842,68,加味藿香正气软胶囊,1,tail,36,Hypoaesthesia oral,0,-1
+3,train,1843,94,便通胶囊,3,tail,43,Haematuria,0,-1
+3,train,1844,198,葛根汤片,3,tail,139,Lacrimation increased,0,-1
+3,train,1845,77,降脂通络软胶囊,2,tail,121,Conjunctival haemorrhage,0,-1
+3,train,1846,184,复方丹参胶囊,15,head,74,Hepatic failure,0,-1
+3,train,1847,112,桂枝茯苓片,2,tail,170,Faeces discoloured,0,-1
+3,train,1848,31,生白合剂,1,tail,150,Alopecia,0,-1
+3,train,1849,191,消银胶囊,15,head,94,General symptom,0,-1
+3,train,1850,106,平消胶囊,4,medium,100,Tongue paralysis,0,-1
+3,train,1851,143,通窍鼻炎胶囊,15,head,27,Insomnia,0,-1
+3,train,1852,178,茵栀黄颗粒,7,medium,106,Hypertension,0,-1
+3,train,1853,161,六味地黄片,12,head,37,Hypoaesthesia,0,-1
+3,train,1854,9,脉络舒通颗粒,4,medium,72,Dermatitis exfoliative,0,-1
+3,train,1855,174,肠康片,4,medium,30,Gastrointestinal haemorrhage,0,-1
+3,train,1856,221,青柏洁身洗液,2,tail,99,Anaphylactoid reaction,0,-1
+3,train,1857,3,芪明颗粒,3,tail,148,Oropharyngeal pain,0,-1
+3,train,1858,247,苦碟子注射液,39,head,113,Hypohidrosis,0,-1
+3,train,1859,13,杏苏止咳口服液,1,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,1860,44,消痔软膏,1,tail,119,Injection site hypoaesthesia,0,-1
+3,train,1861,174,肠康片,4,medium,70,Tachycardia,0,-1
+3,train,1862,3,芪明颗粒,3,tail,40,Drug eruption,0,-1
+3,train,1863,133,小儿化食丸,4,medium,128,Blood urea increased,0,-1
+3,train,1864,194,清热灵颗粒,1,tail,53,Phlebitis,0,-1
+3,train,1865,130,元胡止痛颗粒,26,head,134,Laryngeal discomfort,0,-1
+3,train,1866,144,川贝枇杷糖浆,8,medium,131,Dermatitis,0,-1
+3,train,1867,20,苏黄止咳胶囊,5,medium,44,Cough,0,-1
+3,train,1868,47,斑秃丸,11,medium,90,Henoch-Schonlein purpura,0,-1
+3,train,1869,221,青柏洁身洗液,2,tail,86,Stevens-Johnson syndrome,0,-1
+3,train,1870,174,肠康片,4,medium,35,Chills,0,-1
+3,train,1871,107,生血宝合剂,10,medium,168,Instillation site irritation,0,-1
+3,train,1872,116,黄连上清胶囊,9,medium,100,Tongue paralysis,0,-1
+3,train,1873,22,益肾化湿颗粒,2,tail,165,Allergic oedema,0,-1
+3,train,1874,187,复方青黛丸,13,head,96,Injection site rash,0,-1
+3,train,1875,181,胃安胶囊,2,tail,155,Malaise,0,-1
+3,train,1876,66,三金片,16,head,147,Macule,0,-1
+3,train,1877,196,葶贝胶囊,2,tail,168,Instillation site irritation,0,-1
+3,train,1878,204,感冒清热胶囊,12,head,66,Aspartate aminotransferase increased,0,-1
+3,train,1879,41,失笑散,1,tail,82,Heavy menstrual bleeding,0,-1
+3,train,1880,233,复方咳喘胶囊,3,tail,148,Oropharyngeal pain,0,-1
+3,train,1881,130,元胡止痛颗粒,26,head,149,Eyelid oedema,0,-1
+3,train,1882,247,苦碟子注射液,39,head,103,Hiccups,0,-1
+3,train,1883,9,脉络舒通颗粒,4,medium,40,Drug eruption,0,-1
+3,train,1884,92,冠心苏合胶囊,12,head,24,Anaphylactic shock,0,-1
+3,train,1885,34,元胡止痛片,26,head,127,Infection,0,-1
+3,train,1886,182,复方丹参滴丸,24,head,82,Heavy menstrual bleeding,0,-1
+3,train,1887,92,冠心苏合胶囊,12,head,60,Alanine aminotransferase increased,0,-1
+3,train,1888,33,安宫牛黄丸,2,tail,44,Cough,0,-1
+3,train,1889,143,通窍鼻炎胶囊,15,head,107,Temperature intolerance,0,-1
+3,train,1890,20,苏黄止咳胶囊,5,medium,15,Flushing,0,-1
+3,train,1891,244,露水草胶囊,1,tail,64,Epidermal necrosis,0,-1
+3,train,1892,23,丹灯通脑胶囊,1,tail,113,Hypohidrosis,0,-1
+3,train,1893,137,养血清脑颗粒,16,head,155,Malaise,0,-1
+3,train,1894,60,养心氏片,1,tail,82,Heavy menstrual bleeding,0,-1
+3,train,1895,34,元胡止痛片,26,head,115,Ecchymosis,0,-1
+3,train,1896,138,柴连口服液,5,medium,34,Oedema,0,-1
+3,train,1897,225,荷叶调脂茶,1,tail,142,Red blood cells urine,0,-1
+3,train,1898,77,降脂通络软胶囊,2,tail,50,Hyperchlorhydria,0,-1
+3,train,1899,100,天舒胶囊,3,tail,125,Application site telangiectasia,0,-1
+3,train,1900,165,双黄连胶囊,14,head,73,Epigastric discomfort,0,-1
+3,train,1901,87,正清风痛宁片,27,head,51,Ocular icterus,0,-1
+3,train,1902,55,补肺活血胶囊,1,tail,111,Nasal dryness,0,-1
+3,train,1903,205,蒲地蓝消炎口服液,19,head,49,Transaminases increased,0,-1
+3,train,1904,28,注射用双黄连,45,head,149,Eyelid oedema,0,-1
+3,train,1905,7,小儿清热止咳合剂,16,head,161,Mucosal irritation,0,-1
+3,train,1906,30,乳康颗粒,5,medium,52,Cyanosis,0,-1
+3,train,1907,10,五灵胶囊,2,tail,35,Chills,0,-1
+3,train,1908,2,复方双花口服液,3,tail,92,Burning sensation,0,-1
+3,train,1909,151,牛黄上清软胶囊,2,tail,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,1910,211,十味降糖颗粒,1,tail,18,Pyrexia,0,-1
+3,train,1911,128,益心通脉颗粒,1,tail,47,Dysphoria,0,-1
+3,train,1912,205,蒲地蓝消炎口服液,19,head,127,Infection,0,-1
+3,train,1913,69,安神补脑液,15,head,53,Phlebitis,0,-1
+3,train,1914,225,荷叶调脂茶,1,tail,121,Conjunctival haemorrhage,0,-1
+3,train,1915,194,清热灵颗粒,1,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,1916,133,小儿化食丸,4,medium,158,Rash erythematous,0,-1
+3,train,1917,219,安神补脑片,15,head,35,Chills,0,-1
+3,train,1918,22,益肾化湿颗粒,2,tail,112,Injection,0,-1
+3,train,1919,162,心速宁胶囊,1,tail,160,Skin irritation,0,-1
+3,train,1920,138,柴连口服液,5,medium,18,Pyrexia,0,-1
+3,train,1921,223,仙灵骨葆片,18,head,20,Dyspnoea,0,-1
+3,train,1922,39,归脾丸,2,tail,132,Swelling,0,-1
+3,train,1923,114,黄连上清丸,9,medium,25,Dyspepsia,0,-1
+3,train,1924,37,玉屏风丸,20,head,127,Infection,0,-1
+3,train,1925,92,冠心苏合胶囊,12,head,13,Asthenia,0,-1
+3,train,1926,241,熊胆栓,1,tail,138,Muscle tightness,0,-1
+3,train,1927,123,归脾丸（浓缩丸）,2,tail,5,Abdominal pain,0,-1
+3,train,1928,87,正清风痛宁片,27,head,74,Hepatic failure,0,-1
+3,train,1929,100,天舒胶囊,3,tail,99,Anaphylactoid reaction,0,-1
+3,train,1930,133,小儿化食丸,4,medium,17,Hepatic function abnormal,0,-1
+3,train,1931,52,癃闭舒胶囊,14,head,73,Epigastric discomfort,0,-1
+3,train,1932,25,金蝉止痒胶囊,6,medium,136,Neck pain,0,-1
+3,train,1933,226,灵芝口服液,1,tail,61,Tachypnoea,0,-1
+3,train,1934,202,滑膜炎片,25,head,156,Anal incontinence,0,-1
+3,train,1935,194,清热灵颗粒,1,tail,79,Blister,0,-1
+3,train,1936,148,小儿热速清口服液,6,medium,158,Rash erythematous,0,-1
+3,train,1937,17,丹鹿通督片,1,tail,139,Lacrimation increased,0,-1
+3,train,1938,35,小活络丸,47,head,149,Eyelid oedema,0,-1
+3,train,1939,181,胃安胶囊,2,tail,67,Gastrointestinal disorder,0,-1
+3,train,1940,9,脉络舒通颗粒,4,medium,8,Hypersensitivity,0,-1
+3,train,1941,125,归脾颗粒,2,tail,107,Temperature intolerance,0,-1
+3,train,1942,102,肾康宁片,2,tail,51,Ocular icterus,0,-1
+3,train,1943,124,归脾合剂,2,tail,15,Flushing,0,-1
+3,train,1944,44,消痔软膏,1,tail,52,Cyanosis,0,-1
+3,train,1945,214,首乌延寿颗粒,18,head,84,Chronic arsenic toxicity,0,-1
+3,train,1946,18,参桂胶囊,2,tail,60,Alanine aminotransferase increased,0,-1
+3,train,1947,191,消银胶囊,15,head,18,Pyrexia,0,-1
+3,train,1948,221,青柏洁身洗液,2,tail,156,Anal incontinence,0,-1
+3,train,1949,11,沈阳红药胶囊,2,tail,88,Pallor,0,-1
+3,train,1950,23,丹灯通脑胶囊,1,tail,106,Hypertension,0,-1
+3,train,1951,241,熊胆栓,1,tail,156,Anal incontinence,0,-1
+3,train,1952,26,活血止痛软胶囊,1,tail,141,Neurological symptom,0,-1
+3,train,1953,184,复方丹参胶囊,15,head,33,Blood pressure decreased,0,-1
+3,train,1954,33,安宫牛黄丸,2,tail,9,Palpitations,0,-1
+3,train,1955,193,麻仁润肠丸,15,head,129,Ocular hyperaemia,0,-1
+3,train,1956,87,正清风痛宁片,27,head,166,Myalgia,0,-1
+3,train,1957,130,元胡止痛颗粒,26,head,110,Hypoglycaemia,0,-1
+3,train,1958,184,复方丹参胶囊,15,head,77,Myoclonus,0,-1
+3,train,1959,89,松龄血脉康胶囊,2,tail,5,Abdominal pain,0,-1
+3,train,1960,17,丹鹿通督片,1,tail,6,Abdominal discomfort,0,-1
+3,train,1961,76,胆宁片,1,tail,136,Neck pain,0,-1
+3,train,1962,243,舒肝康胶囊,2,tail,97,Injection site pain,0,-1
+3,train,1963,5,益心酮滴丸,1,tail,141,Neurological symptom,0,-1
+3,train,1964,187,复方青黛丸,13,head,13,Asthenia,0,-1
+3,train,1965,144,川贝枇杷糖浆,8,medium,96,Injection site rash,0,-1
+3,train,1966,39,归脾丸,2,tail,110,Hypoglycaemia,0,-1
+3,train,1967,162,心速宁胶囊,1,tail,140,Neuropsychological symptoms,0,-1
+3,train,1968,44,消痔软膏,1,tail,29,Pain,0,-1
+3,train,1969,165,双黄连胶囊,14,head,30,Gastrointestinal haemorrhage,0,-1
+3,train,1970,246,貂胰防裂软膏,1,tail,94,General symptom,0,-1
+3,train,1971,131,千柏鼻炎胶囊,1,tail,49,Transaminases increased,0,-1
+3,train,1972,128,益心通脉颗粒,1,tail,111,Nasal dryness,0,-1
+3,train,1973,17,丹鹿通督片,1,tail,60,Alanine aminotransferase increased,0,-1
+3,train,1974,92,冠心苏合胶囊,12,head,23,Urticaria,0,-1
+3,train,1975,233,复方咳喘胶囊,3,tail,2,Diarrhoea,0,-1
+3,train,1976,89,松龄血脉康胶囊,2,tail,105,Muscle twitching,0,-1
+3,train,1977,207,新血宝胶囊,5,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,1978,14,养血当归胶囊,1,tail,3,Vomiting,0,-1
+3,train,1979,98,开胸顺气胶囊,1,tail,14,Chest discomfort,0,-1
+3,train,1980,25,金蝉止痒胶囊,6,medium,14,Chest discomfort,0,-1
+3,train,1981,39,归脾丸,2,tail,112,Injection,0,-1
+3,train,1982,66,三金片,16,head,72,Dermatitis exfoliative,0,-1
+3,train,1983,14,养血当归胶囊,1,tail,80,Acute kidney injury,0,-1
+3,train,1984,130,元胡止痛颗粒,26,head,154,Male sexual dysfunction,0,-1
+3,train,1985,96,独一味胶囊,22,head,74,Hepatic failure,0,-1
+3,train,1986,41,失笑散,1,tail,155,Malaise,0,-1
+3,train,1987,147,小儿热速清颗粒,6,medium,122,Skin reaction,0,-1
+3,train,1988,38,蛇胆川贝散,19,head,168,Instillation site irritation,0,-1
+3,train,1989,25,金蝉止痒胶囊,6,medium,19,Constipation,0,-1
+3,train,1990,100,天舒胶囊,3,tail,139,Lacrimation increased,0,-1
+3,train,1991,78,一清胶囊,4,medium,126,Application site pruritus,0,-1
+3,train,1992,133,小儿化食丸,4,medium,56,Thirst,0,-1
+3,train,1993,166,白蚀丸,13,head,77,Myoclonus,0,-1
+3,train,1994,135,牛黄解毒软胶囊,29,head,141,Neurological symptom,0,-1
+3,train,1995,112,桂枝茯苓片,2,tail,167,Arthralgia,0,-1
+3,train,1996,96,独一味胶囊,22,head,134,Laryngeal discomfort,0,-1
+3,train,1997,104,三七伤药片,40,head,81,Dysuria,0,-1
+3,train,1998,209,藿香正气滴丸,5,medium,128,Blood urea increased,0,-1
+3,train,1999,33,安宫牛黄丸,2,tail,13,Asthenia,0,-1
+3,train,2000,129,元胡止痛口服液,26,head,105,Muscle twitching,0,-1
+3,train,2001,248,紫松皮炎膏,5,medium,124,Angina pectoris,0,-1
+3,train,2002,107,生血宝合剂,10,medium,20,Dyspnoea,0,-1
+3,train,2003,78,一清胶囊,4,medium,35,Chills,0,-1
+3,train,2004,203,腰痛宁胶囊,16,head,59,Yellow skin,0,-1
+3,train,2005,117,黄连上清颗粒,9,medium,141,Neurological symptom,0,-1
+3,train,2006,80,银杏叶片,21,head,31,Dysgeusia,0,-1
+3,train,2007,137,养血清脑颗粒,16,head,36,Hypoaesthesia oral,0,-1
+3,train,2008,11,沈阳红药胶囊,2,tail,60,Alanine aminotransferase increased,0,-1
+3,train,2009,165,双黄连胶囊,14,head,166,Myalgia,0,-1
+3,train,2010,170,克咳片,1,tail,29,Pain,0,-1
+3,train,2011,6,银杏叶口服液,21,head,127,Infection,0,-1
+3,train,2012,10,五灵胶囊,2,tail,69,Arrhythmia,0,-1
+3,train,2013,107,生血宝合剂,10,medium,150,Alopecia,0,-1
+3,train,2014,143,通窍鼻炎胶囊,15,head,76,Hyperpyrexia,0,-1
+3,train,2015,27,银杏叶软胶囊,21,head,15,Flushing,0,-1
+3,train,2016,107,生血宝合剂,10,medium,156,Anal incontinence,0,-1
+3,train,2017,143,通窍鼻炎胶囊,15,head,126,Application site pruritus,0,-1
+3,train,2018,5,益心酮滴丸,1,tail,97,Injection site pain,0,-1
+3,train,2019,143,通窍鼻炎胶囊,15,head,113,Hypohidrosis,0,-1
+3,train,2020,14,养血当归胶囊,1,tail,57,Laryngeal oedema,0,-1
+3,train,2021,78,一清胶囊,4,medium,97,Injection site pain,0,-1
+3,train,2022,68,加味藿香正气软胶囊,1,tail,168,Instillation site irritation,0,-1
+3,train,2023,163,心可舒片,15,head,136,Neck pain,0,-1
+3,train,2024,16,风湿骨痛片,33,head,169,Protein urine,0,-1
+3,train,2025,209,藿香正气滴丸,5,medium,89,Liver injury,0,-1
+3,train,2026,7,小儿清热止咳合剂,16,head,155,Malaise,0,-1
+3,train,2027,125,归脾颗粒,2,tail,67,Gastrointestinal disorder,0,-1
+3,train,2028,237,川贝枇杷颗粒,8,medium,55,Vertigo,0,-1
+3,train,2029,9,脉络舒通颗粒,4,medium,87,Neutrophil count decreased,0,-1
+3,train,2030,248,紫松皮炎膏,5,medium,111,Nasal dryness,0,-1
+3,train,2031,162,心速宁胶囊,1,tail,14,Chest discomfort,0,-1
+3,train,2032,34,元胡止痛片,26,head,141,Neurological symptom,0,-1
+3,train,2033,144,川贝枇杷糖浆,8,medium,73,Epigastric discomfort,0,-1
+3,train,2034,206,裸花紫珠片,24,head,118,Application site discolouration,0,-1
+3,train,2035,161,六味地黄片,12,head,146,Tinnitus,0,-1
+3,train,2036,223,仙灵骨葆片,18,head,132,Swelling,0,-1
+3,train,2037,102,肾康宁片,2,tail,41,Papule,0,-1
+3,train,2038,141,软脉灵口服液,3,tail,119,Injection site hypoaesthesia,0,-1
+3,train,2039,93,便通片,3,tail,33,Blood pressure decreased,0,-1
+3,train,2040,4,坤泰胶囊,2,tail,71,White blood cell count decreased,0,-1
+3,train,2041,106,平消胶囊,4,medium,21,Somnolence,0,-1
+3,train,2042,98,开胸顺气胶囊,1,tail,138,Muscle tightness,0,-1
+3,train,2043,113,桂枝茯苓胶囊,2,tail,86,Stevens-Johnson syndrome,0,-1
+3,train,2044,225,荷叶调脂茶,1,tail,101,Lethargy,0,-1
+3,train,2045,11,沈阳红药胶囊,2,tail,157,Hypothermia,0,-1
+3,train,2046,106,平消胶囊,4,medium,92,Burning sensation,0,-1
+3,train,2047,104,三七伤药片,40,head,168,Instillation site irritation,0,-1
+3,train,2048,100,天舒胶囊,3,tail,167,Arthralgia,0,-1
+3,train,2049,243,舒肝康胶囊,2,tail,3,Vomiting,0,-1
+3,train,2050,38,蛇胆川贝散,19,head,78,Renal impairment,0,-1
+3,train,2051,223,仙灵骨葆片,18,head,169,Protein urine,0,-1
+3,train,2052,121,颈痛颗粒,2,tail,67,Gastrointestinal disorder,0,-1
+3,train,2053,63,鼻渊通窍颗粒,1,tail,113,Hypohidrosis,0,-1
+3,train,2054,179,茵栀黄胶囊,7,medium,9,Palpitations,0,-1
+3,train,2055,133,小儿化食丸,4,medium,122,Skin reaction,0,-1
+3,train,2056,217,三黄胶囊,15,head,55,Vertigo,0,-1
+3,train,2057,151,牛黄上清软胶囊,2,tail,14,Chest discomfort,0,-1
+3,train,2058,106,平消胶囊,4,medium,156,Anal incontinence,0,-1
+3,train,2059,215,千金藤素片,1,tail,80,Acute kidney injury,0,-1
+3,train,2060,20,苏黄止咳胶囊,5,medium,112,Injection,0,-1
+3,train,2061,106,平消胶囊,4,medium,66,Aspartate aminotransferase increased,0,-1
+3,train,2062,191,消银胶囊,15,head,32,Eructation,0,-1
+3,train,2063,89,松龄血脉康胶囊,2,tail,161,Mucosal irritation,0,-1
+3,train,2064,60,养心氏片,1,tail,37,Hypoaesthesia,0,-1
+3,train,2065,247,苦碟子注射液,39,head,167,Arthralgia,0,-1
+3,train,2066,15,小儿咳喘灵口服液,13,head,59,Yellow skin,0,-1
+3,train,2067,36,牛黄解毒片,29,head,167,Arthralgia,0,-1
+3,train,2068,11,沈阳红药胶囊,2,tail,47,Dysphoria,0,-1
+3,train,2069,196,葶贝胶囊,2,tail,112,Injection,0,-1
+3,train,2070,227,丹香冠心注射液,16,head,81,Dysuria,0,-1
+3,train,2071,13,杏苏止咳口服液,1,tail,141,Neurological symptom,0,-1
+3,train,2072,89,松龄血脉康胶囊,2,tail,15,Flushing,0,-1
+3,train,2073,102,肾康宁片,2,tail,65,Tremor,0,-1
+3,train,2074,5,益心酮滴丸,1,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,2075,209,藿香正气滴丸,5,medium,11,Dry mouth,0,-1
+3,train,2076,241,熊胆栓,1,tail,60,Alanine aminotransferase increased,0,-1
+3,train,2077,25,金蝉止痒胶囊,6,medium,129,Ocular hyperaemia,0,-1
+3,train,2078,166,白蚀丸,13,head,28,Hyperhidrosis,0,-1
+3,train,2079,198,葛根汤片,3,tail,19,Constipation,0,-1
+3,train,2080,93,便通片,3,tail,52,Cyanosis,0,-1
+3,train,2081,122,玉屏风袋泡茶,20,head,146,Tinnitus,0,-1
+3,train,2082,137,养血清脑颗粒,16,head,106,Hypertension,0,-1
+3,train,2083,23,丹灯通脑胶囊,1,tail,164,Drooling,0,-1
+3,train,2084,162,心速宁胶囊,1,tail,72,Dermatitis exfoliative,0,-1
+3,train,2085,122,玉屏风袋泡茶,20,head,155,Malaise,0,-1
+3,train,2086,151,牛黄上清软胶囊,2,tail,166,Myalgia,0,-1
+3,train,2087,137,养血清脑颗粒,16,head,120,Skin atrophy,0,-1
+3,train,2088,113,桂枝茯苓胶囊,2,tail,159,Dermatitis allergic,0,-1
+3,train,2089,9,脉络舒通颗粒,4,medium,41,Papule,0,-1
+3,train,2090,136,复方金黄连颗粒,1,tail,11,Dry mouth,0,-1
+3,train,2091,112,桂枝茯苓片,2,tail,38,Abdominal pain upper,0,-1
+3,train,2092,34,元胡止痛片,26,head,155,Malaise,0,-1
+3,train,2093,82,康妇消炎栓,13,head,80,Acute kidney injury,0,-1
+3,train,2094,198,葛根汤片,3,tail,130,Injection site pruritus,0,-1
+3,train,2095,227,丹香冠心注射液,16,head,88,Pallor,0,-1
+3,train,2096,84,参芪五味子胶囊,7,medium,96,Injection site rash,0,-1
+3,train,2097,231,清润丸,3,tail,8,Hypersensitivity,0,-1
+3,train,2098,47,斑秃丸,11,medium,97,Injection site pain,0,-1
+3,train,2099,26,活血止痛软胶囊,1,tail,19,Constipation,0,-1
+3,train,2100,87,正清风痛宁片,27,head,144,Coagulopathy,0,-1
+3,train,2101,194,清热灵颗粒,1,tail,147,Macule,0,-1
+3,train,2102,252,瓜蒌皮注射液,30,head,140,Neuropsychological symptoms,0,-1
+3,train,2103,157,六味香连胶囊,1,tail,137,Application site pain,0,-1
+3,train,2104,38,蛇胆川贝散,19,head,135,Platelet count decreased,0,-1
+3,train,2105,16,风湿骨痛片,33,head,155,Malaise,0,-1
+3,train,2106,181,胃安胶囊,2,tail,168,Instillation site irritation,0,-1
+3,train,2107,204,感冒清热胶囊,12,head,133,Confusional state,0,-1
+3,train,2108,165,双黄连胶囊,14,head,81,Dysuria,0,-1
+3,train,2109,104,三七伤药片,40,head,49,Transaminases increased,0,-1
+3,train,2110,226,灵芝口服液,1,tail,75,Vision blurred,0,-1
+3,train,2111,96,独一味胶囊,22,head,84,Chronic arsenic toxicity,0,-1
+3,train,2112,96,独一味胶囊,22,head,92,Burning sensation,0,-1
+3,train,2113,92,冠心苏合胶囊,12,head,116,Hepatitis,0,-1
+3,train,2114,119,血府逐瘀口服液,9,medium,29,Pain,0,-1
+3,train,2115,94,便通胶囊,3,tail,113,Hypohidrosis,0,-1
+3,train,2116,151,牛黄上清软胶囊,2,tail,92,Burning sensation,0,-1
+3,train,2117,26,活血止痛软胶囊,1,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,2118,219,安神补脑片,15,head,129,Ocular hyperaemia,0,-1
+3,train,2119,25,金蝉止痒胶囊,6,medium,92,Burning sensation,0,-1
+3,train,2120,187,复方青黛丸,13,head,154,Male sexual dysfunction,0,-1
+3,train,2121,89,松龄血脉康胶囊,2,tail,114,Drug-induced liver injury,0,-1
+3,train,2122,157,六味香连胶囊,1,tail,58,Gingival bleeding,0,-1
+3,train,2123,223,仙灵骨葆片,18,head,32,Eructation,0,-1
+3,train,2124,207,新血宝胶囊,5,medium,62,Dry skin,0,-1
+3,train,2125,151,牛黄上清软胶囊,2,tail,149,Eyelid oedema,0,-1
+3,train,2126,44,消痔软膏,1,tail,155,Malaise,0,-1
+3,train,2127,102,肾康宁片,2,tail,73,Epigastric discomfort,0,-1
+3,train,2128,128,益心通脉颗粒,1,tail,80,Acute kidney injury,0,-1
+3,train,2129,37,玉屏风丸,20,head,20,Dyspnoea,0,-1
+3,train,2130,151,牛黄上清软胶囊,2,tail,107,Temperature intolerance,0,-1
+3,train,2131,196,葶贝胶囊,2,tail,37,Hypoaesthesia,0,-1
+3,train,2132,226,灵芝口服液,1,tail,126,Application site pruritus,0,-1
+3,train,2133,252,瓜蒌皮注射液,30,head,50,Hyperchlorhydria,0,-1
+3,train,2134,66,三金片,16,head,116,Hepatitis,0,-1
+3,train,2135,4,坤泰胶囊,2,tail,42,Epistaxis,0,-1
+3,train,2136,37,玉屏风丸,20,head,107,Temperature intolerance,0,-1
+3,train,2137,103,丹香清脂颗粒,1,tail,141,Neurological symptom,0,-1
+3,train,2138,181,胃安胶囊,2,tail,25,Dyspepsia,0,-1
+3,train,2139,39,归脾丸,2,tail,8,Hypersensitivity,0,-1
+3,train,2140,56,慢支固本颗粒,1,tail,18,Pyrexia,0,-1
+3,train,2141,41,失笑散,1,tail,131,Dermatitis,0,-1
+3,train,2142,205,蒲地蓝消炎口服液,19,head,99,Anaphylactoid reaction,0,-1
+3,train,2143,161,六味地黄片,12,head,90,Henoch-Schonlein purpura,0,-1
+3,train,2144,39,归脾丸,2,tail,102,Menstruation irregular,0,-1
+3,train,2145,217,三黄胶囊,15,head,61,Tachypnoea,0,-1
+3,train,2146,113,桂枝茯苓胶囊,2,tail,30,Gastrointestinal haemorrhage,0,-1
+3,train,2147,125,归脾颗粒,2,tail,86,Stevens-Johnson syndrome,0,-1
+3,train,2148,237,川贝枇杷颗粒,8,medium,155,Malaise,0,-1
+3,train,2149,246,貂胰防裂软膏,1,tail,27,Insomnia,0,-1
+3,train,2150,14,养血当归胶囊,1,tail,18,Pyrexia,0,-1
+3,train,2151,131,千柏鼻炎胶囊,1,tail,114,Drug-induced liver injury,0,-1
+3,train,2152,151,牛黄上清软胶囊,2,tail,161,Mucosal irritation,0,-1
+3,train,2153,168,灯盏细辛注射液,18,head,111,Nasal dryness,0,-1
+3,train,2154,112,桂枝茯苓片,2,tail,122,Skin reaction,0,-1
+3,train,2155,43,荷丹片,3,tail,46,Head discomfort,0,-1
+3,train,2156,233,复方咳喘胶囊,3,tail,130,Injection site pruritus,0,-1
+3,train,2157,27,银杏叶软胶囊,21,head,38,Abdominal pain upper,0,-1
+3,train,2158,2,复方双花口服液,3,tail,151,Crying,0,-1
+3,train,2159,237,川贝枇杷颗粒,8,medium,94,General symptom,0,-1
+3,train,2160,170,克咳片,1,tail,97,Injection site pain,0,-1
+3,train,2161,121,颈痛颗粒,2,tail,112,Injection,0,-1
+3,train,2162,63,鼻渊通窍颗粒,1,tail,130,Injection site pruritus,0,-1
+3,train,2163,233,复方咳喘胶囊,3,tail,71,White blood cell count decreased,0,-1
+3,train,2164,30,乳康颗粒,5,medium,59,Yellow skin,0,-1
+3,train,2165,114,黄连上清丸,9,medium,126,Application site pruritus,0,-1
+3,train,2166,128,益心通脉颗粒,1,tail,12,Abdominal distension,0,-1
+3,train,2167,221,青柏洁身洗液,2,tail,132,Swelling,0,-1
+3,train,2168,204,感冒清热胶囊,12,head,148,Oropharyngeal pain,0,-1
+3,train,2169,198,葛根汤片,3,tail,109,Increased appetite,0,-1
+3,train,2170,111,都梁滴丸,2,tail,82,Heavy menstrual bleeding,0,-1
+3,train,2171,143,通窍鼻炎胶囊,15,head,81,Dysuria,0,-1
+3,train,2172,63,鼻渊通窍颗粒,1,tail,36,Hypoaesthesia oral,0,-1
+3,train,2173,13,杏苏止咳口服液,1,tail,53,Phlebitis,0,-1
+3,train,2174,163,心可舒片,15,head,132,Swelling,0,-1
+3,train,2175,107,生血宝合剂,10,medium,147,Macule,0,-1
+3,train,2176,246,貂胰防裂软膏,1,tail,80,Acute kidney injury,0,-1
+3,train,2177,31,生白合剂,1,tail,88,Pallor,0,-1
+3,train,2178,108,乐脉片,1,tail,42,Epistaxis,0,-1
+3,train,2179,37,玉屏风丸,20,head,73,Epigastric discomfort,0,-1
+3,train,2180,106,平消胶囊,4,medium,124,Angina pectoris,0,-1
+3,train,2181,165,双黄连胶囊,14,head,57,Laryngeal oedema,0,-1
+3,train,2182,57,痛泻宁颗粒,1,tail,73,Epigastric discomfort,0,-1
+3,train,2183,102,肾康宁片,2,tail,155,Malaise,0,-1
+3,train,2184,34,元胡止痛片,26,head,59,Yellow skin,0,-1
+3,train,2185,107,生血宝合剂,10,medium,36,Hypoaesthesia oral,0,-1
+3,train,2186,30,乳康颗粒,5,medium,52,Cyanosis,0,-1
+3,train,2187,215,千金藤素片,1,tail,130,Injection site pruritus,0,-1
+3,train,2188,57,痛泻宁颗粒,1,tail,7,Dizziness,0,-1
+3,train,2189,241,熊胆栓,1,tail,10,Headache,0,-1
+3,train,2190,209,藿香正气滴丸,5,medium,137,Application site pain,0,-1
+3,train,2191,136,复方金黄连颗粒,1,tail,52,Cyanosis,0,-1
+3,train,2192,108,乐脉片,1,tail,146,Tinnitus,0,-1
+3,train,2193,162,心速宁胶囊,1,tail,113,Hypohidrosis,0,-1
+3,train,2194,203,腰痛宁胶囊,16,head,32,Eructation,0,-1
+3,train,2195,170,克咳片,1,tail,75,Vision blurred,0,-1
+3,train,2196,166,白蚀丸,13,head,110,Hypoglycaemia,0,-1
+3,train,2197,191,消银胶囊,15,head,67,Gastrointestinal disorder,0,-1
+3,train,2198,107,生血宝合剂,10,medium,29,Pain,0,-1
+3,train,2199,131,千柏鼻炎胶囊,1,tail,20,Dyspnoea,0,-1
+3,train,2200,86,心脑欣丸,2,tail,19,Constipation,0,-1
+3,train,2201,122,玉屏风袋泡茶,20,head,40,Drug eruption,0,-1
+3,train,2202,196,葶贝胶囊,2,tail,85,Pigmentation disorder,0,-1
+3,train,2203,106,平消胶囊,4,medium,116,Hepatitis,0,-1
+3,train,2204,252,瓜蒌皮注射液,30,head,131,Dermatitis,0,-1
+3,train,2205,23,丹灯通脑胶囊,1,tail,80,Acute kidney injury,0,-1
+3,train,2206,11,沈阳红药胶囊,2,tail,110,Hypoglycaemia,0,-1
+3,train,2207,31,生白合剂,1,tail,133,Confusional state,0,-1
+3,train,2208,120,颈舒颗粒,1,tail,48,Melaena,0,-1
+3,train,2209,217,三黄胶囊,15,head,169,Protein urine,0,-1
+3,train,2210,249,丹芎跌打膏,1,tail,9,Palpitations,0,-1
+3,train,2211,253,五酯片,1,tail,160,Skin irritation,0,-1
+3,train,2212,3,芪明颗粒,3,tail,62,Dry skin,0,-1
+3,train,2213,44,消痔软膏,1,tail,150,Alopecia,0,-1
+3,train,2214,138,柴连口服液,5,medium,56,Thirst,0,-1
+3,train,2215,76,胆宁片,1,tail,67,Gastrointestinal disorder,0,-1
+3,train,2216,181,胃安胶囊,2,tail,38,Abdominal pain upper,0,-1
+3,train,2217,189,脑栓通胶囊,2,tail,47,Dysphoria,0,-1
+3,train,2218,193,麻仁润肠丸,15,head,72,Dermatitis exfoliative,0,-1
+3,train,2219,41,失笑散,1,tail,50,Hyperchlorhydria,0,-1
+3,train,2220,253,五酯片,1,tail,22,Erythema,0,-1
+3,train,2221,202,滑膜炎片,25,head,54,Poisoning,0,-1
+3,train,2222,1,疏风解毒胶囊,12,head,111,Nasal dryness,0,-1
+3,train,2223,22,益肾化湿颗粒,2,tail,125,Application site telangiectasia,0,-1
+3,train,2224,217,三黄胶囊,15,head,156,Anal incontinence,0,-1
+3,train,2225,80,银杏叶片,21,head,45,Chromaturia,0,-1
+3,train,2226,11,沈阳红药胶囊,2,tail,107,Temperature intolerance,0,-1
+3,train,2227,103,丹香清脂颗粒,1,tail,157,Hypothermia,0,-1
+3,train,2228,141,软脉灵口服液,3,tail,161,Mucosal irritation,0,-1
+3,train,2229,231,清润丸,3,tail,60,Alanine aminotransferase increased,0,-1
+3,train,2230,130,元胡止痛颗粒,26,head,123,Coma,0,-1
+3,train,2231,205,蒲地蓝消炎口服液,19,head,168,Instillation site irritation,0,-1
+3,train,2232,66,三金片,16,head,76,Hyperpyrexia,0,-1
+3,train,2233,92,冠心苏合胶囊,12,head,74,Hepatic failure,0,-1
+3,train,2234,189,脑栓通胶囊,2,tail,125,Application site telangiectasia,0,-1
+3,train,2235,252,瓜蒌皮注射液,30,head,100,Tongue paralysis,0,-1
+3,train,2236,241,熊胆栓,1,tail,91,Haematochezia,0,-1
+3,train,2237,211,十味降糖颗粒,1,tail,123,Coma,0,-1
+3,train,2238,113,桂枝茯苓胶囊,2,tail,24,Anaphylactic shock,0,-1
+3,train,2239,86,心脑欣丸,2,tail,28,Hyperhidrosis,0,-1
+3,train,2240,111,都梁滴丸,2,tail,107,Temperature intolerance,0,-1
+3,train,2241,167,壮骨关节丸,17,head,83,Skin swelling,0,-1
+3,train,2242,98,开胸顺气胶囊,1,tail,169,Protein urine,0,-1
+3,train,2243,161,六味地黄片,12,head,29,Pain,0,-1
+3,train,2244,63,鼻渊通窍颗粒,1,tail,118,Application site discolouration,0,-1
+3,train,2245,120,颈舒颗粒,1,tail,169,Protein urine,0,-1
+3,train,2246,36,牛黄解毒片,29,head,88,Pallor,0,-1
+3,train,2247,147,小儿热速清颗粒,6,medium,32,Eructation,0,-1
+3,train,2248,187,复方青黛丸,13,head,125,Application site telangiectasia,0,-1
+3,train,2249,241,熊胆栓,1,tail,105,Muscle twitching,0,-1
+3,train,2250,93,便通片,3,tail,7,Dizziness,0,-1
+3,train,2251,112,桂枝茯苓片,2,tail,68,Flatulence,0,-1
+3,train,2252,196,葶贝胶囊,2,tail,55,Vertigo,0,-1
+3,train,2253,151,牛黄上清软胶囊,2,tail,15,Flushing,0,-1
+3,train,2254,219,安神补脑片,15,head,82,Heavy menstrual bleeding,0,-1
+3,train,2255,102,肾康宁片,2,tail,81,Dysuria,0,-1
+3,train,2256,154,丹桂香颗粒,1,tail,100,Tongue paralysis,0,-1
+3,train,2257,166,白蚀丸,13,head,108,Tooth discolouration,0,-1
+3,train,2258,148,小儿热速清口服液,6,medium,66,Aspartate aminotransferase increased,0,-1
+3,train,2259,16,风湿骨痛片,33,head,68,Flatulence,0,-1
+3,train,2260,189,脑栓通胶囊,2,tail,56,Thirst,0,-1
+3,train,2261,125,归脾颗粒,2,tail,162,Dry throat,0,-1
+3,train,2262,14,养血当归胶囊,1,tail,78,Renal impairment,0,-1
+3,train,2263,167,壮骨关节丸,17,head,104,Dyschezia,0,-1
+3,train,2264,86,心脑欣丸,2,tail,146,Tinnitus,0,-1
+3,train,2265,56,慢支固本颗粒,1,tail,137,Application site pain,0,-1
+3,train,2266,78,一清胶囊,4,medium,160,Skin irritation,0,-1
+3,train,2267,35,小活络丸,47,head,157,Hypothermia,0,-1
+3,train,2268,244,露水草胶囊,1,tail,84,Chronic arsenic toxicity,0,-1
+3,train,2269,41,失笑散,1,tail,154,Male sexual dysfunction,0,-1
+3,train,2270,209,藿香正气滴丸,5,medium,5,Abdominal pain,0,-1
+3,train,2271,6,银杏叶口服液,21,head,97,Injection site pain,0,-1
+3,train,2272,29,脉络舒通丸,4,medium,85,Pigmentation disorder,0,-1
+3,train,2273,131,千柏鼻炎胶囊,1,tail,141,Neurological symptom,0,-1
+3,train,2274,20,苏黄止咳胶囊,5,medium,167,Arthralgia,0,-1
+3,train,2275,15,小儿咳喘灵口服液,13,head,132,Swelling,0,-1
+3,train,2276,80,银杏叶片,21,head,92,Burning sensation,0,-1
+3,train,2277,207,新血宝胶囊,5,medium,50,Hyperchlorhydria,0,-1
+3,train,2278,52,癃闭舒胶囊,14,head,137,Application site pain,0,-1
+3,train,2279,147,小儿热速清颗粒,6,medium,58,Gingival bleeding,0,-1
+3,train,2280,112,桂枝茯苓片,2,tail,41,Papule,0,-1
+3,train,2281,137,养血清脑颗粒,16,head,84,Chronic arsenic toxicity,0,-1
+3,train,2282,154,丹桂香颗粒,1,tail,55,Vertigo,0,-1
+3,train,2283,215,千金藤素片,1,tail,63,Face oedema,0,-1
+3,train,2284,4,坤泰胶囊,2,tail,9,Palpitations,0,-1
+3,train,2285,6,银杏叶口服液,21,head,134,Laryngeal discomfort,0,-1
+3,train,2286,33,安宫牛黄丸,2,tail,128,Blood urea increased,0,-1
+3,train,2287,147,小儿热速清颗粒,6,medium,124,Angina pectoris,0,-1
+3,train,2288,13,杏苏止咳口服液,1,tail,40,Drug eruption,0,-1
+3,train,2289,108,乐脉片,1,tail,77,Myoclonus,0,-1
+3,train,2290,7,小儿清热止咳合剂,16,head,58,Gingival bleeding,0,-1
+3,train,2291,252,瓜蒌皮注射液,30,head,63,Face oedema,0,-1
+3,train,2292,10,五灵胶囊,2,tail,69,Arrhythmia,0,-1
+3,train,2293,38,蛇胆川贝散,19,head,96,Injection site rash,0,-1
+3,train,2294,148,小儿热速清口服液,6,medium,33,Blood pressure decreased,0,-1
+3,train,2295,25,金蝉止痒胶囊,6,medium,18,Pyrexia,0,-1
+3,train,2296,196,葶贝胶囊,2,tail,106,Hypertension,0,-1
+3,train,2297,209,藿香正气滴丸,5,medium,154,Male sexual dysfunction,0,-1
+3,train,2298,47,斑秃丸,11,medium,24,Anaphylactic shock,0,-1
+3,train,2299,233,复方咳喘胶囊,3,tail,100,Tongue paralysis,0,-1
+3,train,2300,74,复方瓜子金颗粒,10,medium,155,Malaise,0,-1
+3,train,2301,118,柴黄口服液,7,medium,82,Heavy menstrual bleeding,0,-1
+3,train,2302,161,六味地黄片,12,head,131,Dermatitis,0,-1
+3,train,2303,6,银杏叶口服液,21,head,77,Myoclonus,0,-1
+3,train,2304,106,平消胶囊,4,medium,117,Haemorrhage subcutaneous,0,-1
+3,train,2305,77,降脂通络软胶囊,2,tail,25,Dyspepsia,0,-1
+3,train,2306,103,丹香清脂颗粒,1,tail,167,Arthralgia,0,-1
+3,train,2307,226,灵芝口服液,1,tail,120,Skin atrophy,0,-1
+3,train,2308,138,柴连口服液,5,medium,74,Hepatic failure,0,-1
+3,train,2309,162,心速宁胶囊,1,tail,23,Urticaria,0,-1
+3,train,2310,86,心脑欣丸,2,tail,104,Dyschezia,0,-1
+3,train,2311,219,安神补脑片,15,head,71,White blood cell count decreased,0,-1
+3,train,2312,206,裸花紫珠片,24,head,129,Ocular hyperaemia,0,-1
+3,train,2313,96,独一味胶囊,22,head,97,Injection site pain,0,-1
+3,train,2314,5,益心酮滴丸,1,tail,127,Infection,0,-1
+3,train,2315,145,小儿肺热咳喘口服液,11,medium,95,Blood bilirubin increased,0,-1
+3,train,2316,211,十味降糖颗粒,1,tail,27,Insomnia,0,-1
+3,train,2317,168,灯盏细辛注射液,18,head,57,Laryngeal oedema,0,-1
+3,train,2318,226,灵芝口服液,1,tail,6,Abdominal discomfort,0,-1
+3,train,2319,147,小儿热速清颗粒,6,medium,59,Yellow skin,0,-1
+3,train,2320,167,壮骨关节丸,17,head,94,General symptom,0,-1
+3,train,2321,184,复方丹参胶囊,15,head,144,Coagulopathy,0,-1
+3,train,2322,34,元胡止痛片,26,head,164,Drooling,0,-1
+3,train,2323,118,柴黄口服液,7,medium,85,Pigmentation disorder,0,-1
+3,train,2324,45,通乐颗粒,2,tail,161,Mucosal irritation,0,-1
+3,train,2325,27,银杏叶软胶囊,21,head,24,Anaphylactic shock,0,-1
+3,train,2326,219,安神补脑片,15,head,43,Haematuria,0,-1
+3,train,2327,80,银杏叶片,21,head,125,Application site telangiectasia,0,-1
+3,train,2328,237,川贝枇杷颗粒,8,medium,63,Face oedema,0,-1
+3,train,2329,27,银杏叶软胶囊,21,head,36,Hypoaesthesia oral,0,-1
+3,train,2330,150,小儿退热颗粒,3,tail,157,Hypothermia,0,-1
+3,train,2331,182,复方丹参滴丸,24,head,133,Confusional state,0,-1
+3,train,2332,223,仙灵骨葆片,18,head,59,Yellow skin,0,-1
+3,train,2333,18,参桂胶囊,2,tail,126,Application site pruritus,0,-1
+3,train,2334,100,天舒胶囊,3,tail,105,Muscle twitching,0,-1
+3,train,2335,118,柴黄口服液,7,medium,86,Stevens-Johnson syndrome,0,-1
+3,train,2336,47,斑秃丸,11,medium,9,Palpitations,0,-1
+3,train,2337,121,颈痛颗粒,2,tail,144,Coagulopathy,0,-1
+3,train,2338,241,熊胆栓,1,tail,104,Dyschezia,0,-1
+3,train,2339,2,复方双花口服液,3,tail,68,Flatulence,0,-1
+3,train,2340,80,银杏叶片,21,head,143,Syncope,0,-1
+3,train,2341,190,脑心通胶囊,16,head,139,Lacrimation increased,0,-1
+3,train,2342,193,麻仁润肠丸,15,head,80,Acute kidney injury,0,-1
+3,train,2343,93,便通片,3,tail,82,Heavy menstrual bleeding,0,-1
+3,train,2344,178,茵栀黄颗粒,7,medium,123,Coma,0,-1
+3,train,2345,201,滑膜炎胶囊,25,head,142,Red blood cells urine,0,-1
+3,train,2346,26,活血止痛软胶囊,1,tail,26,Blood pressure increased,0,-1
+3,train,2347,138,柴连口服液,5,medium,32,Eructation,0,-1
+3,train,2348,4,坤泰胶囊,2,tail,41,Papule,0,-1
+3,train,2349,203,腰痛宁胶囊,16,head,31,Dysgeusia,0,-1
+3,train,2350,56,慢支固本颗粒,1,tail,50,Hyperchlorhydria,0,-1
+3,train,2351,165,双黄连胶囊,14,head,29,Pain,0,-1
+3,train,2352,11,沈阳红药胶囊,2,tail,108,Tooth discolouration,0,-1
+3,train,2353,191,消银胶囊,15,head,43,Haematuria,0,-1
+3,train,2354,249,丹芎跌打膏,1,tail,134,Laryngeal discomfort,0,-1
+3,train,2355,189,脑栓通胶囊,2,tail,35,Chills,0,-1
+3,train,2356,214,首乌延寿颗粒,18,head,107,Temperature intolerance,0,-1
+3,train,2357,113,桂枝茯苓胶囊,2,tail,30,Gastrointestinal haemorrhage,0,-1
+3,train,2358,164,双黄连滴眼剂,16,head,75,Vision blurred,0,-1
+3,train,2359,105,三七伤药胶囊,40,head,133,Confusional state,0,-1
+3,train,2360,121,颈痛颗粒,2,tail,157,Hypothermia,0,-1
+3,train,2361,137,养血清脑颗粒,16,head,144,Coagulopathy,0,-1
+3,train,2362,56,慢支固本颗粒,1,tail,36,Hypoaesthesia oral,0,-1
+3,train,2363,112,桂枝茯苓片,2,tail,133,Confusional state,0,-1
+3,train,2364,78,一清胶囊,4,medium,157,Hypothermia,0,-1
+3,train,2365,137,养血清脑颗粒,16,head,132,Swelling,0,-1
+3,train,2366,242,裸花紫珠栓,3,tail,64,Epidermal necrosis,0,-1
+3,train,2367,181,胃安胶囊,2,tail,118,Application site discolouration,0,-1
+3,train,2368,80,银杏叶片,21,head,84,Chronic arsenic toxicity,0,-1
+3,train,2369,43,荷丹片,3,tail,42,Epistaxis,0,-1
+3,train,2370,204,感冒清热胶囊,12,head,121,Conjunctival haemorrhage,0,-1
+3,train,2371,3,芪明颗粒,3,tail,81,Dysuria,0,-1
+3,train,2372,156,风热清口服液,2,tail,45,Chromaturia,0,-1
+3,train,2373,47,斑秃丸,11,medium,120,Skin atrophy,0,-1
+3,train,2374,22,益肾化湿颗粒,2,tail,1,Rash,0,-1
+3,train,2375,118,柴黄口服液,7,medium,48,Melaena,0,-1
+3,train,2376,77,降脂通络软胶囊,2,tail,24,Anaphylactic shock,0,-1
+3,train,2377,207,新血宝胶囊,5,medium,117,Haemorrhage subcutaneous,0,-1
+3,train,2378,123,归脾丸（浓缩丸）,2,tail,24,Anaphylactic shock,0,-1
+3,train,2379,18,参桂胶囊,2,tail,159,Dermatitis allergic,0,-1
+3,train,2380,179,茵栀黄胶囊,7,medium,152,Menstrual disorder,0,-1
+3,train,2381,130,元胡止痛颗粒,26,head,162,Dry throat,0,-1
+3,train,2382,219,安神补脑片,15,head,57,Laryngeal oedema,0,-1
+3,train,2383,129,元胡止痛口服液,26,head,160,Skin irritation,0,-1
+3,train,2384,4,坤泰胶囊,2,tail,49,Transaminases increased,0,-1
+3,train,2385,106,平消胶囊,4,medium,72,Dermatitis exfoliative,0,-1
+3,train,2386,162,心速宁胶囊,1,tail,149,Eyelid oedema,0,-1
+3,train,2387,117,黄连上清颗粒,9,medium,94,General symptom,0,-1
+3,train,2388,248,紫松皮炎膏,5,medium,103,Hiccups,0,-1
+3,train,2389,101,银黄片,19,head,143,Syncope,0,-1
+3,train,2390,209,藿香正气滴丸,5,medium,164,Drooling,0,-1
+3,train,2391,77,降脂通络软胶囊,2,tail,19,Constipation,0,-1
+3,train,2392,237,川贝枇杷颗粒,8,medium,39,Rash maculo-papular,0,-1
+3,train,2393,33,安宫牛黄丸,2,tail,55,Vertigo,0,-1
+3,train,2394,107,生血宝合剂,10,medium,45,Chromaturia,0,-1
+3,train,2395,103,丹香清脂颗粒,1,tail,144,Coagulopathy,0,-1
+3,train,2396,33,安宫牛黄丸,2,tail,32,Eructation,0,-1
+3,train,2397,203,腰痛宁胶囊,16,head,150,Alopecia,0,-1
+3,train,2398,143,通窍鼻炎胶囊,15,head,84,Chronic arsenic toxicity,0,-1
+3,train,2399,226,灵芝口服液,1,tail,151,Crying,0,-1
+3,train,2400,242,裸花紫珠栓,3,tail,70,Tachycardia,0,-1
+3,train,2401,246,貂胰防裂软膏,1,tail,121,Conjunctival haemorrhage,0,-1
+3,train,2402,80,银杏叶片,21,head,43,Haematuria,0,-1
+3,train,2403,1,疏风解毒胶囊,12,head,59,Yellow skin,0,-1
+3,train,2404,84,参芪五味子胶囊,7,medium,23,Urticaria,0,-1
+3,train,2405,246,貂胰防裂软膏,1,tail,37,Hypoaesthesia,0,-1
+3,train,2406,45,通乐颗粒,2,tail,42,Epistaxis,0,-1
+3,train,2407,121,颈痛颗粒,2,tail,19,Constipation,0,-1
+3,train,2408,16,风湿骨痛片,33,head,35,Chills,0,-1
+3,train,2409,198,葛根汤片,3,tail,112,Injection,0,-1
+3,train,2410,161,六味地黄片,12,head,170,Faeces discoloured,0,-1
+3,train,2411,181,胃安胶囊,2,tail,83,Skin swelling,0,-1
+3,train,2412,116,黄连上清胶囊,9,medium,128,Blood urea increased,0,-1
+3,train,2413,37,玉屏风丸,20,head,61,Tachypnoea,0,-1
+3,train,2414,219,安神补脑片,15,head,100,Tongue paralysis,0,-1
+3,train,2415,138,柴连口服液,5,medium,98,Oedema peripheral,0,-1
+3,train,2416,182,复方丹参滴丸,24,head,90,Henoch-Schonlein purpura,0,-1
+3,train,2417,118,柴黄口服液,7,medium,133,Confusional state,0,-1
+3,train,2418,120,颈舒颗粒,1,tail,135,Platelet count decreased,0,-1
+3,train,2419,26,活血止痛软胶囊,1,tail,154,Male sexual dysfunction,0,-1
+3,train,2420,82,康妇消炎栓,13,head,42,Epistaxis,0,-1
+3,train,2421,253,五酯片,1,tail,71,White blood cell count decreased,0,-1
+3,train,2422,45,通乐颗粒,2,tail,111,Nasal dryness,0,-1
+3,train,2423,219,安神补脑片,15,head,113,Hypohidrosis,0,-1
+3,train,2424,190,脑心通胶囊,16,head,64,Epidermal necrosis,0,-1
+3,train,2425,37,玉屏风丸,20,head,142,Red blood cells urine,0,-1
+3,train,2426,164,双黄连滴眼剂,16,head,166,Myalgia,0,-1
+3,train,2427,130,元胡止痛颗粒,26,head,45,Chromaturia,0,-1
+3,train,2428,7,小儿清热止咳合剂,16,head,93,Purpura,0,-1
+3,train,2429,179,茵栀黄胶囊,7,medium,88,Pallor,0,-1
+3,train,2430,161,六味地黄片,12,head,54,Poisoning,0,-1
+3,train,2431,246,貂胰防裂软膏,1,tail,143,Syncope,0,-1
+3,train,2432,69,安神补脑液,15,head,97,Injection site pain,0,-1
+3,train,2433,137,养血清脑颗粒,16,head,45,Chromaturia,0,-1
+3,train,2434,3,芪明颗粒,3,tail,50,Hyperchlorhydria,0,-1
+3,train,2435,166,白蚀丸,13,head,92,Burning sensation,0,-1
+3,train,2436,204,感冒清热胶囊,12,head,49,Transaminases increased,0,-1
+3,train,2437,2,复方双花口服液,3,tail,150,Alopecia,0,-1
+3,train,2438,118,柴黄口服液,7,medium,84,Chronic arsenic toxicity,0,-1
+3,train,2439,30,乳康颗粒,5,medium,94,General symptom,0,-1
+3,train,2440,100,天舒胶囊,3,tail,128,Blood urea increased,0,-1
+3,train,2441,4,坤泰胶囊,2,tail,155,Malaise,0,-1
+3,train,2442,105,三七伤药胶囊,40,head,8,Hypersensitivity,0,-1
+3,train,2443,106,平消胶囊,4,medium,164,Drooling,0,-1
+3,train,2444,184,复方丹参胶囊,15,head,101,Lethargy,0,-1
+3,train,2445,14,养血当归胶囊,1,tail,64,Epidermal necrosis,0,-1
+3,train,2446,106,平消胶囊,4,medium,160,Skin irritation,0,-1
+3,train,2447,17,丹鹿通督片,1,tail,146,Tinnitus,0,-1
+3,train,2448,9,脉络舒通颗粒,4,medium,120,Skin atrophy,0,-1
+3,train,2449,243,舒肝康胶囊,2,tail,161,Mucosal irritation,0,-1
+3,train,2450,170,克咳片,1,tail,125,Application site telangiectasia,0,-1
+3,train,2451,60,养心氏片,1,tail,121,Conjunctival haemorrhage,0,-1
+3,train,2452,211,十味降糖颗粒,1,tail,26,Blood pressure increased,0,-1
+3,train,2453,11,沈阳红药胶囊,2,tail,94,General symptom,0,-1
+3,train,2454,9,脉络舒通颗粒,4,medium,156,Anal incontinence,0,-1
+3,train,2455,48,养阴生血合剂,1,tail,45,Chromaturia,0,-1
+3,train,2456,41,失笑散,1,tail,21,Somnolence,0,-1
+3,train,2457,157,六味香连胶囊,1,tail,30,Gastrointestinal haemorrhage,0,-1
+3,train,2458,17,丹鹿通督片,1,tail,113,Hypohidrosis,0,-1
+3,train,2459,18,参桂胶囊,2,tail,80,Acute kidney injury,0,-1
+3,train,2460,30,乳康颗粒,5,medium,139,Lacrimation increased,0,-1
+3,train,2461,107,生血宝合剂,10,medium,49,Transaminases increased,0,-1
+3,train,2462,246,貂胰防裂软膏,1,tail,4,Pruritus,0,-1
+3,train,2463,124,归脾合剂,2,tail,81,Dysuria,0,-1
+3,train,2464,57,痛泻宁颗粒,1,tail,150,Alopecia,0,-1
+3,train,2465,135,牛黄解毒软胶囊,29,head,132,Swelling,0,-1
+3,train,2466,4,坤泰胶囊,2,tail,170,Faeces discoloured,0,-1
+3,train,2467,150,小儿退热颗粒,3,tail,106,Hypertension,0,-1
+3,train,2468,18,参桂胶囊,2,tail,16,Decreased appetite,0,-1
+3,train,2469,74,复方瓜子金颗粒,10,medium,128,Blood urea increased,0,-1
+3,train,2470,46,黄藤素片,5,medium,68,Flatulence,0,-1
+3,train,2471,27,银杏叶软胶囊,21,head,44,Cough,0,-1
+3,train,2472,166,白蚀丸,13,head,11,Dry mouth,0,-1
+3,train,2473,106,平消胶囊,4,medium,155,Malaise,0,-1
+3,train,2474,76,胆宁片,1,tail,129,Ocular hyperaemia,0,-1
+3,train,2475,151,牛黄上清软胶囊,2,tail,44,Cough,0,-1
+3,train,2476,253,五酯片,1,tail,0,Nausea,0,-1
+3,train,2477,118,柴黄口服液,7,medium,70,Tachycardia,0,-1
+3,train,2478,219,安神补脑片,15,head,89,Liver injury,0,-1
+3,train,2479,37,玉屏风丸,20,head,87,Neutrophil count decreased,0,-1
+3,train,2480,179,茵栀黄胶囊,7,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,2481,28,注射用双黄连,45,head,144,Coagulopathy,0,-1
+3,train,2482,178,茵栀黄颗粒,7,medium,22,Erythema,0,-1
+3,train,2483,36,牛黄解毒片,29,head,23,Urticaria,0,-1
+3,train,2484,66,三金片,16,head,22,Erythema,0,-1
+3,train,2485,68,加味藿香正气软胶囊,1,tail,81,Dysuria,0,-1
+3,train,2486,237,川贝枇杷颗粒,8,medium,160,Skin irritation,0,-1
+3,train,2487,6,银杏叶口服液,21,head,43,Haematuria,0,-1
+3,train,2488,3,芪明颗粒,3,tail,55,Vertigo,0,-1
+3,train,2489,137,养血清脑颗粒,16,head,117,Haemorrhage subcutaneous,0,-1
+3,train,2490,26,活血止痛软胶囊,1,tail,63,Face oedema,0,-1
+3,train,2491,117,黄连上清颗粒,9,medium,164,Drooling,0,-1
+3,train,2492,69,安神补脑液,15,head,33,Blood pressure decreased,0,-1
+3,train,2493,118,柴黄口服液,7,medium,13,Asthenia,0,-1
+3,train,2494,141,软脉灵口服液,3,tail,73,Epigastric discomfort,0,-1
+3,train,2495,63,鼻渊通窍颗粒,1,tail,71,White blood cell count decreased,0,-1
+3,train,2496,44,消痔软膏,1,tail,144,Coagulopathy,0,-1
+3,train,2497,119,血府逐瘀口服液,9,medium,105,Muscle twitching,0,-1
+3,train,2498,87,正清风痛宁片,27,head,48,Melaena,0,-1
+3,train,2499,105,三七伤药胶囊,40,head,51,Ocular icterus,0,-1
+3,train,2500,63,鼻渊通窍颗粒,1,tail,75,Vision blurred,0,-1
+3,train,2501,102,肾康宁片,2,tail,112,Injection,0,-1
+3,train,2502,103,丹香清脂颗粒,1,tail,23,Urticaria,0,-1
+3,train,2503,190,脑心通胶囊,16,head,90,Henoch-Schonlein purpura,0,-1
+3,train,2504,227,丹香冠心注射液,16,head,93,Purpura,0,-1
+3,train,2505,130,元胡止痛颗粒,26,head,164,Drooling,0,-1
+3,train,2506,203,腰痛宁胶囊,16,head,115,Ecchymosis,0,-1
+3,train,2507,252,瓜蒌皮注射液,30,head,43,Haematuria,0,-1
+3,train,2508,11,沈阳红药胶囊,2,tail,149,Eyelid oedema,0,-1
+3,train,2509,143,通窍鼻炎胶囊,15,head,39,Rash maculo-papular,0,-1
+3,train,2510,207,新血宝胶囊,5,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,2511,80,银杏叶片,21,head,111,Nasal dryness,0,-1
+3,train,2512,129,元胡止痛口服液,26,head,165,Allergic oedema,0,-1
+3,train,2513,111,都梁滴丸,2,tail,53,Phlebitis,0,-1
+3,train,2514,128,益心通脉颗粒,1,tail,128,Blood urea increased,0,-1
+3,train,2515,215,千金藤素片,1,tail,68,Flatulence,0,-1
+3,train,2516,29,脉络舒通丸,4,medium,131,Dermatitis,0,-1
+3,train,2517,80,银杏叶片,21,head,66,Aspartate aminotransferase increased,0,-1
+3,train,2518,84,参芪五味子胶囊,7,medium,119,Injection site hypoaesthesia,0,-1
+3,train,2519,102,肾康宁片,2,tail,8,Hypersensitivity,0,-1
+3,train,2520,36,牛黄解毒片,29,head,132,Swelling,0,-1
+3,train,2521,252,瓜蒌皮注射液,30,head,47,Dysphoria,0,-1
+3,train,2522,182,复方丹参滴丸,24,head,35,Chills,0,-1
+3,train,2523,179,茵栀黄胶囊,7,medium,150,Alopecia,0,-1
+3,train,2524,121,颈痛颗粒,2,tail,95,Blood bilirubin increased,0,-1
+3,train,2525,221,青柏洁身洗液,2,tail,96,Injection site rash,0,-1
+3,train,2526,233,复方咳喘胶囊,3,tail,8,Hypersensitivity,0,-1
+3,train,2527,121,颈痛颗粒,2,tail,26,Blood pressure increased,0,-1
+3,train,2528,252,瓜蒌皮注射液,30,head,91,Haematochezia,0,-1
+3,train,2529,3,芪明颗粒,3,tail,40,Drug eruption,0,-1
+3,train,2530,157,六味香连胶囊,1,tail,121,Conjunctival haemorrhage,0,-1
+3,train,2531,124,归脾合剂,2,tail,86,Stevens-Johnson syndrome,0,-1
+3,train,2532,31,生白合剂,1,tail,47,Dysphoria,0,-1
+3,train,2533,133,小儿化食丸,4,medium,78,Renal impairment,0,-1
+3,train,2534,55,补肺活血胶囊,1,tail,119,Injection site hypoaesthesia,0,-1
+3,train,2535,211,十味降糖颗粒,1,tail,47,Dysphoria,0,-1
+3,train,2536,6,银杏叶口服液,21,head,112,Injection,0,-1
+3,train,2537,246,貂胰防裂软膏,1,tail,116,Hepatitis,0,-1
+3,train,2538,237,川贝枇杷颗粒,8,medium,147,Macule,0,-1
+3,train,2539,164,双黄连滴眼剂,16,head,102,Menstruation irregular,0,-1
+3,train,2540,182,复方丹参滴丸,24,head,62,Dry skin,0,-1
+3,train,2541,100,天舒胶囊,3,tail,95,Blood bilirubin increased,0,-1
+3,train,2542,241,熊胆栓,1,tail,86,Stevens-Johnson syndrome,0,-1
+3,train,2543,187,复方青黛丸,13,head,102,Menstruation irregular,0,-1
+3,train,2544,114,黄连上清丸,9,medium,10,Headache,0,-1
+3,train,2545,92,冠心苏合胶囊,12,head,129,Ocular hyperaemia,0,-1
+3,train,2546,34,元胡止痛片,26,head,107,Temperature intolerance,0,-1
+3,train,2547,162,心速宁胶囊,1,tail,68,Flatulence,0,-1
+3,train,2548,226,灵芝口服液,1,tail,102,Menstruation irregular,0,-1
+3,train,2549,55,补肺活血胶囊,1,tail,131,Dermatitis,0,-1
+3,train,2550,56,慢支固本颗粒,1,tail,76,Hyperpyrexia,0,-1
+3,train,2551,238,消癌平注射液,28,head,134,Laryngeal discomfort,0,-1
+3,train,2552,76,胆宁片,1,tail,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,2553,44,消痔软膏,1,tail,33,Blood pressure decreased,0,-1
+3,train,2554,124,归脾合剂,2,tail,13,Asthenia,0,-1
+3,train,2555,29,脉络舒通丸,4,medium,79,Blister,0,-1
+3,train,2556,45,通乐颗粒,2,tail,88,Pallor,0,-1
+3,train,2557,174,肠康片,4,medium,101,Lethargy,0,-1
+3,train,2558,56,慢支固本颗粒,1,tail,117,Haemorrhage subcutaneous,0,-1
+3,train,2559,1,疏风解毒胶囊,12,head,168,Instillation site irritation,0,-1
+3,train,2560,46,黄藤素片,5,medium,51,Ocular icterus,0,-1
+3,train,2561,60,养心氏片,1,tail,77,Myoclonus,0,-1
+3,train,2562,117,黄连上清颗粒,9,medium,20,Dyspnoea,0,-1
+3,train,2563,68,加味藿香正气软胶囊,1,tail,60,Alanine aminotransferase increased,0,-1
+3,train,2564,78,一清胶囊,4,medium,111,Nasal dryness,0,-1
+3,train,2565,29,脉络舒通丸,4,medium,62,Dry skin,0,-1
+3,train,2566,48,养阴生血合剂,1,tail,142,Red blood cells urine,0,-1
+3,train,2567,184,复方丹参胶囊,15,head,40,Drug eruption,0,-1
+3,train,2568,129,元胡止痛口服液,26,head,25,Dyspepsia,0,-1
+3,train,2569,181,胃安胶囊,2,tail,140,Neuropsychological symptoms,0,-1
+3,train,2570,145,小儿肺热咳喘口服液,11,medium,54,Poisoning,0,-1
+3,train,2571,181,胃安胶囊,2,tail,96,Injection site rash,0,-1
+3,train,2572,178,茵栀黄颗粒,7,medium,62,Dry skin,0,-1
+3,train,2573,30,乳康颗粒,5,medium,99,Anaphylactoid reaction,0,-1
+3,train,2574,39,归脾丸,2,tail,81,Dysuria,0,-1
+3,train,2575,43,荷丹片,3,tail,102,Menstruation irregular,0,-1
+3,train,2576,122,玉屏风袋泡茶,20,head,72,Dermatitis exfoliative,0,-1
+3,train,2577,161,六味地黄片,12,head,152,Menstrual disorder,0,-1
+3,train,2578,145,小儿肺热咳喘口服液,11,medium,136,Neck pain,0,-1
+3,train,2579,23,丹灯通脑胶囊,1,tail,88,Pallor,0,-1
+3,train,2580,190,脑心通胶囊,16,head,150,Alopecia,0,-1
+3,train,2581,7,小儿清热止咳合剂,16,head,56,Thirst,0,-1
+3,train,2582,243,舒肝康胶囊,2,tail,45,Chromaturia,0,-1
+3,train,2583,93,便通片,3,tail,94,General symptom,0,-1
+3,train,2584,134,牛黄解毒丸,29,head,87,Neutrophil count decreased,0,-1
+3,train,2585,194,清热灵颗粒,1,tail,0,Nausea,0,-1
+3,train,2586,244,露水草胶囊,1,tail,153,Vaginal haemorrhage,0,-1
+3,train,2587,147,小儿热速清颗粒,6,medium,19,Constipation,0,-1
+3,train,2588,89,松龄血脉康胶囊,2,tail,35,Chills,0,-1
+3,train,2589,193,麻仁润肠丸,15,head,48,Melaena,0,-1
+3,train,2590,14,养血当归胶囊,1,tail,54,Poisoning,0,-1
+3,train,2591,116,黄连上清胶囊,9,medium,111,Nasal dryness,0,-1
+3,train,2592,29,脉络舒通丸,4,medium,86,Stevens-Johnson syndrome,0,-1
+3,train,2593,143,通窍鼻炎胶囊,15,head,167,Arthralgia,0,-1
+3,train,2594,66,三金片,16,head,108,Tooth discolouration,0,-1
+3,train,2595,47,斑秃丸,11,medium,72,Dermatitis exfoliative,0,-1
+3,train,2596,118,柴黄口服液,7,medium,99,Anaphylactoid reaction,0,-1
+3,train,2597,187,复方青黛丸,13,head,8,Hypersensitivity,0,-1
+3,train,2598,102,肾康宁片,2,tail,107,Temperature intolerance,0,-1
+3,train,2599,63,鼻渊通窍颗粒,1,tail,41,Papule,0,-1
+3,train,2600,147,小儿热速清颗粒,6,medium,132,Swelling,0,-1
+3,train,2601,34,元胡止痛片,26,head,119,Injection site hypoaesthesia,0,-1
+3,train,2602,27,银杏叶软胶囊,21,head,88,Pallor,0,-1
+3,train,2603,31,生白合剂,1,tail,167,Arthralgia,0,-1
+3,train,2604,55,补肺活血胶囊,1,tail,81,Dysuria,0,-1
+3,train,2605,39,归脾丸,2,tail,147,Macule,0,-1
+3,train,2606,196,葶贝胶囊,2,tail,98,Oedema peripheral,0,-1
+3,train,2607,170,克咳片,1,tail,2,Diarrhoea,0,-1
+3,train,2608,189,脑栓通胶囊,2,tail,167,Arthralgia,0,-1
+3,train,2609,148,小儿热速清口服液,6,medium,108,Tooth discolouration,0,-1
+3,train,2610,16,风湿骨痛片,33,head,77,Myoclonus,0,-1
+3,train,2611,161,六味地黄片,12,head,66,Aspartate aminotransferase increased,0,-1
+3,train,2612,253,五酯片,1,tail,29,Pain,0,-1
+3,train,2613,242,裸花紫珠栓,3,tail,115,Ecchymosis,0,-1
+3,train,2614,194,清热灵颗粒,1,tail,95,Blood bilirubin increased,0,-1
+3,train,2615,182,复方丹参滴丸,24,head,85,Pigmentation disorder,0,-1
+3,train,2616,206,裸花紫珠片,24,head,93,Purpura,0,-1
+3,train,2617,35,小活络丸,47,head,45,Chromaturia,0,-1
+3,train,2618,161,六味地黄片,12,head,136,Neck pain,0,-1
+3,train,2619,143,通窍鼻炎胶囊,15,head,20,Dyspnoea,0,-1
+3,train,2620,125,归脾颗粒,2,tail,151,Crying,0,-1
+3,train,2621,102,肾康宁片,2,tail,50,Hyperchlorhydria,0,-1
+3,train,2622,201,滑膜炎胶囊,25,head,157,Hypothermia,0,-1
+3,train,2623,170,克咳片,1,tail,111,Nasal dryness,0,-1
+3,train,2624,15,小儿咳喘灵口服液,13,head,118,Application site discolouration,0,-1
+3,train,2625,108,乐脉片,1,tail,10,Headache,0,-1
+3,train,2626,38,蛇胆川贝散,19,head,125,Application site telangiectasia,0,-1
+3,train,2627,174,肠康片,4,medium,93,Purpura,0,-1
+3,train,2628,15,小儿咳喘灵口服液,13,head,153,Vaginal haemorrhage,0,-1
+3,train,2629,136,复方金黄连颗粒,1,tail,64,Epidermal necrosis,0,-1
+3,train,2630,161,六味地黄片,12,head,86,Stevens-Johnson syndrome,0,-1
+3,train,2631,209,藿香正气滴丸,5,medium,68,Flatulence,0,-1
+3,train,2632,63,鼻渊通窍颗粒,1,tail,75,Vision blurred,0,-1
+3,train,2633,133,小儿化食丸,4,medium,106,Hypertension,0,-1
+3,train,2634,5,益心酮滴丸,1,tail,114,Drug-induced liver injury,0,-1
+3,train,2635,122,玉屏风袋泡茶,20,head,76,Hyperpyrexia,0,-1
+3,train,2636,253,五酯片,1,tail,9,Palpitations,0,-1
+3,train,2637,133,小儿化食丸,4,medium,9,Palpitations,0,-1
+3,train,2638,206,裸花紫珠片,24,head,101,Lethargy,0,-1
+3,train,2639,98,开胸顺气胶囊,1,tail,44,Cough,0,-1
+3,train,2640,27,银杏叶软胶囊,21,head,136,Neck pain,0,-1
+3,train,2641,30,乳康颗粒,5,medium,32,Eructation,0,-1
+3,train,2642,46,黄藤素片,5,medium,162,Dry throat,0,-1
+3,train,2643,191,消银胶囊,15,head,110,Hypoglycaemia,0,-1
+3,train,2644,106,平消胶囊,4,medium,88,Pallor,0,-1
+3,train,2645,174,肠康片,4,medium,158,Rash erythematous,0,-1
+3,train,2646,96,独一味胶囊,22,head,134,Laryngeal discomfort,0,-1
+3,train,2647,223,仙灵骨葆片,18,head,117,Haemorrhage subcutaneous,0,-1
+3,train,2648,13,杏苏止咳口服液,1,tail,19,Constipation,0,-1
+3,train,2649,122,玉屏风袋泡茶,20,head,95,Blood bilirubin increased,0,-1
+3,train,2650,11,沈阳红药胶囊,2,tail,37,Hypoaesthesia,0,-1
+3,train,2651,243,舒肝康胶囊,2,tail,163,Skin test positive,0,-1
+3,train,2652,31,生白合剂,1,tail,97,Injection site pain,0,-1
+3,train,2653,201,滑膜炎胶囊,25,head,20,Dyspnoea,0,-1
+3,train,2654,125,归脾颗粒,2,tail,163,Skin test positive,0,-1
+3,train,2655,116,黄连上清胶囊,9,medium,108,Tooth discolouration,0,-1
+3,train,2656,68,加味藿香正气软胶囊,1,tail,65,Tremor,0,-1
+3,train,2657,26,活血止痛软胶囊,1,tail,110,Hypoglycaemia,0,-1
+3,train,2658,36,牛黄解毒片,29,head,49,Transaminases increased,0,-1
+3,train,2659,225,荷叶调脂茶,1,tail,66,Aspartate aminotransferase increased,0,-1
+3,train,2660,116,黄连上清胶囊,9,medium,157,Hypothermia,0,-1
+3,train,2661,201,滑膜炎胶囊,25,head,138,Muscle tightness,0,-1
+3,train,2662,182,复方丹参滴丸,24,head,55,Vertigo,0,-1
+3,train,2663,164,双黄连滴眼剂,16,head,70,Tachycardia,0,-1
+3,train,2664,68,加味藿香正气软胶囊,1,tail,70,Tachycardia,0,-1
+3,train,2665,194,清热灵颗粒,1,tail,11,Dry mouth,0,-1
+3,train,2666,242,裸花紫珠栓,3,tail,102,Menstruation irregular,0,-1
+3,train,2667,66,三金片,16,head,72,Dermatitis exfoliative,0,-1
+3,train,2668,151,牛黄上清软胶囊,2,tail,53,Phlebitis,0,-1
+3,train,2669,5,益心酮滴丸,1,tail,106,Hypertension,0,-1
+3,train,2670,41,失笑散,1,tail,70,Tachycardia,0,-1
+3,train,2671,104,三七伤药片,40,head,118,Application site discolouration,0,-1
+3,train,2672,241,熊胆栓,1,tail,162,Dry throat,0,-1
+3,train,2673,120,颈舒颗粒,1,tail,24,Anaphylactic shock,0,-1
+3,train,2674,86,心脑欣丸,2,tail,57,Laryngeal oedema,0,-1
+3,train,2675,5,益心酮滴丸,1,tail,83,Skin swelling,0,-1
+3,train,2676,86,心脑欣丸,2,tail,16,Decreased appetite,0,-1
+3,train,2677,244,露水草胶囊,1,tail,73,Epigastric discomfort,0,-1
+3,train,2678,243,舒肝康胶囊,2,tail,117,Haemorrhage subcutaneous,0,-1
+3,train,2679,233,复方咳喘胶囊,3,tail,107,Temperature intolerance,0,-1
+3,train,2680,253,五酯片,1,tail,152,Menstrual disorder,0,-1
+3,train,2681,123,归脾丸（浓缩丸）,2,tail,138,Muscle tightness,0,-1
+3,train,2682,144,川贝枇杷糖浆,8,medium,121,Conjunctival haemorrhage,0,-1
+3,train,2683,128,益心通脉颗粒,1,tail,87,Neutrophil count decreased,0,-1
+3,train,2684,120,颈舒颗粒,1,tail,88,Pallor,0,-1
+3,train,2685,178,茵栀黄颗粒,7,medium,127,Infection,0,-1
+3,train,2686,80,银杏叶片,21,head,136,Neck pain,0,-1
+3,train,2687,57,痛泻宁颗粒,1,tail,99,Anaphylactoid reaction,0,-1
+3,train,2688,101,银黄片,19,head,103,Hiccups,0,-1
+3,train,2689,10,五灵胶囊,2,tail,169,Protein urine,0,-1
+3,train,2690,225,荷叶调脂茶,1,tail,20,Dyspnoea,0,-1
+3,train,2691,252,瓜蒌皮注射液,30,head,124,Angina pectoris,0,-1
+3,train,2692,219,安神补脑片,15,head,88,Pallor,0,-1
+3,train,2693,27,银杏叶软胶囊,21,head,53,Phlebitis,0,-1
+3,train,2694,205,蒲地蓝消炎口服液,19,head,94,General symptom,0,-1
+3,train,2695,116,黄连上清胶囊,9,medium,74,Hepatic failure,0,-1
+3,train,2696,119,血府逐瘀口服液,9,medium,115,Ecchymosis,0,-1
+3,train,2697,48,养阴生血合剂,1,tail,159,Dermatitis allergic,0,-1
+3,train,2698,231,清润丸,3,tail,42,Epistaxis,0,-1
+3,train,2699,248,紫松皮炎膏,5,medium,90,Henoch-Schonlein purpura,0,-1
+3,train,2700,221,青柏洁身洗液,2,tail,110,Hypoglycaemia,0,-1
+3,train,2701,156,风热清口服液,2,tail,5,Abdominal pain,0,-1
+3,train,2702,108,乐脉片,1,tail,142,Red blood cells urine,0,-1
+3,train,2703,190,脑心通胶囊,16,head,60,Alanine aminotransferase increased,0,-1
+3,train,2704,138,柴连口服液,5,medium,137,Application site pain,0,-1
+3,train,2705,41,失笑散,1,tail,96,Injection site rash,0,-1
+3,train,2706,243,舒肝康胶囊,2,tail,31,Dysgeusia,0,-1
+3,train,2707,30,乳康颗粒,5,medium,101,Lethargy,0,-1
+3,train,2708,84,参芪五味子胶囊,7,medium,54,Poisoning,0,-1
+3,train,2709,35,小活络丸,47,head,146,Tinnitus,0,-1
+3,train,2710,112,桂枝茯苓片,2,tail,45,Chromaturia,0,-1
+3,train,2711,52,癃闭舒胶囊,14,head,102,Menstruation irregular,0,-1
+3,train,2712,214,首乌延寿颗粒,18,head,104,Dyschezia,0,-1
+3,train,2713,131,千柏鼻炎胶囊,1,tail,55,Vertigo,0,-1
+3,train,2714,157,六味香连胶囊,1,tail,153,Vaginal haemorrhage,0,-1
+3,train,2715,107,生血宝合剂,10,medium,81,Dysuria,0,-1
+3,train,2716,134,牛黄解毒丸,29,head,161,Mucosal irritation,0,-1
+3,train,2717,34,元胡止痛片,26,head,170,Faeces discoloured,0,-1
+3,train,2718,253,五酯片,1,tail,162,Dry throat,0,-1
+3,train,2719,120,颈舒颗粒,1,tail,128,Blood urea increased,0,-1
+3,train,2720,207,新血宝胶囊,5,medium,136,Neck pain,0,-1
+3,train,2721,145,小儿肺热咳喘口服液,11,medium,57,Laryngeal oedema,0,-1
+3,train,2722,150,小儿退热颗粒,3,tail,126,Application site pruritus,0,-1
+3,train,2723,178,茵栀黄颗粒,7,medium,73,Epigastric discomfort,0,-1
+3,train,2724,168,灯盏细辛注射液,18,head,40,Drug eruption,0,-1
+3,train,2725,63,鼻渊通窍颗粒,1,tail,102,Menstruation irregular,0,-1
+3,train,2726,206,裸花紫珠片,24,head,85,Pigmentation disorder,0,-1
+3,train,2727,178,茵栀黄颗粒,7,medium,167,Arthralgia,0,-1
+3,train,2728,60,养心氏片,1,tail,25,Dyspepsia,0,-1
+3,train,2729,143,通窍鼻炎胶囊,15,head,148,Oropharyngeal pain,0,-1
+3,train,2730,157,六味香连胶囊,1,tail,107,Temperature intolerance,0,-1
+3,train,2731,154,丹桂香颗粒,1,tail,48,Melaena,0,-1
+3,train,2732,253,五酯片,1,tail,7,Dizziness,0,-1
+3,train,2733,247,苦碟子注射液,39,head,57,Laryngeal oedema,0,-1
+3,train,2734,44,消痔软膏,1,tail,156,Anal incontinence,0,-1
+3,train,2735,247,苦碟子注射液,39,head,128,Blood urea increased,0,-1
+3,train,2736,26,活血止痛软胶囊,1,tail,153,Vaginal haemorrhage,0,-1
+3,train,2737,225,荷叶调脂茶,1,tail,104,Dyschezia,0,-1
+3,train,2738,6,银杏叶口服液,21,head,83,Skin swelling,0,-1
+3,train,2739,244,露水草胶囊,1,tail,63,Face oedema,0,-1
+3,train,2740,56,慢支固本颗粒,1,tail,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,2741,249,丹芎跌打膏,1,tail,120,Skin atrophy,0,-1
+3,train,2742,29,脉络舒通丸,4,medium,94,General symptom,0,-1
+3,train,2743,6,银杏叶口服液,21,head,153,Vaginal haemorrhage,0,-1
+3,train,2744,144,川贝枇杷糖浆,8,medium,141,Neurological symptom,0,-1
+3,train,2745,198,葛根汤片,3,tail,49,Transaminases increased,0,-1
+3,train,2746,55,补肺活血胶囊,1,tail,117,Haemorrhage subcutaneous,0,-1
+3,train,2747,136,复方金黄连颗粒,1,tail,61,Tachypnoea,0,-1
+3,train,2748,60,养心氏片,1,tail,120,Skin atrophy,0,-1
+3,train,2749,77,降脂通络软胶囊,2,tail,82,Heavy menstrual bleeding,0,-1
+3,train,2750,41,失笑散,1,tail,75,Vision blurred,0,-1
+3,train,2751,20,苏黄止咳胶囊,5,medium,7,Dizziness,0,-1
+3,train,2752,78,一清胶囊,4,medium,147,Macule,0,-1
+3,train,2753,178,茵栀黄颗粒,7,medium,117,Haemorrhage subcutaneous,0,-1
+3,train,2754,96,独一味胶囊,22,head,154,Male sexual dysfunction,0,-1
+3,train,2755,166,白蚀丸,13,head,61,Tachypnoea,0,-1
+3,train,2756,63,鼻渊通窍颗粒,1,tail,118,Application site discolouration,0,-1
+3,train,2757,194,清热灵颗粒,1,tail,164,Drooling,0,-1
+3,train,2758,35,小活络丸,47,head,154,Male sexual dysfunction,0,-1
+3,train,2759,123,归脾丸（浓缩丸）,2,tail,40,Drug eruption,0,-1
+3,train,2760,96,独一味胶囊,22,head,118,Application site discolouration,0,-1
+3,train,2761,22,益肾化湿颗粒,2,tail,1,Rash,0,-1
+3,train,2762,10,五灵胶囊,2,tail,104,Dyschezia,0,-1
+3,train,2763,203,腰痛宁胶囊,16,head,120,Skin atrophy,0,-1
+3,train,2764,143,通窍鼻炎胶囊,15,head,18,Pyrexia,0,-1
+3,train,2765,156,风热清口服液,2,tail,66,Aspartate aminotransferase increased,0,-1
+3,train,2766,207,新血宝胶囊,5,medium,30,Gastrointestinal haemorrhage,0,-1
+3,train,2767,243,舒肝康胶囊,2,tail,165,Allergic oedema,0,-1
+3,train,2768,165,双黄连胶囊,14,head,123,Coma,0,-1
+3,train,2769,18,参桂胶囊,2,tail,74,Hepatic failure,0,-1
+3,train,2770,147,小儿热速清颗粒,6,medium,10,Headache,0,-1
+3,train,2771,135,牛黄解毒软胶囊,29,head,102,Menstruation irregular,0,-1
+3,train,2772,198,葛根汤片,3,tail,161,Mucosal irritation,0,-1
+3,train,2773,165,双黄连胶囊,14,head,109,Increased appetite,0,-1
+3,train,2774,38,蛇胆川贝散,19,head,26,Blood pressure increased,0,-1
+3,train,2775,46,黄藤素片,5,medium,67,Gastrointestinal disorder,0,-1
+3,train,2776,227,丹香冠心注射液,16,head,28,Hyperhidrosis,0,-1
+3,train,2777,57,痛泻宁颗粒,1,tail,93,Purpura,0,-1
+3,train,2778,154,丹桂香颗粒,1,tail,168,Instillation site irritation,0,-1
+3,train,2779,125,归脾颗粒,2,tail,36,Hypoaesthesia oral,0,-1
+3,train,2780,96,独一味胶囊,22,head,123,Coma,0,-1
+3,train,2781,80,银杏叶片,21,head,67,Gastrointestinal disorder,0,-1
+3,train,2782,30,乳康颗粒,5,medium,84,Chronic arsenic toxicity,0,-1
+3,train,2783,23,丹灯通脑胶囊,1,tail,117,Haemorrhage subcutaneous,0,-1
+3,train,2784,190,脑心通胶囊,16,head,62,Dry skin,0,-1
+3,train,2785,102,肾康宁片,2,tail,87,Neutrophil count decreased,0,-1
+3,train,2786,113,桂枝茯苓胶囊,2,tail,113,Hypohidrosis,0,-1
+3,train,2787,123,归脾丸（浓缩丸）,2,tail,115,Ecchymosis,0,-1
+3,train,2788,102,肾康宁片,2,tail,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,2789,106,平消胶囊,4,medium,152,Menstrual disorder,0,-1
+3,train,2790,11,沈阳红药胶囊,2,tail,35,Chills,0,-1
+3,train,2791,46,黄藤素片,5,medium,133,Confusional state,0,-1
+3,train,2792,111,都梁滴丸,2,tail,6,Abdominal discomfort,0,-1
+3,train,2793,86,心脑欣丸,2,tail,94,General symptom,0,-1
+3,train,2794,221,青柏洁身洗液,2,tail,92,Burning sensation,0,-1
+3,train,2795,112,桂枝茯苓片,2,tail,78,Renal impairment,0,-1
+3,train,2796,52,癃闭舒胶囊,14,head,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,2797,253,五酯片,1,tail,78,Renal impairment,0,-1
+3,train,2798,182,复方丹参滴丸,24,head,112,Injection,0,-1
+3,train,2799,113,桂枝茯苓胶囊,2,tail,39,Rash maculo-papular,0,-1
+3,train,2800,39,归脾丸,2,tail,37,Hypoaesthesia,0,-1
+3,train,2801,243,舒肝康胶囊,2,tail,74,Hepatic failure,0,-1
+3,train,2802,143,通窍鼻炎胶囊,15,head,65,Tremor,0,-1
+3,train,2803,89,松龄血脉康胶囊,2,tail,7,Dizziness,0,-1
+3,train,2804,82,康妇消炎栓,13,head,149,Eyelid oedema,0,-1
+3,train,2805,116,黄连上清胶囊,9,medium,37,Hypoaesthesia,0,-1
+3,train,2806,102,肾康宁片,2,tail,93,Purpura,0,-1
+3,train,2807,198,葛根汤片,3,tail,132,Swelling,0,-1
+3,train,2808,150,小儿退热颗粒,3,tail,122,Skin reaction,0,-1
+3,train,2809,247,苦碟子注射液,39,head,43,Haematuria,0,-1
+3,train,2810,129,元胡止痛口服液,26,head,164,Drooling,0,-1
+3,train,2811,48,养阴生血合剂,1,tail,150,Alopecia,0,-1
+3,train,2812,194,清热灵颗粒,1,tail,80,Acute kidney injury,0,-1
+3,train,2813,203,腰痛宁胶囊,16,head,95,Blood bilirubin increased,0,-1
+3,train,2814,138,柴连口服液,5,medium,124,Angina pectoris,0,-1
+3,train,2815,57,痛泻宁颗粒,1,tail,134,Laryngeal discomfort,0,-1
+3,train,2816,187,复方青黛丸,13,head,44,Cough,0,-1
+3,train,2817,187,复方青黛丸,13,head,97,Injection site pain,0,-1
+3,train,2818,4,坤泰胶囊,2,tail,16,Decreased appetite,0,-1
+3,train,2819,128,益心通脉颗粒,1,tail,57,Laryngeal oedema,0,-1
+3,train,2820,118,柴黄口服液,7,medium,52,Cyanosis,0,-1
+3,train,2821,87,正清风痛宁片,27,head,38,Abdominal pain upper,0,-1
+3,train,2822,107,生血宝合剂,10,medium,155,Malaise,0,-1
+3,train,2823,37,玉屏风丸,20,head,166,Myalgia,0,-1
+3,train,2824,76,胆宁片,1,tail,91,Haematochezia,0,-1
+3,train,2825,193,麻仁润肠丸,15,head,117,Haemorrhage subcutaneous,0,-1
+3,train,2826,223,仙灵骨葆片,18,head,163,Skin test positive,0,-1
+3,train,2827,4,坤泰胶囊,2,tail,134,Laryngeal discomfort,0,-1
+3,train,2828,89,松龄血脉康胶囊,2,tail,51,Ocular icterus,0,-1
+3,train,2829,135,牛黄解毒软胶囊,29,head,170,Faeces discoloured,0,-1
+3,train,2830,10,五灵胶囊,2,tail,102,Menstruation irregular,0,-1
+3,train,2831,249,丹芎跌打膏,1,tail,25,Dyspepsia,0,-1
+3,train,2832,123,归脾丸（浓缩丸）,2,tail,129,Ocular hyperaemia,0,-1
+3,train,2833,22,益肾化湿颗粒,2,tail,69,Arrhythmia,0,-1
+3,train,2834,215,千金藤素片,1,tail,136,Neck pain,0,-1
+3,train,2835,207,新血宝胶囊,5,medium,20,Dyspnoea,0,-1
+3,train,2836,17,丹鹿通督片,1,tail,114,Drug-induced liver injury,0,-1
+3,train,2837,223,仙灵骨葆片,18,head,133,Confusional state,0,-1
+3,train,2838,98,开胸顺气胶囊,1,tail,62,Dry skin,0,-1
+3,train,2839,101,银黄片,19,head,46,Head discomfort,0,-1
+3,train,2840,96,独一味胶囊,22,head,58,Gingival bleeding,0,-1
+3,train,2841,170,克咳片,1,tail,45,Chromaturia,0,-1
+3,train,2842,13,杏苏止咳口服液,1,tail,155,Malaise,0,-1
+3,train,2843,104,三七伤药片,40,head,141,Neurological symptom,0,-1
+3,train,2844,107,生血宝合剂,10,medium,23,Urticaria,0,-1
+3,train,2845,69,安神补脑液,15,head,16,Decreased appetite,0,-1
+3,train,2846,41,失笑散,1,tail,133,Confusional state,0,-1
+3,train,2847,116,黄连上清胶囊,9,medium,15,Flushing,0,-1
+3,train,2848,96,独一味胶囊,22,head,149,Eyelid oedema,0,-1
+3,train,2849,227,丹香冠心注射液,16,head,122,Skin reaction,0,-1
+3,train,2850,178,茵栀黄颗粒,7,medium,25,Dyspepsia,0,-1
+3,train,2851,207,新血宝胶囊,5,medium,13,Asthenia,0,-1
+3,train,2852,120,颈舒颗粒,1,tail,162,Dry throat,0,-1
+3,train,2853,23,丹灯通脑胶囊,1,tail,50,Hyperchlorhydria,0,-1
+3,train,2854,184,复方丹参胶囊,15,head,29,Pain,0,-1
+3,train,2855,166,白蚀丸,13,head,21,Somnolence,0,-1
+3,train,2856,182,复方丹参滴丸,24,head,50,Hyperchlorhydria,0,-1
+3,train,2857,31,生白合剂,1,tail,138,Muscle tightness,0,-1
+3,train,2858,233,复方咳喘胶囊,3,tail,55,Vertigo,0,-1
+3,train,2859,241,熊胆栓,1,tail,124,Angina pectoris,0,-1
+3,train,2860,114,黄连上清丸,9,medium,145,Gastrointestinal tract mucosal pigmentation,0,-1
+3,train,2861,3,芪明颗粒,3,tail,148,Oropharyngeal pain,0,-1
+3,train,2862,166,白蚀丸,13,head,164,Drooling,0,-1
+3,train,2863,74,复方瓜子金颗粒,10,medium,150,Alopecia,0,-1
+3,train,2864,253,五酯片,1,tail,157,Hypothermia,0,-1
+3,train,2865,170,克咳片,1,tail,0,Nausea,0,-1
+3,train,2866,100,天舒胶囊,3,tail,104,Dyschezia,0,-1
+3,train,2867,241,熊胆栓,1,tail,69,Arrhythmia,0,-1
+3,train,2868,191,消银胶囊,15,head,161,Mucosal irritation,0,-1
+3,train,2869,63,鼻渊通窍颗粒,1,tail,84,Chronic arsenic toxicity,0,-1
+3,train,2870,196,葶贝胶囊,2,tail,123,Coma,0,-1
+3,train,2871,201,滑膜炎胶囊,25,head,72,Dermatitis exfoliative,0,-1
+3,train,2872,114,黄连上清丸,9,medium,67,Gastrointestinal disorder,0,-1
+3,train,2873,128,益心通脉颗粒,1,tail,70,Tachycardia,0,-1
+3,train,2874,219,安神补脑片,15,head,128,Blood urea increased,0,-1
+3,train,2875,118,柴黄口服液,7,medium,160,Skin irritation,0,-1
+3,train,2876,165,双黄连胶囊,14,head,28,Hyperhidrosis,0,-1
+3,train,2877,66,三金片,16,head,124,Angina pectoris,0,-1
+3,train,2878,2,复方双花口服液,3,tail,81,Dysuria,0,-1
+3,train,2879,198,葛根汤片,3,tail,120,Skin atrophy,0,-1
+3,train,2880,191,消银胶囊,15,head,41,Papule,0,-1
+3,train,2881,63,鼻渊通窍颗粒,1,tail,16,Decreased appetite,0,-1
+3,train,2882,163,心可舒片,15,head,77,Myoclonus,0,-1
+3,train,2883,30,乳康颗粒,5,medium,113,Hypohidrosis,0,-1
+3,train,2884,128,益心通脉颗粒,1,tail,163,Skin test positive,0,-1
+3,train,2885,207,新血宝胶囊,5,medium,46,Head discomfort,0,-1
+3,train,2886,74,复方瓜子金颗粒,10,medium,27,Insomnia,0,-1
+3,train,2887,92,冠心苏合胶囊,12,head,54,Poisoning,0,-1
+3,train,2888,117,黄连上清颗粒,9,medium,128,Blood urea increased,0,-1
+3,train,2889,117,黄连上清颗粒,9,medium,81,Dysuria,0,-1
+3,train,2890,205,蒲地蓝消炎口服液,19,head,120,Skin atrophy,0,-1
+3,train,2891,33,安宫牛黄丸,2,tail,76,Hyperpyrexia,0,-1
+3,train,2892,244,露水草胶囊,1,tail,53,Phlebitis,0,-1
+3,train,2893,225,荷叶调脂茶,1,tail,39,Rash maculo-papular,0,-1
+3,train,2894,121,颈痛颗粒,2,tail,40,Drug eruption,0,-1
+3,train,2895,74,复方瓜子金颗粒,10,medium,101,Lethargy,0,-1
+3,train,2896,57,痛泻宁颗粒,1,tail,40,Drug eruption,0,-1
+3,train,2897,244,露水草胶囊,1,tail,169,Protein urine,0,-1
+3,train,2898,52,癃闭舒胶囊,14,head,83,Skin swelling,0,-1
+3,train,2899,202,滑膜炎片,25,head,121,Conjunctival haemorrhage,0,-1
+3,train,2900,238,消癌平注射液,28,head,106,Hypertension,0,-1
+3,train,2901,104,三七伤药片,40,head,58,Gingival bleeding,0,-1
+3,train,2902,103,丹香清脂颗粒,1,tail,120,Skin atrophy,0,-1
+3,train,2903,116,黄连上清胶囊,9,medium,94,General symptom,0,-1
+3,train,2904,46,黄藤素片,5,medium,78,Renal impairment,0,-1
+3,train,2905,124,归脾合剂,2,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,2906,119,血府逐瘀口服液,9,medium,115,Ecchymosis,0,-1
+3,train,2907,117,黄连上清颗粒,9,medium,108,Tooth discolouration,0,-1
+3,train,2908,221,青柏洁身洗液,2,tail,100,Tongue paralysis,0,-1
+3,train,2909,156,风热清口服液,2,tail,1,Rash,0,-1
+3,train,2910,150,小儿退热颗粒,3,tail,14,Chest discomfort,0,-1
+3,train,2911,151,牛黄上清软胶囊,2,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,2912,44,消痔软膏,1,tail,116,Hepatitis,0,-1
+3,train,2913,106,平消胶囊,4,medium,4,Pruritus,0,-1
+3,train,2914,77,降脂通络软胶囊,2,tail,53,Phlebitis,0,-1
+3,train,2915,101,银黄片,19,head,75,Vision blurred,0,-1
+3,train,2916,137,养血清脑颗粒,16,head,6,Abdominal discomfort,0,-1
+3,train,2917,121,颈痛颗粒,2,tail,109,Increased appetite,0,-1
+3,train,2918,141,软脉灵口服液,3,tail,83,Skin swelling,0,-1
+3,train,2919,217,三黄胶囊,15,head,143,Syncope,0,-1
+3,train,2920,77,降脂通络软胶囊,2,tail,55,Vertigo,0,-1
+3,train,2921,247,苦碟子注射液,39,head,128,Blood urea increased,0,-1
+3,train,2922,165,双黄连胶囊,14,head,70,Tachycardia,0,-1
+3,train,2923,34,元胡止痛片,26,head,19,Constipation,0,-1
+3,train,2924,96,独一味胶囊,22,head,41,Papule,0,-1
+3,train,2925,122,玉屏风袋泡茶,20,head,122,Skin reaction,0,-1
+3,train,2926,237,川贝枇杷颗粒,8,medium,120,Skin atrophy,0,-1
+3,train,2927,14,养血当归胶囊,1,tail,168,Instillation site irritation,0,-1
+3,train,2928,144,川贝枇杷糖浆,8,medium,124,Angina pectoris,0,-1
+3,train,2929,98,开胸顺气胶囊,1,tail,71,White blood cell count decreased,0,-1
+3,train,2930,243,舒肝康胶囊,2,tail,150,Alopecia,0,-1
+3,train,2931,138,柴连口服液,5,medium,15,Flushing,0,-1
+3,train,2932,31,生白合剂,1,tail,14,Chest discomfort,0,-1
+3,train,2933,128,益心通脉颗粒,1,tail,70,Tachycardia,0,-1
+3,train,2934,207,新血宝胶囊,5,medium,94,General symptom,0,-1
+3,train,2935,165,双黄连胶囊,14,head,72,Dermatitis exfoliative,0,-1
+3,train,2936,35,小活络丸,47,head,120,Skin atrophy,0,-1
+3,train,2937,43,荷丹片,3,tail,18,Pyrexia,0,-1
+3,train,2938,122,玉屏风袋泡茶,20,head,105,Muscle twitching,0,-1
+3,train,2939,47,斑秃丸,11,medium,38,Abdominal pain upper,0,-1
+3,train,2940,233,复方咳喘胶囊,3,tail,76,Hyperpyrexia,0,-1
+3,train,2941,225,荷叶调脂茶,1,tail,51,Ocular icterus,0,-1
+3,train,2942,219,安神补脑片,15,head,22,Erythema,0,-1
+3,train,2943,165,双黄连胶囊,14,head,62,Dry skin,0,-1
+3,train,2944,122,玉屏风袋泡茶,20,head,146,Tinnitus,0,-1
+3,train,2945,211,十味降糖颗粒,1,tail,169,Protein urine,0,-1
+3,train,2946,102,肾康宁片,2,tail,142,Red blood cells urine,0,-1
+3,train,2947,205,蒲地蓝消炎口服液,19,head,74,Hepatic failure,0,-1
+3,train,2948,6,银杏叶口服液,21,head,35,Chills,0,-1
+3,train,2949,22,益肾化湿颗粒,2,tail,80,Acute kidney injury,0,-1
+3,train,2950,134,牛黄解毒丸,29,head,114,Drug-induced liver injury,0,-1
+3,train,2951,82,康妇消炎栓,13,head,47,Dysphoria,0,-1
+3,train,2952,121,颈痛颗粒,2,tail,119,Injection site hypoaesthesia,0,-1
+3,train,2953,89,松龄血脉康胶囊,2,tail,117,Haemorrhage subcutaneous,0,-1
+3,train,2954,76,胆宁片,1,tail,66,Aspartate aminotransferase increased,0,-1
+3,train,2955,101,银黄片,19,head,154,Male sexual dysfunction,0,-1
+3,train,2956,6,银杏叶口服液,21,head,35,Chills,0,-1
+3,train,2957,37,玉屏风丸,20,head,164,Drooling,0,-1
+3,train,2958,154,丹桂香颗粒,1,tail,109,Increased appetite,0,-1
+3,train,2959,147,小儿热速清颗粒,6,medium,124,Angina pectoris,0,-1
+3,train,2960,15,小儿咳喘灵口服液,13,head,135,Platelet count decreased,0,-1
+3,train,2961,18,参桂胶囊,2,tail,131,Dermatitis,0,-1
+3,train,2962,221,青柏洁身洗液,2,tail,111,Nasal dryness,0,-1
+3,train,2963,10,五灵胶囊,2,tail,129,Ocular hyperaemia,0,-1
+3,train,2964,122,玉屏风袋泡茶,20,head,137,Application site pain,0,-1
+3,train,2965,190,脑心通胶囊,16,head,72,Dermatitis exfoliative,0,-1
+3,train,2966,226,灵芝口服液,1,tail,85,Pigmentation disorder,0,-1
+3,train,2967,253,五酯片,1,tail,17,Hepatic function abnormal,0,-1
+3,train,2968,25,金蝉止痒胶囊,6,medium,144,Coagulopathy,0,-1
+3,train,2969,29,脉络舒通丸,4,medium,142,Red blood cells urine,0,-1
+3,train,2970,35,小活络丸,47,head,136,Neck pain,0,-1
+3,train,2971,52,癃闭舒胶囊,14,head,131,Dermatitis,0,-1
+3,train,2972,28,注射用双黄连,45,head,146,Tinnitus,0,-1
+3,train,2973,179,茵栀黄胶囊,7,medium,156,Anal incontinence,0,-1
+3,train,2974,69,安神补脑液,15,head,18,Pyrexia,0,-1
+3,train,2975,163,心可舒片,15,head,70,Tachycardia,0,-1
+3,train,2976,179,茵栀黄胶囊,7,medium,115,Ecchymosis,0,-1
+3,train,2977,47,斑秃丸,11,medium,166,Myalgia,0,-1
+3,train,2978,123,归脾丸（浓缩丸）,2,tail,18,Pyrexia,0,-1
+3,train,2979,66,三金片,16,head,165,Allergic oedema,0,-1
+3,train,2980,226,灵芝口服液,1,tail,86,Stevens-Johnson syndrome,0,-1
+3,train,2981,170,克咳片,1,tail,135,Platelet count decreased,0,-1
+3,train,2982,148,小儿热速清口服液,6,medium,147,Macule,0,-1
+3,train,2983,113,桂枝茯苓胶囊,2,tail,1,Rash,0,-1
+3,train,2984,248,紫松皮炎膏,5,medium,99,Anaphylactoid reaction,0,-1
+3,train,2985,5,益心酮滴丸,1,tail,2,Diarrhoea,0,-1
+3,train,2986,87,正清风痛宁片,27,head,82,Heavy menstrual bleeding,0,-1
+3,train,2987,162,心速宁胶囊,1,tail,38,Abdominal pain upper,0,-1
+3,train,2988,102,肾康宁片,2,tail,57,Laryngeal oedema,0,-1
+3,train,2989,231,清润丸,3,tail,83,Skin swelling,0,-1
+3,train,2990,206,裸花紫珠片,24,head,117,Haemorrhage subcutaneous,0,-1
+3,train,2991,77,降脂通络软胶囊,2,tail,147,Macule,0,-1
+3,train,2992,131,千柏鼻炎胶囊,1,tail,147,Macule,0,-1
+3,train,2993,48,养阴生血合剂,1,tail,48,Melaena,0,-1
+3,train,2994,46,黄藤素片,5,medium,52,Cyanosis,0,-1
+3,train,2995,117,黄连上清颗粒,9,medium,46,Head discomfort,0,-1
+3,train,2996,206,裸花紫珠片,24,head,154,Male sexual dysfunction,0,-1
+3,train,2997,13,杏苏止咳口服液,1,tail,32,Eructation,0,-1
+3,train,2998,209,藿香正气滴丸,5,medium,89,Liver injury,0,-1
+3,train,2999,22,益肾化湿颗粒,2,tail,83,Skin swelling,0,-1
+3,train,3000,119,血府逐瘀口服液,9,medium,58,Gingival bleeding,0,-1
+3,train,3001,80,银杏叶片,21,head,51,Ocular icterus,0,-1
+3,train,3002,116,黄连上清胶囊,9,medium,41,Papule,0,-1
+3,train,3003,161,六味地黄片,12,head,69,Arrhythmia,0,-1
+3,train,3004,92,冠心苏合胶囊,12,head,55,Vertigo,0,-1
+3,train,3005,131,千柏鼻炎胶囊,1,tail,6,Abdominal discomfort,0,-1
+3,train,3006,44,消痔软膏,1,tail,112,Injection,0,-1
+3,train,3007,38,蛇胆川贝散,19,head,96,Injection site rash,0,-1
+3,train,3008,7,小儿清热止咳合剂,16,head,113,Hypohidrosis,0,-1
+3,train,3009,80,银杏叶片,21,head,97,Injection site pain,0,-1
+3,train,3010,15,小儿咳喘灵口服液,13,head,114,Drug-induced liver injury,0,-1
+3,train,3011,165,双黄连胶囊,14,head,102,Menstruation irregular,0,-1
+3,train,3012,76,胆宁片,1,tail,52,Cyanosis,0,-1
+3,train,3013,141,软脉灵口服液,3,tail,151,Crying,0,-1
+3,train,3014,38,蛇胆川贝散,19,head,23,Urticaria,0,-1
+3,train,3015,60,养心氏片,1,tail,129,Ocular hyperaemia,0,-1
+3,train,3016,227,丹香冠心注射液,16,head,132,Swelling,0,-1
+3,train,3017,38,蛇胆川贝散,19,head,41,Papule,0,-1
+3,train,3018,190,脑心通胶囊,16,head,154,Male sexual dysfunction,0,-1
+3,train,3019,133,小儿化食丸,4,medium,81,Dysuria,0,-1
+3,train,3020,156,风热清口服液,2,tail,48,Melaena,0,-1
+3,train,3021,80,银杏叶片,21,head,23,Urticaria,0,-1
+3,train,3022,196,葶贝胶囊,2,tail,92,Burning sensation,0,-1
+3,train,3023,184,复方丹参胶囊,15,head,65,Tremor,0,-1
+3,train,3024,198,葛根汤片,3,tail,28,Hyperhidrosis,0,-1
+3,train,3025,170,克咳片,1,tail,4,Pruritus,0,-1
+3,train,3026,2,复方双花口服液,3,tail,97,Injection site pain,0,-1
+3,train,3027,157,六味香连胶囊,1,tail,102,Menstruation irregular,0,-1
+3,train,3028,31,生白合剂,1,tail,90,Henoch-Schonlein purpura,0,-1
+3,train,3029,134,牛黄解毒丸,29,head,79,Blister,0,-1
+3,train,3030,20,苏黄止咳胶囊,5,medium,111,Nasal dryness,0,-1
+3,train,3031,114,黄连上清丸,9,medium,58,Gingival bleeding,0,-1
+3,train,3032,27,银杏叶软胶囊,21,head,166,Myalgia,0,-1
+3,train,3033,144,川贝枇杷糖浆,8,medium,120,Skin atrophy,0,-1
+3,train,3034,5,益心酮滴丸,1,tail,70,Tachycardia,0,-1
+3,train,3035,121,颈痛颗粒,2,tail,11,Dry mouth,0,-1
+3,train,3036,45,通乐颗粒,2,tail,63,Face oedema,0,-1
+3,train,3037,63,鼻渊通窍颗粒,1,tail,144,Coagulopathy,0,-1
+3,train,3038,3,芪明颗粒,3,tail,32,Eructation,0,-1
+3,train,3039,202,滑膜炎片,25,head,39,Rash maculo-papular,0,-1
+3,train,3040,44,消痔软膏,1,tail,120,Skin atrophy,0,-1
+3,train,3041,11,沈阳红药胶囊,2,tail,15,Flushing,0,-1
+3,train,3042,113,桂枝茯苓胶囊,2,tail,95,Blood bilirubin increased,0,-1
+3,train,3043,247,苦碟子注射液,39,head,106,Hypertension,0,-1
+3,train,3044,52,癃闭舒胶囊,14,head,107,Temperature intolerance,0,-1
+3,train,3045,60,养心氏片,1,tail,44,Cough,0,-1
+3,train,3046,202,滑膜炎片,25,head,38,Abdominal pain upper,0,-1
+3,train,3047,66,三金片,16,head,93,Purpura,0,-1
+3,train,3048,35,小活络丸,47,head,41,Papule,0,-1
+3,train,3049,9,脉络舒通颗粒,4,medium,127,Infection,0,-1
+3,train,3050,78,一清胶囊,4,medium,78,Renal impairment,0,-1
+3,train,3051,150,小儿退热颗粒,3,tail,160,Skin irritation,0,-1
+3,train,3052,137,养血清脑颗粒,16,head,67,Gastrointestinal disorder,0,-1
+3,train,3053,248,紫松皮炎膏,5,medium,82,Heavy menstrual bleeding,0,-1
+3,train,3054,123,归脾丸（浓缩丸）,2,tail,7,Dizziness,0,-1
+3,train,3055,181,胃安胶囊,2,tail,8,Hypersensitivity,0,-1
+3,train,3056,45,通乐颗粒,2,tail,104,Dyschezia,0,-1
+3,train,3057,14,养血当归胶囊,1,tail,138,Muscle tightness,0,-1
+3,train,3058,138,柴连口服液,5,medium,153,Vaginal haemorrhage,0,-1
+3,train,3059,204,感冒清热胶囊,12,head,43,Haematuria,0,-1

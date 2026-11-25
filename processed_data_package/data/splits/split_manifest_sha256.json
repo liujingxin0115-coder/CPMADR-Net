@@ -1,0 +1,614 @@
+{
+  "random_seed": 42,
+  "negative_sampling_domain": "(Medicine x ADR) \\ All_2289_Known_Positive_Pairs",
+  "protocols": {
+    "edge_5fold_1to1_seed42": {
+      "manuscript_experiments": [
+        "Table 2 (1:1 main benchmark)",
+        "Table 3 (module ablation)"
+      ],
+      "positive_split_ratio": "72:8:20 (train:val:test)",
+      "neg_pos_ratio": "1:1",
+      "train_neg_sampling": "with replacement",
+      "val_test_neg_sampling": "without replacement (unique)",
+      "folds": [
+        {
+          "fold": 0,
+          "seed": 42,
+          "neg_pos_ratio": 1.0,
+          "train_pos": 1648,
+          "train_neg": 1648,
+          "train_total": 3296,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 183,
+          "val_total": 366,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 458,
+          "test_total": 916,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 1,
+          "seed": 42,
+          "neg_pos_ratio": 1.0,
+          "train_pos": 1648,
+          "train_neg": 1648,
+          "train_total": 3296,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 183,
+          "val_total": 366,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 458,
+          "test_total": 916,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 2,
+          "seed": 42,
+          "neg_pos_ratio": 1.0,
+          "train_pos": 1648,
+          "train_neg": 1648,
+          "train_total": 3296,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 183,
+          "val_total": 366,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 458,
+          "test_total": 916,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 3,
+          "seed": 42,
+          "neg_pos_ratio": 1.0,
+          "train_pos": 1648,
+          "train_neg": 1648,
+          "train_total": 3296,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 183,
+          "val_total": 366,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 458,
+          "test_total": 916,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 4,
+          "seed": 42,
+          "neg_pos_ratio": 1.0,
+          "train_pos": 1649,
+          "train_neg": 1649,
+          "train_total": 3298,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 183,
+          "val_total": 366,
+          "val_neg_unique_enforced": true,
+          "test_pos": 457,
+          "test_neg": 457,
+          "test_total": 914,
+          "test_neg_unique_enforced": true
+        }
+      ]
+    },
+    "edge_5fold_1to10_seed42": {
+      "manuscript_experiments": [
+        "Section 3.4 / Fig. 6 / Appendix Table A6 (1:10 class-imbalance robustness)"
+      ],
+      "positive_split_ratio": "72:8:20 (train:val:test, identical positive splits to 1:1)",
+      "neg_pos_ratio": "10:1",
+      "train_neg_sampling": "with replacement",
+      "val_test_neg_sampling": "without replacement (unique)",
+      "folds": [
+        {
+          "fold": 0,
+          "seed": 42,
+          "neg_pos_ratio": 10.0,
+          "train_pos": 1648,
+          "train_neg": 16480,
+          "train_total": 18128,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 1830,
+          "val_total": 2013,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 4580,
+          "test_total": 5038,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 1,
+          "seed": 42,
+          "neg_pos_ratio": 10.0,
+          "train_pos": 1648,
+          "train_neg": 16480,
+          "train_total": 18128,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 1830,
+          "val_total": 2013,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 4580,
+          "test_total": 5038,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 2,
+          "seed": 42,
+          "neg_pos_ratio": 10.0,
+          "train_pos": 1648,
+          "train_neg": 16480,
+          "train_total": 18128,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 1830,
+          "val_total": 2013,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 4580,
+          "test_total": 5038,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 3,
+          "seed": 42,
+          "neg_pos_ratio": 10.0,
+          "train_pos": 1648,
+          "train_neg": 16480,
+          "train_total": 18128,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 1830,
+          "val_total": 2013,
+          "val_neg_unique_enforced": true,
+          "test_pos": 458,
+          "test_neg": 4580,
+          "test_total": 5038,
+          "test_neg_unique_enforced": true
+        },
+        {
+          "fold": 4,
+          "seed": 42,
+          "neg_pos_ratio": 10.0,
+          "train_pos": 1649,
+          "train_neg": 16490,
+          "train_total": 18139,
+          "train_neg_unique_enforced": false,
+          "val_pos": 183,
+          "val_neg": 1830,
+          "val_total": 2013,
+          "val_neg_unique_enforced": true,
+          "test_pos": 457,
+          "test_neg": 4570,
+          "test_total": 5027,
+          "test_neg_unique_enforced": true
+        }
+      ]
+    },
+    "medicine_degree_5fold_1to1_seed42": {
+      "manuscript_experiments": [
+        "Table 4 / Appendix Table A5 (degree-stratified generalization)",
+        "Table 5 / Section 3.5-3.6 (case studies & path traceability)"
+      ],
+      "split_unit": "CPM node-disjoint 5-fold (51 test CPMs per fold)",
+      "degree_buckets": {
+        "tail": "degree <= 3 (100 CPMs)",
+        "medium": "4 <= degree <= 11 (76 CPMs)",
+        "head": "degree > 11 (79 CPMs)"
+      },
+      "neg_pos_ratio": "1:1 within each fold's allowed CPM subset",
+      "train_neg_sampling": "with replacement within train CPMs",
+      "val_test_neg_sampling": "without replacement (unique) within val/test CPMs",
+      "verified_bit_exact_against_saved_predictions": true,
+      "folds": [
+        {
+          "fold": 0,
+          "seed": 42,
+          "train_medicines": 163,
+          "val_medicines": 41,
+          "test_medicines": 51,
+          "train_pos": 1524,
+          "train_neg": 1524,
+          "train_total": 3048,
+          "val_pos": 304,
+          "val_neg": 304,
+          "val_total": 608,
+          "test_pos": 461,
+          "test_neg": 461,
+          "test_total": 922
+        },
+        {
+          "fold": 1,
+          "seed": 42,
+          "train_medicines": 163,
+          "val_medicines": 41,
+          "test_medicines": 51,
+          "train_pos": 1528,
+          "train_neg": 1528,
+          "train_total": 3056,
+          "val_pos": 305,
+          "val_neg": 305,
+          "val_total": 610,
+          "test_pos": 456,
+          "test_neg": 456,
+          "test_total": 912
+        },
+        {
+          "fold": 2,
+          "seed": 42,
+          "train_medicines": 163,
+          "val_medicines": 41,
+          "test_medicines": 51,
+          "train_pos": 1525,
+          "train_neg": 1525,
+          "train_total": 3050,
+          "val_pos": 307,
+          "val_neg": 307,
+          "val_total": 614,
+          "test_pos": 457,
+          "test_neg": 457,
+          "test_total": 914
+        },
+        {
+          "fold": 3,
+          "seed": 42,
+          "train_medicines": 163,
+          "val_medicines": 41,
+          "test_medicines": 51,
+          "train_pos": 1530,
+          "train_neg": 1530,
+          "train_total": 3060,
+          "val_pos": 302,
+          "val_neg": 302,
+          "val_total": 604,
+          "test_pos": 457,
+          "test_neg": 457,
+          "test_total": 914
+        },
+        {
+          "fold": 4,
+          "seed": 42,
+          "train_medicines": 163,
+          "val_medicines": 41,
+          "test_medicines": 51,
+          "train_pos": 1526,
+          "train_neg": 1526,
+          "train_total": 3052,
+          "val_pos": 305,
+          "val_neg": 305,
+          "val_total": 610,
+          "test_pos": 458,
+          "test_neg": 458,
+          "test_total": 916
+        }
+      ]
+    }
+  },
+  "files": [
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_0/train_pairs.csv",
+      "rows": 3296,
+      "positives": 1648,
+      "negatives": 1648,
+      "sha256": "54b5d0ae11f299c01f3845615af90b90993d22f20566a54d8a4d65e74c101beb"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_0/val_pairs.csv",
+      "rows": 366,
+      "positives": 183,
+      "negatives": 183,
+      "sha256": "97fa9fffded67deeff74c482c6d756050909cd120576c11da52e4c6ea0c9f597"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_0/test_pairs.csv",
+      "rows": 916,
+      "positives": 458,
+      "negatives": 458,
+      "sha256": "a1492801ed03baeb9f4bb6d8c4fb99f3fc9a289797670009a307a7c69b4fa807"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_1/train_pairs.csv",
+      "rows": 3296,
+      "positives": 1648,
+      "negatives": 1648,
+      "sha256": "d7441df7e02e6ed3349427a5c779fa1a11006dec90355e1f0e075fee1f9522ef"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_1/val_pairs.csv",
+      "rows": 366,
+      "positives": 183,
+      "negatives": 183,
+      "sha256": "e01dd53da494b675f9d5277046493965bf5f7b23cc3e50589fd089bc0263b573"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_1/test_pairs.csv",
+      "rows": 916,
+      "positives": 458,
+      "negatives": 458,
+      "sha256": "d4278d298a5024f53ca52a625cf9975ab6e17cd1bb62668292e73dd1cbb64b8a"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_2/train_pairs.csv",
+      "rows": 3296,
+      "positives": 1648,
+      "negatives": 1648,
+      "sha256": "fec844c707ebaf94369e49803df00c388bb95dc2483187f2824021f07c6b979d"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_2/val_pairs.csv",
+      "rows": 366,
+      "positives": 183,
+      "negatives": 183,
+      "sha256": "32ee8434fdf83514f4f381fbb9d2faf52f186c376654d6f8cf8b65541a7b4fe6"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_2/test_pairs.csv",
+      "rows": 916,
+      "positives": 458,
+      "negatives": 458,
+      "sha256": "db0d74a55fbbb15d41b01d6b142971513c94c460d239431c31db52efd0569ad0"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_3/train_pairs.csv",
+      "rows": 3296,
+      "positives": 1648,
+      "negatives": 1648,
+      "sha256": "ae29411a2efc34a5492ac6f24c54313192e54edb6b06266acc6d63afcd45ff69"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_3/val_pairs.csv",
+      "rows": 366,
+      "positives": 183,
+      "negatives": 183,
+      "sha256": "5e9af6b30b534659bb87a47d7d915e965a347e80fa64da1f86533ea62c6b85ee"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_3/test_pairs.csv",
+      "rows": 916,
+      "positives": 458,
+      "negatives": 458,
+      "sha256": "38b35d251ecef3f56139f461056af41671a2e7c6e2e0c0d6b5d6392104f71d82"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_4/train_pairs.csv",
+      "rows": 3298,
+      "positives": 1649,
+      "negatives": 1649,
+      "sha256": "6342cf58fe6c76c1b8fcf5ec806dba9f55db78b2fed3344b2903ce819e344277"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_4/val_pairs.csv",
+      "rows": 366,
+      "positives": 183,
+      "negatives": 183,
+      "sha256": "f8c28c395abfc0877f4fc58329192c6c22898ad0bc124b560334b72fec6b28b5"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to1_seed42/fold_4/test_pairs.csv",
+      "rows": 914,
+      "positives": 457,
+      "negatives": 457,
+      "sha256": "e2a4fc7ad6e13611bb731fc45b97f96db990ec9e822566736c2fbcd10af95bcd"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_0/train_pairs.csv",
+      "rows": 18128,
+      "positives": 1648,
+      "negatives": 16480,
+      "sha256": "a894e339692c9eebf738b742eda89d57c3baa2babb9c3d0e3f12f8dcfd62bc8f"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_0/val_pairs.csv",
+      "rows": 2013,
+      "positives": 183,
+      "negatives": 1830,
+      "sha256": "07d98986e8e78cd0fe5f4dc62072d62dcbcb95f043f61f6556a9bda249b83446"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_0/test_pairs.csv",
+      "rows": 5038,
+      "positives": 458,
+      "negatives": 4580,
+      "sha256": "6015058094e02828e66dbb6ddc27ecd6ba34b628cb0bb14b48e269ca28b2d595"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_1/train_pairs.csv",
+      "rows": 18128,
+      "positives": 1648,
+      "negatives": 16480,
+      "sha256": "68f69ca62e06a54c78e0c15d7d40ed1ab9837456357e6ee5290f52e5cc143f4c"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_1/val_pairs.csv",
+      "rows": 2013,
+      "positives": 183,
+      "negatives": 1830,
+      "sha256": "e2f0d169a5d1531144fe45350bf73c80a60d334b6501e75c683b41f5a9eff2c2"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_1/test_pairs.csv",
+      "rows": 5038,
+      "positives": 458,
+      "negatives": 4580,
+      "sha256": "927acc2d2a032b91360b4c31eae83413e822d7e54700bf6ab424b030f021d591"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_2/train_pairs.csv",
+      "rows": 18128,
+      "positives": 1648,
+      "negatives": 16480,
+      "sha256": "d7ab20e4faa6920c07583b614747810595e3b24d63e0394bc6fdb63d2d06f096"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_2/val_pairs.csv",
+      "rows": 2013,
+      "positives": 183,
+      "negatives": 1830,
+      "sha256": "650f65ec4feb054a32335637f1207551ae40420a642e92949f940157a74f3db7"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_2/test_pairs.csv",
+      "rows": 5038,
+      "positives": 458,
+      "negatives": 4580,
+      "sha256": "f9ef7e1dba9ef67da8c1ae460f7ecf3aa71b6b8224fc309484730d1d03b4bbfe"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_3/train_pairs.csv",
+      "rows": 18128,
+      "positives": 1648,
+      "negatives": 16480,
+      "sha256": "516c65521a8206cd63631217b871bcd81a2ba078a34739919112e0bb0515f101"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_3/val_pairs.csv",
+      "rows": 2013,
+      "positives": 183,
+      "negatives": 1830,
+      "sha256": "d7ec8caef23693d274c4b5592b49e135def9d4c7f6b4a98e0ba82b79aa7001e2"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_3/test_pairs.csv",
+      "rows": 5038,
+      "positives": 458,
+      "negatives": 4580,
+      "sha256": "0ab64eaf510f33515b8c3835618a5b53b05f3499d8fab221424381251e48d10c"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_4/train_pairs.csv",
+      "rows": 18139,
+      "positives": 1649,
+      "negatives": 16490,
+      "sha256": "8c7d41f355538e9144fc3c14981ee39426db0cde5d3c89ffb40045ed209e9995"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_4/val_pairs.csv",
+      "rows": 2013,
+      "positives": 183,
+      "negatives": 1830,
+      "sha256": "b9c5f1995c2dbdd8a2d6c303aa1d57d7b011a10a600c256d44853f02f7c481d1"
+    },
+    {
+      "relative_path": "data/splits/edge_5fold_1to10_seed42/fold_4/test_pairs.csv",
+      "rows": 5027,
+      "positives": 457,
+      "negatives": 4570,
+      "sha256": "f23419f1c2a9524bf7bd2860d1b526a52685b4b6ec39685018ce589a4f57cd66"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_0/train_pairs.csv",
+      "rows": 3048,
+      "positives": 1524,
+      "negatives": 1524,
+      "sha256": "f7504f8e8e0df0c32f1a9880d2d635c210324aed6cc78902f693beee18da63b2"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_0/val_pairs.csv",
+      "rows": 608,
+      "positives": 304,
+      "negatives": 304,
+      "sha256": "5e5a0a475041d21d5ae385d4db8b04091adfd9771f35de28778054d591358592"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_0/test_pairs.csv",
+      "rows": 922,
+      "positives": 461,
+      "negatives": 461,
+      "sha256": "670cee63461f5fb92a867d526539cde54003263b7b40ed29340c852a4a3c3e67"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_1/train_pairs.csv",
+      "rows": 3056,
+      "positives": 1528,
+      "negatives": 1528,
+      "sha256": "2448ba83c62aa474e230467305cabc2e245f3b6bfeeec84ef479e22c9436eb20"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_1/val_pairs.csv",
+      "rows": 610,
+      "positives": 305,
+      "negatives": 305,
+      "sha256": "4e421170e8cbab414ef49db3b23a6b7536cc01d071eac6a1d2c1b73139a70aad"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_1/test_pairs.csv",
+      "rows": 912,
+      "positives": 456,
+      "negatives": 456,
+      "sha256": "1762ad4f8fc2cc096edcb7c88a67ffc4fa39fa1cd3b30ffc20cc09fca8e1a3f0"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_2/train_pairs.csv",
+      "rows": 3050,
+      "positives": 1525,
+      "negatives": 1525,
+      "sha256": "8f32cfb7b9bf0c8d567d8a9b1704656432d575a29b2818b28d21fd56d8ba2681"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_2/val_pairs.csv",
+      "rows": 614,
+      "positives": 307,
+      "negatives": 307,
+      "sha256": "f6ceef3b6b36c468dbd82c1fe2d7b5d5aab7127dde8b2031b8b8cd6d9ff3c3bf"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_2/test_pairs.csv",
+      "rows": 914,
+      "positives": 457,
+      "negatives": 457,
+      "sha256": "e5aad510bc4671aade43eac5a41e71dff4fbe06fef9dd386f0741fb257cc1f46"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_3/train_pairs.csv",
+      "rows": 3060,
+      "positives": 1530,
+      "negatives": 1530,
+      "sha256": "31d5772d522ec1dd11510b5f273183c385ab37b0ff595154efc30d4e7d7f65a2"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_3/val_pairs.csv",
+      "rows": 604,
+      "positives": 302,
+      "negatives": 302,
+      "sha256": "80c98ce2f79077102829e2aeaf88fd064f2dc30699e4599dfdb2164446b09888"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_3/test_pairs.csv",
+      "rows": 914,
+      "positives": 457,
+      "negatives": 457,
+      "sha256": "f0495ec7b2cc53f86a8b448109eb67511dbdf02f3339c89c5bf5212e6a829842"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_4/train_pairs.csv",
+      "rows": 3052,
+      "positives": 1526,
+      "negatives": 1526,
+      "sha256": "9803f83fb483a6ab93413ab87228f5845adbc70159b9a25ae709cebe77185d99"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_4/val_pairs.csv",
+      "rows": 610,
+      "positives": 305,
+      "negatives": 305,
+      "sha256": "93c4791f5fd7497fc2888497550a83b7225df26608a07fe5679f61624b0ce89a"
+    },
+    {
+      "relative_path": "data/splits/medicine_degree_5fold_1to1_seed42/fold_4/test_pairs.csv",
+      "rows": 916,
+      "positives": 458,
+      "negatives": 458,
+      "sha256": "04ca831f3081d085af6142800a2ea0b01840faf52ad9bbb8613c7cf3fa34ebc3"
+    }
+  ]
+}
